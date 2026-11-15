@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-034",
+ "decisions": [
+  {
+   "condition_id": "MF-034-C1",
+   "decision": "not_satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "Documented income: paystub 9,955.38 x 12 = 119,464.56 (YTD 79,643.04 consistent); NOA 2025 line 15000 = 116,597.66. Shortfall vs stated 158,000 = (158,000 - 119,464.56)/158,000 = 24.4%, over 15% (AR-01). The letter's 165,963.68 is not supported by the pay documents."
+  },
+  {
+   "condition_id": "MF-034-C2",
+   "decision": "needs_review",
+   "rule_cited": "DP-03",
+   "rationale": "History Apr 19-Aug 11 = 114 days; required = 25,000 + 7,500 = 32,500, closing balance 37,424 covers it. But unexplained non-payroll deposit of 3,080 on 4 July is in the 2,500-5,000 band (AR-06)."
+  },
+  {
+   "condition_id": "MF-034-C3",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Letter dated 3 Aug 2026 is 18 days old, on letterhead and signed; permanent full-time since 2017, probation completed. Letter salary 165,963.68 is above stated 158,000."
+  },
+  {
+   "condition_id": "MF-034-C4",
+   "decision": "needs_review",
+   "rule_cited": "AR-14",
+   "rationale": "Using worksheet income 13,166.67 (158,000/12): housing = 3,982.71 + 500.33 + 131.97 = 4,615.01, GDS 35.05%. Other debts: LOC 14,400 x 3% = 432 + student 313 + auto 560 = 1,305; TDS = 5,920.01 / 13,166.67 = 44.96%, 0.96 points over 44 with credit 731 (>=720). Note: on documented income TDS would be far higher."
+  }
+ ]
+}

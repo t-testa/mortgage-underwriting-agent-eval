@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-004",
+ "decisions": [
+  {
+   "condition_id": "MF-004-C1",
+   "decision": "satisfied",
+   "rule_cited": "AR-02",
+   "rationale": "Two NOAs: (128,437.90 + 130,329.27)/2 = 129,383.59 vs stated 129,500: 0.09% shortfall. Paystub 06-Jun-2026 (17 days) 4,980.77 x 26 = 129,500.02."
+  },
+  {
+   "condition_id": "MF-004-C2",
+   "decision": "needs_review",
+   "rule_cited": "AR-06",
+   "rationale": "Required = 195,000 + 1.5% x 780,000 (11,700) = 206,700; closing balance 232,594.95; history 116 days. Unexplained non-payroll DEPOSIT of 3,110.00 on April 1 is in the 2,500-5,000 band."
+  },
+  {
+   "condition_id": "MF-004-C3",
+   "decision": "satisfied",
+   "rule_cited": "AR-08",
+   "rationale": "Prairie Oak on panel; report 2026-06-12 is 11 days old. Value 782,000 is above price 780,000."
+  },
+  {
+   "condition_id": "MF-004-C4",
+   "decision": "satisfied",
+   "rule_cited": "AR-12",
+   "rationale": "Letter 2026/06/20 (3 days), letterhead, signed, permanent full-time. Salary 125,779.87 vs stated 129,500: 2.87% below, within 5%."
+  }
+ ]
+}

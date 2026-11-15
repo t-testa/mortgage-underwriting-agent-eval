@@ -1,0 +1,139 @@
+FILE MF-006  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-10-15
+Applicant: Jordan Verreault
+Property: 370 Chemin des Cedres, Sherbrooke, QC (house)
+Purchase price: $760,000   Down payment: $76,000
+Stated annual income: $139,000   Employer (stated): Blue Heron Manufacturing
+
+CONDITIONS TO DECIDE:
+  MF-006-C1 [income_proof] Provide proof of income supporting the stated annual income of $139,000.
+  MF-006-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-006-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-006-C4 [employment] Confirm current employment.
+  MF-006-C5 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | scan_8374.pdf | 1 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 370 Chemin des Cedres, Sherbrooke, QC
+Purchase price: $760,000   Closing date: 2026-11-23
+Deposit paid: $15,200
+[scanned 2026-10-15 09:40 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | final_v2_2314.pdf | 3 page(s) ===
+DRIVER LICENCE (copy, masked)
+Name: Jordan Verreault
+Licence no: XXXX-XXXX-7149
+[scanned 2026-10-15 09:44 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | Doc_0586.pdf | 2 page(s) ===
+[Letterhead: Blue Heron Manufacturing | 896 Harbour View Road | tel 819-555-0169]
+October 12, 2026
+To whom it may concern,
+This confirms that Jordan Verreault is employed by Blue Heron Manufacturing as Senior Analyst.
+Start date: March 28, 2015. Employment status: permanent full-time.
+Current annual base salary: $127,737.02.
+Sincerely,
+/s/ Callum Mackenzie, HR Manager
+[scanned 2026-10-15 09:25 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | final_v2_4287.pdf | 3 page(s) ===
+CARDINAL EVALUATION SERVICES
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 370 Chemin des Cedres, Sherbrooke, QC   (house)
+Report date: October 4, 2026
+Contract purchase price: $760,000
+OPINION OF MARKET VALUE: $763,000
+Direct comparison approach. Comparables:
+  557 Harbour View Road   $779,000   adj +1.9%
+  961 Rue des Peupliers   $791,000   adj -4.0%
+  77 Boulevard Fontaine   $784,000   adj +2.7%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: S. Thornbury, AACI   Lic. 35542
+[scanned 2026-10-15 09:55 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | scan_0775.pdf | 3 page(s) ===
+BLUE HERON MANUFACTURING
+EARNINGS STATEMENT
+Employee: VERREAULT, Jordan   ID: 43156
+Pay frequency: Bi-weekly
+Pay period: September 17, 2026 - September 30, 2026
+Pay date: October 4, 2026
+Regular earnings   $4,937.90
+GROSS THIS PERIOD      $4,937.90
+Deductions (tax, CPP/QPP, EI, pension)  $1,200.78
+NET PAY               $3,737.12
+GROSS YEAR TO DATE   $98,758.00
+[scanned 2026-10-15 09:16 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | upload_9322.pdf | 3 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: JORDAN VERREAULT    Report date: 2026-10-11
+Credit score: 780
+Creditor                  Type               Limit         Balance         Pmt  Status
+Ridgeline Auto Credit     car                    -       $7,400.00     $151.00  Open
+Student Loan (Provincial) student                -      $15,600.00     $325.00  Open
+Maple Visa Gold           card          $31,900.00      $11,010.00     $220.20  Open
+Inquiries (12 mo): 2
+[scanned 2026-10-15 09:37 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | final_v2_4960.pdf | 2 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $11,583.33
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $2,771.15
+Property tax (monthly): $469.76
+Heating (monthly): $182.69
+Condo fees (monthly): N/A
+Liabilities declared by applicant (monthly payment as stated):
+  Ridgeline Auto Credit              $151.00
+  Student Loan (Provincial)          $325.00
+  Maple Visa Gold                    $220.20
+[scanned 2026-10-15 09:26 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | Doc_4877.pdf | 3 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: JORDAN VERREAULT
+Statement period: 2026-07-04 to 2026-10-13
+Opening balance: $56,067.39
+
+2026-07-06      PAYROLL DEP BLUE HERON                     $3,956.15        $60,023.54
+2026-07-09      UTILITY PAYMENT                             $-312.47        $59,711.07
+2026-07-15      GROCERY STORE                               $-379.41        $59,331.66
+2026-07-20      PAYROLL DEP BLUE HERON                     $3,956.15        $63,287.81
+2026-07-20      INSURANCE PREM                              $-173.21        $63,114.60
+2026-07-26      ONLINE PURCHASE                             $-395.22        $62,719.38
+2026-07-27      TRANSIT PASS                                $-122.47        $62,596.91
+2026-07-29      TRANSIT PASS                                $-163.99        $62,432.92
+2026-08-03      PAYROLL DEP BLUE HERON                     $3,956.15        $66,389.07
+2026-08-04      RENT PAYMENT                                $-123.26        $66,265.81
+2026-08-05      FUEL                                        $-197.66        $66,068.15
+2026-08-06      FUEL                                        $-478.73        $65,589.42
+2026-08-11      GROCERY STORE                               $-477.39        $65,112.03
+2026-08-13      FUEL                                        $-466.19        $64,645.84
+2026-08-16      TELECOM BILL                                $-197.70        $64,448.14
+2026-08-17      PAYROLL DEP BLUE HERON                     $3,956.15        $68,404.29
+2026-08-17      RENT PAYMENT                                $-416.16        $67,988.13
+2026-08-17      FUEL                                        $-340.76        $67,647.37
+2026-08-31      PAYROLL DEP BLUE HERON                     $3,956.15        $71,603.52
+2026-09-02      E-TRANSFER RECEIVED A. MORIN                 $855.71        $72,459.23
+2026-09-12      TRANSIT PASS                                $-279.56        $72,179.67
+2026-09-14      PAYROLL DEP BLUE HERON                     $3,956.15        $76,135.82
+2026-09-19      RENT PAYMENT                                $-351.71        $75,784.11
+2026-09-27      ONLINE PURCHASE                              $-69.52        $75,714.59
+2026-09-28      PAYROLL DEP BLUE HERON                     $3,956.15        $79,670.74
+2026-10-09      TELECOM BILL                                $-298.43        $79,372.31
+2026-10-12      PAYROLL DEP BLUE HERON                     $3,956.15        $83,328.46
+
+Closing balance: $83,328.46
+[scanned 2026-10-15 09:33 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | IMG_2439.pdf | 1 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 2026/04/15
+SIN/NAS: XXX XXX 461
+Line 15000 Total income:   $126,345.35
+Line 23600 Net income:     $117,929.38
+Balance: $-1,091.78
+[scanned 2026-10-15 09:32 - page 1 of 1 - CONFIDENTIAL]

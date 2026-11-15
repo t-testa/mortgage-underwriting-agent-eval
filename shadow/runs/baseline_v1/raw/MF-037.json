@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-037",
+ "decisions": [
+  {
+   "condition_id": "MF-037-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "NOA 2025 ($137,535), pay stub (about $136k annualized) and letter ($139,401) support the stated $134,000."
+  },
+  {
+   "condition_id": "MF-037-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "DP-04",
+   "rationale": "The $21,400 gift is from a friend, not close family as DP-04 requires."
+  },
+  {
+   "condition_id": "MF-037-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Rive-Nord Evaluations is on the panel, report of 18-Aug-2026 is recent, and value $844,000 supports the $810,000 price."
+  },
+  {
+   "condition_id": "MF-037-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "EMP-04",
+   "rationale": "Letter shows a start date of 04-Oct-2026 with a six-month probation still running, and applicants on probation are ineligible absent exception."
+  },
+  {
+   "condition_id": "MF-037-C5",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "Worksheet GDS about 33.8% and TDS about 36.3% with score 726 are within limits."
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+{"file_id":"MF-015","decisions":[
+{"condition_id":"MF-015-C1","decision":"needs_review","rule_cited":"DP-04","rationale":"Required funds 30,800 + 9,225 = 40,025; balance 46,412.35 covers it and history is 93 days. The 14,400 deposit is a gift from a cousin (signed, states non-repayable); donor not immediate family, so needs_review (AR-07)."},
+{"condition_id":"MF-015-C2","decision":"satisfied","rule_cited":"APP-02","rationale":"Prairie Oak Appraisals on panel; report 2026-04-23 is 50 days old; value 617,000 >= price 615,000; cosmetic comments only."},
+{"condition_id":"MF-015-C3","decision":"not_satisfied","rule_cited":"EMP-02","rationale":"Letter dated 2026-05-18 (25 days old) is on letterhead but the signature line is blank/unsigned (AR-16)."},
+{"condition_id":"MF-015-C4","decision":"not_satisfied","rule_cited":"DTI-01","rationale":"Income 8,083.33/mo. Housing 2,449.14 + 242.03 + 98.42 = 2,789.59 (GDS 34.51%). Bureau debts: card 9,600 x 3% = 288, HELOC 27,700 x 3% = 831, auto 402 = 1,521. TDS = 4,310.59/8,083.33 = 53.33%, more than 2 points over 44% (AR-14)."}
+]}

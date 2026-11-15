@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-041",
+ "decisions": [
+  {
+   "condition_id": "MF-041-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "Letter salary $115,648, 2025 NOA $118,317 and YTD-consistent pay stub support the stated $116,000."
+  },
+  {
+   "condition_id": "MF-041-C2",
+   "decision": "needs_review",
+   "rule_cited": "DP-04",
+   "rationale": "$20,500 gift from brother: letter dated 2026-08-05 but deposit appears 2026-07-06, and brother's status as close family is not defined; funds otherwise sufficient."
+  },
+  {
+   "condition_id": "MF-041-C3",
+   "decision": "needs_review",
+   "rule_cited": "EMP-05",
+   "rationale": "Fixed-term contract renewed only since Dec 2025 (about 9 months); policy requires a stable history for contract income but does not define it."
+  },
+  {
+   "condition_id": "MF-041-C4",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS about 33.6% and TDS about 38.9% using declared payments matching the bureau; score 742 meets DTI-02."
+  }
+ ]
+}

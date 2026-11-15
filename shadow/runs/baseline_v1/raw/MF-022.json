@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-022",
+ "decisions": [
+  {
+   "condition_id": "MF-022-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "The 2025 NOA shows $104,077 total income and the monthly pay stub annualizes to about $105,000, supporting the stated $103,500."
+  },
+  {
+   "condition_id": "MF-022-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "DP-03",
+   "rationale": "A $21,250 cash deposit on 2026/05/11 is large and unexplained, and the balance excluding it is only about $116,900 against a $102,000 down payment plus closing costs."
+  },
+  {
+   "condition_id": "MF-022-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-05",
+   "rationale": "The appraisal by Prairie Oak (on panel, $681,000 value) recommends a foundation engineer inspection that has not been cleared."
+  },
+  {
+   "condition_id": "MF-022-C4",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS is about 33.1% and TDS about 36.2% once the paid-in-full closed vehicle loan is excluded, with a 708 credit score."
+  }
+ ]
+}

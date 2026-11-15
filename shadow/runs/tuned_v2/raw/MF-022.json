@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-022",
+ "decisions": [
+  {
+   "condition_id": "MF-022-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "Monthly gross 8,756.44 x 12 = 105,077.28 >= stated 103,500 (no shortfall); paystub pay date 2026-06-01 is 23 days old; 2025 NOA on file (104,076.80)."
+  },
+  {
+   "condition_id": "MF-022-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-06",
+   "rationale": "Required = 102,000 + 10,200 = 112,200 and balance 138,134.80 covers it, history 96 days, but cash deposit of 21,250 on 2026/05/11 has no explanation document (over 5,000)."
+  },
+  {
+   "condition_id": "MF-022-C3",
+   "decision": "needs_review",
+   "rule_cited": "AR-09",
+   "rationale": "Prairie Oak is on panel, 21 days old, value 681,000 >= price 680,000, but appraiser recommends further foundation inspection with value as-is; needs_review."
+  },
+  {
+   "condition_id": "MF-022-C4",
+   "decision": "satisfied",
+   "rule_cited": "AR-13",
+   "rationale": "Housing = 2,276.25+485.11+93.50 = 2,854.86; GDS 2,854.86/8,625 = 33.10%; other debts 170+99 = 269 (closed Vehicle Loan excluded); TDS 3,123.86/8,625 = 36.22%; score 708."
+  }
+ ]
+}

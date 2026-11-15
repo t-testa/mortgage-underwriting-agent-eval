@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-010",
+ "decisions": [
+  {
+   "condition_id": "MF-010-C1",
+   "decision": "satisfied",
+   "rule_cited": "AR-01",
+   "rationale": "Paystub 22 sept 2026 (11 days) 7,035.10 x 12 = 84,421.20 above stated 82,500; NOA 2025 82,558.44 also above."
+  },
+  {
+   "condition_id": "MF-010-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-05",
+   "rationale": "Required = 40,800 + 1.5% x 510,000 (7,650) = 48,450; closing balance 34,113.91 is below required. History 94 days."
+  },
+  {
+   "condition_id": "MF-010-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-08",
+   "rationale": "Ironbridge on panel; report 6 aout 2026 is 58 days old. Shortfall = (510,000-459,000)/510,000 = 10.0%, over 5%."
+  },
+  {
+   "condition_id": "MF-010-C4",
+   "decision": "needs_review",
+   "rule_cited": "AR-11",
+   "rationale": "Letter 28-Sep-2026 (5 days), letterhead, signed. Contract renewed continuously since 02-Feb-2025 = about 20 months at 2026-10-03, in the 12 to under 24 month band."
+  },
+  {
+   "condition_id": "MF-010-C5",
+   "decision": "satisfied",
+   "rule_cited": "AR-13",
+   "rationale": "Housing 1,592.31+276.47+110.96 = 1,979.74; GDS 28.80% on 6,875. Debts: student 244, LOC 3% x 5,100 = 153, auto 161 = 558; TDS = 2,537.74/6,875 = 36.91%. Score 793."
+  }
+ ]
+}

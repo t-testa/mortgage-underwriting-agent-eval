@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-005",
+ "decisions": [
+  {
+   "condition_id": "MF-005-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "Current earnings statement (annualizes to about $111,000) and 2025 NOA ($108,638) support the stated $108,000."
+  },
+  {
+   "condition_id": "MF-005-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-04",
+   "rationale": "The $11,400 deposit is explained by a gift letter from the applicant's grandmother stating no repayment, and the $55,615 balance with history since July covers the $36,400 down payment and closing costs."
+  },
+  {
+   "condition_id": "MF-005-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-06",
+   "rationale": "Summit Property Valuations is on the panel, report dated 2026-08-23 is recent, and the $457,000 value supports the $455,000 price."
+  },
+  {
+   "condition_id": "MF-005-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS is about 49.2% (TDS about 51.1%) on $9,000 monthly income, far above the 39%/44% limits and not marginal for DTI-03."
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-043",
+ "decisions": [
+  {
+   "condition_id": "MF-043-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "Letter $115,898, NOA $115,015 and pay stub (about $118,173 annualized) are within about 2% of the stated $117,500, not a material shortfall."
+  },
+  {
+   "condition_id": "MF-043-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing balance $56,061 with steady history and no large unexplained deposits covers the $28,000 down payment and closing costs."
+  },
+  {
+   "condition_id": "MF-043-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Appraisal by Meridian Real Estate Appraisers (approved panel), dated 2026-06-11, values at $353,000 against a $350,000 price with no conditions."
+  },
+  {
+   "condition_id": "MF-043-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Permanent full-time, probation completed, on letterhead and signed, dated 2026-06-29."
+  },
+  {
+   "condition_id": "MF-043-C5",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS about 35.1% and TDS about 42.6% using bureau-matching liabilities; score 730 meets DTI-02."
+  }
+ ]
+}

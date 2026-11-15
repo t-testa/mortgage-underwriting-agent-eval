@@ -1,0 +1,128 @@
+FILE MF-048  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-07-03
+Applicant: Daniel Haddad
+Property: 83 Chemin des Cedres, Hamilton, ON (condo)
+Purchase price: $740,000   Down payment: $148,000
+Stated annual income: $67,000   Employer (stated): Fairwater Education Board
+
+CONDITIONS TO DECIDE:
+  MF-048-C1 [income_proof] Provide proof of income supporting the stated annual income of $67,000.
+  MF-048-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-048-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-048-C4 [employment] Confirm current employment.
+  MF-048-C5 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | upload_9928.pdf | 1 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: DANIEL HADDAD    Report date: 14-Jun-2026
+Credit score: 764
+Creditor                  Type               Limit         Balance         Pmt  Status
+Student Line of Credit    loc           $10,000.00       $5,200.00      $52.00  Open
+Northern MasterCard       card          $11,300.00       $3,770.00      $75.40  Open
+Government Student Loan   student                -      $13,800.00     $261.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-07-03 09:28 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | scan_6250.pdf | 1 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $5,583.33
+Property type: condo
+Qualifying mortgage payment (P&I, stress-tested): $1,289.25
+Property tax (monthly): $282.54
+Heating (monthly): $111.41
+Condo fees (monthly): $405.87
+Liabilitics declared by applicant (monthly payment as stated):
+  Student Line of Credit              $52.00
+  Northern MasterCard                 $75.40
+  Government Student Loan            $261.00
+[scanned 2026-07-03 09:54 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | final_v2_1002.pdf | 2 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: DANIEL HADDAD
+Statement period: 2026/03/16 to 2026/06/26
+Opening balance: $157,141.10
+
+2026/03/16      PAYROLL DEP FAIRWATER                      $1,906.92       $159,048.02
+2026/03/21      GROCERY STORE                               $-409.97       $158,638.05
+2026/03/30      PAYROLL DEP FAIRWATER                      $1,906.92       $160,544.97
+2026/04/12      TELECOM BILL                                 $-40.42       $160,504.55
+2026/04/13      PAYROLL DEP FAIRWATER                      $1,906.92       $162,411.47
+2026/04/25      E-TRANSFER RECEIVED A. MORIN                 $216.14       $162,627.61
+2026/04/27      PAYROLL DEP FAIRWATER                      $1,906.92       $164,534.53
+2026/04/28      INSURANCE PREM                              $-262.49       $164,272.04
+2026/04/29      INSURANCE PREM                              $-100.35       $164,171.69
+2026/05/06      FUEL                                        $-467.01       $163,704.68
+2026/05/07      TRANSIT PASS                                $-334.04       $163,370.64
+2026/05/08      GROCERY STORE                               $-444.91       $162,925.73
+2026/05/11      PAYROLL DEP FAIRWATER                      $1,906.92       $164,832.65
+2026/05/12      ONLINE PURCHASE                             $-252.65       $164,580.00
+2026/05/12      GROCERY STORE                               $-483.32       $164,096.68
+2026/05/18      RENT PAYMENT                                 $-30.69       $164,065.99
+2026/05/20      PHARMACY                                    $-289.01       $163,776.98
+2026/05/21      E-TRANSFER RECEIVED J. ROY                 $3,360.00       $167,136.98
+2026/05/22      E-TRANSFER RECEIVED A. MORIN                 $838.48       $167,975.46
+2026/05/23      PHARMACY                                    $-329.33       $167,646.13
+2026/05/25      PAYROLL DEP FAIRWATER                      $1,906.92       $169,553.05
+2026/05/25      RENT PAYMENT                                $-465.79       $169,087.26
+2026/05/27      RENT PAYMENT                                 $-89.23       $168,998.03
+2026/06/01      TELECOM BILL                                $-253.62       $168,744.41
+2026/06/05      UTILITY PAYMENT                             $-408.70       $168,335.71
+2026/06/06      RENT PAYMENT                                $-315.92       $168,019.79
+2026/06/08      PAYROLL DEP FAIRWATER                      $1,906.92       $169,926.71
+2026/06/09      RESTAURANT                                  $-191.40       $169,735.31
+2026/06/18      RENT PAYMENT                                $-447.12       $169,288.19
+2026/06/20      E-TRANSFER RECEIVED A. MORIN                 $899.11       $170,187.30
+2026/06/22      PAYROLL DEP FAIRWATER                      $1,906.92       $172,094.22
+
+Closing balance: $172,094.22
+[scanned 2026-07-03 09:20 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | scan_4535.pdf | 1 page(s) ===
+FAIRWATER EDUCATION BOARD
+EARNINGS STATEMENT
+Employee: HADDAD, Daniel   ID: 34088
+Pay frequency: Monthly
+Pay period: 2026/05/19 - 2026/06/17
+Pay date: 2026/06/21
+Regular earnings   $5,574.61
+GROSS THIS PERIOD      $5,574.61
+Deductions (tax, CPP/QPP, EI, pension)  $1,601.76
+NET PAY               $3,972.85
+GROSS YEAR TO DATE   $33,447.66
+[scanned 2026-07-03 09:26 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | Doc_5817.pdf | 1 page(s) ===
+[Letterhead: Fairwater Education Board | 813 Rue des Peupliers | tel 819-555-0120]
+2026-06-09
+To whom it may concern,
+This confirms that Daniel Haddad is employed by Fairwater Education Board as Coordinator.
+Start date: 2017-05-12. Employment status: permanent full-time.
+The employee has succcssfully completed the probationary period.
+Current annual base salary: $68,265.79.
+Sincerely,
+/s/ Omar Whitlock, HR Manager
+[scanned 2026-07-03 09:10 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | IMG_8475.pdf | 2 page(s) ===
+IRONBRIDGE VALUATION LTD.
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 83 Chemin des Cedres, Hamilton, ON   (condo)
+Report date: May 29, 2026
+Contract purchase price: $740,000
+OPINION OF MARKET VALUE: $743,000
+Direct comparison approach. Comparables:
+  40 Boulevard Fontaine   $721,000   adj -2.7%
+  728 Rue Saint-Exemple   $731,000   adj +2.4%
+  860 Chemin des Cedres   $747,000   adj +1.6%
+Comments:
+  Minor cosmctic weor noted in kitchen and hallway; no impact on value.
+Appraiser: R. Castonguay, AACI   Lic. 86409
+[scanned 2026-07-03 09:58 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | scan_8753.pdf | 3 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 83 Chemin des Cedres, Hamilton, ON
+Purchase price: $740,000   Closing date: 2026/09/05
+Deposit paid: $14,800
+[scanned 2026-07-03 09:42 - page 1 of 3 - CONFIDENTIAL]

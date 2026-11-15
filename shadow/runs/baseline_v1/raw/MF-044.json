@@ -1,0 +1,23 @@
+{
+ "file_id": "MF-044",
+ "decisions": [
+  {
+   "condition_id": "MF-044-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-05",
+   "rationale": "Two years of NOAs (2025 $127,095; 2024 $127,123) show a stable commission-inclusive history, and YTD pay of $93,539 matches about $128,000 annualized."
+  },
+  {
+   "condition_id": "MF-044-C2",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Permanent full-time since 2019, letter on letterhead, signed, dated 2026-09-07."
+  },
+  {
+   "condition_id": "MF-044-C3",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS about 29.9% and TDS about 33.6%; credit score 724 meets DTI-02."
+  }
+ ]
+}

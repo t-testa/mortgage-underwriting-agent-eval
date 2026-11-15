@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-017",
+ "decisions": [
+  {
+   "condition_id": "MF-017-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-05",
+   "rationale": "2025 NOA total income of $90,942 and pay stubs with base plus commission annualizing to about $91,000 support the stated income, with base salary of $89,847 per the letter."
+  },
+  {
+   "condition_id": "MF-017-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-01",
+   "rationale": "Seasoned chequing history with a $90,146 balance and no unusual deposits covers the $68,200 down payment and closing costs."
+  },
+  {
+   "condition_id": "MF-017-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-05",
+   "rationale": "Appraised value is subject to roof replacement completion and no completion certificate is on file, so the appraisal condition is not cleared."
+  },
+  {
+   "condition_id": "MF-017-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-05",
+   "rationale": "Letter on letterhead, signed by HR, shows a fixed-term contract continuously renewed since February 2023, a stable history of over three years."
+  }
+ ]
+}

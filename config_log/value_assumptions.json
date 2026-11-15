@@ -1,0 +1,15 @@
+{
+  "_note": "ILLUSTRATIVE assumptions. In a real engagement every number here is replaced by the client's measured baseline from the signed process blueprint. None of these is real nesto data.",
+  "files_measured": 50,
+  "scale_to_files": 1000,
+  "manual_minutes_per_condition": {
+    "income_proof": 18, "down_payment_source": 25, "appraisal": 12, "employment": 10, "debt_ratio": 15
+  },
+  "manual_rework_rate": 0.12,
+  "rework_minutes_multiplier": 1.0,
+  "human_review_minutes_multiplier": 0.6,
+  "qa_sample_rate": 0.10,
+  "qa_minutes_multiplier": 0.3,
+  "queue_wait_hours_per_human_touch": 4.0,
+  "agent_decision_wait_hours": 0.1
+}

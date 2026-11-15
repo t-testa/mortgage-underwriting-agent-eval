@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-047",
+ "decisions": [
+  {
+   "condition_id": "MF-047-C1",
+   "decision": "needs_review",
+   "rule_cited": "INC-06",
+   "rationale": "Pay stub gross and YTD are partly illegible, NOA 2025 ($136,100) is below the stated $139,500 and predates the May 2026 start with this employer, so current income cannot be clearly verified."
+  },
+  {
+   "condition_id": "MF-047-C2",
+   "decision": "needs_review",
+   "rule_cited": "DP-04",
+   "rationale": "Gift letter from mother is dated 2026-09-23 but the $9,200 deposit posted 19/08/2026, a date mismatch; remaining balance of $42,854 otherwise covers the down payment."
+  },
+  {
+   "condition_id": "MF-047-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-05",
+   "rationale": "Appraisal value of $454,000 (approved Summit panel) is subject to roof replacement completion and no completion certificate is on file, so the condition is not cleared."
+  },
+  {
+   "condition_id": "MF-047-C4",
+   "decision": "needs_review",
+   "rule_cited": "EMP-05",
+   "rationale": "Fixed-term contract started 2026-05-12 (about 5 months); contract income requires a stable history that is not shown."
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+FILE MF-029  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-07-04
+Applicant: Aisha Iyer
+Property: 377 Birchwood Crescent, Ottawa, ON (house)
+Purchase price: $390,000   Down payment: $97,500
+Stated annual income: $153,500   Employer (stated): Tamarack Food Distributors
+
+CONDITIONS TO DECIDE:
+  MF-029-C1 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-029-C2 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-029-C3 [employment] Confirm current employment.
+  MF-029-C4 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | scan_5710.pdf | 2 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 377 Birchwood Crescent, Ottawa, ON
+Purchase price: $390,000   Closing date: 2026/09/09
+Deposit paid: $7,800
+[scanned 2026-07-04 09:30 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | Doc_5315.pdf | 1 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: AISHA IYER
+Statement period: March 16, 2026 to June 25, 2026
+Opening balance: $84,222.63
+
+March 16, 2026  E-TRANSFER RECEIVED A. MORIN                 $115.90        $84,338.53
+March 17, 2026  FUEL                                         $-46.85        $84,291.68
+March 20, 2026  GROCERY STORE                               $-234.59        $84,057.09
+March 21, 2026  UTILITY PAYMENT                             $-106.08        $83,951.01
+March 22, 2026  PAYROLL DEP TAMARACK                       $4,368.85        $88,319.86
+April 2, 2026   TRANSIT PASS                                 $-96.37        $88,223.49
+April 5, 2026   PAYROLL DEP TAMARACK                       $4,368.85        $92,592.34
+April 8, 2026   E-TRANSFER RECEIVED REFUND                   $514.35        $93,106.69
+April 13, 2026  GROCERY STORE                               $-408.32        $92,698.37
+April 14, 2026  E-TRANSFER RECEIVED T. LEE                   $252.56        $92,950.93
+April 19, 2026  PAYROLL DEP TAMARACK                       $4,368.85        $97,319.78
+April 20, 2026  GROCERY STORE                               $-145.01        $97,174.77
+April 22, 2026  GROCERY STORE                               $-471.31        $96,703.46
+April 24, 2026  INSURANCE PREM                               $-21.74        $96,681.72
+April 25, 2026  RESTAURANT                                  $-341.25        $96,340.47
+April 26, 2026  GROCERY STORE                               $-348.04        $95,992.43
+May 3, 2026     PAYROLL DEP TAMARACK                       $4,368.85       $100,361.28
+May 6, 2026     ONLINE PURCHASE                              $-57.05       $100,304.23
+May 12, 2026    RENT PAYMENT                                $-469.85        $99,834.38
+May 17, 2026    PAYROLL DEP TAMARACK                       $4,368.85       $104,203.23
+May 17, 2026    TELECOM BILL                                $-129.66       $104,073.57
+May 17, 2026    UTILITY PAYMENT                             $-513.90       $103,559.67
+May 18, 2026    PHARMACY                                     $-74.79       $103,484.88
+May 23, 2026    ONLINE PURCHASE                             $-338.84       $103,146.04
+May 23, 2026    FUEL                                        $-319.14       $102,826.90
+May 25, 2026    RENT PAYMENT                                $-279.25       $102,547.65
+May 31, 2026    PAYROLL DEP TAMARACK                       $4,368.85       $106,916.50
+June 6, 2026    RESTAURANT                                  $-441.37       $106,475.13
+June 14, 2026   PAYROLL DEP TAMARACK                       $4,368.85       $110,843.98
+June 14, 2026   UTILITY PAYMENT                             $-453.65       $110,390.33
+June 17, 2026   INSURANCE PREM                               $-69.16       $110,321.17
+
+Closing balance: $110,321.17
+[scanned 2026-07-04 09:27 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | final_v2_3565.pdf | 2 page(s) ===
+LAKESHORE APPRAISAL GROUP
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 377 Birchwood Crescent, Ottawa, ON   (house)
+Report date: June 23, 2026
+Contract purchase price: $390,000
+OPINION OF MARKET VALUE: $366,000
+Direct comparison approach. Comparables:
+  731 Chemin des Cedres   $379,000   adj +4.9%
+  964 Rue Saint-Exemple   $376,000   adj +2.3%
+  718 Boulevard Fontaine   $371,000   adj +1.5%
+Comments:
+  Minor cosmetic wear noted in kitchen and hollway; no impact on value.
+Appraiser: D. Lefebvre, CRA   Lic. 67339
+[scanned 2026-07-04 09:52 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | Doc_7905.pdf | 3 page(s) ===
+DRIVER LICENCE (copy, masked)
+Name: Aisha Iyer
+Licence no: XXXX-XXXX-7205
+[scanned 2026-07-04 09:26 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | upload_6066.pdf | 1 page(s) ===
+FAX COVER SHEET
+To: Mortgage Ops   Pages: 3   Re: documents as requested
+[handwritten: sorry for the blurry pagcs!]
+[scanned 2026-07-04 09:32 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | Doc_3025.pdf | 3 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $12,791.67
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $3,729.10
+Property tax (monthly): $244.39
+Heating (monthly): $96.02
+Condo fees (monthly): N/A
+Liabilities declared by applicant (monthly payment as stated):
+  Government Student Loan            $555.00
+  Personal Line of Credit            $150.00
+[scanned 2026-07-04 09:36 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | scan_2195.pdf | 3 page(s) ===
+[Letterhead: Tamarack Food Distributors | 151 Boulevard Fontaine | tel 819-555-0196]
+June 10, 2026
+To whom it may concern,
+This confirms that Aisha Iyer is employed by Tamarack Food Distributors as Coordinator.
+Start date: May 7, 2018. Employment status: permanent full-time.
+Current annual base salary: $157,559.44.
+Sincerely,
+/s/ Elena Mackenzie, HR Manager
+[scanned 2026-07-04 09:59 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | scan_7298.pdf | 1 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: AISHA IYER    Report date: 2026/06/14
+Credit score: 816
+Creditor                  Type               Limit         Balance         Pmt  Status
+Government Student Loan   student                -      $20,000.00     $555.00  Open
+Personal Line of Credit   loc           $26,000.00      $15,000.00     $150.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-07-04 09:23 - page 1 of 1 - CONFIDENTIAL]

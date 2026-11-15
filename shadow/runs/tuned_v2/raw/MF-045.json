@@ -1,0 +1,6 @@
+{"file_id":"MF-045","decisions":[
+{"condition_id":"MF-045-C1","decision":"needs_review","rule_cited":"INC-03","rationale":"Paystub 2026-06-27 is 21 days old; 12,238.93 x 12 = 146,867.16 vs stated 159,000, shortfall 7.63%. 2025 NOA 142,960.34 is a 10.08% shortfall. Both between 5% and 15%, AR-01 needs_review."},
+{"condition_id":"MF-045-C2","decision":"not_satisfied","rule_cited":"APP-01","rationale":"Summit Property Valuations is on panel and value 373,000 >= price 370,000, but report dated 2026-03-22 is 118 days old at 2026-07-18, over 90 (AR-04)."},
+{"condition_id":"MF-045-C3","decision":"satisfied","rule_cited":"EMP-03","rationale":"Letter 2026-06-25 is 23 days old, letterhead and signed, permanent full-time since 2019. Salary 158,258.23 vs stated 159,000 is 0.5% below."},
+{"condition_id":"MF-045-C4","decision":"not_satisfied","rule_cited":"DTI-03","rationale":"Housing 3,477.55+544.57+102.39+50% x 537.01 (268.51) = 4,393.02; GDS 33.15%. Bureau debts: LOC 25,300 x 3% = 759.00 + undeclared Visa 37,030 x 3% = 1,110.90; TDS (4,393.02+1,869.90)/13,250 = 47.27%, 3.27 pts over 44%, more than 2 pts, so AR-14 not_satisfied."}
+]}

@@ -1,0 +1,146 @@
+FILE MF-043  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-07-22
+Applicant: Daniel Okafor
+Property: 427 Birchwood Crescent, Trois-Rivieres, QC (house)
+Purchase price: $350,000   Down payment: $28,000
+Stated annual income: $117,500   Employer (stated): Northgate Logistics Inc.
+
+CONDITIONS TO DECIDE:
+  MF-043-C1 [income_proof] Provide proof of income supporting the stated annual income of $117,500.
+  MF-043-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-043-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-043-C4 [employment] Confirm current employment.
+  MF-043-C5 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | scan_2596.pdf | 1 page(s) ===
+NORTHGATE LOGISTICS INC.
+EARNINGS STATEMENT
+Employee: OKAFOR, Daniel   ID: 78808
+Pay frequency: Monthly
+Pay period: 30/05/2026 - 28/06/2026
+Pay date: 29/06/2026
+Regular earnings   $9,847.77
+GROSS THIS PERIOD      $9,847.77
+Deductions (tax, CPP/QPP, EI, pension)  $2,517.06
+NET PAY               $7,330.71
+GROSS YEAR TO DATE   $59,086.62
+[scanned 2026-07-22 09:30 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | upload_7706.pdf | 2 page(s) ===
+MERIDIAN REAL ESTATE APPRAISERS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 427 Birchwood Crescent, Trois-Rivieres, QC   (house)
+Report date: 2026/06/11
+Contract purchase price: $350,000
+OPINION OF MARKET VALUE: $353,000
+Direct comparison approach. Comparables:
+  256 Harbour View Road   $366,000   adj +3.1%
+  558 Quarry Street   $346,000   adj +4.8%
+  643 Rue Saint-Exemple   $367,000   adj +3.6%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: P. Girouard, CRA   Lic. 91339
+[scanned 2026-07-22 09:25 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | scan_9940.pdf | 1 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $9,791.67
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $2,883.06
+Property tax (monthly): $458.12
+Heating (monthly): $94.68
+Condo fees (monthly): N/A
+Liabilities declarcd by applicant (monthly payment as stoted):
+  AutoFinance Canada                 $249.00
+  Personal Line of Credit            $138.00
+  Student Loan (Provincial)          $349.00
+[scanned 2026-07-22 09:45 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | final_v2_3109.pdf | 2 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: DANIEL OKAFOR    Report date: 07-Jul-2026
+Credit score: 730
+Creditor                  Type               Limit         Balance         Pmt  Status
+AutoFinance Canada        car                    -      $12,000.00     $249.00  Open
+Personal Line of Credit   loc           $24,000.00      $13,800.00     $138.00  Open
+Student Loan (Provincial) student                -       $9,800.00     $349.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-07-22 09:39 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | scan_0509.pdf | 2 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: DANIEL OKAFOR
+Statement period: 22/03/2026 to July 12, 2026
+Opening balance: $35,155.31
+
+25/03/2026      FUEL                                        $-495.70        $34,659.61
+27/03/2026      E-TRANSFER RECEIVED REFUND                   $121.26        $34,780.87
+30/03/2026      PAYROLL DEP NORTHGATE                      $3,344.23        $38,125.10
+April 4, 2026   FUEL                                        $-517.90        $37,607.20
+April 12, 2026  RESTAURANT                                  $-325.28        $37,281.92
+13/04/2026      PAYROLL DEP NORTHGATE                      $3,344.23        $40,626.15
+18/04/2026      TRANSIT PASS                                $-128.16        $40,497.99
+22/04/2026      RENT PAYMENT                                $-280.22        $40,217.77
+27/04/2026      PAYROLL DEP NORTHGATE                      $3,344.23        $43,562.00
+27/04/2026      RESTAURANT                                  $-448.68        $43,113.32
+27/04/2026      INSURANCE PREM                              $-461.33        $42,651.99
+30/04/2026      GROCERY STORE                               $-319.93        $42,332.06
+May 6, 2026     FUEL                                         $-95.31        $42,236.75
+May 11, 2026    PAYROLL DEP NORTHGATE                      $3,344.23        $45,580.98
+17/05/2026      RESTAURANT                                  $-515.17        $45,065.81
+25/05/2026      PAYROLL DEP NORTHGATE                      $3,344.23        $48,410.04
+29/05/2026      RESTAURANT                                  $-492.71        $47,917.33
+June 4, 2026    E-TRANSFER RECEIVED T. LEE                   $165.11        $48,082.44
+June 8, 2026    PAYROLL DEP NORTHGATE                      $3,344.23        $51,426.67
+June 12, 2026   PHARMACY                                    $-497.20        $50,929.47
+June 12, 2026   UTILITY PAYMENT                              $-32.77        $50,896.70
+June 12, 2026   RESTAURANT                                  $-123.95        $50,772.75
+17/06/2026      PHARMACY                                    $-187.91        $50,584.84
+22/06/2026      PAYROLL DEP NORTHGATE                      $3,344.23        $53,929.07
+23/06/2026      FUEL                                        $-377.88        $53,551.19
+July 2, 2026    FUEL                                        $-503.49        $53,047.70
+July 6, 2026    PAYROLL DEP NORTHGATE                      $3,344.23        $56,391.93
+July 10, 2026   RESTAURANT                                  $-330.94        $56,060.99
+
+Closing balance: $56,060.99
+[scanned 2026-07-22 09:57 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | upload_5936.pdf | 1 page(s) ===
+VOID CHEQUE
+Transit 07398  Institution 004  Account ******161
+[scanned 2026-07-22 09:58 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | IMG_9828.pdf | 2 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 427 Birchwood Crescent, Trois-Rivieres, QC
+Purchase price: $350,000   Closing date: September 25, 2026
+Deposit paid: $7,000
+[scanned 2026-07-22 09:42 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | Doc_7615.pdf | 3 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 07-Mar-2026
+SIN/NAS: XXX XXX 407
+Line 15000 Total income:   $115,015.13
+Line 23600 Net income:     $108,417.86
+Balance: $-1,548.33
+[scanned 2026-07-22 09:59 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | Doc_4262.pdf | 1 page(s) ===
+DRIVER LICENCE (copy, masked)
+Name: Daniel Okafor
+Licence no: XXXX-XXXX-3270
+[scanned 2026-07-22 09:38 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 10 | Doc_1999.pdf | 2 page(s) ===
+[Letterhead: Northgate Logistics Inc. | 397 Boulevard Fontaine | tel 819-555-0148]
+29-Jun-2026
+To whom it may concern,
+This confirms that Daniel Okaf0r is empl0yed by Northgate Logistics Inc. as Senior Analyst.
+Start date: 09-Jun-2025. Employment status: permanent full-time.
+The cmployee has successfully completed the probationary period.
+Current annual base salary: $115,898.07.
+Slncerely,
+/s/ Chloe Bouchard, HR Manager
+[scanned 2026-07-22 09:12 - page 1 of 2 - CONFIDENTIAL]

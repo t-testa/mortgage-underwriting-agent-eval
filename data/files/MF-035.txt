@@ -1,0 +1,122 @@
+FILE MF-035  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-09-13
+Applicant: Marcus Whitlock
+Property: 330 Rue Saint-Exemple, Sherbrooke, QC (condo)
+Purchase price: $665,000   Down payment: $66,500
+Stated annual income: $67,500   Employer (stated): Northgate Logistics Inc.
+
+CONDITIONS TO DECIDE:
+  MF-035-C1 [income_proof] Provide proof of income supporting the stated annual income of $67,500.
+  MF-035-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-035-C3 [employment] Confirm current employment.
+  MF-035-C4 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | scan_9386.pdf | 2 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: MARCUS WHITLOCK    Report date: 24-Aug-2026
+Credit score: 715
+Creditor                  Type               Limit         Balance         Pmt  Status
+Personal Line of Credit   loc           $30,000.00      $15,600.00     $156.00  Open
+Vehicle Loan              car                    -           $0.00     $467.00  CLOSED - paid in full
+Inquiries (12 mo): 2
+[scanned 2026-09-13 09:16 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | upload_5671.pdf | 1 page(s) ===
+NORTHGATE LOGISTICS INC.
+EARNINGS STATEMENT
+Employee: WHITLOCK, Marcus   ID: 17001
+Pay frequency: Semi-monthly
+Pay period: August 17, 2026 - August 31, 2026
+Pay date: September 4, 2026
+Regular earnings   $#,##?.??
+GROSS THIS PERIOD      $#,##?.??
+Deductions (tax, CPP/QPP, EI, pension)  $826.99
+NET PAY               $2,026.01
+GROSS YEAR TO DATE   $##,##?.0?
+[fax quality degraded - partial transmission]
+[scanned 2026-09-13 09:12 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | scan_5012.pdf | 1 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $5,625.00
+Property type: condo
+Qualifying mortgage payment (P&I, stress-tested): $791.73
+Property tax (monthly): $431.24
+Heating (monthly): $175.54
+Condo fees (monthly): $416.71
+Liabilities declared by applicant (monthly payment as stated):
+  Personal Line of Credit            $156.00
+  Vehicle Loan                       $467.00
+[scanned 2026-09-13 09:24 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | final_v2_5698.pdf | 3 page(s) ===
+GIFT LETTER
+I, Victor Whitlock, cousin of Marcus Whitlock, am giving the sum of $30,500.00 on 06-Aug-2026 towards the purchase of the property at 330 Rue Saint-Exemple, Sherbrooke, QC.
+This is a gift and does not have to be repaid.
+Signature: /s/ Victor Whitlock
+Donor phone: 613-555-0111
+[scanned 2026-09-13 09:43 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | final_v2_8754.pdf | 2 page(s) ===
+[Letterhead: Northgate Logistics Inc. | 744 Rue Saint-Exemple | tel 819-555-0165]
+June 30, 2026
+To whom it may concern,
+This confirms that Marcus Whitlock is employed by Northgate Logistics Inc. as Coordinator.
+Start date: October 3, 2015. Employment status: permanent full-time.
+Current annual base salary: $69,774.15.
+Sincerely,
+/s/ Andre Larkin, HR Manager
+[scanned 2026-09-13 09:33 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | Doc_8031.pdf | 2 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: MARCUS WHITLOCK
+Statement period: June 6, 2026 to September 10, 2026
+Opening balance: $53,976.00
+
+June 6, 2026    PAYROLL DEP NORTHGATE                      $1,921.15        $55,897.15
+June 12, 2026   ONLINE PURCHASE                             $-115.67        $55,781.48
+13/06/2026      TELECOM BILL                                 $-36.21        $55,745.27
+15/06/2026      INSURANCE PREM                              $-280.21        $55,465.06
+16/06/2026      UTILITY PAYMENT                              $-86.94        $55,378.12
+20/06/2026      PAYROLL DEP NORTHGATE                      $1,921.15        $57,299.27
+25/06/2026      UTILITY PAYMENT                              $-62.28        $57,236.99
+25/06/2026      PHARMACY                                    $-327.76        $56,909.23
+25/06/2026      E-TRANSFER RECEIVED REFUND                   $758.95        $57,668.18
+26/06/2026      TRANSIT PASS                                $-238.08        $57,430.10
+July 2, 2026    E-TRANSFER RECEIVED A. MORIN                 $646.14        $58,076.24
+July 4, 2026    PAYROLL DEP NORTHGATE                      $1,921.15        $59,997.39
+18/07/2026      PAYROLL DEP NORTHGATE                      $1,921.15        $61,918.54
+26/07/2026      INSURANCE PREM                              $-339.98        $61,578.56
+29/07/2026      UTILITY PAYMENT                             $-364.00        $61,214.56
+August 1, 2026  PAYROLL DEP NORTHGATE                      $1,921.15        $63,135.71
+August 1, 2026  UTILITY PAYMENT                              $-79.00        $63,056.71
+August 2, 2026  UTILITY PAYMENT                             $-228.50        $62,828.21
+August 3, 2026  E-TRANSFER RECEIVED VICTOR WHITLOCK       $30,500.00        $93,328.21
+August 8, 2026  E-TRANSFER RECEIVED A. MORIN                 $649.98        $93,978.19
+August 10, 2026 FUEL                                        $-504.78        $93,473.41
+15/08/2026      PAYROLL DEP NORTHGATE                      $1,921.15        $95,394.56
+29/08/2026      PAYROLL DEP NORTHGATE                      $1,921.15        $97,315.71
+September 1, 2026GROCERY STORE                               $-388.96        $96,926.75
+September 1, 2026ONLINE PURCHASE                             $-488.93        $96,437.82
+September 10, 2026FUEL                                        $-266.62        $96,171.20
+
+Closing balance: $96,171.20
+[scanned 2026-09-13 09:55 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | Doc_0705.pdf | 2 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 330 Rue Saint-Exemple, Sherbrooke, QC
+Purchase price: $665,000   Closing date: November 16, 2026
+Deposit paid: $13,300
+[scanned 2026-09-13 09:37 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | scan_2361.pdf | 1 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 15-Apr-2026
+SIN/NAS: XXX XXX 660
+Line 15000 Total income:   $67,279.66
+Line 23600 Net income:     $63,975.20
+Balance: $179.81
+[scanned 2026-09-13 09:10 - page 1 of 1 - CONFIDENTIAL]

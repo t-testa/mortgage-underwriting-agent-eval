@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-001",
+ "decisions": [
+  {
+   "condition_id": "MF-001-C1",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-05",
+   "rationale": "Required funds = 144,000 + 1.5% x 720,000 (10,800) = 154,800; closing balance 148,053.72 is below required. History 28/02-15/06 (107 days) is fine."
+  },
+  {
+   "condition_id": "MF-001-C2",
+   "decision": "needs_review",
+   "rule_cited": "AR-08",
+   "rationale": "Cardinal Evaluation is on panel; report 25/04/2026 is 56 days old. Shortfall = (720,000-689,000)/720,000 = 4.31%, over 2% up to 5%."
+  },
+  {
+   "condition_id": "MF-001-C3",
+   "decision": "needs_review",
+   "rule_cited": "AR-12",
+   "rationale": "Letter 01-Jun-2026 (19 days), letterhead, signed, permanent. Salary 66,730.33 vs stated 73,500: 9.21% below, over 5%."
+  },
+  {
+   "condition_id": "MF-001-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-13",
+   "rationale": "Housing 1,446.53+439.68+154.84 = 2,041.05; GDS 33.32% on 6,125. Debts: card 3% x 3,730 = 111.90, student 188, undeclared auto 746 = 1,045.90; TDS = 3,086.95/6,125 = 50.40%, over 44% by more than 2 points."
+  }
+ ]
+}

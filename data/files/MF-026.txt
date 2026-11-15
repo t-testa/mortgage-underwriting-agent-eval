@@ -1,0 +1,118 @@
+FILE MF-026  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-08-23
+Applicant: Elena Iyer
+Property: 487 Rue des Peupliers, Sherbrooke, QC (house)
+Purchase price: $345,000   Down payment: $27,600
+Stated annual income: $142,500   Employer (stated): Maplebrook Health Services
+
+CONDITIONS TO DECIDE:
+  MF-026-C1 [income_proof] Provide proof of income supporting the stated annual income of $142,500.
+  MF-026-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-026-C3 [employment] Confirm current employment.
+  MF-026-C4 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | upload_2626.pdf | 1 page(s) ===
+DRIVER LICENCE (copy, masked)
+Name: Elena Iyer
+Licence no: XXXX-XXXX-5375
+[scanned 2026-08-23 09:37 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | final_v2_9566.pdf | 2 page(s) ===
+[Letterhead: Maplebrook Health Services | 885 Rue Saint-Exemple | tel 819-555-0174]
+20-Aug-2026
+To whom it may concern,
+This confirms that Elena Iyer is employed by Maplebrook Health Services as Operations Lead.
+Start date: 23-Nov-2016. Employment status: permanent full-time.
+The employee has successfully completed the probationary period.
+Current annual base salary: $144,788.54.
+Sincerely,
+/s/ Raj Okafor, HR Manager
+[scanned 2026-08-23 09:45 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | scan_9853.pdf | 1 page(s) ===
+MAPLEBROOK HEALTH SERVICES
+EARNINGS STATEMENT
+Employee: IYER, Elena   ID: 79228
+Pay frequency: Semi-monthly
+Pay period: 27-Jul-2026 - 10-Aug-2026
+Pay date: 11-Aug-2026
+Regular earnings   $5,189.33
+GROSS THIS PERIOD      $5,189.33
+Deductions (tax, CPP/QPP, EI, pension)  $1,524.37
+NET PAY               $3,664.96
+GROSS YEAR TO DATE   $77,839.95
+[scanned 2026-08-23 09:28 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | final_v2_6046.pdf | 2 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: ELENA IYER
+Statement period: May 14, 2026 to August 14, 2026
+Opening balance: $27,380.32
+
+May 14, 2026    PAYROLL DEP MAPLEBROOK                     $4,055.77        $31,436.09
+May 28, 2026    PAYROLL DEP MAPLEBROOK                     $4,055.77        $35,491.86
+May 30, 2026    UTILITY PAYMENT                              $-68.17        $35,423.69
+May 30, 2026    FUEL                                         $-84.10        $35,339.59
+May 31, 2026    GROCERY STORE                               $-317.18        $35,022.41
+June 1, 2026    ONLINE PURCHASE                             $-110.37        $34,912.04
+June 5, 2026    ONLINE PURCHASE                             $-296.42        $34,615.62
+June 10, 2026   E-TRANSFER RECEIVED REFUND                   $395.35        $35,010.97
+June 11, 2026   PAYROLL DEP MAPLEBROOK                     $4,055.77        $39,066.74
+June 11, 2026   PHARMACY                                    $-288.00        $38,778.74
+June 12, 2026   TRANSIT PASS                                $-445.50        $38,333.24
+June 20, 2026   GROCERY STORE                               $-165.77        $38,167.47
+June 23, 2026   RENT PAYMENT                                $-117.43        $38,050.04
+June 24, 2026   FUEL                                        $-297.12        $37,752.92
+June 25, 2026   PAYROLL DEP MAPLEBROOK                     $4,055.77        $41,808.69
+June 25, 2026   RESTAURANT                                  $-255.62        $41,553.07
+June 26, 2026   INSURANCE PREM                              $-226.96        $41,326.11
+June 27, 2026   GROCERY STORE                                $-38.47        $41,287.64
+July 9, 2026    PAYROLL DEP MAPLEBROOK                     $4,055.77        $45,343.41
+July 20, 2026   E-TRANSFER RECEIVED T. LEE                   $199.34        $45,542.75
+July 23, 2026   PAYROLL DEP MAPLEBROOK                     $4,055.77        $49,598.52
+July 31, 2026   RENT PAYMENT                                $-412.19        $49,186.33
+August 2, 2026  E-TRANSFER RECEIVED T. LEE                   $251.80        $49,438.13
+August 4, 2026  RENT PAYMENT                                $-432.99        $49,005.14
+August 6, 2026  PAYROLL DEP MAPLEBROOK                     $4,055.77        $53,060.91
+August 14, 2026 PHARMACY                                    $-503.14        $52,557.77
+
+Closing balance: $52,557.77
+[scanned 2026-08-23 09:55 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | Doc_6829.pdf | 3 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 03-Apr-2026
+SIN/NAS: XXX XXX 416
+Line 15000 Total income:   $122,407.44
+Line 23600 Net income:     $120,238.38
+Balance: $-513.74
+[scanned 2026-08-23 09:29 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | IMG_5732.pdf | 2 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 487 Rue des Peupliers, Sherbrooke, QC
+Purchase price: $345,000   Closing date: 24/09/2026
+Deposit paid: $6,900
+[scanned 2026-08-23 09:35 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | Doc_7400.pdf | 2 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $11,875.00
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $4,074.44
+Property tax (monthly): $242.01
+Heating (monthly): $162.93
+Condo fees (monthly): N/A
+Liabilities declared by applicant (monthly payment as stated):
+  Student Line of Credit             $307.00
+[scanned 2026-08-23 09:24 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | Doc_8299.pdf | 3 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: ELENA IYER    Report date: August 8, 2026
+Credit score: 642
+Creditor                  Type               Limit         Balancc         Pmt  Status
+Student Line of Credit    loc           $50,000.00      $30,700.00     $307.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-08-23 09:18 - page 1 of 3 - CONFIDENTIAL]

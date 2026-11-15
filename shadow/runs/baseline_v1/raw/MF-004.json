@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-004",
+ "decisions": [
+  {
+   "condition_id": "MF-004-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "2025 NOA ($128,438), 2024 NOA ($130,329) and a current earnings statement annualizing to about $129,500 support the stated $129,500, including commission income averaged per INC-05."
+  },
+  {
+   "condition_id": "MF-004-C2",
+   "decision": "needs_review",
+   "rule_cited": "DP-03",
+   "rationale": "Funds of $232,595 cover the $195,000 down payment and closing costs, but an unexplained non-payroll DEPOSIT of $3,110 on April 1 has no explanation on file."
+  },
+  {
+   "condition_id": "MF-004-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-06",
+   "rationale": "Prairie Oak Appraisals is on the panel, report dated 2026-06-12 is recent, and the $782,000 value supports the $780,000 price."
+  },
+  {
+   "condition_id": "MF-004-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Recent (2026-06-20) signed letter on letterhead confirms permanent full-time employment at the stated employer."
+  }
+ ]
+}

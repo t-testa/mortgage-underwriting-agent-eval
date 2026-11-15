@@ -1,0 +1,23 @@
+{
+ "file_id": "MF-025",
+ "decisions": [
+  {
+   "condition_id": "MF-025-C1",
+   "decision": "not_satisfied",
+   "rule_cited": "INC-02",
+   "rationale": "No NOA or T4 for 2025 on file for a salaried applicant (paystub 6,621.57 x 26 = 172,160.82 would support 168,500, but required tax document is missing)."
+  },
+  {
+   "condition_id": "MF-025-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-05",
+   "rationale": "Required = 71,500 + 10,725 = 82,225 and closing 90,876.25 covers it, but statement history Apr 26 to Jun 24 = 59 days, under 90 required for seasoning."
+  },
+  {
+   "condition_id": "MF-025-C3",
+   "decision": "needs_review",
+   "rule_cited": "AR-10",
+   "rationale": "Letter dated Jun 24 (9 days old, signed, letterhead), salary 170,129.58 >= stated; start Apr 21, 2026 plus 6-month probation ends Oct 21, 2026, after review date 2026-07-03; needs_review."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-036",
+ "decisions": [
+  {
+   "condition_id": "MF-036-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "NOA 2025 ($150,574), current pay stub (about $156k annualized) and letter ($158,358) reasonably support the stated $155,000."
+  },
+  {
+   "condition_id": "MF-036-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "DP-04",
+   "rationale": "The $58,900 gift letter does not state that no repayment is required, and without the gift funds fall below the $102,000 down payment."
+  },
+  {
+   "condition_id": "MF-036-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Rive-Nord Evaluations is on the panel, report dated 2026-09-02 is recent, and value $513,000 supports the $510,000 price."
+  },
+  {
+   "condition_id": "MF-036-C4",
+   "decision": "needs_review",
+   "rule_cited": "EMP-05",
+   "rationale": "Fixed-term contract started 22-Mar-2026 (under six months), so stable history is not established."
+  }
+ ]
+}

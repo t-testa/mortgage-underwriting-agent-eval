@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-009",
+ "decisions": [
+  {
+   "condition_id": "MF-009-C1",
+   "decision": "satisfied",
+   "rule_cited": "AR-01",
+   "rationale": "Paystub 25 aout 2026 (12 days) 3,885.78 x 26 = 101,030.28 above stated 100,500; NOA 2025 104,029.87 also above."
+  },
+  {
+   "condition_id": "MF-009-C2",
+   "decision": "satisfied",
+   "rule_cited": "AR-07",
+   "rationale": "Required = 98,000 + 1.5% x 490,000 (7,350) = 105,350; closing balance 114,200; history 117 days. The 48,500 deposit is covered by a signed gift letter from a grandparent, with amount and non-repayable statement."
+  },
+  {
+   "condition_id": "MF-009-C3",
+   "decision": "satisfied",
+   "rule_cited": "AR-08",
+   "rationale": "Valeur Reference on panel; report 26/08/2026 is 11 days old. Value 494,000 is above price 490,000."
+  },
+  {
+   "condition_id": "MF-009-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "DTI-02",
+   "rationale": "Credit score 594 is below the minimum of 600. (GDS 31.07%, TDS 36.35% would otherwise be within limits.)"
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+{"file_id":"MF-041","decisions":[
+{"condition_id":"MF-041-C1","decision":"satisfied","rule_cited":"INC-03","rationale":"Paystub dated 2026-08-19 is 19 days old; annualized 4,638.80 x 26 = 120,608.80 vs stated 116,000, no shortfall. 2025 NOA line 15000 118,316.67 also above stated."},
+{"condition_id":"MF-041-C2","decision":"satisfied","rule_cited":"DP-02","rationale":"Required funds 34,800 + 1.5% x 435,000 (6,525) = 41,325; closing balance 59,131.26. History 2026-05-21 to 2026-08-28 = 99 days (>=90). Only large deposit 20,500 from brother Tyler Brannigan is covered by a signed gift letter stating donor, relationship, amount and non-repayable; other deposits under 2,500."},
+{"condition_id":"MF-041-C3","decision":"not_satisfied","rule_cited":"EMP-05","rationale":"Letter dated 2026-08-24 (14 days old), letterhead and signed, but status is fixed-term contract since 2025-12-08: about 9 months at 2026-09-07, under 12 months (AR-11)."},
+{"condition_id":"MF-041-C4","decision":"needs_review","rule_cited":"DTI-03","rationale":"Housing 2,684.76+423.19+139.22 = 3,247.17; GDS 3,247.17/9,666.67 = 33.59%. Debts at 3%: Visa 13,010 = 390.30, LOC 24,800 = 744.00; TDS (3,247.17+1,134.30)/9,666.67 = 45.33%, 1.33 pts over 44% with score 742 (>=720), so AR-14 needs_review."}
+]}

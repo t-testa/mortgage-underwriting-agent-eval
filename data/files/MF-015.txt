@@ -1,0 +1,119 @@
+FILE MF-015  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-06-12
+Applicant: Leila Tremblay-Roy
+Property: 980 Birchwood Crescent, Kingston, ON (house)
+Purchase price: $615,000   Down payment: $30,800
+Stated annual income: $97,000   Employer (stated): Northgate Logistics Inc.
+
+CONDITIONS TO DECIDE:
+  MF-015-C1 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-015-C2 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-015-C3 [employment] Confirm current employment.
+  MF-015-C4 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | final_v2_3206.pdf | 2 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 980 Birchwood Crescent, Kingston, ON
+Purchase price: $615,000   Closing date: 27-Jul-2026
+Deposit paid: $12,300
+[scanned 2026-06-12 09:13 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | Doc_2272.pdf | 3 page(s) ===
+GIFT LETTER
+I, Daniel Tremblay-Roy, cousin of Leila Tremblay-Roy, am giving the sum of $14,400.00 on 31/05/2026 towards the purchase of the property at 980 Birchwood Crescent, Kingston, ON.
+This is a gift and does not have to be repaid.
+Signature: /s/ Daniel Tremblay-Roy
+Donor phone: 613-555-0123
+[scanned 2026-06-12 09:51 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | Doc_5250.pdf | 3 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $8,083.33
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $2,449.14
+Property tax (monthly): $242.03
+Heating (monthly): $98.42
+Condo fees (monthly): N/A
+Liabilities declared by opplicant (monthly payment as stated):
+  Retail Plus Card                   $192.00
+  Home Equity Line                   $277.00
+  Ridgeline Auto Credit              $402.00
+[scanned 2026-06-12 09:48 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | IMG_6436.pdf | 1 page(s) ===
+PRAIRIE OAK APPRAISALS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 980 Birchwood Crescent, Kingston, ON   (house)
+Report date: 2026-04-23
+Contract purchase price: $615,000
+OPINION OF MARKET VALUE: $617,000
+Direct comparison approach. Comparables:
+  783 Birchwood Crescent   $593,000   adj -4.5%
+  638 Rue des Peupliers   $596,000   adj +3.8%
+  115 Harbour View Road   $630,000   adj +1.5%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: D. Lefebvre, CRA   Lic. 50511
+[scanned 2026-06-12 09:18 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | upload_1550.pdf | 3 page(s) ===
+[Letterhead: Northgate Logistics Inc. | 877 Quarry Street | tel 819-555-0185]
+2026-05-18
+To whom it may concern,
+This confirms that Leila Tremblay-Roy is employed by Northgate Logistics Inc. as Account Manager.
+Start date: 2017-01-04. Employment status: permanent full-time.
+Current annual base salary: $100,889.45.
+Sincerely,
+Signature: ______________  (HR Manager)
+[scanned 2026-06-12 09:50 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | IMG_4124.pdf | 1 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: LEILA TREMBLAY-ROY    Report date: May 25, 2026
+Credit score: 748
+Creditor                  Type               Limit         Balance         Pmt  Status
+Retail Plus Card          card          $24,200.00       $9,600.00     $192.00  Open
+Home Equity Line          loc           $59,000.00      $27,700.00     $277.00  Open
+Ridgeline Auto Credit     car                    -      $21,300.00     $402.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-06-12 09:53 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | Doc_8006.pdf | 1 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: LEILA TREMBLAY-ROY
+Statement period: February 28, 2026 to June 1, 2026
+Opening balance: $17,969.44
+
+March 1, 2026   RESTAURANT                                  $-172.50        $17,796.94
+March 3, 2026   TRANSIT PASS                                $-231.76        $17,565.18
+March 3, 2026   INSURANCE PREM                               $-40.87        $17,524.31
+March 4, 2026   TRANSIT PASS                                $-288.23        $17,236.08
+March 5, 2026   RENT PAYMENT                                $-498.43        $16,737.65
+March 6, 2026   INSURANCE PREM                               $-32.74        $16,704.91
+March 8, 2026   PAYROLL DEP NORTHGATE                      $2,760.77        $19,465.68
+March 11, 2026  FUEL                                        $-409.09        $19,056.59
+March 15, 2026  RESTAURANT                                  $-342.61        $18,713.98
+March 22, 2026  PAYROLL DEP NORTHGATE                      $2,760.77        $21,474.75
+March 24, 2026  ONLINE PURCHASE                             $-291.12        $21,183.63
+March 26, 2026  GROCERY STORE                               $-478.42        $20,705.21
+March 29, 2026  ONLINE PURCHASE                             $-382.47        $20,322.74
+March 30, 2026  TRANSIT PASS                                $-405.34        $19,917.40
+April 5, 2026   PAYROLL DEP NORTHGATE                      $2,760.77        $22,678.17
+April 10, 2026  ONLINE PURCHASE                             $-429.38        $22,248.79
+April 19, 2026  PAYROLL DEP NORTHGATE                      $2,760.77        $25,009.56
+April 27, 2026  GROCERY STORE                                $-53.25        $24,956.31
+April 28, 2026  E-TRANSFER RECEIVED REFUND                   $354.58        $25,310.89
+April 29, 2026  PHARMACY                                    $-469.61        $24,841.28
+May 1, 2026     E-TRANSFER RECEIVED REFUND                   $192.20        $25,033.48
+May 3, 2026     PAYROLL DEP NORTHGATE                      $2,760.77        $27,794.25
+May 4, 2026     RENT PAYMENT                                $-518.97        $27,275.28
+May 7, 2026     ONLINE PURCHASE                             $-376.49        $26,898.79
+May 10, 2026    INSURANCE PREM                               $-93.23        $26,805.56
+May 11, 2026    TRANSIT PASS                                 $-98.22        $26,707.34
+May 13, 2026    E-TRANSFER RECEIVED DANIEL TREMBLAY-ROY      $14,400.00        $41,107.34
+May 17, 2026    PAYROLL DEP NORTHGATE                      $2,760.77        $43,868.11
+May 26, 2026    GROCERY STORE                               $-216.53        $43,651.58
+May 31, 2026    PAYROLL DEP NORTHGATE                      $2,760.77        $46,412.35
+
+Closing balance: $46,412.35
+[scanned 2026-06-12 09:25 - page 1 of 1 - CONFIDENTIAL]

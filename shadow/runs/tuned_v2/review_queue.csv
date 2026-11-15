@@ -1,0 +1,2 @@
+condition_id,family,golden,agent,severity,reason_tag,golden_rule,ambiguity_ref,agent_rule,golden_rationale,agent_rationale
+MF-003-C1,income_proof,satisfied,needs_review,"P4 low (over-escalation, extra human touch)",agent_error,INC-03,AR-01,AR-01,"Documented income 85,709 vs stated 88,000; shortfall 2.6% (AR-01).","Paystub 19-Jun-2026 (21 days) gross 7,142.43 x 12 = 85,709.16 (2.60% short), but NOA 2025 line 15000 is 82,801.76 vs stated 88,000: shortfall 5,198.24/88,000 = 5.91%, over 5% up to 15%."

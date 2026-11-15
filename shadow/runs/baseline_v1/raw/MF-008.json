@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-008",
+ "decisions": [
+  {
+   "condition_id": "MF-008-C1",
+   "decision": "satisfied",
+   "rule_cited": "DP-03",
+   "rationale": "About three months of history with a $102,033 balance covers the $80,000 down payment and closing costs, and the $6,450 e-transfer is explained by the vehicle bill of sale."
+  },
+  {
+   "condition_id": "MF-008-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Appraised value of $767,000 from a panel appraiser does not support the $800,000 purchase price."
+  },
+  {
+   "condition_id": "MF-008-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "EMP-07",
+   "rationale": "No employment letter is on file; only a borrower cover note says it will follow."
+  },
+  {
+   "condition_id": "MF-008-C4",
+   "decision": "needs_review",
+   "rule_cited": "DTI-01",
+   "rationale": "Ratios are GDS about 37.5% and TDS about 43.5% on the stated $140,500, but no income documents are on file to verify the income used and TDS is close to the limit."
+  }
+ ]
+}

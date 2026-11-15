@@ -1,0 +1,89 @@
+FILE MF-013  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-06-04
+Applicant: Omar Gagnon
+Property: 580 Boulevard Fontaine, Trois-Rivieres, QC (house)
+Purchase price: $800,000   Down payment: $160,000
+Stated annual income: $116,000   Employer (stated): Northgate Logistics Inc.
+
+CONDITIONS TO DECIDE:
+  MF-013-C1 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-013-C2 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-013-C3 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | Doc_3281.pdf | 1 page(s) ===
+VALEUR REFERENCE INC.
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 580 Boulevard Fontaine, Trois-Rivieres, QC   (house)
+Report date: 2026/03/20
+Contract purchase price: $800,000
+OPINION OF MARKET VALUE: $812,000
+Direct comparison approach. Comparables:
+  199 Boulevard Fontaine   $832,000   adj +1.3%
+  88 Quarry Street   $810,000   adj -3.8%
+  444 Alder Lane   $833,000   adj +3.1%
+Comments:
+  Minor cosmetic wear noted in kitchen and ha1lway; no impact 0n value.
+Appraiser: D. Lefebvre, CRA   Lic. 42215
+[scanned 2026-06-04 09:33 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | upload_7232.pdf | 3 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $9,666.67
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $2,336.15
+Property tax (monthly): $480.10
+Heating (monthly): $108.65
+Condo fees (monthly): N/A
+Liabilities declared by opplicant (monthly payment as stated):
+  Home Equity Line                   $111.00
+  AutoFinance Canada                 $402.00
+  Northern MasterCard                 $79.40
+[scanned 2026-06-04 09:25 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | upload_4410.pdf | 1 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: OMAR GAGNON
+Statement period: 27/03/2026 to 25/05/2026
+Opening balance: $169,389.09
+
+29/03/2026      ONLINE PURCHASE                             $-365.09       $169,024.00
+31/03/2026      INSURANCE PREM                              $-118.82       $168,905.18
+April 1, 2026   E-TRANSFER RECEIVED A. MORIN                 $127.19       $169,032.37
+April 4, 2026   TELECOM BILL                                $-483.79       $168,548.58
+April 4, 2026   INSURANCE PREM                               $-40.01       $168,508.57
+April 6, 2026   PAYROLL DEP NORTHGATE                      $3,301.54       $171,810.11
+April 8, 2026   RENT PAYMENT                                $-175.83       $171,634.28
+April 9, 2026   E-TRANSFER RECEIVED REFUND                   $708.89       $172,343.17
+April 12, 2026  UTILITY PAYMENT                             $-114.76       $172,228.41
+18/04/2026      UTILITY PAYMENT                             $-266.84       $171,961.57
+20/04/2026      PAYROLL DEP NORTHGATE                      $3,301.54       $175,263.11
+23/04/2026      FUEL                                         $-80.87       $175,182.24
+23/04/2026      ONLINE PURCHASE                             $-213.57       $174,968.67
+30/04/2026      UTILITY PAYMENT                             $-236.67       $174,732.00
+May 3, 2026     PHARMACY                                    $-449.22       $174,282.78
+May 4, 2026     PAYROLL DEP NORTHGATE                      $3,301.54       $177,584.32
+May 9, 2026     FUEL                                        $-478.74       $177,105.58
+13/05/2026      RESTAURANT                                   $-99.71       $177,005.87
+15/05/2026      INSURANCE PREM                              $-295.51       $176,710.36
+18/05/2026      PAYROLL DEP NORTHGATE                      $3,301.54       $180,011.90
+
+Closing balance: $180,011.90
+[scanned 2026-06-04 09:45 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | final_v2_6909.pdf | 1 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 580 Boulevard Fontaine, Trois-Rivieres, QC
+Purchase price: $800,000   Closing date: July 9, 2026
+Deposit paid: $16,000
+[scanned 2026-06-04 09:17 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | upload_2207.pdf | 2 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: OMAR GAGNON    Report date: 2026/05/29
+Credit score: 545
+Creditor                  Type               Limit         Balance         Pmt  Status
+Home Equity Line          loc           $17,000.00      $11,100.00     $111.00  Open
+AutoFinance Canada        car                    -      $14,500.00     $402.00  Open
+Northern MasterCard       card           $9,800.00       $3,970.00      $79.40  Open
+Inquiries (12 mo): 2
+[scanned 2026-06-04 09:32 - page 1 of 2 - CONFIDENTIAL]

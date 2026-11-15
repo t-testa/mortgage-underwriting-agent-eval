@@ -1,0 +1,141 @@
+FILE MF-023  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-08-06
+Applicant: Aisha Mackenzie
+Property: 551 Birchwood Crescent, Kingston, ON (house)
+Purchase price: $755,000   Down payment: $188,800
+Stated annual income: $118,500   Employer (stated): Kestrel Engineering Partners
+
+CONDITIONS TO DECIDE:
+  MF-023-C1 [income_proof] Provide proof of income supporting the stated annual income of $118,500.
+  MF-023-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-023-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-023-C4 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | upload_6167.pdf | 2 page(s) ===
+RIVE-NORD EVALUATIONS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 551 Birchwood Crescent, Kingston, ON   (house)
+Report date: 2026-05-23
+Contract purchase price: $755,000
+OPINION OF MARKET VALUE: $758,000
+Direct comparison approach. Comparables:
+  971 Rue Saint-Exemple   $750,000   adj -3.1%
+  568 Harbour View Road   $771,000   adj -1.9%
+  273 Alder Lane   $746,000   adj +3.8%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: P. Girouard, CRA   Lic. 30079
+[scanned 2026-08-06 09:39 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | upload_4694.pdf | 2 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: AISHA MACKENZIE
+Statement period: 23/04/2026 to 31/07/2026
+Opening balance: $201,501.06
+
+26/04/2026      INSURANCE PREM                              $-396.12       $201,104.94
+May 1, 2026     ONLINE PURCHASE                             $-439.37       $200,665.57
+May 2, 2026     FUEL                                        $-187.64       $200,477.93
+May 5, 2026     PAYROLL DEP KESTREL                        $3,372.69       $203,850.62
+May 7, 2026     ONLINE PURCHASE                             $-463.48       $203,387.14
+May 10, 2026    PHARMACY                                    $-447.35       $202,939.79
+14/05/2026      ONLINE PURCHASE                             $-427.23       $202,512.56
+19/05/2026      PAYROLL DEP KESTREL                        $3,372.69       $205,885.25
+23/05/2026      GROCERY STORE                               $-319.38       $205,565.87
+26/05/2026      INSURANCE PREM                              $-493.16       $205,072.71
+29/05/2026      RESTAURANT                                  $-338.78       $204,733.93
+29/05/2026      PHARMACY                                    $-515.47       $204,218.46
+June 2, 2026    PAYROLL DEP KESTREL                        $3,372.69       $207,591.15
+16/06/2026      PAYROLL DEP KESTREL                        $3,372.69       $210,963.84
+17/06/2026      INSURANCE PREM                               $-47.43       $210,916.41
+21/06/2026      ONLINE PURCHASE                             $-353.59       $210,562.82
+27/06/2026      TRANSIT PASS                                $-501.52       $210,061.30
+29/06/2026      FUEL                                        $-171.66       $209,889.64
+30/06/2026      PAYROLL DEP KESTREL                        $3,372.69       $213,262.33
+July 1, 2026    INSURANCE PREM                              $-413.59       $212,848.74
+July 12, 2026   ONLINE PURCHASE                              $-96.30       $212,752.44
+14/07/2026      PAYROLL DEP KESTREL                        $3,372.69       $216,125.13
+19/07/2026      E-TRANSFER RECEIVED REFUND                   $177.89       $216,303.02
+28/07/2026      PAYROLL DEP KESTREL                        $3,372.69       $219,675.71
+
+Closing balance: $219,675.71
+[scanned 2026-08-06 09:30 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | IMG_5462.pdf | 1 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 18-Mar-2026
+SIN/NAS: XXX XXX 870
+Line 15000 Total income:   $117,224.93
+Line 23600 Net income:     $115,624.92
+Balance: $-1,486.32
+[scanned 2026-08-06 09:23 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | IMG_8768.pdf | 3 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $9,875.00
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $2,914.96
+Property tax (monthly): $259.51
+Heating (monthly): $115.34
+C0ndo fees (monthly): N/A
+Liabilities declarcd by applicant (monthly payment as stated):
+  Ridgeline Auto Credit              $483.00
+  Student Line of Credit             $118.00
+  Retail Plus Card                   $220.60
+[scanned 2026-08-06 09:44 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | final_v2_4681.pdf | 3 page(s) ===
+KESTREL ENGINEERING PARTNERS
+EARNINGS STATEMENT
+Employee: MACKENZIE, Aisha   ID: 36107
+Pay frequency: Bi-weekly
+Pay period: July 19, 2026 - August 1, 2026
+Pay date: August 5, 2026
+Base salary        $3,023.08
+Commission              $1,534.62
+GROSS THIS PERIOD      $4,557.70
+Deductions (tax, CPP/QPP, EI, pension)  $1,077.60
+NET PAY               $3,480.10
+GROSS YEAR TO DATE   $72,923.20
+[scanned 2026-08-06 09:20 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | scan_0454.pdf | 3 page(s) ===
+FAX COVER SHEET
+To: Mortgage Ops   Pages: 3   Re: documents as requested
+[handwritten: sorry for the blurry pages!]
+[scanned 2026-08-06 09:47 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | upload_3359.pdf | 1 page(s) ===
+Canado Revenue Agency / Agencc du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2024      Date issued: 25/03/2025
+SIN/NAS: XXX XXX 840
+Line 15000 Total income:   $117,171.65
+Line 23600 Net income:     $114,398.92
+Balance: $-1,555.83
+[scanned 2026-08-06 09:53 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | IMG_0791.pdf | 3 page(s) ===
+DRIVER LICENCE (copy, masked)
+Name: Aisha Mackenzie
+Licence no: XXXX-XXXX-7482
+[scanned 2026-08-06 09:41 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | Doc_7787.pdf | 3 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 551 Birchwood Crescent, Kingston, ON
+Purchase price: $755,000   Closing date: September 5, 2026
+Deposit paid: $15,100
+[scanned 2026-08-06 09:17 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 10 | scan_5293.pdf | 3 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: AISHA MACKENZIE    Report date: July 29, 2026
+Credit score: 664
+Creditor                  Type               Limit         Balance         Pmt  Status
+Ridgeline Auto Credit     car                    -      $25,600.00     $483.00  Open
+Student Line of Credit    loc           $24,000.00      $11,800.00     $118.00  Open
+Retail Plus Card          card          $30,000.00      $11,030.00     $220.60  Open
+Inquiries (12 mo): 2
+[scanned 2026-08-06 09:25 - page 1 of 3 - CONFIDENTIAL]

@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-020",
+ "decisions": [
+  {
+   "condition_id": "MF-020-C1",
+   "decision": "needs_review",
+   "rule_cited": "INC-03",
+   "rationale": "NOA total income of $101,533 and pay stub run-rate of about $105k are roughly 20% below the stated $131,500, a material shortfall requiring escalation."
+  },
+  {
+   "condition_id": "MF-020-C2",
+   "decision": "needs_review",
+   "rule_cited": "DP-02",
+   "rationale": "The $35,834 balance covers the $34,000 down payment but leaves only about $1.8k, which is unlikely to cover closing costs."
+  },
+  {
+   "condition_id": "MF-020-C3",
+   "decision": "needs_review",
+   "rule_cited": "APP-05",
+   "rationale": "Panel appraiser value of $343,000 supports the price, but the appraiser recommends an engineer foundation inspection and it is unclear whether this must be cleared."
+  },
+  {
+   "condition_id": "MF-020-C4",
+   "decision": "needs_review",
+   "rule_cited": "DTI-01",
+   "rationale": "Ratios of about 34% GDS and 41% TDS (with the omitted $367 home equity line) rely on the stated income, which is not supported; on documented income they would exceed 39%/44%."
+  }
+ ]
+}

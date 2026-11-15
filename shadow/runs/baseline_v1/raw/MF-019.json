@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-019",
+ "decisions": [
+  {
+   "condition_id": "MF-019-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "2025 NOA total income of $79,738 and pay stub run-rate of about $78k are within roughly 2-4% of the stated $81,500, which is not a material shortfall, and the letter salary is $84,825."
+  },
+  {
+   "condition_id": "MF-019-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-04",
+   "rationale": "Chequing balance of $109,344 covers the $71,500 down payment and closing costs, and the $23,600 deposit is explained by a signed gift letter from the applicant's father confirming no repayment."
+  },
+  {
+   "condition_id": "MF-019-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Appraised value of $684,000 is about 4.3% below the $715,000 purchase price and does not support it."
+  },
+  {
+   "condition_id": "MF-019-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Letter on letterhead, signed by HR, confirms permanent full-time employment past probation, consistent with the application."
+  }
+ ]
+}

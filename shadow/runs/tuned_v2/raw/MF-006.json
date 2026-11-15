@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-006",
+ "decisions": [
+  {
+   "condition_id": "MF-006-C1",
+   "decision": "needs_review",
+   "rule_cited": "AR-01",
+   "rationale": "Paystub 04-Oct-2026 (11 days) 4,937.90 x 26 = 128,385.40 vs stated 139,000: 7.64% shortfall; NOA 126,345.35 gives 9.10%. Both over 5% up to 15%."
+  },
+  {
+   "condition_id": "MF-006-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-05",
+   "rationale": "Required = 76,000 + 1.5% x 760,000 (11,400) = 87,400; closing balance 83,328.46 is below required. History 101 days."
+  },
+  {
+   "condition_id": "MF-006-C3",
+   "decision": "satisfied",
+   "rule_cited": "AR-08",
+   "rationale": "Cardinal on panel; report October 4, 2026 is 11 days old. Value 763,000 is above price 760,000."
+  },
+  {
+   "condition_id": "MF-006-C4",
+   "decision": "needs_review",
+   "rule_cited": "AR-12",
+   "rationale": "Letter October 12, 2026 (3 days), letterhead, signed, permanent. Salary 127,737.02 vs stated 139,000: 8.10% below, over 5%."
+  },
+  {
+   "condition_id": "MF-006-C5",
+   "decision": "satisfied",
+   "rule_cited": "AR-13",
+   "rationale": "Housing 2,771.15+469.76+182.69 = 3,423.60; GDS 29.56% on 11,583.33. Debts: auto 151, student 325, card 3% x 11,010 = 330.30 = 806.30; TDS = 4,229.90/11,583.33 = 36.52%. Score 780."
+  }
+ ]
+}

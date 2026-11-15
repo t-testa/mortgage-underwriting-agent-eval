@@ -1,0 +1,5 @@
+{"file_id":"MF-042","decisions":[
+{"condition_id":"MF-042-C1","decision":"satisfied","rule_cited":"INC-03","rationale":"Paystub pay date 2026-07-28 is 5 days old; 3,575.31 x 24 = 85,807.44 vs stated 83,000, no shortfall. 2025 NOA line 15000 87,369.32 also above stated."},
+{"condition_id":"MF-042-C2","decision":"needs_review","rule_cited":"EMP-05","rationale":"Letter 2026-07-16 (17 days old), letterhead and signed, salary 86,196.90 ok. Fixed-term contract continuously renewed since 2025-04-02 = 16 months at 2026-08-02, within 12 to 24 months, so AR-11 needs_review."},
+{"condition_id":"MF-042-C3","decision":"satisfied","rule_cited":"DTI-01","rationale":"Housing 1,540.11+251.90+134.20 = 1,926.21; GDS 1,926.21/6,916.67 = 27.85%. Debts: student loan 295.00 + Visa 13,850 x 3% = 415.50 = 710.50; TDS 2,636.71/6,916.67 = 38.12%. Both within 39/44, score 759."}
+]}

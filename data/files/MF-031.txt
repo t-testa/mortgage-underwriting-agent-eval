@@ -1,0 +1,123 @@
+FILE MF-031  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-08-16
+Applicant: Callum Nguyen
+Property: 770 Quarry Street, Trois-Rivieres, QC (condo)
+Purchase price: $865,000   Down payment: $86,500
+Stated annual income: $87,500   Employer (stated): Fairwater Education Board
+
+CONDITIONS TO DECIDE:
+  MF-031-C1 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-031-C2 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-031-C3 [employment] Confirm current employment.
+  MF-031-C4 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | final_v2_9090.pdf | 1 page(s) ===
+VOID CHEQUE
+Transit 03750  Institution 006  Account ******728
+[scanned 2026-08-16 09:22 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | IMG_1628.pdf | 1 page(s) ===
+DRIVER LICENCE (copy, masked)
+Name: Callum Nguyen
+Licence no: XXXX-XXXX-1693
+[scanned 2026-08-16 09:23 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | final_v2_7786.pdf | 2 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: CALLUM NGUYEN
+Statement period: April 8, 2026 to August 4, 2026
+Opening balance: $95,205.38
+
+April 10, 2026  RENT PAYMENT                                $-218.75        $94,986.63
+April 17, 2026  PAYROLL DEP FAIRWATER                      $2,490.38        $97,477.01
+April 29, 2026  ONLINE PURCHASE                             $-198.45        $97,278.56
+April 30, 2026  UTILITY PAYMENT                              $-72.67        $97,205.89
+April 30, 2026  INSURANCE PREM                              $-425.23        $96,780.66
+May 1, 2026     PAYROLL DEP FAIRWATER                      $2,490.38        $99,271.04
+May 2, 2026     INSURANCE PREM                              $-386.84        $98,884.20
+May 2, 2026     E-TRANSFER RECEIVED T. LEE                   $355.46        $99,239.66
+May 3, 2026     TELECOM BILL                                $-306.71        $98,932.95
+May 5, 2026     FUEL                                        $-390.10        $98,542.85
+May 15, 2026    PAYROLL DEP FAIRWATER                      $2,490.38       $101,033.23
+May 20, 2026    UTILITY PAYMENT                             $-320.65       $100,712.58
+May 27, 2026    RESTAURANT                                  $-509.86       $100,202.72
+May 29, 2026    PAYROLL DEP FAIRWATER                      $2,490.38       $102,693.10
+May 29, 2026    ONLINE PURCHASE                             $-484.55       $102,208.55
+May 31, 2026    RENT PAYMENT                                $-291.92       $101,916.63
+June 9, 2026    RENT PAYMENT                                $-154.80       $101,761.83
+June 9, 2026    TRANSIT PASS                                $-490.12       $101,271.71
+June 12, 2026   PAYROLL DEP FAIRWATER                      $2,490.38       $103,762.09
+June 15, 2026   FUEL                                        $-383.94       $103,378.15
+June 21, 2026   RENT PAYMENT                                $-447.77       $102,930.38
+June 23, 2026   RESTAURANT                                  $-289.22       $102,641.16
+June 26, 2026   PAYROLL DEP FAIRWATER                      $2,490.38       $105,131.54
+June 30, 2026   TELECOM BILL                                $-519.83       $104,611.71
+July 2, 2026    INSURANCE PREM                              $-439.07       $104,172.64
+July 10, 2026   PAYROLL DEP FAIRWATER                      $2,490.38       $106,663.02
+July 12, 2026   TRANSIT PASS                                $-403.00       $106,260.02
+July 17, 2026   RESTAURANT                                   $-57.39       $106,202.63
+July 22, 2026   GROCERY STORE                               $-281.22       $105,921.41
+July 24, 2026   PAYROLL DEP FAIRWATER                      $2,490.38       $108,411.79
+July 26, 2026   TELECOM BILL                                $-115.29       $108,296.50
+
+Closing balance: $108,296.50
+[scanned 2026-08-16 09:28 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | final_v2_9117.pdf | 1 page(s) ===
+CARDINAL EVALUATION SERVICES
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 770 Quarry Street, Trois-Rivieres, QC   (condo)
+Report date: July 22, 2026
+Contract purchase price: $865,000
+OPINION OF MARKET VALUE: $857,000
+Direct comparison approach. Comparables:
+  19 Chemin des Cedres   $876,000   adj -4.5%
+  307 Alder Lane   $874,000   adj -4.4%
+  342 Alder Lane   $847,000   adj -4.7%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: P. Girouard, CRA   Lic. 61629
+[scanned 2026-08-16 09:59 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | IMG_3259.pdf | 3 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $7,291.67
+Property type: condo
+Qualifying mortgage payment (P&I, stress-tested): $2,672.37
+Property tax (monthly): $384.65
+Heating (monthly): $156.56
+Condo fees (monthly): $276.15
+Liabilities declared by applicant (monthly payment as stated):
+  Maple Visa Gold                     $97.00
+  Home Equity Line                    $27.00
+  Student Loan (Provincial)           $78.00
+[scanned 2026-08-16 09:52 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | upload_4509.pdf | 1 page(s) ===
+[Letterhead: Fairwater Education Board | 633 Rue Saint-Exemple | tel 819-555-0161]
+2026-08-08
+To whom it may concern,
+This confirms that Callum Nguyen is employed by Fairwater Education Board as Senior Analyst.
+Start date: 2022-06-16. Employment status: fixed-term contract, continuously renewed with us since 2022-06-16.
+Current annual base salary: $90,252.52.
+Sincerely,
+/s/ Nadia Okafor, HR Manager
+[scanned 2026-08-16 09:18 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | final_v2_2246.pdf | 2 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 770 Quarry Street, Trois-Rivieres, QC
+Purchase price: $865,000   Closing date: 14/10/2026
+Deposit paid: $17,300
+[scanned 2026-08-16 09:18 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | final_v2_6198.pdf | 1 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: CALLUM NGUYEN    Report date: July 28, 2026
+Credit score: 718
+Creditor                  Type               Limit         Balance         Pmt  Status
+Maple Visa Gold           card          $14,000.00       $4,850.00      $97.00  Open
+Home Equity Line          loc            $5,000.00       $2,700.00      $27.00  Open
+Student Loan (Provincial) student                -       $2,600.00      $78.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-08-16 09:12 - page 1 of 1 - CONFIDENTIAL]

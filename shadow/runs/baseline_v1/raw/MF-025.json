@@ -1,0 +1,23 @@
+{
+ "file_id": "MF-025",
+ "decisions": [
+  {
+   "condition_id": "MF-025-C1",
+   "decision": "not_satisfied",
+   "rule_cited": "INC-02",
+   "rationale": "No NOA or T4 is on file for a salaried applicant, and the pay stub YTD of $86,080 is inconsistent with an April 21, 2026 start date."
+  },
+  {
+   "condition_id": "MF-025-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing balance of $90,876 with about 2 months of history and only payroll and small deposits covers the $71,500 down payment and closing costs."
+  },
+  {
+   "condition_id": "MF-025-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "EMP-04",
+   "rationale": "The letter states a six-month probation from April 21, 2026, so the applicant is still on probation with no exception on file."
+  }
+ ]
+}

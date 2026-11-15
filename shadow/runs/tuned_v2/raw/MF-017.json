@@ -1,0 +1,6 @@
+{"file_id":"MF-017","decisions":[
+{"condition_id":"MF-017-C1","decision":"needs_review","rule_cited":"INC-05","rationale":"Pay includes commission (1,395.83 of 3,791.66 semi-monthly), so income is variable and only one NOA (2025, line 15000 90,941.63) is on file: needs_review (AR-02). Applying AR-01, shortfall vs 91,000 is 0.06%; paystub is 24 days old."},
+{"condition_id":"MF-017-C2","decision":"not_satisfied","rule_cited":"DP-01","rationale":"Required funds 68,200 + 6,825 = 75,025 and balance 90,146.15 covers it, but history 19 Jun to 17 Aug 2026 is only 59 days, under 90 (AR-05)."},
+{"condition_id":"MF-017-C3","decision":"not_satisfied","rule_cited":"APP-05","rationale":"Cardinal Evaluation Services on panel, report 27 days old, value 459,000 >= 455,000, but value is subject to completion of roof replacement (AR-09)."},
+{"condition_id":"MF-017-C4","decision":"satisfied","rule_cited":"EMP-05","rationale":"Letter Aug 3 2026 is 25 days old, letterhead, signed. Fixed-term contract continuously renewed since 27 Feb 2023 = 42 months (>=24). Base salary 89,846.84 vs stated 91,000 is a 1.27% shortfall (<=5%)."}
+]}

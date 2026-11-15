@@ -1,0 +1,209 @@
+file_id,condition_id,family,decision,rule_id,rationale,scenario_tag,ambiguity_ref,missing_document
+MF-001,MF-001-C1,down_payment_source,not_satisfied,DP-02,"Closing balance 148,054 is below required funds 154,800 (down payment plus 1.5% closing costs) (AR-05).",insufficient_closing_gap,AR-05,N
+MF-001,MF-001-C2,appraisal,needs_review,APP-02,"Appraised 689,000 vs price 720,000; shortfall 4.3% (AR-08).",shortfall_mid,AR-08,N
+MF-001,MF-001-C3,employment,needs_review,EMP-06,"Letter salary 66,730 is more than 5% below stated 73,500 (AR-12).",salary_mismatch,AR-12,N
+MF-001,MF-001-C4,debt_ratio,not_satisfied,DTI-01,"Ratios exceed policy limits. GDS 33.3%, TDS 50.4%, score 769 (AR-13).",undisclosed_fail,AR-13,N
+MF-002,MF-002-C1,income_proof,satisfied,INC-03,"Documented income 68,481 vs stated 69,000; shortfall 0.8% (AR-01).",clean,,N
+MF-002,MF-002-C2,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",clean_savings,,N
+MF-002,MF-002-C3,appraisal,satisfied,APP-02,"Appraised 816,000 vs price 810,000; shortfall -0.7% (AR-08).",clean,,N
+MF-002,MF-002-C4,debt_ratio,satisfied,DTI-01,"GDS 29.5%, TDS 35.6%, score 765 (AR-13).",clean,,N
+MF-003,MF-003-C1,income_proof,satisfied,INC-03,"Documented income 85,709 vs stated 88,000; shortfall 2.6% (AR-01).",shortfall_small,AR-01,N
+MF-003,MF-003-C2,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",clean_savings,,N
+MF-003,MF-003-C3,employment,satisfied,EMP-03,"Signed letter on letterhead, current, stable status, salary consistent.",clean_permanent,,N
+MF-003,MF-003-C4,debt_ratio,needs_review,DTI-03,"Ratios exceed limits by 2 points or less with score 720+; exception to underwriter (AR-14). GDS 33.2%, TDS 44.7%, score 783 (AR-13).",exception_band,AR-14,N
+MF-004,MF-004-C1,income_proof,satisfied,INC-05,"Documented income 129,384 vs stated 129,500; shortfall 0.1% (AR-01).",variable_two_year,AR-02,N
+MF-004,MF-004-C2,down_payment_source,needs_review,DP-03,"Unexplained non-payroll deposit of 3,110 between 2,500 and 5,000 (AR-06).",unexplained_mid,AR-06,N
+MF-004,MF-004-C3,appraisal,satisfied,APP-02,"Appraised 782,000 vs price 780,000; shortfall -0.3% (AR-08).",clean,,N
+MF-004,MF-004-C4,employment,satisfied,EMP-03,"Signed letter on letterhead, current, stable status, salary consistent.",clean_permanent,,N
+MF-005,MF-005-C1,income_proof,satisfied,INC-03,"Documented income 111,069 vs stated 108,000; shortfall -2.8% (AR-01).",clean,,N
+MF-005,MF-005-C2,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",gift_ok,,N
+MF-005,MF-005-C3,appraisal,satisfied,APP-02,"Appraised 457,000 vs price 455,000; shortfall -0.4% (AR-08).",clean,,N
+MF-005,MF-005-C4,debt_ratio,not_satisfied,DTI-01,"Ratios exceed policy limits. GDS 49.2%, TDS 51.8%, score 715 (AR-13).",gds_fail,,N
+MF-006,MF-006-C1,income_proof,needs_review,INC-03,"Documented income 128,385 vs stated 139,000; shortfall 7.6% (AR-01).",shortfall_mid,AR-01,N
+MF-006,MF-006-C2,down_payment_source,not_satisfied,DP-02,"Closing balance 83,328 is below required funds 87,400 (down payment plus 1.5% closing costs) (AR-05).",insufficient_closing_gap,AR-05,N
+MF-006,MF-006-C3,appraisal,satisfied,APP-02,"Appraised 763,000 vs price 760,000; shortfall -0.4% (AR-08).",clean,,N
+MF-006,MF-006-C4,employment,needs_review,EMP-06,"Letter salary 127,737 is more than 5% below stated 139,000 (AR-12).",salary_mismatch,AR-12,N
+MF-006,MF-006-C5,debt_ratio,satisfied,DTI-01,"GDS 29.6%, TDS 36.5%, score 780 (AR-13).",clean,,N
+MF-007,MF-007-C1,income_proof,not_satisfied,INC-06,Key figures on the paystub are illegible; a clearer copy is required (AR-03).,illegible,AR-03,Y
+MF-007,MF-007-C2,down_payment_source,not_satisfied,DP-04,Gift letter lacks a non-repayable statement or the donor signature (AR-07).,gift_no_nonrepay,,N
+MF-007,MF-007-C3,appraisal,not_satisfied,APP-06,Evalu-Rapide Plus is not on the approved appraiser panel.,unapproved,,N
+MF-007,MF-007-C4,employment,needs_review,EMP-04,"Probation runs to 2026-10-14, after the review date; escalate (AR-10).",probation,AR-10,N
+MF-007,MF-007-C5,debt_ratio,not_satisfied,DTI-01,"Ratios exceed policy limits. GDS 37.4%, TDS 45.3%, score 714 (AR-13).",band_low_score,AR-14,N
+MF-008,MF-008-C1,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",asset_sale_ok,,N
+MF-008,MF-008-C2,appraisal,needs_review,APP-02,"Appraised 767,000 vs price 800,000; shortfall 4.1% (AR-08).",shortfall_mid,AR-08,N
+MF-008,MF-008-C3,employment,not_satisfied,EMP-07,No employment letter was provided; paystub alone does not confirm employment.,no_letter,,Y
+MF-008,MF-008-C4,debt_ratio,satisfied,DTI-01,"GDS 37.5%, TDS 43.5%, score 751 (AR-13).",borderline_pass,AR-13,N
+MF-009,MF-009-C1,income_proof,satisfied,INC-03,"Documented income 101,030 vs stated 100,500; shortfall -0.5% (AR-01).",clean,,N
+MF-009,MF-009-C2,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",gift_ok,,N
+MF-009,MF-009-C3,appraisal,satisfied,APP-02,"Appraised 494,000 vs price 490,000; shortfall -0.8% (AR-08).",clean,,N
+MF-009,MF-009-C4,debt_ratio,not_satisfied,DTI-02,"Credit score 594 is below the 600 minimum. GDS 31.1%, TDS 36.3%, score 594 (AR-13).",low_score,,N
+MF-010,MF-010-C1,income_proof,satisfied,INC-03,"Documented income 84,421 vs stated 82,500; shortfall -2.3% (AR-01).",clean,,N
+MF-010,MF-010-C2,down_payment_source,not_satisfied,DP-02,"Closing balance 34,114 is below required funds 48,450 (down payment plus 1.5% closing costs) (AR-05).",insufficient_clear,,N
+MF-010,MF-010-C3,appraisal,not_satisfied,APP-02,"Appraised 459,000 vs price 510,000; shortfall 10.0% (AR-08).",shortfall_large,AR-08,N
+MF-010,MF-010-C4,employment,needs_review,EMP-05,Contract history of about 20 months is between 12 and 24 (AR-11).,contract_mid,AR-11,N
+MF-010,MF-010-C5,debt_ratio,satisfied,DTI-01,"GDS 28.8%, TDS 36.9%, score 793 (AR-13).",clean,,N
+MF-011,MF-011-C1,income_proof,not_satisfied,INC-01,Paystub is 64 days old; maximum is 30 days with no grace period (AR-04).,stale_far,AR-04,N
+MF-011,MF-011-C2,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",asset_sale_ok,,N
+MF-011,MF-011-C3,appraisal,not_satisfied,APP-06,Evalu-Rapide Plus is not on the approved appraiser panel.,unapproved,,N
+MF-011,MF-011-C4,employment,satisfied,EMP-03,"Signed letter on letterhead, current, stable status, salary consistent.",clean_permanent,,N
+MF-012,MF-012-C1,down_payment_source,not_satisfied,DP-04,Gift letter lacks a non-repayable statement or the donor signature (AR-07).,gift_no_nonrepay,,N
+MF-012,MF-012-C2,appraisal,satisfied,APP-02,"Appraised 867,000 vs price 865,000; shortfall -0.2% (AR-08).",clean,,N
+MF-012,MF-012-C3,employment,satisfied,EMP-03,"Signed letter on letterhead, current, stable status, salary consistent.",clean_permanent,,N
+MF-012,MF-012-C4,debt_ratio,satisfied,DTI-01,"GDS 31.0%, TDS 35.7%, score 716 (AR-13).",clean,,N
+MF-013,MF-013-C1,down_payment_source,not_satisfied,DP-01,Statement covers 60 days; 90 days of history required (AR-05).,short_history,AR-05,N
+MF-013,MF-013-C2,appraisal,satisfied,APP-02,"Appraised 812,000 vs price 800,000; shortfall -1.5% (AR-08).",above_value,,N
+MF-013,MF-013-C3,debt_ratio,not_satisfied,DTI-02,"Credit score 545 is below the 600 minimum. GDS 30.3%, TDS 39.1%, score 545 (AR-13).",low_score,,N
+MF-014,MF-014-C1,income_proof,satisfied,INC-03,"Documented income 90,717 vs stated 88,500; shortfall -2.5% (AR-01).",clean,,N
+MF-014,MF-014-C2,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",clean_savings,,N
+MF-014,MF-014-C3,employment,not_satisfied,EMP-02,Letter is unsigned or not on letterhead (AR-16).,unsigned_or_no_letterhead,,N
+MF-014,MF-014-C4,debt_ratio,not_satisfied,DTI-02,"Credit score 574 is below the 600 minimum. GDS 31.6%, TDS 35.4%, score 574 (AR-13).",low_score,,N
+MF-015,MF-015-C1,down_payment_source,needs_review,DP-04,Donor relation 'Cousin' is not immediate family; escalate (AR-07).,gift_far_relation,AR-07,N
+MF-015,MF-015-C2,appraisal,satisfied,APP-02,"Appraised 617,000 vs price 615,000; shortfall -0.3% (AR-08).",clean,,N
+MF-015,MF-015-C3,employment,not_satisfied,EMP-02,Letter is unsigned or not on letterhead (AR-16).,unsigned_or_no_letterhead,,N
+MF-015,MF-015-C4,debt_ratio,not_satisfied,DTI-01,"Ratios exceed policy limits. GDS 34.5%, TDS 53.3%, score 748 (AR-13).",fail_tds,,N
+MF-016,MF-016-C1,income_proof,not_satisfied,INC-01,Paystub is 33 days old; maximum is 30 days with no grace period (AR-04).,stale_edge,AR-04,N
+MF-016,MF-016-C2,down_payment_source,not_satisfied,DP-02,"Closing balance 29,771 is below required funds 30,175 (down payment plus 1.5% closing costs) (AR-05).",insufficient_clear,,N
+MF-016,MF-016-C3,appraisal,needs_review,APP-05,Appraiser recommends a further inspection; escalate (AR-09).,recommend_inspection,AR-09,N
+MF-016,MF-016-C4,employment,satisfied,EMP-03,"Signed letter on letterhead, current, stable status, salary consistent.",contract_long,AR-11,N
+MF-016,MF-016-C5,debt_ratio,satisfied,DTI-01,"GDS 28.6%, TDS 37.6%, score 727 (AR-13).",undisclosed_pass,AR-13,N
+MF-017,MF-017-C1,income_proof,needs_review,INC-05,Variable income with only one year of NOA history; two years needed (AR-02).,variable_one_year,AR-02,N
+MF-017,MF-017-C2,down_payment_source,not_satisfied,DP-01,Statement covers 60 days; 90 days of history required (AR-05).,short_history,AR-05,N
+MF-017,MF-017-C3,appraisal,not_satisfied,APP-05,Value is subject to completion of repairs; condition is not cleared (AR-09).,subject_to,,N
+MF-017,MF-017-C4,employment,satisfied,EMP-03,"Signed letter on letterhead, current, stable status, salary consistent.",contract_long,AR-11,N
+MF-018,MF-018-C1,income_proof,needs_review,INC-05,Variable income with only one year of NOA history; two years needed (AR-02).,variable_one_year,AR-02,N
+MF-018,MF-018-C2,down_payment_source,not_satisfied,DP-03,"Unexplained non-payroll deposit of 15,250 exceeds 5,000 (AR-06).",unexplained_big,AR-06,N
+MF-018,MF-018-C3,appraisal,satisfied,APP-02,"Appraised 403,000 vs price 400,000; shortfall -0.8% (AR-08).",clean,,N
+MF-018,MF-018-C4,employment,not_satisfied,EMP-01,Letter is 38 days old; maximum is 30 days (AR-04).,stale_edge,AR-04,N
+MF-018,MF-018-C5,debt_ratio,satisfied,DTI-01,"GDS 29.9%, TDS 38.7%, score 745 (AR-13).",undisclosed_pass,AR-13,N
+MF-019,MF-019-C1,income_proof,satisfied,INC-03,"Documented income 78,018 vs stated 81,500; shortfall 4.3% (AR-01).",shortfall_small,AR-01,N
+MF-019,MF-019-C2,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",gift_ok,,N
+MF-019,MF-019-C3,appraisal,needs_review,APP-02,"Appraised 684,000 vs price 715,000; shortfall 4.3% (AR-08).",shortfall_mid,AR-08,N
+MF-019,MF-019-C4,employment,satisfied,EMP-03,"Signed letter on letterhead, current, stable status, salary consistent.",clean_permanent,,N
+MF-020,MF-020-C1,income_proof,not_satisfied,INC-03,"Documented income 105,313 vs stated 131,500; shortfall 19.9% (AR-01).",shortfall_large,AR-01,N
+MF-020,MF-020-C2,down_payment_source,not_satisfied,DP-02,"Closing balance 35,834 is below required funds 39,100 (down payment plus 1.5% closing costs) (AR-05).",insufficient_closing_gap,AR-05,N
+MF-020,MF-020-C3,appraisal,needs_review,APP-05,Appraiser recommends a further inspection; escalate (AR-09).,recommend_inspection,AR-09,N
+MF-020,MF-020-C4,debt_ratio,not_satisfied,DTI-01,"Ratios exceed policy limits. GDS 33.8%, TDS 48.9%, score 789 (AR-13).",undisclosed_fail,AR-13,N
+MF-021,MF-021-C1,income_proof,needs_review,INC-03,"Documented income 153,344 vs stated 167,000; shortfall 8.2% (AR-01).",shortfall_mid,AR-01,N
+MF-021,MF-021-C2,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",clean_savings,,N
+MF-021,MF-021-C3,appraisal,satisfied,APP-02,"Appraised 650,000 vs price 645,000; shortfall -0.8% (AR-08).",clean,,N
+MF-021,MF-021-C4,employment,needs_review,EMP-04,"Probation runs to 2026-12-05, after the review date; escalate (AR-10).",probation,AR-10,N
+MF-021,MF-021-C5,debt_ratio,not_satisfied,DTI-01,"Ratios exceed policy limits. GDS 34.0%, TDS 51.6%, score 712 (AR-13).",fail_tds,,N
+MF-022,MF-022-C1,income_proof,satisfied,INC-03,"Documented income 105,077 vs stated 103,500; shortfall -1.5% (AR-01).",clean,,N
+MF-022,MF-022-C2,down_payment_source,not_satisfied,DP-03,"Unexplained non-payroll deposit of 21,250 exceeds 5,000 (AR-06).",unexplained_big,AR-06,N
+MF-022,MF-022-C3,appraisal,needs_review,APP-05,Appraiser recommends a further inspection; escalate (AR-09).,recommend_inspection,AR-09,N
+MF-022,MF-022-C4,debt_ratio,satisfied,DTI-01,"GDS 33.1%, TDS 36.2%, score 708 (AR-13).",closed_listed,AR-13,N
+MF-023,MF-023-C1,income_proof,satisfied,INC-05,"Documented income 117,198 vs stated 118,500; shortfall 1.1% (AR-01).",variable_two_year,AR-02,N
+MF-023,MF-023-C2,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",clean_savings,,N
+MF-023,MF-023-C3,appraisal,satisfied,APP-02,"Appraised 758,000 vs price 755,000; shortfall -0.4% (AR-08).",clean,,N
+MF-023,MF-023-C4,debt_ratio,not_satisfied,DTI-01,"Ratios exceed policy limits. GDS 33.3%, TDS 45.1%, score 664 (AR-13).",band_low_score,AR-14,N
+MF-024,MF-024-C1,income_proof,not_satisfied,INC-01,Paystub is 72 days old; maximum is 30 days with no grace period (AR-04).,stale_far,AR-04,N
+MF-024,MF-024-C2,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",clean_savings,,N
+MF-024,MF-024-C3,appraisal,not_satisfied,APP-06,Evalu-Rapide Plus is not on the approved appraiser panel.,unapproved,,N
+MF-024,MF-024-C4,employment,not_satisfied,EMP-01,Letter is 66 days old; maximum is 30 days (AR-04).,stale_far,AR-04,N
+MF-025,MF-025-C1,income_proof,not_satisfied,INC-02,No Notice of Assessment or T4 for the last tax year was provided.,missing_noa,,Y
+MF-025,MF-025-C2,down_payment_source,not_satisfied,DP-01,Statement covers 60 days; 90 days of history required (AR-05).,short_history,AR-05,N
+MF-025,MF-025-C3,employment,needs_review,EMP-04,"Probation runs to 2026-10-20, after the review date; escalate (AR-10).",probation,AR-10,N
+MF-026,MF-026-C1,income_proof,needs_review,INC-03,"Documented income 124,544 vs stated 142,500; shortfall 12.6% (AR-01).",shortfall_mid,AR-01,N
+MF-026,MF-026-C2,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",clean_savings,,N
+MF-026,MF-026-C3,employment,satisfied,EMP-03,"Signed letter on letterhead, current, stable status, salary consistent.",clean_permanent,,N
+MF-026,MF-026-C4,debt_ratio,not_satisfied,DTI-01,"Ratios exceed policy limits. GDS 37.7%, TDS 45.5%, score 642 (AR-13).",band_low_score,AR-14,N
+MF-027,MF-027-C1,income_proof,satisfied,INC-03,"Documented income 119,849 vs stated 115,500; shortfall -3.8% (AR-01).",clean,,N
+MF-027,MF-027-C2,down_payment_source,needs_review,DP-04,Donor relation 'Ami de la famille' is not immediate family; escalate (AR-07).,gift_far_relation,AR-07,N
+MF-027,MF-027-C3,employment,satisfied,EMP-03,"Signed letter on letterhead, current, stable status, salary consistent.",clean_permanent,,N
+MF-027,MF-027-C4,debt_ratio,not_satisfied,DTI-01,"Ratios exceed policy limits. GDS 36.2%, TDS 49.8%, score 759 (AR-13).",fail_tds,,N
+MF-028,MF-028-C1,income_proof,needs_review,INC-05,Variable income with only one year of NOA history; two years needed (AR-02).,variable_one_year,AR-02,N
+MF-028,MF-028-C2,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",asset_sale_ok,,N
+MF-028,MF-028-C3,appraisal,satisfied,APP-02,"Appraised 734,000 vs price 695,000; shortfall -5.6% (AR-08).",above_value,,N
+MF-028,MF-028-C4,employment,not_satisfied,EMP-01,Letter is 38 days old; maximum is 30 days (AR-04).,stale_edge,AR-04,N
+MF-028,MF-028-C5,debt_ratio,satisfied,DTI-01,"GDS 31.7%, TDS 40.0%, score 735 (AR-13).",clean,,N
+MF-029,MF-029-C1,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",clean_savings,,N
+MF-029,MF-029-C2,appraisal,not_satisfied,APP-02,"Appraised 366,000 vs price 390,000; shortfall 6.2% (AR-08).",shortfall_large,AR-08,N
+MF-029,MF-029-C3,employment,satisfied,EMP-03,"Signed letter on letterhead, current, stable status, salary consistent.",clean_permanent,,N
+MF-029,MF-029-C4,debt_ratio,satisfied,DTI-01,"GDS 31.8%, TDS 39.7%, score 816 (AR-13).",clean,,N
+MF-030,MF-030-C1,income_proof,satisfied,INC-03,"Documented income 77,255 vs stated 80,500; shortfall 4.0% (AR-01).",shortfall_small,AR-01,N
+MF-030,MF-030-C2,appraisal,satisfied,APP-02,"Appraised 724,000 vs price 720,000; shortfall -0.6% (AR-08).",clean,,N
+MF-030,MF-030-C3,employment,needs_review,EMP-05,Contract history of about 23 months is between 12 and 24 (AR-11).,contract_mid,AR-11,N
+MF-030,MF-030-C4,debt_ratio,satisfied,DTI-01,"GDS 28.9%, TDS 37.9%, score 778 (AR-13).",clean,,N
+MF-031,MF-031-C1,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",clean_savings,,N
+MF-031,MF-031-C2,appraisal,satisfied,APP-02,"Appraised 857,000 vs price 865,000; shortfall 0.9% (AR-08).",shortfall_small,AR-08,N
+MF-031,MF-031-C3,employment,satisfied,EMP-03,"Signed letter on letterhead, current, stable status, salary consistent.",contract_long,AR-11,N
+MF-031,MF-031-C4,debt_ratio,not_satisfied,DTI-01,"Ratios exceed policy limits. GDS 46.0%, TDS 50.1%, score 718 (AR-13).",gds_fail,,N
+MF-032,MF-032-C1,income_proof,satisfied,INC-05,"Documented income 99,212 vs stated 99,000; shortfall -0.2% (AR-01).",variable_two_year,AR-02,N
+MF-032,MF-032-C2,down_payment_source,not_satisfied,DP-03,"Unexplained non-payroll deposit of 31,080 exceeds 5,000 (AR-06).",unexplained_big,AR-06,N
+MF-032,MF-032-C3,appraisal,not_satisfied,APP-01,Appraisal is 121 days old; maximum is 90 days (AR-04).,stale,AR-04,N
+MF-032,MF-032-C4,employment,needs_review,EMP-05,Contract history of about 17 months is between 12 and 24 (AR-11).,contract_mid,AR-11,N
+MF-032,MF-032-C5,debt_ratio,satisfied,DTI-01,"GDS 38.3%, TDS 43.5%, score 693 (AR-13).",borderline_pass,AR-13,N
+MF-033,MF-033-C1,income_proof,satisfied,INC-03,"Documented income 163,939 vs stated 161,500; shortfall -1.5% (AR-01).",clean,,N
+MF-033,MF-033-C2,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",clean_savings,,N
+MF-033,MF-033-C3,appraisal,satisfied,APP-02,"Appraised 561,000 vs price 560,000; shortfall -0.2% (AR-08).",clean,,N
+MF-033,MF-033-C4,debt_ratio,satisfied,DTI-01,"GDS 28.9%, TDS 40.2%, score 817 (AR-13).",clean,,N
+MF-034,MF-034-C1,income_proof,not_satisfied,INC-03,"Documented income 119,465 vs stated 158,000; shortfall 24.4% (AR-01).",shortfall_large,AR-01,N
+MF-034,MF-034-C2,down_payment_source,needs_review,DP-03,"Unexplained non-payroll deposit of 3,080 between 2,500 and 5,000 (AR-06).",unexplained_mid,AR-06,N
+MF-034,MF-034-C3,employment,satisfied,EMP-03,"Signed letter on letterhead, current, stable status, salary consistent.",clean_permanent,,N
+MF-034,MF-034-C4,debt_ratio,needs_review,DTI-03,"Ratios exceed limits by 2 points or less with score 720+; exception to underwriter (AR-14). GDS 35.1%, TDS 45.0%, score 731 (AR-13).",exception_band,AR-14,N
+MF-035,MF-035-C1,income_proof,not_satisfied,INC-06,Key figures on the paystub are illegible; a clearer copy is required (AR-03).,illegible,AR-03,Y
+MF-035,MF-035-C2,down_payment_source,needs_review,DP-04,Donor relation 'Cousin' is not immediate family; escalate (AR-07).,gift_far_relation,AR-07,N
+MF-035,MF-035-C3,employment,not_satisfied,EMP-01,Letter is 75 days old; maximum is 30 days (AR-04).,stale_far,AR-04,N
+MF-035,MF-035-C4,debt_ratio,satisfied,DTI-01,"GDS 28.6%, TDS 36.9%, score 715 (AR-13).",closed_listed,AR-13,N
+MF-036,MF-036-C1,income_proof,satisfied,INC-03,"Documented income 155,965 vs stated 155,000; shortfall -0.6% (AR-01).",clean,,N
+MF-036,MF-036-C2,down_payment_source,not_satisfied,DP-04,Gift letter lacks a non-repayable statement or the donor signature (AR-07).,gift_no_nonrepay,,N
+MF-036,MF-036-C3,appraisal,satisfied,APP-02,"Appraised 513,000 vs price 510,000; shortfall -0.6% (AR-08).",clean,,N
+MF-036,MF-036-C4,employment,not_satisfied,EMP-05,Contract history of about 6 months is below 12 (AR-11).,contract_short,AR-11,N
+MF-037,MF-037-C1,income_proof,not_satisfied,INC-01,Paystub is 40 days old; maximum is 30 days with no grace period (AR-04).,stale_edge,AR-04,N
+MF-037,MF-037-C2,down_payment_source,needs_review,DP-04,Donor relation 'Ami' is not immediate family; escalate (AR-07).,gift_far_relation,AR-07,N
+MF-037,MF-037-C3,appraisal,satisfied,APP-02,"Appraised 844,000 vs price 810,000; shortfall -4.2% (AR-08).",above_value,,N
+MF-037,MF-037-C4,employment,needs_review,EMP-04,"Probation runs to 2027-04-04, after the review date; escalate (AR-10).",probation,AR-10,N
+MF-037,MF-037-C5,debt_ratio,satisfied,DTI-01,"GDS 33.8%, TDS 36.3%, score 726 (AR-13).",clean,,N
+MF-038,MF-038-C1,income_proof,satisfied,INC-03,"Documented income 111,755 vs stated 109,500; shortfall -2.1% (AR-01).",clean,,N
+MF-038,MF-038-C2,down_payment_source,not_satisfied,DP-03,"Unexplained non-payroll deposit of 10,000 exceeds 5,000 (AR-06).",unexplained_big,AR-06,N
+MF-038,MF-038-C3,appraisal,not_satisfied,APP-05,Value is subject to completion of repairs; condition is not cleared (AR-09).,subject_to,,N
+MF-038,MF-038-C4,employment,satisfied,EMP-03,"Signed letter on letterhead, current, stable status, salary consistent.",clean_permanent,,N
+MF-039,MF-039-C1,income_proof,satisfied,INC-03,"Documented income 145,017 vs stated 145,000; shortfall -0.0% (AR-01).",clean,,N
+MF-039,MF-039-C2,appraisal,not_satisfied,APP-02,"Appraised 376,000 vs price 420,000; shortfall 10.5% (AR-08).",shortfall_large,AR-08,N
+MF-039,MF-039-C3,employment,not_satisfied,EMP-07,No employment letter was provided; paystub alone does not confirm employment.,no_letter,,Y
+MF-039,MF-039-C4,debt_ratio,satisfied,DTI-01,"GDS 30.9%, TDS 38.5%, score 745 (AR-13).",clean,,N
+MF-040,MF-040-C1,income_proof,not_satisfied,INC-02,No Notice of Assessment or T4 for the last tax year was provided.,missing_noa,,Y
+MF-040,MF-040-C2,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",clean_savings,,N
+MF-040,MF-040-C3,appraisal,satisfied,APP-02,"Appraised 430,000 vs price 410,000; shortfall -4.9% (AR-08).",above_value,,N
+MF-040,MF-040-C4,employment,satisfied,EMP-03,"Signed letter on letterhead, current, stable status, salary consistent.",clean_permanent,,N
+MF-041,MF-041-C1,income_proof,satisfied,INC-03,"Documented income 120,609 vs stated 116,000; shortfall -4.0% (AR-01).",clean,,N
+MF-041,MF-041-C2,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",gift_ok,,N
+MF-041,MF-041-C3,employment,not_satisfied,EMP-05,Contract history of about 9 months is below 12 (AR-11).,contract_short,AR-11,N
+MF-041,MF-041-C4,debt_ratio,needs_review,DTI-03,"Ratios exceed limits by 2 points or less with score 720+; exception to underwriter (AR-14). GDS 33.6%, TDS 45.3%, score 742 (AR-13).",exception_band,AR-14,N
+MF-042,MF-042-C1,income_proof,satisfied,INC-03,"Documented income 85,807 vs stated 83,000; shortfall -3.4% (AR-01).",clean,,N
+MF-042,MF-042-C2,employment,needs_review,EMP-05,Contract history of about 16 months is between 12 and 24 (AR-11).,contract_mid,AR-11,N
+MF-042,MF-042-C3,debt_ratio,satisfied,DTI-01,"GDS 27.8%, TDS 38.1%, score 759 (AR-13).",clean,,N
+MF-043,MF-043-C1,income_proof,satisfied,INC-03,"Documented income 118,173 vs stated 117,500; shortfall -0.6% (AR-01).",clean,,N
+MF-043,MF-043-C2,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",clean_savings,,N
+MF-043,MF-043-C3,appraisal,satisfied,APP-02,"Appraised 353,000 vs price 350,000; shortfall -0.9% (AR-08).",clean,,N
+MF-043,MF-043-C4,employment,satisfied,EMP-03,"Signed letter on letterhead, current, stable status, salary consistent.",clean_permanent,,N
+MF-043,MF-043-C5,debt_ratio,needs_review,DTI-03,"Ratios exceed limits by 2 points or less with score 720+; exception to underwriter (AR-14). GDS 35.1%, TDS 45.4%, score 730 (AR-13).",exception_band,AR-14,N
+MF-044,MF-044-C1,income_proof,satisfied,INC-05,"Documented income 127,109 vs stated 128,000; shortfall 0.7% (AR-01).",variable_two_year,AR-02,N
+MF-044,MF-044-C2,employment,needs_review,EMP-06,"Letter salary 114,721 is more than 5% below stated 128,000 (AR-12).",salary_mismatch,AR-12,N
+MF-044,MF-044-C3,debt_ratio,satisfied,DTI-01,"GDS 29.9%, TDS 37.1%, score 724 (AR-13).",clean,,N
+MF-045,MF-045-C1,income_proof,needs_review,INC-03,"Documented income 146,867 vs stated 159,000; shortfall 7.6% (AR-01).",shortfall_mid,AR-01,N
+MF-045,MF-045-C2,appraisal,not_satisfied,APP-01,Appraisal is 118 days old; maximum is 90 days (AR-04).,stale,AR-04,N
+MF-045,MF-045-C3,employment,satisfied,EMP-03,"Signed letter on letterhead, current, stable status, salary consistent.",clean_permanent,,N
+MF-045,MF-045-C4,debt_ratio,not_satisfied,DTI-01,"Ratios exceed policy limits. GDS 33.2%, TDS 47.3%, score 746 (AR-13).",undisclosed_fail,AR-13,N
+MF-046,MF-046-C1,income_proof,not_satisfied,INC-03,"Documented income 117,311 vs stated 148,000; shortfall 20.7% (AR-01).",shortfall_large,AR-01,N
+MF-046,MF-046-C2,appraisal,satisfied,APP-02,"Appraised 617,000 vs price 625,000; shortfall 1.3% (AR-08).",shortfall_small,AR-08,N
+MF-046,MF-046-C3,employment,satisfied,EMP-03,"Signed letter on letterhead, current, stable status, salary consistent.",clean_permanent,,N
+MF-046,MF-046-C4,debt_ratio,satisfied,DTI-01,"GDS 27.5%, TDS 36.0%, score 715 (AR-13).",clean,,N
+MF-047,MF-047-C1,income_proof,not_satisfied,INC-06,Key figures on the paystub are illegible; a clearer copy is required (AR-03).,illegible,AR-03,Y
+MF-047,MF-047-C2,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",gift_ok,,N
+MF-047,MF-047-C3,appraisal,not_satisfied,APP-05,Value is subject to completion of repairs; condition is not cleared (AR-09).,subject_to,,N
+MF-047,MF-047-C4,employment,not_satisfied,EMP-05,Contract history of about 5 months is below 12 (AR-11).,contract_short,AR-11,N
+MF-048,MF-048-C1,income_proof,not_satisfied,INC-02,No Notice of Assessment or T4 for the last tax year was provided.,missing_noa,,Y
+MF-048,MF-048-C2,down_payment_source,needs_review,DP-03,"Unexplained non-payroll deposit of 3,360 between 2,500 and 5,000 (AR-06).",unexplained_mid,AR-06,N
+MF-048,MF-048-C3,appraisal,satisfied,APP-02,"Appraised 743,000 vs price 740,000; shortfall -0.4% (AR-08).",clean,,N
+MF-048,MF-048-C4,employment,satisfied,EMP-03,"Signed letter on letterhead, current, stable status, salary consistent.",clean_permanent,,N
+MF-048,MF-048-C5,debt_ratio,satisfied,DTI-01,"GDS 33.8%, TDS 43.3%, score 764 (AR-13).",borderline_pass,AR-13,N
+MF-049,MF-049-C1,income_proof,satisfied,INC-03,"Documented income 77,374 vs stated 77,500; shortfall 0.2% (AR-01).",clean,,N
+MF-049,MF-049-C2,down_payment_source,satisfied,DP-02,"Funds seasoned 90+ days, cover down payment and closing costs, deposits explained.",clean_savings,,N
+MF-049,MF-049-C3,appraisal,satisfied,APP-02,"Appraised 445,000 vs price 430,000; shortfall -3.5% (AR-08).",above_value,,N
+MF-049,MF-049-C4,debt_ratio,not_satisfied,DTI-01,"Ratios exceed policy limits. GDS 33.1%, TDS 50.3%, score 764 (AR-13).",fail_tds,,N
+MF-050,MF-050-C1,income_proof,satisfied,INC-03,"Documented income 138,099 vs stated 138,500; shortfall 0.3% (AR-01).",clean,,N
+MF-050,MF-050-C2,down_payment_source,needs_review,DP-03,"Unexplained non-payroll deposit of 3,810 between 2,500 and 5,000 (AR-06).",unexplained_mid,AR-06,N
+MF-050,MF-050-C3,appraisal,satisfied,APP-02,"Appraised 744,000 vs price 750,000; shortfall 0.8% (AR-08).",shortfall_small,AR-08,N
+MF-050,MF-050-C4,employment,not_satisfied,EMP-07,No employment letter was provided; paystub alone does not confirm employment.,no_letter,,Y
+MF-050,MF-050-C5,debt_ratio,satisfied,DTI-01,"GDS 28.2%, TDS 38.5%, score 784 (AR-13).",clean,,N

@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-039",
+ "decisions": [
+  {
+   "condition_id": "MF-039-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "NOA 2025 ($139,661) and current pay stub (about $145k annualized, YTD consistent) support the stated $145,000."
+  },
+  {
+   "condition_id": "MF-039-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Appraised value of $376,000 is about 10% below the $420,000 purchase price."
+  },
+  {
+   "condition_id": "MF-039-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "EMP-07",
+   "rationale": "No employment letter is on file; the borrower note says it will follow."
+  },
+  {
+   "condition_id": "MF-039-C4",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "Worksheet GDS about 32% and TDS about 37% with score 745 are within limits."
+  }
+ ]
+}

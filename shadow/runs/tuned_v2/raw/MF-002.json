@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-002",
+ "decisions": [
+  {
+   "condition_id": "MF-002-C1",
+   "decision": "satisfied",
+   "rule_cited": "AR-01",
+   "rationale": "Paystub 17-Sep-2026 (3 days old) monthly gross 5,706.77 x 12 = 68,481.24 vs stated 69,000: 0.75% shortfall. NOA 2025 line 15000 69,282.43 exceeds stated."
+  },
+  {
+   "condition_id": "MF-002-C2",
+   "decision": "satisfied",
+   "rule_cited": "AR-05",
+   "rationale": "Required = 81,000 + 1.5% x 810,000 (12,150) = 93,150; closing balance 98,382.96. History 25/05-17/09 = 115 days. Non-payroll deposits (796.13, 734.58) are under 2,500."
+  },
+  {
+   "condition_id": "MF-002-C3",
+   "decision": "satisfied",
+   "rule_cited": "AR-08",
+   "rationale": "Meridian on panel; report 26-Jul-2026 is 56 days old. Value 816,000 is above price 810,000. Cosmetic comment ignored."
+  },
+  {
+   "condition_id": "MF-002-C4",
+   "decision": "satisfied",
+   "rule_cited": "AR-13",
+   "rationale": "Housing 1,061.94+257.72+187.90+50% x 371.84 (185.92) = 1,693.48; GDS 29.45% on 5,750. Card 3% x 11,710 = 351.30; TDS = 2,044.78/5,750 = 35.56%. Credit score 765."
+  }
+ ]
+}

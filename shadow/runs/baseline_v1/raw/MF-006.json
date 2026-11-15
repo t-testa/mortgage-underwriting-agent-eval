@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-006",
+ "decisions": [
+  {
+   "condition_id": "MF-006-C1",
+   "decision": "needs_review",
+   "rule_cited": "INC-03",
+   "rationale": "Documented income (letter $127,737, NOA $126,345, paystub about $128,400) is roughly 8-9% below the stated $139,000, a shortfall that requires escalation."
+  },
+  {
+   "condition_id": "MF-006-C2",
+   "decision": "needs_review",
+   "rule_cited": "DP-02",
+   "rationale": "The $83,328 balance covers the $76,000 down payment but leaves only about $7,300 for closing costs, which are not quantified, so coverage is not clearly shown."
+  },
+  {
+   "condition_id": "MF-006-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-06",
+   "rationale": "Cardinal Evaluation Services is on the panel, report dated 2026-10-04 is recent, and the $763,000 value supports the $760,000 price."
+  },
+  {
+   "condition_id": "MF-006-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Recent (2026-10-12) signed letter on letterhead confirms permanent full-time employment since 2015; salary below stated income is handled under income proof."
+  },
+  {
+   "condition_id": "MF-006-C5",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS about 29.6% and TDS about 35.6% on stated income (about 32%/38.5% on documented income) are within limits, with score 780 and liabilities matching the bureau."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-008",
+ "decisions": [
+  {
+   "condition_id": "MF-008-C1",
+   "decision": "satisfied",
+   "rule_cited": "AR-06",
+   "rationale": "Required = 80,000 + 1.5% x 800,000 (12,000) = 92,000; closing balance 102,032.94; history 92 days. The 6,450 e-transfer is explained by the bill of sale (6,450, 17-May-2026, buyer Desrosiers)."
+  },
+  {
+   "condition_id": "MF-008-C2",
+   "decision": "needs_review",
+   "rule_cited": "AR-08",
+   "rationale": "Meridian on panel; report 2026/05/22 is 49 days old. Shortfall = (800,000-767,000)/800,000 = 4.13%, over 2% up to 5%."
+  },
+  {
+   "condition_id": "MF-008-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "EMP-07",
+   "rationale": "No employment letter on file (only a borrower cover note saying it will follow); required document is missing."
+  },
+  {
+   "condition_id": "MF-008-C4",
+   "decision": "satisfied",
+   "rule_cited": "AR-13",
+   "rationale": "Housing 3,922.84+292.59+174.48 = 4,389.91; GDS 37.49% on 11,708.33. Auto loan 700; TDS = 5,089.91/11,708.33 = 43.47%, within 44%. Score 751."
+  }
+ ]
+}

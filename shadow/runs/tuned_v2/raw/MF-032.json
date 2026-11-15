@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-032",
+ "decisions": [
+  {
+   "condition_id": "MF-032-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-05",
+   "rationale": "Commission present: average line 15000 of two NOAs = (98,495.01 + 99,928.75)/2 = 99,211.88, above stated 99,000, so no shortfall. Paystub 2026-07-22 (4 days old) annualized 3,807.69 x 26 = 98,999.94."
+  },
+  {
+   "condition_id": "MF-032-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "DP-03",
+   "rationale": "Cash deposit of 31,080.00 on 16/06/2026 is non-payroll, over 5,000, and no explanation document is on file (AR-06). Without it the balance (142,419) would also fall short of required 149,000 + 11,175 = 160,175."
+  },
+  {
+   "condition_id": "MF-032-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-01",
+   "rationale": "Appraisal dated 27-Mar-2026 is 121 days old at review date 2026-07-26, over the 90-day limit (AR-04). Panel and value (750,000 vs 745,000) are fine."
+  },
+  {
+   "condition_id": "MF-032-C4",
+   "decision": "needs_review",
+   "rule_cited": "EMP-05",
+   "rationale": "Letter 2026-07-20 recent and signed. Contract since 2025-02-24 = about 17 months, in the 12 to under 24 month band (AR-11). Letter salary 96,176.40 vs stated 99,000 is 2.85% below (<=5%)."
+  },
+  {
+   "condition_id": "MF-032-C5",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "Housing = 2,537.67 + 528.62 + 92.89 = 3,159.18; GDS = 3,159.18 / 8,250 = 38.29% (<=39). Other debts 208 + 221 = 429; TDS = 3,588.18 / 8,250 = 43.49% (<=44). Credit 693."
+  }
+ ]
+}

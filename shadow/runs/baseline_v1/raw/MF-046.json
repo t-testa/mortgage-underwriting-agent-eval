@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-046",
+ "decisions": [
+  {
+   "condition_id": "MF-046-C1",
+   "decision": "needs_review",
+   "rule_cited": "INC-03",
+   "rationale": "NOA shows $114,559 and pay stub annualizes to about $117,300 versus stated $148,000 (about 21% shortfall) despite a letter at $147,806; a material shortfall requires escalation."
+  },
+  {
+   "condition_id": "MF-046-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Meridian appraisal (on panel) values the property at $617,000, below the $625,000 purchase price."
+  },
+  {
+   "condition_id": "MF-046-C3",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Permanent full-time since 2020, probation completed, on letterhead, signed, dated 2026/06/25."
+  },
+  {
+   "condition_id": "MF-046-C4",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS about 28.9% and TDS about 32.9% on stated income, and still about 36% and 41.5% on documented income; score 715 meets DTI-02."
+  }
+ ]
+}

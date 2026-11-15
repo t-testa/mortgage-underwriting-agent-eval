@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-040",
+ "decisions": [
+  {
+   "condition_id": "MF-040-C1",
+   "decision": "not_satisfied",
+   "rule_cited": "INC-02",
+   "rationale": "Paystub 13-Jul-2026 (21 days old) semi-monthly 3,004.74 x 24 = 72,113.76 (0.53% below stated 72,500, fine), but no NOA or T4 for 2025 is on file, which INC-02 requires for salaried applicants; missing document."
+  },
+  {
+   "condition_id": "MF-040-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "History 2026/04/11-07/24 = 104 days (>=90). Required = 41,000 + 6,150 = 47,150; closing balance 50,768.51 covers it. Non-payroll deposits are small e-transfers (<=725.16)."
+  },
+  {
+   "condition_id": "MF-040-C3",
+   "decision": "satisfied",
+   "rule_cited": "AR-08",
+   "rationale": "Report 2026/06/03 is 61 days old (<=90); Valeur Reference Inc. on panel. Value 430,000 above price 410,000. Cosmetic comment only."
+  },
+  {
+   "condition_id": "MF-040-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Letter 17/07/2026 is 17 days old, letterhead and signed; permanent full-time since 2016. Salary 72,161.43 vs stated 72,500 is 0.47% below (<=5%)."
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+FILE MF-041  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-09-07
+Applicant: Sana Brannigan
+Property: 261 Alder Lane, Kingston, ON (house)
+Purchase price: $435,000   Down payment: $34,800
+Stated annual income: $116,000   Employer (stated): Aurelia Software Ltd.
+
+CONDITIONS TO DECIDE:
+  MF-041-C1 [income_proof] Provide proof of income supporting the stated annual income of $116,000.
+  MF-041-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-041-C3 [employment] Confirm current employment.
+  MF-041-C4 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | scan_5708.pdf | 3 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: SANA BRANNIGAN
+Statement period: 2026-05-21 to 2026-08-28
+Opening balance: $18,180.73
+
+2026-05-23      UTILITY PAYMENT                             $-150.74        $18,029.99
+2026-05-27      PAYROLL DEP AURELIA                        $3,301.54        $21,331.53
+2026-05-29      RESTAURANT                                  $-164.18        $21,167.35
+2026-06-01      UTILITY PAYMENT                             $-369.33        $20,798.02
+2026-06-02      INSURANCE PREM                              $-193.26        $20,604.76
+2026-06-04      FUEL                                        $-462.76        $20,142.00
+2026-06-10      PAYROLL DEP AURELIA                        $3,301.54        $23,443.54
+2026-06-12      ONLINE PURCHASE                             $-369.53        $23,074.01
+2026-06-24      PAYROLL DEP AURELIA                        $3,301.54        $26,375.55
+2026-06-25      TELECOM BILL                                $-267.02        $26,108.53
+2026-06-25      TELECOM BILL                                 $-67.61        $26,040.92
+2026-07-06      E-TRANSFER RECEIVED TYLER BRANNIGAN       $20,500.00        $46,540.92
+2026-07-08      PAYROLL DEP AURELIA                        $3,301.54        $49,842.46
+2026-07-08      ONLINE PURCHASE                             $-101.27        $49,741.19
+2026-07-14      PHARMACY                                    $-156.06        $49,585.13
+2026-07-15      E-TRANSFER RECEIVED A. MORIN                 $496.30        $50,081.43
+2026-07-16      PHARMACY                                    $-136.49        $49,944.94
+2026-07-22      PAYROLL DEP AURELIA                        $3,301.54        $53,246.48
+2026-07-28      PHARMACY                                    $-123.27        $53,123.21
+2026-08-01      RENT PAYMENT                                 $-89.25        $53,033.96
+2026-08-04      ONLINE PURCHASE                             $-177.19        $52,856.77
+2026-08-05      PAYROLL DEP AURELIA                        $3,301.54        $56,158.31
+2026-08-06      PHARMACY                                    $-488.54        $55,669.77
+2026-08-06      E-TRANSFER RECEIVED A. MORIN                  $60.31        $55,730.08
+2026-08-17      RESTAURANT                                  $-184.06        $55,546.02
+2026-08-19      PAYROLL DEP AURELIA                        $3,301.54        $58,847.56
+2026-08-19      E-TRANSFER RECEIVED A. MORIN                 $283.70        $59,131.26
+
+Closing balance: $59,131.26
+[scanned 2026-09-07 09:30 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | final_v2_7852.pdf | 1 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $9,666.67
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $2,684.76
+Property tax (monthly): $423.19
+Heating (monthly): $139.22
+Cond0 fees (monthly): N/A
+Liabi1ities declared by applicant (monthly payment as stated):
+  Travel Rewards Visa                $260.20
+  Personal Line of Credit            $248.00
+[scanned 2026-09-07 09:41 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | upload_0959.pdf | 3 page(s) ===
+VOID CHEQUE
+Transit 08312  Institution 003  Account ******322
+[scanned 2026-09-07 09:29 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | final_v2_5964.pdf | 1 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: SANA BRANNIGAN    Report date: August 25, 2026
+Credit score: 742
+Creditor                  Type               Limit         Balance         Pmt  Status
+Travel Rewards Visa       card          $39,000.00      $13,010.00     $260.20  Open
+Personal Line of Credit   loc           $59,000.00      $24,800.00     $248.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-09-07 09:13 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | IMG_6231.pdf | 2 page(s) ===
+[Letterhead: Aurelia Software Ltd. | 186 Harbour View Road | tel 819-555-0137]
+24/08/2026
+To whom it may concern,
+This confirms that Sana Brannigan is employed by Aure1ia Software Ltd. as Coordinator.
+Start date: December 8, 2025. Employment status: fixed-term contract, continuously renewed with us since December 8, 2025.
+Current annual base salary: $115,647.51.
+Sincerely,
+/s/ Ethan Ferreira, HR Manager
+[scanned 2026-09-07 09:43 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | IMG_9095.pdf | 3 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 261 Alder Lane, Kingston, ON
+Purchase price: $435,000   Closing date: November 14, 2026
+Deposit paid: $8,700
+[scanned 2026-09-07 09:24 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | IMG_4558.pdf | 2 page(s) ===
+GIFT LETTER
+I, Tyler Brannigan, brother of Sana Brannigan, am giving the sum of $20,500.00 on 2026-08-05 towards the purchase of the property at 261 Alder Lane, Kingston, ON.
+This is a gift and does not have to be repaid.
+Signature: /s/ Tyler Brannigan
+Donor phone: 613-555-0139
+[scanned 2026-09-07 09:55 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | scan_2801.pdf | 1 page(s) ===
+AURELIA SOFTWARE LTD.
+EARNINGS STATEMENT
+Employee: BRANNIGAN, Sana   ID: 75894
+Pay frequency: Bi-weekly
+Pay period: 03-Aug-2026 - 16-Aug-2026
+Pay date: 19-Aug-2026
+Regular earnings   $4,638.80
+GROSS THIS PERIOD      $4,638.80
+Deductions (tax, CPP/QPP, EI, pension)  $1,092.04
+NET PAY               $3,546.76
+GROSS YEAR TO DATE   $78,859.60
+[scanned 2026-09-07 09:19 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | Doc_5447.pdf | 3 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canoda
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: April 5, 2026
+SIN/NAS: XXX XXX 167
+Line 15000 Total income:   $118,316.67
+Line 23600 Net income:     $114,529.30
+Balance: $339.86
+[scanned 2026-09-07 09:30 - page 1 of 3 - CONFIDENTIAL]

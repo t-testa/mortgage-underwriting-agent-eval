@@ -1,0 +1,61 @@
+{
+  "run": "tuned_v2",
+  "conditions": 208,
+  "correct": 207,
+  "accuracy": 0.9951923076923077,
+  "auto_decided": 171,
+  "auto_wrong": 0,
+  "agent_needs_review": 37,
+  "no_answer": 0,
+  "false_approvals": 0,
+  "skipped_escalations": 0,
+  "queue_by_reason": {
+    "agent_error": 1
+  },
+  "queue_by_severity": {
+    "P4 low (over-escalation, extra human touch)": 1
+  },
+  "by_family": {
+    "income_proof": {
+      "n": 43,
+      "ok": 42,
+      "auto": 35,
+      "auto_wrong": 0,
+      "review": 8
+    },
+    "down_payment_source": {
+      "n": 44,
+      "ok": 44,
+      "auto": 36,
+      "auto_wrong": 0,
+      "review": 8
+    },
+    "appraisal": {
+      "n": 40,
+      "ok": 40,
+      "auto": 34,
+      "auto_wrong": 0,
+      "review": 6
+    },
+    "employment": {
+      "n": 41,
+      "ok": 41,
+      "auto": 30,
+      "auto_wrong": 0,
+      "review": 11
+    },
+    "debt_ratio": {
+      "n": 40,
+      "ok": 40,
+      "auto": 36,
+      "auto_wrong": 0,
+      "review": 4
+    }
+  },
+  "confusion": {
+    "not_satisfied|not_satisfied": 66,
+    "needs_review|needs_review": 36,
+    "satisfied|satisfied": 105,
+    "satisfied|needs_review": 1
+  }
+}

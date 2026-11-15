@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-026",
+ "decisions": [
+  {
+   "condition_id": "MF-026-C1",
+   "decision": "needs_review",
+   "rule_cited": "INC-03",
+   "rationale": "The 2025 NOA total income is $122,407 and the pay stub annualizes to about $124,500, a material shortfall of about 13% versus the stated $142,500."
+  },
+  {
+   "condition_id": "MF-026-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing balance of $52,558 with 3 months of history and only payroll deposits covers the $27,600 down payment and closing costs."
+  },
+  {
+   "condition_id": "MF-026-C3",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "The 2026-08-20 letter on letterhead, signed by HR, confirms permanent full-time employment since 2016, probation completed, with salary consistent with the application."
+  },
+  {
+   "condition_id": "MF-026-C4",
+   "decision": "needs_review",
+   "rule_cited": "INC-03",
+   "rationale": "Ratios of 37.7% GDS and 40.3% TDS pass on the stated income but fail (about 43% and 46%) on the documented income, so they depend on the unresolved income shortfall."
+  }
+ ]
+}

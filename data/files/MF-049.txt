@@ -1,0 +1,121 @@
+FILE MF-049  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-08-25
+Applicant: Sana Gagnon
+Property: 311 Chemin des Cedres, Hamilton, ON (condo)
+Purchase price: $430,000   Down payment: $43,000
+Stated annual income: $77,500   Employer (stated): Fairwater Education Board
+
+CONDITIONS TO DECIDE:
+  MF-049-C1 [income_proof] Provide proof of income supporting the stated annual income of $77,500.
+  MF-049-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-049-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-049-C4 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | upload_2138.pdf | 2 page(s) ===
+SUMMIT PROPERTY VALUATIONS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 311 Chemin des Cedres, Hamilton, ON   (condo)
+Report date: June 19, 2026
+Contract purchase price: $430,000
+OPINION OF MARKET VALUE: $445,000
+Direct comparison approach. Comparables:
+  490 Boulevard Fontaine   $435,000   adj +1.7%
+  456 Boulevard Fontaine   $429,000   adj +1.1%
+  304 Boulevard Fontaine   $441,000   adj +1.1%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: P. Girouard, CRA   Lic. 79596
+[scanned 2026-08-25 09:17 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | IMG_3611.pdf | 1 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: SANA GAGNON    Report date: August 5, 2026
+Credit score: 764
+Creditor                  Type               Limit         Balance         Pmt  Status
+Home Equity Line          loc           $28,000.00      $18,700.00     $187.00  Open
+Ridgeline Auto Credit     car                    -      $26,400.00     $550.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-08-25 09:53 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | final_v2_9393.pdf | 3 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, rotios to be c0nfirmed)
+Gross monthly income used: $6,458.33
+Property type: condo
+Qualifying mortgage payment (P&I, stress-tested): $1,504.90
+Property tax (monthly): $252.63
+Heating (monthly): $139.24
+Condo fees (monthly): $484.90
+Liabilities dec1ared by applicant (monthly payment as stated):
+  Home Equity Line                   $187.00
+  Ridgeline Auto Credit              $550.00
+[scanned 2026-08-25 09:35 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | Doc_3181.pdf | 1 page(s) ===
+FAIRWATER EDUCATION BOARD
+EARNINGS STATEMENT
+Employee: GAGNON, Sana   ID: 76611
+Pay frequency: Bi-weekly
+Pay period: 22-Jul-2026 - 04-Aug-2026
+Pay date: 08-Aug-2026
+Regular earnings   $2,975.92
+GROSS THIS PERIOD      $2,975.92
+Deductions (tax, CPP/QPP, EI, pension)  $719.36
+NET PAY               $2,256.56
+GROSS YEAR TO DATE   $47,614.72
+[scanned 2026-08-25 09:37 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | final_v2_2860.pdf | 3 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 311 Chemin des Cedres, Hamilton, ON
+Purchase price: $430,000   Closing date: 2026-10-20
+Deposit paid: $8,600
+[scanned 2026-08-25 09:32 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | IMG_1614.pdf | 1 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: SANA GAGNON
+Statement period: 24-Apr-2026 to 19-Aug-2026
+Opening balance: $53,558.83
+
+02-May-2026     GROCERY STORE                               $-140.70        $53,418.13
+02-May-2026     RESTAURANT                                  $-471.03        $52,947.10
+06-May-2026     PAYROLL DEP FAIRWATER                      $2,205.77        $55,152.87
+14-May-2026     RENT PAYMENT                                $-395.11        $54,757.76
+14-May-2026     ONLINE PURCHASE                             $-248.11        $54,509.65
+20-May-2026     PAYROLL DEP FAIRWATER                      $2,205.77        $56,715.42
+23-May-2026     PHARMACY                                    $-196.30        $56,519.12
+26-May-2026     UTILITY PAYMENT                             $-273.65        $56,245.47
+28-May-2026     UTILITY PAYMENT                             $-438.15        $55,807.32
+03-Jun-2026     PAYROLL DEP FAIRWATER                      $2,205.77        $58,013.09
+08-Jun-2026     FUEL                                        $-368.48        $57,644.61
+17-Jun-2026     PAYROLL DEP FAIRWATER                      $2,205.77        $59,850.38
+25-Jun-2026     GROCERY STORE                               $-310.52        $59,539.86
+01-Jul-2026     PAYROLL DEP FAIRWATER                      $2,205.77        $61,745.63
+05-Jul-2026     E-TRANSFER RECEIVED T. LEE                   $513.50        $62,259.13
+11-Jul-2026     TELECOM BILL                                $-396.56        $61,862.57
+12-Jul-2026     TELECOM BILL                                $-247.03        $61,615.54
+15-Jul-2026     PAYROLL DEP FAIRWATER                      $2,205.77        $63,821.31
+21-Jul-2026     UTILITY PAYMENT                             $-191.90        $63,629.41
+29-Jul-2026     PAYROLL DEP FAIRWATER                      $2,205.77        $65,835.18
+07-Aug-2026     ONLINE PURCHASE                             $-346.27        $65,488.91
+11-Aug-2026     GROCERY STORE                               $-304.49        $65,184.42
+12-Aug-2026     PAYROLL DEP FAIRWATER                      $2,205.77        $67,390.19
+
+Closing balance: $67,390.19
+[scanned 2026-08-25 09:11 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | scan_0321.pdf | 1 page(s) ===
+FAX COVER SHEET
+To: Mortgage Ops   Pages: 3   Re: documents as requested
+[handwritten: sorry for the blurry pages!]
+[scanned 2026-08-25 09:40 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | IMG_2257.pdf | 3 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 11-May-2026
+SIN/NAS: XXX XXX 330
+Line 15000 Total income:   $79,145.23
+Line 23600 Net income:     $76,955.15
+Balance: $709.43
+[scanned 2026-08-25 09:53 - page 1 of 3 - CONFIDENTIAL]

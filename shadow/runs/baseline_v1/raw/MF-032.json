@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-032",
+ "decisions": [
+  {
+   "condition_id": "MF-032-C1",
+   "decision": "needs_review",
+   "rule_cited": "INC-05",
+   "rationale": "Roughly 29% of pay is commission with a short contract history, and the letter's base salary ($96,176) does not match the pay stub base (about $70,600), so income needs review despite NOA support."
+  },
+  {
+   "condition_id": "MF-032-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "DP-03",
+   "rationale": "An unexplained $31,080 cash deposit on 16/06/2026 is undocumented, and without it funds fall below the $149,000 down payment."
+  },
+  {
+   "condition_id": "MF-032-C3",
+   "decision": "needs_review",
+   "rule_cited": "APP-01",
+   "rationale": "Appraisal from an approved panel firm supports the price but is dated 27-Mar-2026, about four months before review, so recency is unclear."
+  },
+  {
+   "condition_id": "MF-032-C4",
+   "decision": "needs_review",
+   "rule_cited": "EMP-05",
+   "rationale": "Fixed-term contract renewed since Feb 2025 (about 17 months) is a short history for a stable-history test, and the letter salary conflicts with the pay stub."
+  },
+  {
+   "condition_id": "MF-032-C5",
+   "decision": "needs_review",
+   "rule_cited": "DTI-01",
+   "rationale": "Worksheet GDS 38.3% and TDS 43.5% are just inside limits but rely on variable-income-based $99,000 income that is not firmly verified."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-003",
+ "decisions": [
+  {
+   "condition_id": "MF-003-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "Current pay statement (annualizes to about $85,700), employment letter ($92,565) and 2025 NOA ($82,802) reasonably support the stated $88,000 with no material shortfall."
+  },
+  {
+   "condition_id": "MF-003-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing history since March with a $244,133 closing balance covers the $212,500 down payment and closing costs, with only small e-transfers as other deposits."
+  },
+  {
+   "condition_id": "MF-003-C3",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Recent (2026-06-29) signed letter on letterhead confirms permanent full-time employment consistent with the application."
+  },
+  {
+   "condition_id": "MF-003-C4",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS about 33.2% and TDS about 40.1% on the $7,333 monthly income, with liabilities matching the credit bureau and a score of 783."
+  }
+ ]
+}

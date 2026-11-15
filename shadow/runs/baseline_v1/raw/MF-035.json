@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-035",
+ "decisions": [
+  {
+   "condition_id": "MF-035-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-02",
+   "rationale": "Most recent NOA ($67,280) supports the stated $67,500 and the letter shows $69,774; the degraded pay stub is not needed."
+  },
+  {
+   "condition_id": "MF-035-C2",
+   "decision": "needs_review",
+   "rule_cited": "DP-04",
+   "rationale": "A $30,500 gift from a cousin is documented with a no-repayment letter, but policy limits gifts to close family and funds excluding the gift fall short."
+  },
+  {
+   "condition_id": "MF-035-C3",
+   "decision": "needs_review",
+   "rule_cited": "EMP-01",
+   "rationale": "Letter is dated 30 June 2026, about 75 days before review, so whether it is recent is unclear, though recent payroll deposits corroborate employment."
+  },
+  {
+   "condition_id": "MF-035-C4",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "Worksheet GDS about 29-32% and TDS about 35-43% (even counting the paid-off loan) are within limits with score 715."
+  }
+ ]
+}

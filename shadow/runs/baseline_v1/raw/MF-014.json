@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-014",
+ "decisions": [
+  {
+   "condition_id": "MF-014-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "2025 NOA, pay stub run-rate and employer letter salary of $93,364 support the stated $88,500."
+  },
+  {
+   "condition_id": "MF-014-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-01",
+   "rationale": "Seasoned chequing history with a $235,660 balance and no unusual deposits covers the $217,500 down payment plus closing costs."
+  },
+  {
+   "condition_id": "MF-014-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "EMP-02",
+   "rationale": "Employment letter was sent from a personal mail account with no company letterhead."
+  },
+  {
+   "condition_id": "MF-014-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "DTI-02",
+   "rationale": "Credit score of 574 is below the 600 minimum even though GDS (about 32-34%) and TDS (about 37%) are within limits."
+  }
+ ]
+}

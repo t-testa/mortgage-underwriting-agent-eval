@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-023",
+ "decisions": [
+  {
+   "condition_id": "MF-023-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "The 2025 NOA shows $117,225 and the pay stub (base plus commission) annualizes to $118,500, with 2024 NOA showing a similar commission history."
+  },
+  {
+   "condition_id": "MF-023-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing balance of $219,676 with about 3 months of history and only payroll deposits comfortably covers the $188,800 down payment and closing costs."
+  },
+  {
+   "condition_id": "MF-023-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Rive-Nord Evaluations (on panel) valued the property at $758,000 against a $755,000 price in a report dated 2026-05-23."
+  },
+  {
+   "condition_id": "MF-023-C4",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS is about 33.3% and TDS about 41.6% using the bureau-reported payments, under the 39% and 44% limits, with a 664 credit score."
+  }
+ ]
+}

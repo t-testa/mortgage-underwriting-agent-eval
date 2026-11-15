@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-024",
+ "decisions": [
+  {
+   "condition_id": "MF-024-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "The 2025 NOA shows $98,000 and the bi-weekly pay stub annualizes to about $99,000, supporting the stated $99,000."
+  },
+  {
+   "condition_id": "MF-024-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing balance of $101,509 with about 4 months of steady history and only payroll deposits covers the $65,000 down payment and closing costs."
+  },
+  {
+   "condition_id": "MF-024-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-06",
+   "rationale": "The appraisal was prepared by Evalu-Rapide Plus, which is not on the approved panel."
+  },
+  {
+   "condition_id": "MF-024-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "The 2026-08-02 letter on letterhead, signed by HR, confirms permanent full-time employment since 2019 with salary consistent with the application."
+  }
+ ]
+}

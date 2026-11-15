@@ -1,0 +1,7 @@
+{"file_id":"MF-016","decisions":[
+{"condition_id":"MF-016-C1","decision":"not_satisfied","rule_cited":"INC-01","rationale":"Only paystub has pay date 2026-06-22 (period end 06-20), 31 days old at review date 2026-07-23, over the 30-day limit (AR-04). Income itself would support stated (6,852.95 x 24 = 164,470.80; NOA 167,895.25)."},
+{"condition_id":"MF-016-C2","decision":"not_satisfied","rule_cited":"DP-02","rationale":"Required funds 23,200 + 1.5% x 465,000 (6,975) = 30,175; closing balance 29,771.45 is 403.55 short (AR-05). History is 97 days."},
+{"condition_id":"MF-016-C3","decision":"needs_review","rule_cited":"APP-05","rationale":"Lakeshore Appraisal Group on panel, report 48 days old, value 466,000 >= price 465,000. Appraiser recommends further foundation inspection with value reported as-is, so needs_review (AR-09)."},
+{"condition_id":"MF-016-C4","decision":"satisfied","rule_cited":"EMP-05","rationale":"Letter 10-Jul-2026 is 13 days old, letterhead, signed. Contract renewed without interruption since 23-Jul-2021 = 60 months (>=24). Salary 171,764.34 above stated 164,500."},
+{"condition_id":"MF-016-C5","decision":"satisfied","rule_cited":"DTI-01","rationale":"Income 13,708.33/mo. Housing 3,157.54 + 464.37 + 112.19 + 181.25 = 3,915.35, GDS 28.56%. LOC 27,200 x 3% = 816 + card 14,230 x 3% = 426.90; TDS = 5,158.25/13,708.33 = 37.63%. Score 727."}
+]}

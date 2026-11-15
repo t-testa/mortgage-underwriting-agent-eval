@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-035",
+ "decisions": [
+  {
+   "condition_id": "MF-035-C1",
+   "decision": "not_satisfied",
+   "rule_cited": "INC-06",
+   "rationale": "Paystub gross pay and YTD are unreadable (fax degraded), so a key figure cannot be read with confidence; AR-03 requires not_satisfied and a clearer copy. NOA 2025 (67,279.66) alone is not enough."
+  },
+  {
+   "condition_id": "MF-035-C2",
+   "decision": "needs_review",
+   "rule_cited": "DP-04",
+   "rationale": "History Jun 6-Sep 10 = 96 days; required = 66,500 + 9,975 = 76,475, balance 96,171.20. 30,500 gift is from a cousin, not immediate family (AR-07), so needs_review. Letter otherwise has donor, amount, non-repayable statement and signature."
+  },
+  {
+   "condition_id": "MF-035-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "EMP-01",
+   "rationale": "Employment letter dated June 30, 2026 is 75 days old at review date 2026-09-13, over the 30-day limit (AR-04); no recent letter on file."
+  },
+  {
+   "condition_id": "MF-035-C4",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "Housing = 791.73 + 431.24 + 175.54 + 50% x 416.71 (208.36) = 1,606.87; GDS = 28.57%. Vehicle loan is closed/zero balance so excluded; LOC 15,600 x 3% = 468; TDS = 2,074.87 / 5,625 = 36.89%. Credit 715."
+  }
+ ]
+}

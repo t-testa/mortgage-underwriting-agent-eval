@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-036",
+ "decisions": [
+  {
+   "condition_id": "MF-036-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "Paystub 2026-09-08 (12 days old): 5,998.66 x 26 = 155,965.16, above stated 155,000; YTD 107,975.88 = 18 periods consistent. NOA 2025 line 15000 = 150,573.80 (2.9% below stated, within 5%)."
+  },
+  {
+   "condition_id": "MF-036-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "DP-04",
+   "rationale": "Gift of 58,900 from mother (immediate family), signed, but the letter has no statement that the gift is not repayable (AR-07). History Jun 6-Sep 10 = 96 days; required 102,000 + 7,650 = 109,650 vs balance 130,950.37."
+  },
+  {
+   "condition_id": "MF-036-C3",
+   "decision": "satisfied",
+   "rule_cited": "AR-08",
+   "rationale": "Report 2026-09-02 is 18 days old; Rive-Nord Evaluations is on panel. Value 513,000 at or above price 510,000. Cosmetic comment only."
+  },
+  {
+   "condition_id": "MF-036-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "EMP-05",
+   "rationale": "Letter 29-Aug-2026 is 22 days old, signed, letterhead. Fixed-term contract since 22-Mar-2026 = about 6 months at review date, under 12 months (AR-11). Letter salary 158,357.98 above stated."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-030",
+ "decisions": [
+  {
+   "condition_id": "MF-030-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "The 2025 NOA shows $75,396, the pay stub annualizes to about $77,300 and the letter shows $84,377, reasonably supporting the stated $80,500."
+  },
+  {
+   "condition_id": "MF-030-C2",
+   "decision": "satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Summit Property Valuations (on panel) valued the property at $724,000 against a $720,000 price in a report dated 2026/08/21."
+  },
+  {
+   "condition_id": "MF-030-C3",
+   "decision": "needs_review",
+   "rule_cited": "EMP-05",
+   "rationale": "The letter shows a fixed-term contract continuously renewed since 2024/10/01, and the policy does not define a sufficient stable history for contract income."
+  },
+  {
+   "condition_id": "MF-030-C4",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS is about 28.9% and TDS about 37.9% on the stated income and about 40.5% on the NOA income, under the limits, with a 778 credit score."
+  }
+ ]
+}

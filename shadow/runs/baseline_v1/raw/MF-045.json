@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-045",
+ "decisions": [
+  {
+   "condition_id": "MF-045-C1",
+   "decision": "needs_review",
+   "rule_cited": "INC-03",
+   "rationale": "Pay stub annualizes to about $146,900 and 2025 NOA shows $142,960 versus stated $159,000 (about 8-10% shortfall); only the letter's $158,258 base supports it, so the shortfall requires escalation."
+  },
+  {
+   "condition_id": "MF-045-C2",
+   "decision": "needs_review",
+   "rule_cited": "APP-01",
+   "rationale": "Summit Property Valuations (on panel) values at $373,000 supporting the $370,000 price, but the report is dated 2026-03-22, about 4 months before review, and the policy does not define recent."
+  },
+  {
+   "condition_id": "MF-045-C3",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Permanent full-time since 2019, on letterhead, signed, dated 2026-06-25."
+  },
+  {
+   "condition_id": "MF-045-C4",
+   "decision": "needs_review",
+   "rule_cited": "DTI-01",
+   "rationale": "Credit report shows a $740.60 Maple Visa payment omitted from the worksheet; including it TDS is about 42.7% on stated income but about 46% on documented income, so ratios cannot be confirmed."
+  }
+ ]
+}

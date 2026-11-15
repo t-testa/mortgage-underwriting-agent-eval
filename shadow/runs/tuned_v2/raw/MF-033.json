@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-033",
+ "decisions": [
+  {
+   "condition_id": "MF-033-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "Paystub 2026-06-04 (7 days old) regular earnings 6,305.34 x 26 = 163,938.84; NOA 2025 line 15000 = 164,749.04. Both above stated 161,500, no shortfall."
+  },
+  {
+   "condition_id": "MF-033-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "History Feb 26-Jun 9 = 103 days (>=90). Required = 84,000 + 8,400 = 92,400; closing balance 97,588.18 covers it. Non-payroll deposits only 682.14 and 360.71 (small)."
+  },
+  {
+   "condition_id": "MF-033-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Report 2026-05-17 is 25 days old; Ironbridge Valuation Ltd. is on panel. Value 561,000 at or above price 560,000. Cosmetic comment only."
+  },
+  {
+   "condition_id": "MF-033-C4",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "Housing = 3,172.94 + 538.84 + 178.43 = 3,890.21; GDS = 28.91%. Other debts: card 15,810 x 3% = 474.30, LOC 22,600 x 3% = 678.00, student loan 363 = 1,515.30; TDS = 5,405.51 / 13,458.33 = 40.16% (<=44). Credit 817."
+  }
+ ]
+}

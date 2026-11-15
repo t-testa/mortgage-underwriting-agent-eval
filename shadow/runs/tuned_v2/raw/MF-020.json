@@ -1,0 +1,6 @@
+{"file_id":"MF-020","decisions":[
+{"condition_id":"MF-020-C1","decision":"not_satisfied","rule_cited":"INC-03","rationale":"Paystub 20 days old; 4,388.04 x 24 = 105,312.96 vs stated 131,500 = 19.9% shortfall; NOA 2025 line 15000 101,532.84 = 22.8% shortfall. Over 15% (AR-01)."},
+{"condition_id":"MF-020-C2","decision":"not_satisfied","rule_cited":"DP-02","rationale":"Required funds 34,000 + 1.5% x 340,000 (5,100) = 39,100; closing balance 35,834.31 is 3,265.69 short (AR-05). History is 104 days."},
+{"condition_id":"MF-020-C3","decision":"needs_review","rule_cited":"APP-05","rationale":"Prairie Oak Appraisals on panel, report 44 days old, value 343,000 >= price 340,000. Further foundation inspection recommended with value as-is (AR-09)."},
+{"condition_id":"MF-020-C4","decision":"not_satisfied","rule_cited":"DTI-01","rationale":"Income 10,958.33/mo. Housing 3,237.85 + 354.38 + 115.28 = 3,707.51, GDS 33.83%. Bureau debts: student LOC 7,000 x 3% = 210, auto 337, undeclared HELOC 36,700 x 3% = 1,101 = 1,648. TDS = 5,355.51/10,958.33 = 48.87%, 4.87 points over 44%, more than 2 (AR-14)."}
+]}

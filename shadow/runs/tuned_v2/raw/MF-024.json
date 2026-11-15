@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-024",
+ "decisions": [
+  {
+   "condition_id": "MF-024-C1",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-04",
+   "rationale": "Paystub pay date 2026-07-31 (period end Jul 27) is 68 days before review date 2026-10-07, over 30 days; (3,807.89 x 26 = 99,005 would otherwise support 99,000)."
+  },
+  {
+   "condition_id": "MF-024-C2",
+   "decision": "satisfied",
+   "rule_cited": "AR-05",
+   "rationale": "Required = 65,000 + 9,750 = 74,750; closing balance 101,509.49; history 2026/06/06 to 10/01 = 117 days; only non-payroll deposit 99.04."
+  },
+  {
+   "condition_id": "MF-024-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-06",
+   "rationale": "Appraiser Evalu-Rapide Plus is not on the approved panel (report 20-Sep-2026, value 656,000 >= 650,000 otherwise fine)."
+  },
+  {
+   "condition_id": "MF-024-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-04",
+   "rationale": "Employment letter dated 2026-08-02 is 66 days before review date 2026-10-07, over 30 days."
+  }
+ ]
+}

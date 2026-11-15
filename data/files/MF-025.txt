@@ -1,0 +1,82 @@
+FILE MF-025  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-07-03
+Applicant: Tyler Bouchard
+Property: 581 Boulevard Fontaine, Kingston, ON (house)
+Purchase price: $715,000   Down payment: $71,500
+Stated annual income: $168,500   Employer (stated): Lumen Retail Group
+
+CONDITIONS TO DECIDE:
+  MF-025-C1 [income_proof] Provide proof of income supporting the stated annual income of $168,500.
+  MF-025-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-025-C3 [employment] Confirm current employment.
+
+=== DOCUMENT 1 | upload_2214.pdf | 1 page(s) ===
+DRIVER LICENCE (copy, masked)
+Name: Tyler Bouchard
+Licence no: XXXX-XXXX-3493
+[scanned 2026-07-03 09:32 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | final_v2_6362.pdf | 3 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 581 Boulevard Fontaine, Kingston, ON
+Purchase price: $715,000   Closing date: 2026/08/21
+Deposit paid: $14,300
+[scanned 2026-07-03 09:16 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | final_v2_8272.pdf | 2 page(s) ===
+[Letterhead: Lumen Retail Group | 873 Rue Saint-Exemple | tel 819-555-0186]
+June 24, 2026
+To whom it may concern,
+This confirms that Tyler Bouchard is employed by Lumen Retail Group as Coordinator.
+Start date: April 21, 2026. Employment status: permanent full-time.
+The employee is subject to a probationary period of six (6) months from the start date.
+Current annual base salary: $170,129.58.
+Sincerely,
+/s/ Mei Haddad, HR Manager
+[scanned 2026-07-03 09:52 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | final_v2_2669.pdf | 3 page(s) ===
+LUMEN RETAIL GROUP
+EARNINGS STATEMENT
+Employee: BOUCHARD, Tyler   ID: 94834
+Pay frequency: Bi-weekly
+Pay period: June 8, 2026 - June 21, 2026
+Pay date: June 22, 2026
+Regular earnings   $6,621.57
+GROSS THIS PERIOD      $6,621.57
+Deductions (tax, CPP/QPP, EI, pension)  $1,934.41
+NET PAY               $4,687.16
+GROSS YEAR TO DATE   $86,080.41
+[scanned 2026-07-03 09:47 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | scan_0055.pdf | 1 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: TYLER BOUCHARD
+Statement period: April 26, 2026 to June 24, 2026
+Opening balance: $76,523.15
+
+April 26, 2026  GROCERY STORE                               $-361.79        $76,161.36
+April 28, 2026  RENT PAYMENT                                $-256.52        $75,904.84
+April 29, 2026  TRANSIT PASS                                $-247.30        $75,657.54
+May 8, 2026     PAYROLL DEP LUMEN                          $4,795.77        $80,453.31
+May 15, 2026    PHARMACY                                    $-131.79        $80,321.52
+May 16, 2026    E-TRANSFER RECEIVED REFUND                   $445.13        $80,766.65
+May 17, 2026    FUEL                                        $-214.01        $80,552.64
+May 18, 2026    PHARMACY                                    $-414.30        $80,138.34
+May 20, 2026    RENT PAYMENT                                $-369.79        $79,768.55
+May 22, 2026    PAYROLL DEP LUMEN                          $4,795.77        $84,564.32
+May 31, 2026    PHARMACY                                    $-410.10        $84,154.22
+June 5, 2026    PAYROLL DEP LUMEN                          $4,795.77        $88,949.99
+June 5, 2026    FUEL                                        $-308.94        $88,641.05
+June 9, 2026    RESTAURANT                                  $-431.76        $88,209.29
+June 10, 2026   RESTAURANT                                  $-216.10        $87,993.19
+June 10, 2026   TELECOM BILL                                $-187.00        $87,806.19
+June 14, 2026   RENT PAYMENT                                $-490.53        $87,315.66
+June 16, 2026   INSURANCE PREM                              $-397.08        $86,918.58
+June 16, 2026   UTILITY PAYMENT                             $-289.77        $86,628.81
+June 18, 2026   UTILITY PAYMENT                             $-459.12        $86,169.69
+June 18, 2026   ONLINE PURCHASE                              $-89.21        $86,080.48
+June 19, 2026   PAYROLL DEP LUMEN                          $4,795.77        $90,876.25
+
+Closing balance: $90,876.25
+[scanned 2026-07-03 09:20 - page 1 of 1 - CONFIDENTIAL]

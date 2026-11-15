@@ -1,0 +1,135 @@
+FILE MF-021  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-07-23
+Applicant: Omar Dubreuil
+Property: 935 Chemin des Cedres, Trois-Rivieres, QC (condo)
+Purchase price: $645,000   Down payment: $161,200
+Stated annual income: $167,000   Employer (stated): Aurelia Software Ltd.
+
+CONDITIONS TO DECIDE:
+  MF-021-C1 [income_proof] Provide proof of income supporting the stated annual income of $167,000.
+  MF-021-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-021-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-021-C4 [employment] Confirm current employment.
+  MF-021-C5 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | final_v2_7837.pdf | 1 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 935 Chemin des Cedres, Trois-Rivieres, QC
+Purchase price: $645,000   Closing date: 2026/09/17
+Deposit paid: $12,900
+[scanned 2026-07-23 09:58 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | scan_4832.pdf | 1 page(s) ===
+SUMMIT PROPERTY VALUATIONS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 935 Chemin des Cedres, Trois-Rivieres, QC   (condo)
+Report date: 2026-05-26
+Contract purchase price: $645,000
+OPINION OF MARKET VALUE: $650,000
+Direct comparison approach. Comparables:
+  453 Quarry Street   $655,000   adj +3.5%
+  410 Harbour View Road   $628,000   adj -3.2%
+  492 Rue Saint-Exemple   $636,000   adj +3.3%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: D. Lefebvre, CRA   Lic. 16475
+[scanned 2026-07-23 09:45 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | Doc_9404.pdf | 1 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: OMAR DUBREUIL
+Statement period: April 3, 2026 to July 13, 2026
+Opening balance: $162,850.05
+
+April 12, 2026  ONLINE PURCHASE                              $-75.51       $162,774.54
+April 14, 2026  PAYROLL DEP AURELIA                        $4,753.08       $167,527.62
+April 16, 2026  INSURANCE PREM                              $-411.07       $167,116.55
+April 28, 2026  PAYROLL DEP AURELIA                        $4,753.08       $171,869.63
+April 28, 2026  RENT PAYMENT                                $-441.57       $171,428.06
+May 2, 2026     TRANSIT PASS                                $-257.98       $171,170.08
+May 10, 2026    FUEL                                         $-50.72       $171,119.36
+May 12, 2026    PAYROLL DEP AURELIA                        $4,753.08       $175,872.44
+May 24, 2026    UTILITY PAYMENT                             $-254.00       $175,618.44
+May 24, 2026    TELECOM BILL                                 $-67.02       $175,551.42
+May 26, 2026    PAYROLL DEP AURELIA                        $4,753.08       $180,304.50
+May 27, 2026    RESTAURANT                                  $-152.40       $180,152.10
+May 31, 2026    UTILITY PAYMENT                             $-218.49       $179,933.61
+June 9, 2026    PAYROLL DEP AURELIA                        $4,753.08       $184,686.69
+June 10, 2026   UTILITY PAYMENT                             $-492.93       $184,193.76
+June 11, 2026   E-TRANSFER RECEIVED T. LEE                   $437.53       $184,631.29
+June 16, 2026   RESTAURANT                                  $-187.77       $184,443.52
+June 18, 2026   ONLINE PURCHASE                             $-507.11       $183,936.41
+June 18, 2026   INSURANCE PREM                              $-180.06       $183,756.35
+June 23, 2026   PAYROLL DEP AURELIA                        $4,753.08       $188,509.43
+June 30, 2026   INSURANCE PREM                              $-216.41       $188,293.02
+July 6, 2026    INSURANCE PREM                              $-324.49       $187,968.53
+July 7, 2026    PAYROLL DEP AURELIA                        $4,753.08       $192,721.61
+July 7, 2026    FUEL                                         $-20.26       $192,701.35
+July 7, 2026    E-TRANSFER RECEIVED A. MORIN                 $747.78       $193,449.13
+July 9, 2026    GROCERY STORE                                $-40.54       $193,408.59
+
+Closing balance: $193,408.59
+[scanned 2026-07-23 09:58 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | final_v2_6742.pdf | 1 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: OMAR DUBREUIL    Report date: 2026/07/12
+Credit score: 712
+Creditor                  Type               Limit         Balance         Pmt  Status
+Ridgeline Auto Credit     car                    -     $120,000.00   $2,450.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-07-23 09:19 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | final_v2_5424.pdf | 2 page(s) ===
+FAX COVER SHEET
+To: Mortgage Ops   Pages: 3   Re: documents as requested
+[handwritten: sorry for the blurry pages!]
+[scanned 2026-07-23 09:34 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | upload_9051.pdf | 2 page(s) ===
+AURELIA SOFTWARE LTD.
+EARNINGS STATEMENT
+Employee: DUBREUIL, Omar   ID: 24363
+Pay frequency: Bi-weekly
+Pay period: June 28, 2026 - July 11, 2026
+Pay date: July 15, 2026
+Regular earnings   $5,897.83
+GROSS THIS PERIOD      $5,897.83
+Deductions (tax, CPP/QPP, EI, pension)  $1,658.36
+NET PAY               $4,239.47
+GROSS YEAR TO DATE   $82,569.62
+[scanned 2026-07-23 09:12 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | scan_6458.pdf | 2 page(s) ===
+[Letterhead: Aurelia Software Ltd. | 835 Alder Lane | tel 819-555-0162]
+July 12, 2026
+To whom it may concern,
+This confirms that Omar Dubreuil is employed by Aurelia Software Ltd. as Operations Lead.
+Start date: June 6, 2026. Employment status: permanent full-time.
+The employee is currently within the standard six (6) month probationary period.
+Current annual base salary: $173,663.27.
+Sincerely,
+/s/ Andre Okafor, HR Manager
+[scanned 2026-07-23 09:18 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | scan_6036.pdf | 3 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $13,916.67
+Property type: condo
+Qualifying mortgage payment (P&I, stress-tested): $4,038.34
+Property tax (monthly): $404.95
+Heating (monthly): $145.60
+Condo fees (monthly): $275.83
+Liabilities declared by applicant (monthly payment as stated):
+  Ridgeline Auto Credit            $2,450.00
+[scanned 2026-07-23 09:23 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | final_v2_9080.pdf | 2 page(s) ===
+Canado Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 23/04/2026
+SIN/NAS: XXX XXX 636
+Line 15000 Total income:   $148,626.78
+Line 23600 Net income:     $144,292.50
+Balance: $62.75
+[scanned 2026-07-23 09:45 - page 1 of 2 - CONFIDENTIAL]

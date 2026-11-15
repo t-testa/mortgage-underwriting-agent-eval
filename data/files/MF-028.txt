@@ -1,0 +1,139 @@
+FILE MF-028  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-10-10
+Applicant: Tyler Bouchard
+Property: 291 Alder Lane, Laval, QC (condo)
+Purchase price: $695,000   Down payment: $104,200
+Stated annual income: $100,500   Employer (stated): Tamarack Food Distributors
+
+CONDITIONS TO DECIDE:
+  MF-028-C1 [income_proof] Provide proof of income supporting the stated annual income of $100,500.
+  MF-028-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-028-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-028-C4 [employment] Confirm current employment.
+  MF-028-C5 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | scan_8258.pdf | 2 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $8,375.00
+Property type: condo
+Qualifying mortgage payment (P&I, stress-tested): $1,879.63
+Property tax (monthly): $484.77
+Heating (monthly): $119.91
+Condo fees (monthly): $347.47
+Liabilities declared by applicant (monthly payment as stated):
+  Vehicle Loan                       $214.00
+  Student Loan (Provincial)          $277.00
+  Home Equity Line                    $68.00
+[scanned 2026-10-10 09:47 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | scan_6039.pdf | 2 page(s) ===
+BILL OF SALE - USED VEHICLE
+Seller: Tyler Bouchard   Buyer: Callum Dubreuil
+Vehicle: 2017 compact sedan, VIN ending 9548
+Sale price: $10,610.00   Date: September 14, 2026
+Paid in full by e-transfer. Sold as is.
+[scanned 2026-10-10 09:34 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | Doc_2017.pdf | 3 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: TYLER BOUCHARD
+Statement period: 2026-07-01 to 2026-10-04
+Opening balance: $97,456.58
+
+2026-07-04      PAYROLL DEP TAMARACK                       $2,860.38       $100,316.96
+2026-07-04      FUEL                                        $-133.76       $100,183.20
+2026-07-18      PAYROLL DEP TAMARACK                       $2,860.38       $103,043.58
+2026-07-22      TELECOM BILL                                $-389.83       $102,653.75
+2026-07-25      GROCERY STORE                               $-327.36       $102,326.39
+2026-07-27      PHARMACY                                    $-205.58       $102,120.81
+2026-07-30      RENT PAYMENT                                $-184.37       $101,936.44
+2026-07-30      ONLINE PURCHASE                             $-378.06       $101,558.38
+2026-08-01      PAYROLL DEP TAMARACK                       $2,860.38       $104,418.76
+2026-08-01      TELECOM BILL                                 $-95.88       $104,322.88
+2026-08-09      TELECOM BILL                                $-484.71       $103,838.17
+2026-08-13      TRANSIT PASS                                $-106.78       $103,731.39
+2026-08-15      PAYROLL DEP TAMARACK                       $2,860.38       $106,591.77
+2026-08-23      UTILITY PAYMENT                             $-420.50       $106,171.27
+2026-08-29      PAYROLL DEP TAMARACK                       $2,860.38       $109,031.65
+2026-09-04      E-TRANSFER RECEIVED DUBREUIL              $10,610.00       $119,641.65
+2026-09-08      RESTAURANT                                   $-68.74       $119,572.91
+2026-09-12      PAYROLL DEP TAMARACK                       $2,860.38       $122,433.29
+2026-09-19      GROCERY STORE                               $-336.43       $122,096.86
+2026-09-21      TRANSIT PASS                                $-406.50       $121,690.36
+2026-09-26      PAYROLL DEP TAMARACK                       $2,860.38       $124,550.74
+2026-09-27      PHARMACY                                     $-64.01       $124,486.73
+2026-10-01      TRANSIT PASS                                 $-33.63       $124,453.10
+2026-10-03      E-TRANSFER RECEIVED T. LEE                   $716.29       $125,169.39
+
+Closing balance: $125,169.39
+[scanned 2026-10-10 09:48 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | IMG_1440.pdf | 3 page(s) ===
+VALEUR REFERENCE INC.
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 291 Alder Lane, Laval, QC   (condo)
+Report date: 2026-08-25
+Contract purchase price: $695,000
+OPINION OF MARKET VALUE: $734,000
+Direct comparison approach. Comparables:
+  218 Quarry Street   $747,000   adj -4.5%
+  244 Quarry Street   $728,000   adj +4.1%
+  372 Chemin des Cedres   $709,000   adj +3.9%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: S. Thornbury, AACI   Lic. 96364
+[scanned 2026-10-10 09:45 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | scan_2112.pdf | 3 page(s) ===
+TAMARACK FOOD DISTRIBUTORS
+EARNINGS STATEMENT
+Employee: BOUCHARD, Tyler   ID: 59686
+Pay frequency: Bi-weekly
+Pay period: September 20, 2026 - October 3, 2026
+Pay date: October 7, 2026
+Base salary        $2,523.08
+Commission              $1,342.31
+GROSS THIS PERIOD      $3,865.39
+Deductions (tax, CPP/QPP, EI, pension)  $1,099.39
+NET PAY               $2,766.00
+GROSS YEAR TO DATE   $77,307.80
+[scanned 2026-10-10 09:46 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | scan_6187.pdf | 3 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: March 11, 2026
+SIN/NAS: XXX XXX 893
+Line 15000 Total income:   $99,918.38
+Line 23600 Net income:     $96,816.20
+Balance: $683.34
+[scanned 2026-10-10 09:43 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | final_v2_8349.pdf | 2 page(s) ===
+[Letterhead: Tamarack Food Distributors | 312 Rue des Peupliers | tel 819-555-0169]
+September 2, 2026
+To whom it may concern,
+This confirms that Tyler Bouchard is employed by Tamarack Food Distributors as Coordinator.
+Start date: November 8, 2021. Employment status: permanent full-time.
+Current annual base salary: $105,980.39.
+Sincerely,
+/s/ Omar Marchetti, HR Manager
+[scanned 2026-10-10 09:18 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | upload_4414.pdf | 3 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: TYLER BOUCHARD    Report date: October 1, 2026
+Credit score: 735
+Creditor                  Type               Limit         Balance         Pmt  Status
+Vehicle Loan              car                    -       $8,800.00     $214.00  Open
+Student Loan (Provincial) student                -      $10,200.00     $277.00  Open
+Home Equity Line          loc           $13,000.00       $6,800.00      $68.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-10-10 09:20 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | Doc_6564.pdf | 2 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 291 Alder Lane, Laval, QC
+Purchase price: $695,000   Closing date: December 15, 2026
+Deposit paid: $13,900
+[scanned 2026-10-10 09:31 - page 1 of 2 - CONFIDENTIAL]

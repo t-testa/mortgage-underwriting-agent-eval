@@ -1,0 +1,88 @@
+FILE MF-039  |  REVISION DES CONDITIONS DE SOUSCRIPTION
+Date de revision: 2026-07-24
+Demandeur: Simon Brannigan
+Propriete: 424 Quarry Street, Gatineau, QC (condo)
+Prix d achat: 420 000 $   Mise de fonds: 21 000 $
+Revenu annuel declare: 145 000 $   Employeur (declare): Brightfield Insurance Corp.
+
+CONDITIONS A DECIDER:
+  MF-039-C1 [income_proof] Fournir une preuve de revenu appuyant le revenu annuel declare de 145 000 $.
+  MF-039-C2 [appraisal] Fournir une evaluation acceptable appuyant le prix d'achat.
+  MF-039-C3 [employment] Confirmer l'emploi actuel.
+  MF-039-C4 [debt_ratio] Confirmer que les ratios ABD et ATD respectent la politique.
+
+=== DOCUMENT 1 | IMG_7295.pdf | 1 page(s) ===
+RAPPORT DE CREDIT - SOMMAIRE
+Sujet: SIMON BRANNIGAN    Date du rapport: 16 juillet 2026
+Cote de credit: 745
+Creancier                 Type              Llmitc           Solde         Pmt  Statut
+Maple Visa Gold           card         12 500,00 $      6 630,00 $    132,60 $  Ouvert
+Vehicle Loan              car                    -     22 500,00 $    388,00 $  Ouvert
+Home Equity Line          loc          16 000,00 $     11 000,00 $    110,00 $  Ouvert
+Demandes (12 mois): 2
+[scanned 2026-07-24 09:15 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | final_v2_3504.pdf | 3 page(s) ===
+Agence du revenu du Canada / Canada Revenue Agency
+AVIS DE COTISATION
+Annee d imposition: 2025      Date d emission: 16-Mar-2026
+SIN/NAS: XXX XXX 420
+Line 15000 Revenu total:   139 661,01 $
+Line 23600 Revenu net:     134 893,07 $
+Solde: -1 212,92 $
+[scanned 2026-07-24 09:16 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | scan_9011.pdf | 3 page(s) ===
+PRAIRIE OAK APPRAISALS
+RAPPORT D'EVALUATION RESIDENTIELLE - SOMMAIRE
+Propriete: 424 Quarry Street, Gatineau, QC   (condo)
+Date du rapport: 2026/06/25
+Prix d achat au contrat: 420 000 $
+VALEUR MARCHANDE ESTIMEE: 376 000 $
+Methode de comparaison directe. Comparables:
+  225 Boulevard Fontaine   361 000 $   adj -2.9%
+  378 Rue Saint-Exemple   374 000 $   adj +1.9%
+  74 Quarry Street   376 000 $   adj +4.7%
+Commentaires:
+  Usure cosmetique mineure notee a la cuisine et au couloir; aucun impact sur la valeur.
+Evaluateur: D. Lefebvre, CRA   Lic. 81288
+[scanned 2026-07-24 09:32 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | upload_1731.pdf | 1 page(s) ===
+Note de l'emprunteur: 'Mon employeur dit que la personne des RH est en conges, la lettre suivra. Talon de paie deja envoye.'
+[scanned 2026-07-24 09:23 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | upload_4152.pdf | 2 page(s) ===
+PROMESSE D'ACHAT - extrait (pages 1 et 7 de 14)
+Propriete: 424 Quarry Street, Gatineau, QC
+Prix d achat: 420 000 $   Date de cloture: 3 septembre 2026
+Depot verse: 8 400 $
+[scanned 2026-07-24 09:48 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | Doc_2498.pdf | 1 page(s) ===
+BRIGHTFIELD INSURANCE CORP.
+RELEVE DE PAIE
+Employe: BRANNIGAN, Simon   ID: 25265
+Frequence: Aux deux semaines
+Periode: 2026/07/04 - 2026/07/17
+Date de paie: 2026/07/21
+Gains reguliers   5 577,56 $
+BRUT PERIODE      5 577,56 $
+Retenues (impot, RPC/RRQ, AE, retraite)  1 541,81 $
+PAIE NETTE               4 035,75 $
+BRUT CUMULATIF   83 663,40 $
+[scanned 2026-07-24 09:29 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | final_v2_5194.pdf | 2 page(s) ===
+FICHE DE QUALIFICATION HYPOTHECAIRE (ebauche, ratios a confirmer)
+Revenu mensuel brut utilise: 12 083,33 $
+Type de propriete: condo
+Paiement hypothecaire de qualification (capital et interets): 2 920,20 $
+Taxes foncieres (mensuel): 544,56 $
+Chauffage (mensuel): 127,30 $
+Frais de copropriete (mensuel): 286,78 $
+Dettes declarees par le demandeur (paiement mensuel declare):
+  Maple Visa Gold                   132,60 $
+  Vehicle Loan                      388,00 $
+  Home Equity Line                  110,00 $
+[scanned 2026-07-24 09:17 - page 1 of 2 - CONFIDENTIAL]

@@ -1,0 +1,72 @@
+{
+  "run": "baseline_v1",
+  "conditions": 208,
+  "correct": 143,
+  "accuracy": 0.6875,
+  "auto_decided": 164,
+  "auto_wrong": 36,
+  "agent_needs_review": 44,
+  "no_answer": 0,
+  "false_approvals": 13,
+  "skipped_escalations": 11,
+  "queue_by_reason": {
+    "policy_ambiguity": 55,
+    "agent_error": 7,
+    "missing_document": 3
+  },
+  "queue_by_severity": {
+    "P1 critical (false approval)": 13,
+    "P2 high (skipped a required escalation)": 11,
+    "P3 medium (decided a policy call)": 10,
+    "P3 medium (false decline, causes rework)": 2,
+    "P4 low (over-escalation, extra human touch)": 29
+  },
+  "by_family": {
+    "income_proof": {
+      "n": 43,
+      "ok": 29,
+      "auto": 33,
+      "auto_wrong": 8,
+      "review": 10
+    },
+    "down_payment_source": {
+      "n": 44,
+      "ok": 30,
+      "auto": 34,
+      "auto_wrong": 8,
+      "review": 10
+    },
+    "appraisal": {
+      "n": 40,
+      "ok": 30,
+      "auto": 34,
+      "auto_wrong": 6,
+      "review": 6
+    },
+    "employment": {
+      "n": 41,
+      "ok": 27,
+      "auto": 33,
+      "auto_wrong": 10,
+      "review": 8
+    },
+    "debt_ratio": {
+      "n": 40,
+      "ok": 27,
+      "auto": 30,
+      "auto_wrong": 4,
+      "review": 10
+    }
+  },
+  "confusion": {
+    "not_satisfied|needs_review": 20,
+    "needs_review|not_satisfied": 10,
+    "needs_review|satisfied": 11,
+    "not_satisfied|not_satisfied": 33,
+    "satisfied|satisfied": 95,
+    "needs_review|needs_review": 15,
+    "satisfied|needs_review": 9,
+    "not_satisfied|satisfied": 13,
+    "satisfied|not_satisfied": 2
+  }
+}

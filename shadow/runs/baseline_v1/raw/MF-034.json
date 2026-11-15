@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-034",
+ "decisions": [
+  {
+   "condition_id": "MF-034-C1",
+   "decision": "needs_review",
+   "rule_cited": "INC-03",
+   "rationale": "NOA 2025 ($116,598) and pay stub (about $119.5k annualized) fall materially short of the stated $158,000 and contradict the letter's $165,964, so escalate."
+  },
+  {
+   "condition_id": "MF-034-C2",
+   "decision": "needs_review",
+   "rule_cited": "DP-03",
+   "rationale": "Funds appear seasoned and sufficient, but an unexplained $3,080 deposit on 4 July needs review under the large/unusual deposit rule."
+  },
+  {
+   "condition_id": "MF-034-C3",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Recent signed letterhead letter confirms permanent full-time employment since 2017 with probation completed."
+  },
+  {
+   "condition_id": "MF-034-C4",
+   "decision": "needs_review",
+   "rule_cited": "DTI-01",
+   "rationale": "Ratios computed on stated $158,000 look compliant (GDS about 35%, TDS about 43%) but documented income is much lower, which would breach limits."
+  }
+ ]
+}

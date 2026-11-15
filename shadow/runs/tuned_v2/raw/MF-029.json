@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-029",
+ "decisions": [
+  {
+   "condition_id": "MF-029-C1",
+   "decision": "satisfied",
+   "rule_cited": "AR-05",
+   "rationale": "Required = 97,500 + 1.5% x 390,000 (5,850) = 103,350; closing 110,321.17; history Mar 16 to Jun 25 = 101 days; non-payroll deposits all under 2,500."
+  },
+  {
+   "condition_id": "MF-029-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-08",
+   "rationale": "Lakeshore on panel and 11 days old, but value 366,000 vs price 390,000: shortfall 24,000/390,000 = 6.15%, over 5%."
+  },
+  {
+   "condition_id": "MF-029-C3",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Letter 2026-06-10 (24 days old), letterhead, signed, permanent full-time since 2018, salary 157,559.44 >= stated 153,500."
+  },
+  {
+   "condition_id": "MF-029-C4",
+   "decision": "satisfied",
+   "rule_cited": "AR-13",
+   "rationale": "Housing = 3,729.10+244.39+96.02 = 4,069.51; GDS 4,069.51/12,791.67 = 31.81%; other debts 555 + 3%x15,000 (450) = 1,005; TDS 5,074.51/12,791.67 = 39.67%; score 816."
+  }
+ ]
+}

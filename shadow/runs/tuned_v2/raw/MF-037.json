@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-037",
+ "decisions": [
+  {
+   "condition_id": "MF-037-C1",
+   "decision": "not_satisfied",
+   "rule_cited": "INC-01",
+   "rationale": "Only paystub is dated 19/09/2026, 37 days before review date 2026-10-26, over the 30-day limit (AR-04). (Paystub 5,229.86 x 26 = 135,976.36 and NOA 137,535.19 both exceed stated 134,000, but the pay document is stale.)"
+  },
+  {
+   "condition_id": "MF-037-C2",
+   "decision": "needs_review",
+   "rule_cited": "DP-04",
+   "rationale": "Gift of 21,400 from Sana Pelletier, a friend, not immediate family (AR-07), so needs_review. History Jul 8-Oct 16 = 100 days; required 40,500 + 12,150 = 52,650 vs closing 77,384.96; letter otherwise complete and signed."
+  },
+  {
+   "condition_id": "MF-037-C3",
+   "decision": "satisfied",
+   "rule_cited": "AR-08",
+   "rationale": "Report 18-Aug-2026 is 69 days old (<=90); Rive-Nord Evaluations on panel. Value 844,000 above price 810,000. Cosmetic comment only."
+  },
+  {
+   "condition_id": "MF-037-C4",
+   "decision": "needs_review",
+   "rule_cited": "EMP-04",
+   "rationale": "Letter 30-Sep-2026 is 26 days old, signed, letterhead; permanent full-time with 6-month probation from start date 04-Oct-2026, ending 2027-04-04, after the review date (AR-10). Salary 139,400.83 above stated 134,000."
+  },
+  {
+   "condition_id": "MF-037-C5",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "Income 11,166.67/month. Housing = 3,251.34 + 362.36 + 158.15 = 3,771.85; GDS = 33.78%. Auto loan 284 per bureau; TDS = 4,055.85 / 11,166.67 = 36.32%. Credit 726."
+  }
+ ]
+}

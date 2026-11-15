@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-027",
+ "decisions": [
+  {
+   "condition_id": "MF-027-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "The 2025 NOA shows $120,561, the pay stub annualizes to about $119,800 and the letter shows $112,793, supporting the stated $115,500."
+  },
+  {
+   "condition_id": "MF-027-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "DP-04",
+   "rationale": "The $40,000 gift is from a family friend, not close family, and without it the balance of about $69,000 does not cover the $80,500 down payment."
+  },
+  {
+   "condition_id": "MF-027-C3",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "The 2026-09-04 letter on letterhead, signed by HR, confirms permanent full-time employment since 2018 with salary consistent with the application."
+  },
+  {
+   "condition_id": "MF-027-C4",
+   "decision": "needs_review",
+   "rule_cited": "DTI-03",
+   "rationale": "GDS is about 36.2% but TDS is about 45.2%, marginally above 44%, and the 759 credit score makes it a candidate for a DTI-03 exception."
+  }
+ ]
+}

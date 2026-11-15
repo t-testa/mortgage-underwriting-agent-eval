@@ -1,0 +1,5 @@
+{"file_id":"MF-044","decisions":[
+{"condition_id":"MF-044-C1","decision":"satisfied","rule_cited":"INC-05","rationale":"Commission income: average line 15000 of 2025 (127,095.33) and 2024 (127,123.32) = 127,109.33 vs stated 128,000, shortfall 0.70% (<=5%). Paystub 2026-09-16 is 10 days old."},
+{"condition_id":"MF-044-C2","decision":"needs_review","rule_cited":"EMP-06","rationale":"Letter 2026-09-07 (19 days old), letterhead, signed, permanent full-time since 2019. Letter salary 114,721.33 vs stated 128,000 is 10.4% below, more than 5%, so AR-12 needs_review."},
+{"condition_id":"MF-044-C3","decision":"satisfied","rule_cited":"DTI-01","rationale":"Housing 2,756.34+336.30+92.46 = 3,185.10; GDS 3,185.10/10,666.67 = 29.86%. Debts: card 14,360 x 3% = 430.80 + LOC 11,500 x 3% = 345.00 = 775.80; TDS 3,960.90/10,666.67 = 37.13%."}
+]}

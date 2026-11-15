@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-016",
+ "decisions": [
+  {
+   "condition_id": "MF-016-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "2025 NOA total income of $167,895, pay stub annualization of about $164.5k and letter salary of $171,764 support the stated $164,500."
+  },
+  {
+   "condition_id": "MF-016-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing account history from April shows a $29,771 balance built from payroll with no unusual deposits, covering the $23,200 down payment with about $6.5k left for closing costs."
+  },
+  {
+   "condition_id": "MF-016-C3",
+   "decision": "needs_review",
+   "rule_cited": "APP-05",
+   "rationale": "Panel appraiser value of $466,000 supports the price, but the appraiser recommends an engineer foundation inspection and it is unclear whether this must be cleared."
+  },
+  {
+   "condition_id": "MF-016-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-05",
+   "rationale": "Letter on letterhead, signed by HR, shows a fixed-term contract continuously renewed since July 2021, a stable history of about five years."
+  },
+  {
+   "condition_id": "MF-016-C5",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS is about 29-30% and TDS about 34% even including the Retail Plus card omitted from the worksheet, within 39%/44%, with credit score 727."
+  }
+ ]
+}

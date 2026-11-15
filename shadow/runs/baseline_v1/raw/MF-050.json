@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-050",
+ "decisions": [
+  {
+   "condition_id": "MF-050-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "2025 NOA $134,570 and pay stub (about $138,100 annualized, YTD consistent) support the stated $138,500."
+  },
+  {
+   "condition_id": "MF-050-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing balance $215,636 with steady history and no large unexplained deposits covers the $187,500 down payment and closing costs."
+  },
+  {
+   "condition_id": "MF-050-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Prairie Oak Appraisals (on panel) values the property at $744,000, below the $750,000 purchase price."
+  },
+  {
+   "condition_id": "MF-050-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "EMP-07",
+   "rationale": "No employment letter is on file (borrower note says it is pending); a required document is missing."
+  },
+  {
+   "condition_id": "MF-050-C5",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS about 28.2% and TDS about 38.5%; credit score 784 meets DTI-02."
+  }
+ ]
+}

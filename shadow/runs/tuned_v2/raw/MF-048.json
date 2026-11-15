@@ -1,0 +1,7 @@
+{"file_id":"MF-048","decisions":[
+{"condition_id":"MF-048-C1","decision":"not_satisfied","rule_cited":"INC-02","rationale":"Paystub 2026-06-21 (12 days old) annualizes to 5,574.61 x 12 = 66,895.32 vs stated 67,000 (0.16% shortfall), but no NOA or T4 for 2025 is on file; required for salaried applicants, so missing document is not_satisfied."},
+{"condition_id":"MF-048-C2","decision":"needs_review","rule_cited":"DP-03","rationale":"Required funds 148,000 + 1.5% x 740,000 (11,100) = 159,100; closing balance 172,094.22; history 2026-03-16 to 2026-06-26 = 102 days. But non-payroll deposit of 3,360.00 from J. ROY on 2026-05-21 has no explanation document: 2,500 to 5,000 unexplained, AR-06 needs_review."},
+{"condition_id":"MF-048-C3","decision":"satisfied","rule_cited":"APP-02","rationale":"Ironbridge Valuation Ltd. is on panel; report 2026-05-29 is 35 days old; value 743,000 >= price 740,000; cosmetic comments only."},
+{"condition_id":"MF-048-C4","decision":"satisfied","rule_cited":"EMP-03","rationale":"Letter 2026-06-09 is 24 days old, letterhead and signed, permanent full-time since 2017, probation completed. Salary 68,265.79 vs stated 67,000, no shortfall."},
+{"condition_id":"MF-048-C5","decision":"satisfied","rule_cited":"DTI-01","rationale":"Housing 1,289.25+282.54+111.41+50% x 405.87 (202.94) = 1,886.14; GDS 1,886.14/5,583.33 = 33.78%. Debts: LOC 5,200 x 3% = 156.00 + card 3,770 x 3% = 113.10 + student 261.00 = 530.10; TDS 2,416.24/5,583.33 = 43.28%."}
+]}

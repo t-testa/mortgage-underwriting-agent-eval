@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-027",
+ "decisions": [
+  {
+   "condition_id": "MF-027-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "Biweekly 4,609.56 x 26 = 119,848.56 >= stated 115,500; paystub pay date 2026-08-26 is 19 days old; 2025 NOA on file (120,560.69)."
+  },
+  {
+   "condition_id": "MF-027-C2",
+   "decision": "needs_review",
+   "rule_cited": "AR-07",
+   "rationale": "Required = 80,500 + 12,075 = 92,575; closing 109,273.61, history 115 days; but 40,000 gift is from Priya Kowalczyk, a family friend, not immediate family (letter otherwise complete and signed); needs_review."
+  },
+  {
+   "condition_id": "MF-027-C3",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Letter 2026-09-04 (10 days old), letterhead, signed, permanent full-time since 2018; salary 112,793.28 is 2.34% below stated 115,500 (within 5%)."
+  },
+  {
+   "condition_id": "MF-027-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-13",
+   "rationale": "Housing = 2,968.96+394.70+123.52 = 3,487.18; GDS 3,487.18/9,625 = 36.23%; other debts 487 + 3%x10,680 (320.40) + 3%x16,500 (495) = 1,302.40; TDS 4,789.58/9,625 = 49.76%, 5.76 pts over 44%; not marginal."
+  }
+ ]
+}

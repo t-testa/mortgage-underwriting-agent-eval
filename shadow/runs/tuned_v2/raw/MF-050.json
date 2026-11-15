@@ -1,0 +1,7 @@
+{"file_id":"MF-050","decisions":[
+{"condition_id":"MF-050-C1","decision":"satisfied","rule_cited":"INC-03","rationale":"Paystub pay date 2026-07-29 is 11 days old; 11,508.28 x 12 = 138,099.36 vs stated 138,500, shortfall 0.29%. 2025 NOA 134,570.35 is a 2.83% shortfall, within 5%."},
+{"condition_id":"MF-050-C2","decision":"needs_review","rule_cited":"DP-03","rationale":"Required funds 187,500 + 1.5% x 750,000 (11,250) = 198,750; closing balance 215,636.41; history 2026-05-05 to 2026-08-05 = 92 days. But 3,810.00 non-payroll deposit from J. ROY on 2026-06-03 has no explanation: 2,500 to 5,000 unexplained, AR-06 needs_review."},
+{"condition_id":"MF-050-C3","decision":"satisfied","rule_cited":"APP-02","rationale":"Prairie Oak Appraisals is on panel; report 2026-07-26 is 14 days old; value 744,000 vs price 750,000 is a 0.8% shortfall (<=2%); cosmetic comments only."},
+{"condition_id":"MF-050-C4","decision":"not_satisfied","rule_cited":"EMP-07","rationale":"No employment letter on file, only a borrower cover note saying it will be sent later. Required document missing, not_satisfied."},
+{"condition_id":"MF-050-C5","decision":"satisfied","rule_cited":"DTI-01","rationale":"Housing 2,768.67+371.04+117.34 = 3,257.05; GDS 3,257.05/11,541.67 = 28.22%. Debts: student loan 1,191.00; TDS 4,448.05/11,541.67 = 38.54%."}
+]}

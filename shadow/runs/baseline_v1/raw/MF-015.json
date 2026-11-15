@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-015",
+ "decisions": [
+  {
+   "condition_id": "MF-015-C1",
+   "decision": "needs_review",
+   "rule_cited": "DP-04",
+   "rationale": "$14,400 of the funds is a gift from a cousin, and the policy only accepts gifts from close family without defining whether a cousin qualifies; the gift letter otherwise confirms no repayment."
+  },
+  {
+   "condition_id": "MF-015-C2",
+   "decision": "satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Panel appraiser Prairie Oak Appraisals values the property at $617,000 versus $615,000 price, report dated 23 April 2026."
+  },
+  {
+   "condition_id": "MF-015-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "EMP-02",
+   "rationale": "Employment letter on letterhead has a blank signature line and is not signed by an authorized representative."
+  },
+  {
+   "condition_id": "MF-015-C4",
+   "decision": "needs_review",
+   "rule_cited": "DTI-03",
+   "rationale": "TDS is about 45.3% on declared debts, marginally above the 44% limit (GDS about 34.5% is fine), and credit score 748 is strong so an exception may be considered."
+  }
+ ]
+}

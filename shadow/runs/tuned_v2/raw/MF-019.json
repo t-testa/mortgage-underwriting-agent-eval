@@ -1,0 +1,6 @@
+{"file_id":"MF-019","decisions":[
+{"condition_id":"MF-019-C1","decision":"satisfied","rule_cited":"INC-03","rationale":"Paystub 18 days old; 3,000.70 x 26 = 78,018.20 vs stated 81,500 = 4.27% shortfall (<=5%). NOA 2025 line 15000 79,738.21 is a 2.16% shortfall. No variable pay."},
+{"condition_id":"MF-019-C2","decision":"satisfied","rule_cited":"DP-04","rationale":"Required funds 71,500 + 10,725 = 82,225; balance 109,344.06 covers it. History 23-Mar to 21-Jun = 90 days (meets at least 90). The 23,600 deposit matches a signed gift letter from father Victor Mackenzie stating it is not repayable."},
+{"condition_id":"MF-019-C3","decision":"needs_review","rule_cited":"APP-02","rationale":"Lakeshore on panel, report 17 days old. Shortfall = (715,000 - 684,000)/715,000 = 4.34%, over 2% up to 5% (AR-08)."},
+{"condition_id":"MF-019-C4","decision":"satisfied","rule_cited":"EMP-03","rationale":"Letter 09-Jun-2026 is 22 days old, letterhead, signed, permanent full-time since 01-May-2025, probation completed. Salary 84,825.11 above stated 81,500."}
+]}

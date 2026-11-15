@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-005",
+ "decisions": [
+  {
+   "condition_id": "MF-005-C1",
+   "decision": "satisfied",
+   "rule_cited": "AR-01",
+   "rationale": "Paystub pay date 2026-10-09 (16 days) 4,271.90 x 26 = 111,069.40 above stated 108,000; NOA 2025 108,637.96 also above stated."
+  },
+  {
+   "condition_id": "MF-005-C2",
+   "decision": "satisfied",
+   "rule_cited": "AR-07",
+   "rationale": "Required = 36,400 + 1.5% x 455,000 (6,825) = 43,225; closing balance 55,614.52; history 98 days. The 11,400 deposit is explained by a signed gift letter from grandmother, amount matching, stating no repayment."
+  },
+  {
+   "condition_id": "MF-005-C3",
+   "decision": "satisfied",
+   "rule_cited": "AR-08",
+   "rationale": "Summit on panel; report August 23, 2026 is 63 days old. Value 457,000 is above price 455,000."
+  },
+  {
+   "condition_id": "MF-005-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-13",
+   "rationale": "Housing 3,846.91+451.65+125.19 = 4,423.75; GDS 49.15% on 9,000, over 39% by 10 points. Debts: card 84, student 97, HELOC 60 = 241; TDS = 4,664.75/9,000 = 51.83%. Score 715."
+  }
+ ]
+}

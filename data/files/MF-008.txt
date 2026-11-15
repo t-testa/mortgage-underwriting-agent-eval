@@ -1,0 +1,108 @@
+FILE MF-008  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-07-10
+Applicant: Leila Brannigan
+Property: 625 Birchwood Crescent, Trois-Rivieres, QC (house)
+Purchase price: $800,000   Down payment: $80,000
+Stated annual income: $140,500   Employer (stated): Lumen Retail Group
+
+CONDITIONS TO DECIDE:
+  MF-008-C1 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-008-C2 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-008-C3 [employment] Confirm current employment.
+  MF-008-C4 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | final_v2_2588.pdf | 2 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 625 Birchwood Crescent, Trois-Rivieres, QC
+Purchase price: $800,000   Closing date: 23/08/2026
+Deposit paid: $16,000
+[scanned 2026-07-10 09:14 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | scan_0399.pdf | 3 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: LEILA BRANNIGAN    Report date: 04-Jul-2026
+Credit score: 751
+Creditor                  Type               Limit         Balance         Pmt  Status
+AutoFinance Canada        car                    -      $42,000.00     $700.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-07-10 09:27 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | scan_4210.pdf | 3 page(s) ===
+BILL OF SALE - USED VEHICLE
+Seller: Leila Brannigan   Buyer: Tyler Desrosiers
+Vehicle: 2017 compact sedan, VIN ending 8408
+Sale price: $6,450.00   Date: 17-May-2026
+Paid in full by e-transfer. Sold as is.
+[scanned 2026-07-10 09:33 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | scan_3784.pdf | 3 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $11,708.33
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $3,922.84
+Property tax (monthly): $292.59
+Heating (monthly): $174.48
+Condo fees (monthly): N/A
+Liabilities declared by applicant (monthly payment as stated):
+  AutoFinance Canada                 $700.00
+[scanned 2026-07-10 09:34 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | scan_3466.pdf | 2 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: LEILA BRANNIGAN
+Statement period: April 2, 2026 to July 3, 2026
+Opening balance: $71,852.55
+
+April 4, 2026   FUEL                                        $-195.99        $71,656.56
+April 5, 2026   PAYROLL DEP LUMEN                          $3,998.85        $75,655.41
+April 5, 2026   PHARMACY                                     $-32.00        $75,623.41
+April 6, 2026   INSURANCE PREM                              $-210.39        $75,413.02
+April 7, 2026   GROCERY STORE                               $-193.07        $75,219.95
+April 17, 2026  RESTAURANT                                  $-157.05        $75,062.90
+April 18, 2026  GROCERY STORE                               $-472.79        $74,590.11
+April 19, 2026  PAYROLL DEP LUMEN                          $3,998.85        $78,588.96
+April 20, 2026  RENT PAYMENT                                 $-41.48        $78,547.48
+April 29, 2026  FUEL                                        $-121.47        $78,426.01
+April 30, 2026  E-TRANSFER RECEIVED REFUND                   $890.14        $79,316.15
+May 3, 2026     PAYROLL DEP LUMEN                          $3,998.85        $83,315.00
+May 13, 2026    RENT PAYMENT                                $-437.88        $82,877.12
+May 15, 2026    FUEL                                        $-344.08        $82,533.04
+May 17, 2026    PAYROLL DEP LUMEN                          $3,998.85        $86,531.89
+May 17, 2026    RESTAURANT                                  $-103.76        $86,428.13
+May 21, 2026    FUEL                                        $-457.73        $85,970.40
+May 24, 2026    UTILITY PAYMENT                             $-203.50        $85,766.90
+May 24, 2026    PHARMACY                                    $-181.87        $85,585.03
+May 30, 2026    TELECOM BILL                                $-170.96        $85,414.07
+May 30, 2026    E-TRANSFER RECEIVED DESROSIERS             $6,450.00        $91,864.07
+May 31, 2026    PAYROLL DEP LUMEN                          $3,998.85        $95,862.92
+June 6, 2026    INSURANCE PREM                              $-325.80        $95,537.12
+June 6, 2026    PHARMACY                                     $-83.92        $95,453.20
+June 14, 2026   PAYROLL DEP LUMEN                          $3,998.85        $99,452.05
+June 21, 2026   TRANSIT PASS                                $-354.40        $99,097.65
+June 24, 2026   GROCERY STORE                               $-447.36        $98,650.29
+June 28, 2026   PAYROLL DEP LUMEN                          $3,998.85       $102,649.14
+June 29, 2026   GROCERY STORE                               $-471.55       $102,177.59
+July 3, 2026    RESTAURANT                                  $-144.65       $102,032.94
+
+Closing balance: $102,032.94
+[scanned 2026-07-10 09:53 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | IMG_1216.pdf | 3 page(s) ===
+MERIDIAN REAL ESTATE APPRAISERS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 625 Birchwood Crescent, Trois-Rivieres, QC   (house)
+Report date: 2026/05/22
+Contract purchase price: $800,000
+OPINION OF MARKET VALUE: $767,000
+Direct comporison approach. Comparables:
+  14 Quarry Street   $782,000   adj -4.2%
+  848 Harbour View Road   $754,000   adj +2.7%
+  470 Alder Lane   $744,000   adj +4.7%
+Comments:
+  Minor cosmetic wcar noted in kitchen and hallway; no impact on value.
+Appraiser: D. Lefebvre, CRA   Lic. 97158
+[scanned 2026-07-10 09:13 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | scan_7363.pdf | 3 page(s) ===
+Cover note from borrower: 'My employer says the HR person is on leave, will send letter soon. Paystub already sent.'
+[scanned 2026-07-10 09:29 - page 1 of 3 - CONFIDENTIAL]

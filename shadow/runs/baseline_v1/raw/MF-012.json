@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-012",
+ "decisions": [
+  {
+   "condition_id": "MF-012-C1",
+   "decision": "not_satisfied",
+   "rule_cited": "DP-04",
+   "rationale": "The $40,600 gift letter states the amount will be repaid, is unsigned and has an inconsistent donor name/relationship, and without it the balance is below the $86,500 down payment."
+  },
+  {
+   "condition_id": "MF-012-C2",
+   "decision": "satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Panel appraiser Valeur Reference Inc. values the property at $867,000 versus $865,000 price, report dated 30 April 2026."
+  },
+  {
+   "condition_id": "MF-012-C3",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Letter dated 16 May 2026 on letterhead, signed by HR, confirms permanent full-time employment at $87,454, consistent with application."
+  },
+  {
+   "condition_id": "MF-012-C4",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS is roughly 31-34% and TDS roughly 36-38% depending on condo fee and revolving debt treatment, both within 39%/44%, and credit score 716 meets the 600 minimum."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-038",
+ "decisions": [
+  {
+   "condition_id": "MF-038-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "Paystub 2026-07-18 (2 days old), semi-monthly 4,656.46 x 24 = 111,755.04, above stated 109,500. NOA 2025 line 15000 = 107,720.61, shortfall 1.6% (<=5%)."
+  },
+  {
+   "condition_id": "MF-038-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "DP-03",
+   "rationale": "Unexplained cash deposit of 10,000 on 3 June 2026 (over 5,000, no explanation document) fails AR-06. Without it, balance 38,325 would also be below required 31,800 + 9,525 = 41,325 (closing 48,325; history 95 days)."
+  },
+  {
+   "condition_id": "MF-038-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-05",
+   "rationale": "Report 10 May 2026 is 71 days old, Cardinal is on panel, value 639,000 vs price 635,000, but the value is subject to completion of the roof replacement with completion certificate to be provided (AR-09)."
+  },
+  {
+   "condition_id": "MF-038-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Letter 2026/07/04 is 16 days old, letterhead, signed; permanent full-time since 2017, no probation. Salary 107,519.68 vs stated 109,500 is 1.8% below (<=5%)."
+  }
+ ]
+}

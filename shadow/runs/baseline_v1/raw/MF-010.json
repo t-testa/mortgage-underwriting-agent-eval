@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-010",
+ "decisions": [
+  {
+   "condition_id": "MF-010-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "2025 NOA ($82,558), current pay statement (annualizes to about $84,400) and employment letter ($86,034) support the stated $82,500."
+  },
+  {
+   "condition_id": "MF-010-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "The $34,114 balance is less than the $40,800 down payment, so funds do not cover the down payment and closing costs."
+  },
+  {
+   "condition_id": "MF-010-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Appraised value of $459,000 from a panel appraiser does not support the $510,000 purchase price."
+  },
+  {
+   "condition_id": "MF-010-C4",
+   "decision": "needs_review",
+   "rule_cited": "EMP-05",
+   "rationale": "Fixed-term contract renewed continuously since 2025-02-02 (about 20 months); policy does not define a stable history, so this needs reviewer judgment."
+  },
+  {
+   "condition_id": "MF-010-C5",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS about 28.8% and TDS about 35.4% on the $6,875 monthly income are within limits, with score 793 and liabilities matching the bureau."
+  }
+ ]
+}

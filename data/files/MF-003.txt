@@ -1,0 +1,128 @@
+FILE MF-003  |  REVISION DES CONDITIONS DE SOUSCRIPTION
+Date de revision: 2026-07-10
+Demandeur: Simon Haddad
+Propriete: 518 Birchwood Crescent, Sherbrooke, QC (house)
+Prix d achat: 850 000 $   Mise de fonds: 212 500 $
+Revenu annuel declare: 88 000 $   Employeur (declare): Blue Heron Manufacturing
+
+CONDITIONS A DECIDER:
+  MF-003-C1 [income_proof] Fournir une preuve de revenu appuyant le revenu annuel declare de 88 000 $.
+  MF-003-C2 [down_payment_source] Confirmer la provenance et la disponibilite de la mise de fonds et des frais de cloture.
+  MF-003-C3 [employment] Confirmer l'emploi actuel.
+  MF-003-C4 [debt_ratio] Confirmer que les ratios ABD et ATD respectent la politique.
+
+=== DOCUMENT 1 | Doc_6055.pdf | 3 page(s) ===
+PERMIS DE CONDUIRE (copie, masque)
+Nom: Simon Haddad
+[scanned 2026-07-10 09:31 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | IMG_2235.pdf | 3 page(s) ===
+FICHE DE QUALIFICATION HYPOTHECAIRE (ebauche, ratios a confirmer)
+Revenu mensuel brut utilise: 7 333,33 $
+Type de propriete: house
+Paiement hypothecaire de qualification (capital et interets): 2 005,30 $
+Taxes foncieres (mensuel): 309,61 $
+Chauffage (mensuel): 119,62 $
+Frais de copropriete (mensuel): N/A
+Dettes declarees par le demandeur (paiement mensuel declare):
+  Maple Visa Gold                   150,40 $
+  Student Loan (Provincial)         229,00 $
+  Personal Line of Credit           130,00 $
+[scanned 2026-07-10 09:40 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | scan_5091.pdf | 2 page(s) ===
+RAPPORT DE CREDIT - SOMMAIRE
+Sujet: SIMON HADDAD    Date du rapport: 28 juin 2026
+Cote de credit: 783
+Creancier                 Type              Limite           Solde         Pmt  Statut
+Maple Visa Gold           card         19 600,00 $      7 520,00 $    150,40 $  Ouvert
+Student Loan (Provincial) student                -     13 500,00 $    229,00 $  Ouvert
+Personal Line of Credit   loc          30 000,00 $     13 000,00 $    130,00 $  Ouvert
+Demandes (12 mois): 2
+[scanned 2026-07-10 09:11 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | Doc_9385.pdf | 3 page(s) ===
+RELEVE DE COMPTE - CHEQUES
+Titulaire: SIMON HADDAD
+Periode du releve: 31/03/2026 to 8 juillet 2026
+Solde d ouverture: 227 093,00 $
+
+31/03/2026      PAYROLL DEP BLUE HERON                    2 504,62 $      229 597,62 $
+3 avril 2026    TELECOM BILL                               -346,31 $      229 251,31 $
+6 avril 2026    E-TRANSFER RECEIVED T. LEE                  321,09 $      229 572,40 $
+14/04/2026      PAYROLL DEP BLUE HERON                    2 504,62 $      232 077,02 $
+16/04/2026      TRANSIT PASS                               -374,00 $      231 703,02 $
+27/04/2026      TELECOM BILL                               -287,72 $      231 415,30 $
+28/04/2026      PAYROLL DEP BLUE HERON                    2 504,62 $      233 919,92 $
+28/04/2026      TRANSIT PASS                               -403,04 $      233 516,88 $
+4 mai 2026      E-TRANSFER RECEIVED T. LEE                  678,81 $      234 195,69 $
+5 mai 2026      RESTAURANT                                 -141,40 $      234 054,29 $
+12 mai 2026     PAYROLL DEP BLUE HERON                    2 504,62 $      236 558,91 $
+12 mai 2026     GROCERY STORE                              -477,26 $      236 081,65 $
+20/05/2026      RENT PAYMENT                               -387,11 $      235 694,54 $
+22/05/2026      ONLINE PURCHASE                            -112,57 $      235 581,97 $
+22/05/2026      UTILITY PAYMENT                            -247,28 $      235 334,69 $
+22/05/2026      PHARMACY                                    -93,33 $      235 241,36 $
+26/05/2026      PAYROLL DEP BLUE HERON                    2 504,62 $      237 745,98 $
+5 juin 2026     PHARMACY                                    -18,17 $      237 727,81 $
+9 juin 2026     PAYROLL DEP BLUE HERON                    2 504,62 $      240 232,43 $
+11 juin 2026    E-TRANSFER RECEIVED REFUND                  834,86 $      241 067,29 $
+15/06/2026      RESTAURANT                                 -472,98 $      240 594,31 $
+20/06/2026      RESTAURANT                                 -394,39 $      240 199,92 $
+23/06/2026      PAYROLL DEP BLUE HERON                    2 504,62 $      242 704,54 $
+28/06/2026      GROCERY STORE                               -89,82 $      242 614,72 $
+30/06/2026      RESTAURANT                                 -188,15 $      242 426,57 $
+6 juillet 2026  UTILITY PAYMENT                            -420,43 $      242 006,14 $
+7 juillet 2026  PAYROLL DEP BLUE HERON                    2 504,62 $      244 510,76 $
+8 juillet 2026  ONLINE PURCHASE                            -198,90 $      244 311,86 $
+8 juillet 2026  TELECOM BILL                               -179,26 $      244 132,60 $
+
+Solde de cloture: 244 132,60 $
+[scanned 2026-07-10 09:54 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | upload_9614.pdf | 3 page(s) ===
+VOID CHEQUE
+Transit 06320  Institution 001  Account ******852
+[scanned 2026-07-10 09:58 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | final_v2_4923.pdf | 3 page(s) ===
+[Papier a en-tete: Blue Heron Manufacturing | 665 Quarry Street | tel 819-555-0166]
+2026/06/29
+A qui de dr0it,
+La presente confirmc quc Simon Haddad est employe(e) de Bluc Heron Manufacturing a titrc de coordonnateur.
+Date d'entree: 2020/08/25. Statut: permanent a temps plein.
+Salaire annuel de base actuel: 92 565,08 $.
+Cordialement,
+/s/ Callum Pelletier, Gestionnoire RH
+[scanned 2026-07-10 09:21 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | scan_1768.pdf | 2 page(s) ===
+BLUE HERON MANUFACTURING
+RELEVE DE PAIE
+Employe: HADDAD, Simon   ID: 76749
+Frequence: Mensuelle
+Periode: 17/05/2026 - 15/06/2026
+Date de paie: 19/06/2026
+Gains reguliers   7 142,43 $
+BRUT PERIODE      7 142,43 $
+Retenues (impot, RPC/RRQ, AE, retraite)  1 950,96 $
+PAIE NETTE               5 191,47 $
+BRUT CUMULATIF   42 854,58 $
+[scanned 2026-07-10 09:38 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | Doc_0403.pdf | 1 page(s) ===
+PROMESSE D'ACHAT - extrait (pages 1 et 7 de 14)
+Propriete: 518 Birchwood Crescent, Sherbrooke, QC
+Prix d achat: 850 000 $   Date de cloture: 7 septembre 2026
+Depot verse: 17 000 $
+[scanned 2026-07-10 09:49 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | final_v2_4925.pdf | 1 page(s) ===
+Agence du revenu du Canada / Canada Revenue Agency
+AVIS DE COTISATION
+Annee d imposition: 2025      Date d emission: 2026-04-06
+SIN/NAS: XXX XXX 619
+Line 15000 Revenu total:   82 801,76 $
+Line 23600 Revenu net:     77 801,16 $
+Solde: -359,94 $
+[scanned 2026-07-10 09:51 - page 1 of 1 - CONFIDENTIAL]

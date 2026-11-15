@@ -1,0 +1,131 @@
+FILE MF-034  |  REVISION DES CONDITIONS DE SOUSCRIPTION
+Date de revision: 2026-08-21
+Demandeur: Philippe Nguyen
+Propriete: 706 Quarry Street, Sherbrooke, QC (house)
+Prix d achat: 500 000 $   Mise de fonds: 25 000 $
+Revenu annuel declare: 158 000 $   Employeur (declare): Blue Heron Manufacturing
+
+CONDITIONS A DECIDER:
+  MF-034-C1 [income_proof] Fournir une preuve de revenu appuyant le revenu annuel declare de 158 000 $.
+  MF-034-C2 [down_payment_source] Confirmer la provenance et la disponibilite de la mise de fonds et des frais de cloture.
+  MF-034-C3 [employment] Confirmer l'emploi actuel.
+  MF-034-C4 [debt_ratio] Confirmer que les ratios ABD et ATD respectent la politique.
+
+=== DOCUMENT 1 | IMG_1354.pdf | 1 page(s) ===
+[Papier a en-tete: Blue Heron Manufacturing | 749 Chemin des Cedres | tel 819-555-0188]
+3 aout 2026
+A qui de droit,
+Lo presente confirme que Philippe Nguyen est employe(e) de Bluc Heron Manufacturing a titre de gestionnaire de comptes.
+Date d'entree: 14/02/2017. Statut: permanent a temps plein.
+L'employe(e) a termine avec succes sa periode de probation.
+Salaire annuel de base actuel: 165 963,68 $.
+Cordialemcnt,
+/s/ Maya Bouchard, Gestlonnaire RH
+[scanned 2026-08-21 09:50 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | upload_1853.pdf | 1 page(s) ===
+RELEVE DE COMPTE - CHEQUES
+Titulaire: PHILIPPE NGUYEN
+Periode du releve: 19 avril 2026 to 11 aout 2026
+Solde d ouverture: 2 294,12 $
+
+21 avril 2026   TRANSIT PASS                               -167,02 $        2 127,10 $
+22 avril 2026   INSURANCE PREM                             -250,39 $        1 876,71 $
+30 avril 2026   PAYROLL DEP BLUE HERON                    4 496,92 $        6 373,63 $
+4 mai 2026      TRANSIT PASS                               -357,46 $        6 016,17 $
+4 mai 2026      GROCERY STORE                              -456,22 $        5 559,95 $
+10 mai 2026     ONLINE PURCHASE                            -197,73 $        5 362,22 $
+14 mai 2026     PAYROLL DEP BLUE HERON                    4 496,92 $        9 859,14 $
+19 mai 2026     INSURANCE PREM                             -495,72 $        9 363,42 $
+22 mai 2026     INSURANCE PREM                             -200,05 $        9 163,37 $
+28 mai 2026     PAYROLL DEP BLUE HERON                    4 496,92 $       13 660,29 $
+28 mai 2026     ONLINE PURCHASE                            -432,46 $       13 227,83 $
+30 mai 2026     INSURANCE PREM                             -369,53 $       12 858,30 $
+1 juin 2026     ONLINE PURCHASE                            -163,45 $       12 694,85 $
+11 juin 2026    PAYROLL DEP BLUE HERON                    4 496,92 $       17 191,77 $
+11 juin 2026    UTILITY PAYMENT                            -260,40 $       16 931,37 $
+19 juin 2026    E-TRANSFER RECEIVED A. MORIN                699,22 $       17 630,59 $
+25 juin 2026    PAYROLL DEP BLUE HERON                    4 496,92 $       22 127,51 $
+4 juillet 2026  DEPOSIT                                   3 080,00 $       25 207,51 $
+8 juillet 2026  UTILITY PAYMENT                             -20,73 $       25 186,78 $
+9 juillet 2026  PAYROLL DEP BLUE HERON                    4 496,92 $       29 683,70 $
+9 juillet 2026  TELECOM BILL                               -293,87 $       29 389,83 $
+11 juillet 2026 E-TRANSFER RECEIVED REFUND                  756,84 $       30 146,67 $
+17 juillet 2026 TRANSIT PASS                               -379,96 $       29 766,71 $
+18 juillet 2026 FUEL                                       -352,40 $       29 414,31 $
+22 juillet 2026 UTILITY PAYMENT                            -319,71 $       29 094,60 $
+23 juillet 2026 PAYROLL DEP BLUE HERON                    4 496,92 $       33 591,52 $
+2 aout 2026     GROCERY STORE                              -224,28 $       33 367,24 $
+6 aout 2026     PAYROLL DEP BLUE HERON                    4 496,92 $       37 864,16 $
+7 aout 2026     RENT PAYMENT                                -90,07 $       37 774,09 $
+11 aout 2026    UTILITY PAYMENT                            -350,09 $       37 424,00 $
+
+Solde de cloture: 37 424,00 $
+[scanned 2026-08-21 09:24 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | scan_9226.pdf | 2 page(s) ===
+VOID CHEQUE
+Transit 06520  Institution 001  Account ******803
+[scanned 2026-08-21 09:37 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | scan_9060.pdf | 1 page(s) ===
+FAX COVER SHEET
+To: Mortgage Ops   Pages: 3   Re: documents as requested
+[handwritten: sorry for the blurry pages!]
+[scanned 2026-08-21 09:35 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | Doc_3183.pdf | 3 page(s) ===
+RAPPORT DE CREDIT - SOMMAIRE
+Sujet: PHILIPPE NGUYEN    Date du rapport: 2026-08-15
+Cote de credit: 731
+Creancier                 Type              Limite           Solde         Pmt  Statut
+Student Line of Credit    loc          19 000,00 $     14 400,00 $    144,00 $  Ouvert
+Government Student Loan   student                -     13 500,00 $    313,00 $  Ouvert
+Ridgeline Auto Credit     car                    -     24 100,00 $    560,00 $  Ouvert
+Demandes (12 mois): 2
+[scanned 2026-08-21 09:49 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | final_v2_5143.pdf | 2 page(s) ===
+FICHE DE QUALIFICATION HYPOTHECAIRE (ebauche, ratios a confirmer)
+Revenu mensuel brut utilise: 13 166,67 $
+Type de propriete: house
+Paiement hypothecaire de qualification (capital et interets): 3 982,71 $
+Taxes foncieres (mensuel): 500,33 $
+Chauffage (mensuel): 131,97 $
+Frais de copropriete (mensuel): N/A
+Dettes declarees par le demandeur (palement mensuel declare):
+  Student Line of Credit            144,00 $
+  Government Student Loan           313,00 $
+  Ridgeline Auto Credit             560,00 $
+[scanned 2026-08-21 09:12 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | final_v2_9965.pdf | 2 page(s) ===
+Agence du revenu du Canada / Canada Revenue Agency
+AVIS DE COTISATION
+Annee d imposition: 2025      Date d emission: 19 mars 2026
+SIN/NAS: XXX XXX 670
+Line 15000 Revenu total:   116 597,66 $
+Line 23600 Revenu net:     111 756,96 $
+Solde: 334,73 $
+[scanned 2026-08-21 09:10 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | Doc_1458.pdf | 1 page(s) ===
+BLUE HERON MANUFACTURING
+RELEVE DE PAIE
+Employe: NGUYEN, Philippe   ID: 93425
+Frequence: Mensuelle
+Periode: 2026/07/12 - 2026/08/10
+Date de paie: 2026/08/11
+Gains reguliers   9 955,38 $
+BRUT PERIODE      9 955,38 $
+Retenues (impot, RPC/RRQ, AE, retraite)  2 443,52 $
+PAIE NETTE               7 511,86 $
+BRUT CUMULATIF   79 643,04 $
+[scanned 2026-08-21 09:43 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | IMG_1775.pdf | 1 page(s) ===
+PROMESSE D'ACHAT - extrait (pages 1 et 7 de 14)
+Propriete: 706 Quarry Street, Sherbrooke, QC
+Prix d achat: 500 000 $   Date de cloture: 9 octobre 2026
+Depot verse: 10 000 $
+[scanned 2026-08-21 09:26 - page 1 of 1 - CONFIDENTIAL]

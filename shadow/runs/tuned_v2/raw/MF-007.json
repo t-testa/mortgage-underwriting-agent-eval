@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-007",
+ "decisions": [
+  {
+   "condition_id": "MF-007-C1",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-03",
+   "rationale": "Paystub gross pay and YTD are unreadable (fax degraded: 3,34?.## and #6,8##.?2). Key figure cannot be read; request a clearer copy."
+  },
+  {
+   "condition_id": "MF-007-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-07",
+   "rationale": "Required = 53,000 + 7,950 = 60,950; closing balance 81,619.42 covers it, but the 20,400 deposit is a gift letter from the mother stating the borrower will repay, so the non-repayable statement is missing."
+  },
+  {
+   "condition_id": "MF-007-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-06",
+   "rationale": "Appraiser Evalu-Rapide Plus is not on the approved panel. (Report 2026-05-02 is 75 days old; value 531,000 above price 530,000.)"
+  },
+  {
+   "condition_id": "MF-007-C4",
+   "decision": "needs_review",
+   "rule_cited": "AR-10",
+   "rationale": "Letter 12-Jul-2026 (4 days), letterhead, signed. Start 15-Apr-2026 with six-month probation ends 15-Oct-2026, after the review date 2026-07-16."
+  },
+  {
+   "condition_id": "MF-007-C5",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-14",
+   "rationale": "Housing 2,130.44+411.60+182.72 = 2,724.76; GDS 37.37% on 7,291.67. Debts 278 + 300 = 578; TDS = 3,302.76/7,291.67 = 45.29%, 1.29 points over 44% but score 714 is below 720."
+  }
+ ]
+}

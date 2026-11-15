@@ -1,0 +1,131 @@
+FILE MF-010  |  REVISION DES CONDITIONS DE SOUSCRIPTION
+Date de revision: 2026-10-03
+Demandeur: Olivier Tremblay-Roy
+Propriete: 997 Birchwood Crescent, Hamilton, ON (house)
+Prix d achat: 510 000 $   Mise de fonds: 40 800 $
+Revenu annuel declare: 82 500 $   Employeur (declare): Cedar Ridge Municipal Services
+
+CONDITIONS A DECIDER:
+  MF-010-C1 [income_proof] Fournir une preuve de revenu appuyant le revenu annuel declare de 82 500 $.
+  MF-010-C2 [down_payment_source] Confirmer la provenance et la disponibilite de la mise de fonds et des frais de cloture.
+  MF-010-C3 [appraisal] Fournir une evaluation acceptable appuyant le prix d'achat.
+  MF-010-C4 [employment] Confirmer l'emploi actuel.
+  MF-010-C5 [debt_ratio] Confirmer que les ratios ABD et ATD respectent la politique.
+
+=== DOCUMENT 1 | scan_2121.pdf | 1 page(s) ===
+PROMESSE D'ACHAT - extrait (pages 1 et 7 de 14)
+Propriete: 997 Birchwood Crescent, Hamilton, ON
+Prix d achat: 510 000 $   Date de cloture: 2026/11/22
+Depot verse: 10 200 $
+[scanned 2026-10-03 09:42 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | IMG_0961.pdf | 2 page(s) ===
+[Papier a en-tete: Cedar Ridge Municipal Services | 420 Quarry Street | tel 819-555-0126]
+28-Sep-2026
+A qui de droit,
+Lo presente confirme que Olivier Tremblay-Roy est employe(e) de Cedar Ridge Municipal Services a titre de coordonnateur.
+Date d'entree: 02-Feb-2025. Statut: contrat a duree determinee, renouvele sans interruption depuis le 02-Feb-2025.
+Salaire annuel de base actuel: 86 034,09 $.
+Cordialement,
+/s/ Danicl Desrosiers, Gestionnaire RH
+[scanned 2026-10-03 09:24 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | IMG_2745.pdf | 3 page(s) ===
+CEDAR RIDGE MUNICIPAL SERVICES
+RELEVE DE PAIE
+Employe: TREMBLAY-ROY, Olivier   ID: 13618
+Frequence: Mensuelle
+Periode: 21 aout 2026 - 19 septembre 2026
+Date de paie: 22 septembre 2026
+Gains reguliers   7 035,10 $
+BRUT PERIODE      7 035,10 $
+Retenues (impot, RPC/RRQ, AE, retraite)  2 038,12 $
+PAIE NETTE               4 996,98 $
+BRUT CUMULATIF   63 315,90 $
+[scanned 2026-10-03 09:49 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | IMG_7638.pdf | 3 page(s) ===
+RELEVE DE COMPTE - CHEQUES
+Titulaire: OLIVIER TREMBLAY-ROY
+Periode du releve: 19/06/2026 to 21/09/2026
+Solde d ouverture: 20 859,83 $
+
+20/06/2026      PAYROLL DEP CEDAR RIDGE                   2 348,08 $       23 207,91 $
+23/06/2026      RENT PAYMENT                                -46,70 $       23 161,21 $
+27/06/2026      ONLINE PURCHASE                             -49,03 $       23 112,18 $
+28/06/2026      GROCERY STORE                               -44,66 $       23 067,52 $
+1 juillet 2026  RESTAURANT                                 -228,75 $       22 838,77 $
+4 juillet 2026  PAYROLL DEP CEDAR RIDGE                   2 348,08 $       25 186,85 $
+12 juillet 2026 INSURANCE PREM                             -432,88 $       24 753,97 $
+12 juillet 2026 ONLINE PURCHASE                            -411,34 $       24 342,63 $
+18/07/2026      PAYROLL DEP CEDAR RIDGE                   2 348,08 $       26 690,71 $
+26/07/2026      PHARMACY                                    -49,14 $       26 641,57 $
+27/07/2026      PHARMACY                                    -44,24 $       26 597,33 $
+31/07/2026      ONLINE PURCHASE                            -279,91 $       26 317,42 $
+1 aout 2026     PAYROLL DEP CEDAR RIDGE                   2 348,08 $       28 665,50 $
+9 aout 2026     E-TRANSFER RECEIVED T. LEE                  200,89 $       28 866,39 $
+15/08/2026      PAYROLL DEP CEDAR RIDGE                   2 348,08 $       31 214,47 $
+27/08/2026      RESTAURANT                                 -102,87 $       31 111,60 $
+28/08/2026      E-TRANSFER RECEIVED REFUND                  172,22 $       31 283,82 $
+29/08/2026      PAYROLL DEP CEDAR RIDGE                   2 348,08 $       33 631,90 $
+1 septembre 2026ONLINE PURCHASE                            -496,31 $       33 135,59 $
+5 septembre 2026PHARMACY                                   -376,49 $       32 759,10 $
+6 septembre 2026TRANSIT PASS                               -425,90 $       32 333,20 $
+12 septembre 2026PAYROLL DEP CEDAR RIDGE                   2 348,08 $       34 681,28 $
+14/09/2026      PHARMACY                                    -67,85 $       34 613,43 $
+16/09/2026      PHARMACY                                    -54,05 $       34 559,38 $
+18/09/2026      FUEL                                       -445,47 $       34 113,91 $
+
+Solde de cloture: 34 113,91 $
+[scanned 2026-10-03 09:53 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | scan_3663.pdf | 3 page(s) ===
+FICHE DE QUALIFICATION HYPOTHECAIRE (ebauche, ratios a confirmer)
+Revenu mensuel brut utilise: 6 875,00 $
+Type de propriete: house
+Paiement hypothecaire de qualification (capital et interets): 1 592,31 $
+Taxes foncieres (mensuel): 276,47 $
+Chauffage (mensuel): 110,96 $
+Frais de copropriete (mensuel): N/A
+Dettes declarees par le demandeur (paiement mensuel declare):
+  Student Loan (Provincial)         244,00 $
+  Student Line of Credit             51,00 $
+  AutoFinance Canada                161,00 $
+[scanned 2026-10-03 09:14 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | upload_5424.pdf | 2 page(s) ===
+IRONBRIDGE VALUATION LTD.
+RAPPORT D'EVALUATION RESIDENTIELLE - SOMMAIRE
+Propriete: 997 Birchwood Crescent, Hamilton, ON   (house)
+Date du rapport: 6 aout 2026
+Prix d achat au contrat: 510 000 $
+VALEUR MARCHANDE ESTIMEE: 459 000 $
+Methode de comparaison directe. Comparables:
+  133 Harbour View Road   473 000 $   adj +2.2%
+  903 Birchwood Crescent   466 000 $   adj -1.9%
+  402 Harbour View Road   471 000 $   adj +2.4%
+Commentaires:
+  Usure cosmetique mineure notee a la cuisine et au couloir; aucun impact sur la valeur.
+Evaluateur: S. Thornbury, AACI   Lic. 54328
+[scanned 2026-10-03 09:45 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | upload_8720.pdf | 1 page(s) ===
+Agence du revenu du Canada / Canada Revenue Agency
+AVIS DE COTISATION
+Annee d imposition: 2025      Date d emission: 18/03/2026
+SIN/NAS: XXX XXX 162
+Line 15000 Revenu total:   82 558,44 $
+Line 23600 Revenu net:     81 025,91 $
+Solde: -248,86 $
+[scanned 2026-10-03 09:38 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | final_v2_8582.pdf | 1 page(s) ===
+RAPPORT DE CREDIT - SOMMAIRE
+Sujet: OLIVIER TREMBLAY-ROY    Date du rapport: 2026/09/26
+Cote de credit: 793
+Creancier                 Type              Limite           Solde         Pmt  Statut
+Student Loan (Provincial) student                -     10 500,00 $    244,00 $  Ouvert
+Student Line of Credit    loc           6 000,00 $      5 100,00 $     51,00 $  Ouvert
+AutoFinance Canada        car                    -      9 200,00 $    161,00 $  Ouvert
+Demandes (12 mois): 2
+[scanned 2026-10-03 09:40 - page 1 of 1 - CONFIDENTIAL]

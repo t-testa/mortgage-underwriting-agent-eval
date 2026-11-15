@@ -1,0 +1,97 @@
+FILE MF-045  |  REVISION DES CONDITIONS DE SOUSCRIPTION
+Date de revision: 2026-07-18
+Demandeur: Camille Castellan
+Propriete: 284 Alder Lane, Longueuil, QC (condo)
+Prix d achat: 370 000 $   Mise de fonds: 37 000 $
+Revenu annuel declare: 159 000 $   Employeur (declare): Cedar Ridge Municipal Services
+
+CONDITIONS A DECIDER:
+  MF-045-C1 [income_proof] Fournir une preuve de revenu appuyant le revenu annuel declare de 159 000 $.
+  MF-045-C2 [appraisal] Fournir une evaluation acceptable appuyant le prix d'achat.
+  MF-045-C3 [employment] Confirmer l'emploi actuel.
+  MF-045-C4 [debt_ratio] Confirmer que les ratios ABD et ATD respectent la politique.
+
+=== DOCUMENT 1 | Doc_1218.pdf | 1 page(s) ===
+PROMESSE D'ACHAT - extrait (pages 1 et 7 de 14)
+Propriete: 284 Alder Lane, Longueuil, QC
+Prix d achat: 370 000 $   Date de cloture: 15 septembre 2026
+Depot verse: 7 400 $
+[scanned 2026-07-18 09:38 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | upload_2456.pdf | 3 page(s) ===
+CEDAR RIDGE MUNICIPAL SERVICES
+RELEVE DE PAIE
+Employe: CASTELLAN, Camille   ID: 97135
+Frequence: Mensuelle
+Periode: 2026-05-25 - 2026-06-23
+Date de paie: 2026-06-27
+Gains reguliers   12 238,93 $
+BRUT PERIODE      12 238,93 $
+Retenues (impot, RPC/RRQ, AE, retraite)  2 979,71 $
+PAIE NETTE               9 259,22 $
+BRUT CUMULATIF   73 433,58 $
+[scanned 2026-07-18 09:43 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | Doc_1350.pdf | 3 page(s) ===
+[Papier a en-tete: Cedar Ridge Municipal Services | 709 Rue Saint-Exemple | tel 819-555-0147]
+25-Jun-2026
+A qui de droit,
+La presente confirme que Camille Castellan est employe(e) de Cedar Ridge Municipal Services a titre de chef des operations.
+Date d'entree: 10-Oct-2019. Statut: permanent a temps plein.
+Salaire annuel de base actuel: 158 258,23 $.
+Cordialement,
+/s/ Raj Iyer, Gestionnaire RH
+[scanned 2026-07-18 09:36 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | Doc_4778.pdf | 3 page(s) ===
+SUMMIT PROPERTY VALUATIONS
+RAPPORT D'EVALUATION RESIDENTIELLE - SOMMAIRE
+Propriete: 284 Alder Lane, Longueuil, QC   (condo)
+Date du rapport: 2026-03-22
+Prix d achat au contrat: 370 000 $
+VALEUR MARCHANDE ESTIMEE: 373 000 $
+Methode de comparaison directe. Comparables:
+  168 Alder Lane   366 000 $   adj +1.1%
+  286 Boulevard Fontaine   363 000 $   adj +1.1%
+  887 Birchwood Crescent   388 000 $   adj -2.8%
+Commentaires:
+  Usure cosmetlque mineure n0tee a la cuisine et au couloir; aucun impact sur 1a valeur.
+Evaluateur: S. Thornbury, AACI   Lic. 59778
+[scanned 2026-07-18 09:55 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | IMG_4392.pdf | 1 page(s) ===
+FICHE DE QUALIFICATION HYPOTHECAIRE (ebauche, ratios a confirmer)
+Revenu mensuel brut utilise: 13 250,00 $
+Type de propriete: condo
+Paiement hypothecaire de qualification (capital et interets): 3 477,55 $
+Taxes foncieres (mensuel): 544,57 $
+Chauffage (mensuel): 102,39 $
+Frais de copropriete (mensuel): 537,01 $
+Dettes declarees par le demandeur (paiement mensuel declare):
+  Personal Line of Credit           253,00 $
+[scanned 2026-07-18 09:37 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | scan_0326.pdf | 1 page(s) ===
+Agence du revenu du Canada / Canada Revenue Agency
+AVIS DE COTISATION
+Annee d imposition: 2025      Date d emission: 2026-03-07
+SIN/NAS: XXX XXX 701
+Line 15000 Revenu total:   142 960,34 $
+Line 23600 Revenu net:     135 733,09 $
+Solde: -1 388,20 $
+[scanned 2026-07-18 09:47 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | Doc_4779.pdf | 1 page(s) ===
+PERMIS DE CONDUIRE (copie, masque)
+Nom: Camille Castellan
+[scanned 2026-07-18 09:43 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | scan_1181.pdf | 3 page(s) ===
+RAPPORT DE CREDIT - SOMMAIRE
+Sujet: CAMILLE CASTELLAN    Date du rapport: 4 juillet 2026
+Cote de credit: 746
+Creancier                 Type              Limite           Solde         Pmt  Statut
+Personal Line of Credit   loc          50 000,00 $     25 300,00 $    253,00 $  Ouvert
+Maple Visa Gold           card         71 100,00 $     37 030,00 $    740,60 $  Ouvert
+Demandes (12 mois): 2
+[scanned 2026-07-18 09:10 - page 1 of 3 - CONFIDENTIAL]

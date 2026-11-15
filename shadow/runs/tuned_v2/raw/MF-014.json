@@ -1,0 +1,6 @@
+{"file_id":"MF-014","decisions":[
+{"condition_id":"MF-014-C1","decision":"satisfied","rule_cited":"INC-03","rationale":"Paystub pay date 2 Sep 2026 is 12 days old; 3,489.11 x 26 = 90,716.86 and NOA 2025 line 15000 is 92,511.36, both above stated 88,500, so no shortfall. No variable pay."},
+{"condition_id":"MF-014-C2","decision":"satisfied","rule_cited":"DP-02","rationale":"Required funds 217,500 + 13,050 = 230,550; closing balance 235,659.80 covers it. History 2 Jun to 10 Sep 2026 = 100 days. Non-payroll deposits all under 2,500."},
+{"condition_id":"MF-014-C3","decision":"not_satisfied","rule_cited":"EMP-02","rationale":"Employment letter (28-Aug-2026) was sent from a personal mail account with no letterhead (AR-16)."},
+{"condition_id":"MF-014-C4","decision":"not_satisfied","rule_cited":"DTI-02","rationale":"Credit score 574 is below the 600 minimum. (Ratios: housing 1,719.33 + 327.66 + 129.50 + 151.79 = 2,328.28 / 7,375 = GDS 31.57%; card 9,350 x 3% = 280.50, TDS 35.37%.)"}
+]}

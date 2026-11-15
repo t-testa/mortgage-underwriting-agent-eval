@@ -1,0 +1,6 @@
+{"file_id":"MF-011","decisions":[
+{"condition_id":"MF-011-C1","decision":"not_satisfied","rule_cited":"INC-01","rationale":"Only paystub (pay date 16-May-2026, period end 12-May) is 60 days old at review date 2026-07-15, over the 30-day limit (AR-04). NOA 2025 line 15000 105,423.83 vs stated 106,500 is a 1.0% shortfall, but income documents are not current."},
+{"condition_id":"MF-011-C2","decision":"satisfied","rule_cited":"DP-02","rationale":"Required funds 59,600 + 1.5% x 745,000 (11,175) = 70,775; closing balance 87,067.77 covers it. History 2026-04-05 to 07-09 = 95 days (>=90). Only large deposit 12,200 (Bouchard) is explained by the bill of sale for 12,200; other non-payroll deposits are under 2,500."},
+{"condition_id":"MF-011-C3","decision":"not_satisfied","rule_cited":"APP-06","rationale":"Appraiser Evalu-Rapide Plus is not on the approved panel. (Report 5 Jun 2026 is 40 days old and value 748,000 exceeds price 745,000, but the panel rule fails.)"},
+{"condition_id":"MF-011-C4","decision":"satisfied","rule_cited":"EMP-03","rationale":"Letter dated 30 Jun 2026 is 15 days old, on letterhead, signed, permanent full-time since 2022, probation completed. Letter salary 106,423.59 vs stated 106,500 is a 0.07% shortfall (<=5%)."}
+]}

@@ -1,0 +1,123 @@
+FILE MF-047  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-10-11
+Applicant: Chloe Larkin
+Property: 71 Quarry Street, Longueuil, QC (condo)
+Purchase price: $450,000   Down payment: $22,500
+Stated annual income: $139,500   Employer (stated): Brightfield Insurance Corp.
+
+CONDITIONS TO DECIDE:
+  MF-047-C1 [income_proof] Provide proof of income supporting the stated annual income of $139,500.
+  MF-047-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-047-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-047-C4 [employment] Confirm current employment.
+
+=== DOCUMENT 1 | IMG_6710.pdf | 3 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 23-May-2026
+SIN/NAS: XXX XXX 377
+Line 15000 Total income:   $136,100.30
+Line 23600 Net income:     $132,764.35
+Balance: $-1,846.79
+[scanned 2026-10-11 09:21 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | scan_8424.pdf | 3 page(s) ===
+SUMMIT PROPERTY VALUATIONS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 71 Quarry Street, Longueuil, QC   (condo)
+Report date: August 5, 2026
+Contract purchase price: $450,000
+OPINION OF MARKET VALUE: $454,000
+Direct comparison approach. Comparables:
+  329 Alder Lane   $447,000   adj -1.9%
+  557 Chemin des Cedres   $446,000   adj -3.8%
+  300 Chemin des Cedres   $456,000   adj +4.9%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+  Value is subject to completion of the roof replacement; completion certificate to be provided.
+Appraiser: S. Thornbury, AACI   Lic. 74651
+[scanned 2026-10-11 09:53 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | scan_6296.pdf | 2 page(s) ===
+GIFT LETTER
+I, Tyler Larkin, mother of Chloe Larkin, am giving the sum of $9,200.00 on September 23, 2026 towards the purchase of the property at 71 Quarry Street, Longueuil, QC.
+This is a gift and does not have to be repaid.
+Signature: /s/ Tyler Larkin
+Donor phone: 613-555-0148
+[scanned 2026-10-11 09:19 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | scan_7485.pdf | 2 page(s) ===
+[Letterhead: Brightfield Insurance Corp. | 437 Chemin des Cedres | tel 819-555-0177]
+27-Sep-2026
+To whom it may concern,
+This confirms thot Chloe Larkin is employed by Brightfield Insurance Corp. as Operations Leod.
+Start date: 12-May-2026. Employment status: fixed-term contract, continuously renewed with us since 12-May-2026.
+Current annual base salary: $144,407.24.
+Sincerely,
+/s/ Marcus Okafor, HR Manager
+[scanned 2026-10-11 09:26 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | Doc_5315.pdf | 1 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: CHLOE LARKIN
+Statement period: July 1, 2026 to October 9, 2026
+Opening balance: $5,561.55
+
+July 1, 2026    PAYROLL DEP BRIGHTFIELD                    $3,970.38         $9,531.93
+July 3, 2026    PHARMACY                                    $-116.10         $9,415.83
+July 5, 2026    PHARMACY                                    $-398.91         $9,016.92
+July 7, 2026    TRANSIT PASS                                $-200.51         $8,816.41
+July 8, 2026    UTILITY PAYMENT                             $-479.01         $8,337.40
+14/07/2026      PHARMACY                                     $-69.64         $8,267.76
+15/07/2026      PAYROLL DEP BRIGHTFIELD                    $3,970.38        $12,238.14
+25/07/2026      PHARMACY                                    $-172.07        $12,066.07
+26/07/2026      RESTAURANT                                  $-154.49        $11,911.58
+28/07/2026      E-TRANSFER RECEIVED T. LEE                   $656.20        $12,567.78
+29/07/2026      PAYROLL DEP BRIGHTFIELD                    $3,970.38        $16,538.16
+August 1, 2026  ONLINE PURCHASE                             $-475.39        $16,062.77
+August 1, 2026  TELECOM BILL                                $-263.81        $15,798.96
+August 12, 2026 PAYROLL DEP BRIGHTFIELD                    $3,970.38        $19,769.34
+August 12, 2026 INSURANCE PREM                              $-109.72        $19,659.62
+17/08/2026      TELECOM BILL                                $-352.61        $19,307.01
+19/08/2026      E-TRANSFER RECEIVED TYLER LARKIN           $9,200.00        $28,507.01
+26/08/2026      PAYROLL DEP BRIGHTFIELD                    $3,970.38        $32,477.39
+26/08/2026      ONLINE PURCHASE                             $-203.13        $32,274.26
+27/08/2026      E-TRANSFER RECEIVED T. LEE                   $772.80        $33,047.06
+September 3, 2026RENT PAYMENT                                $-145.71        $32,901.35
+September 3, 2026ONLINE PURCHASE                             $-227.04        $32,674.31
+September 9, 2026PAYROLL DEP BRIGHTFIELD                    $3,970.38        $36,644.69
+15/09/2026      PHARMACY                                    $-232.75        $36,411.94
+16/09/2026      TELECOM BILL                                $-269.94        $36,142.00
+18/09/2026      ONLINE PURCHASE                             $-481.15        $35,660.85
+23/09/2026      PAYROLL DEP BRIGHTFIELD                    $3,970.38        $39,631.23
+26/09/2026      UTILITY PAYMENT                             $-210.99        $39,420.24
+27/09/2026      PHARMACY                                    $-501.90        $38,918.34
+30/09/2026      FUEL                                        $-345.43        $38,572.91
+30/09/2026      GROCERY STORE                               $-403.41        $38,169.50
+October 4, 2026 E-TRANSFER RECEIVED REFUND                   $714.44        $38,883.94
+October 7, 2026 PAYROLL DEP BRIGHTFIELD                    $3,970.38        $42,854.32
+
+Closing balance: $42,854.32
+[scanned 2026-10-11 09:45 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | IMG_4602.pdf | 3 page(s) ===
+BRIGHTFIELD INSURANCE CORP.
+EARNINGS STATEMENT
+Employee: LARKIN, Chloe   ID: 93220
+Pay frequency: Monthly
+Pay period: 2026/08/31 - 2026/09/29
+Pay date: 2026/10/03
+Regular earnings   $11,#49.??
+GROSS THIS PERIOD      $11,#49.??
+Deductions (tax, CPP/QPP, EI, pension)  $2,965.28
+NET PAY               $8,584.09
+GROSS YEAR TO DATE   $1?3,?4#.##
+[fax quality degraded - partial transmission]
+[scanned 2026-10-11 09:24 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | upload_1839.pdf | 3 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 71 Quarry Street, Longueuil, QC
+Purchase price: $450,000   Closing date: November 16, 2026
+Deposit paid: $9,000
+[scanned 2026-10-11 09:40 - page 1 of 3 - CONFIDENTIAL]

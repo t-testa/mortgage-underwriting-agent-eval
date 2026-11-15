@@ -1,0 +1,6 @@
+{"file_id":"MF-012","decisions":[
+{"condition_id":"MF-012-C1","decision":"not_satisfied","rule_cited":"DP-04","rationale":"Required funds 86,500 + 12,975 = 99,475; balance 116,028.69 and history 116 days are fine, but the 40,600 deposit from grandmother Andre Nguyen is backed by a gift letter that says the amount will be repaid and is unsigned (AR-07). Without the gift the balance (75,428) is also below required funds."},
+{"condition_id":"MF-012-C2","decision":"satisfied","rule_cited":"APP-02","rationale":"Valeur Reference Inc. is on panel; report 30 Apr 2026 is 37 days old (<=90); value 867,000 >= price 865,000; only cosmetic comments."},
+{"condition_id":"MF-012-C3","decision":"satisfied","rule_cited":"EMP-03","rationale":"Letter 16 May 2026 is 21 days old, on letterhead, signed, permanent full-time since 2015. Salary 87,453.97 is above stated 85,000."},
+{"condition_id":"MF-012-C4","decision":"satisfied","rule_cited":"DTI-01","rationale":"Income 7,083.33/mo. Housing = 1,309.86 + 555.36 + 143.30 + 50% x 377.90 (188.95) = 2,197.47; GDS 31.02%. Card 11,000 x 3% = 330 (bureau prevails over declared 220); TDS = 2,527.47/7,083.33 = 35.68%. Score 716 >= 600."}
+]}

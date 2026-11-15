@@ -1,0 +1,94 @@
+FILE MF-046  |  REVISION DES CONDITIONS DE SOUSCRIPTION
+Date de revision: 2026-07-07
+Demandeur: Isabelle Whitlock
+Propriete: 402 Birchwood Crescent, Ottawa, ON (condo)
+Prix d achat: 625 000 $   Mise de fonds: 125 000 $
+Revenu annuel declare: 148 000 $   Employeur (declare): Brightfield Insurance Corp.
+
+CONDITIONS A DECIDER:
+  MF-046-C1 [income_proof] Fournir une preuve de revenu appuyant le revenu annuel declare de 148 000 $.
+  MF-046-C2 [appraisal] Fournir une evaluation acceptable appuyant le prix d'achat.
+  MF-046-C3 [employment] Confirmer l'emploi actuel.
+  MF-046-C4 [debt_ratio] Confirmer que les ratios ABD et ATD respectent la politique.
+
+=== DOCUMENT 1 | upload_6599.pdf | 2 page(s) ===
+Agence du revenu du Canada / Canada Revenue Agency
+AVIS DE COTISATION
+Annee d imposition: 2025      Date d emission: 22/05/2026
+SIN/NAS: XXX XXX 483
+Line 15000 Revenu total:   114 558,68 $
+Line 23600 Revenu net:     109 382,28 $
+Solde: -5,49 $
+[scanned 2026-07-07 09:27 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | scan_2338.pdf | 1 page(s) ===
+MERIDIAN REAL ESTATE APPRAISERS
+RAPPORT D'EVALUATION RESIDENTIELLE - SOMMAIRE
+Propriete: 402 Birchwood Crescent, Ottawa, ON   (condo)
+Date du rapport: 14 mai 2026
+Prix d achat au contrat: 625 000 $
+VALEUR MARCHANDE ESTIMEE: 617 000 $
+Methode de comparaison directe. Comparables:
+  739 Rue Saint-Exemple   639 000 $   adj -4.5%
+  435 Alder Lane   607 000 $   adj -1.7%
+  417 Boulevard Fontaine   599 000 $   adj +3.9%
+Commentaires:
+  Usure cosmetique mineure notee a la cuisine et au couloir; aucun impact sur la valeur.
+Evaluateur: S. Thornbury, AACI   Lic. 29089
+[scanned 2026-07-07 09:26 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | Doc_7471.pdf | 3 page(s) ===
+PROMESSE D'ACHAT - extrait (pages 1 et 7 de 14)
+Propriete: 402 Birchwood Crescent, Ottawa, ON
+Prix d achat: 625 000 $   Date de cloture: 2026/08/13
+Depot verse: 12 500 $
+[scanned 2026-07-07 09:38 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | scan_2473.pdf | 2 page(s) ===
+RAPPORT DE CREDIT - SOMMAIRE
+Sujet: ISABELLE WHITLOCK    Date du rapport: 2026-06-29
+Cote de credit: 715
+Creancier                 Type              Limite           Solde         Pmt  Statut
+Northern MasterCard       card         43 100,00 $     15 310,00 $    306,20 $  Ouvert
+Home Equity Line          loc          41 000,00 $     19 700,00 $    197,00 $  Ouvert
+Demandes (12 mois): 2
+[scanned 2026-07-07 09:31 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | IMG_6123.pdf | 2 page(s) ===
+FICHE DE QUALIFICATION HYPOTHECAIRE (ebauche, ratios a confirmer)
+Revenu mensuel brut utilise: 12 333,33 $
+Type de propriete: condo
+Paiement hypothecaire de qualification (capital et interets): 2 626,05 $
+Taxes foncieres (mensuel): 492,77 $
+Chauffage (mensuel): 98,34 $
+Frais de copropriete (mensuel): 340,59 $
+Dettes declarees par le demandcur (paiement mensuel declare):
+  Northern MasterCard               306,20 $
+  Home Equity Line                  197,00 $
+[scanned 2026-07-07 09:32 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | Doc_8884.pdf | 3 page(s) ===
+BRIGHTFIELD INSURANCE CORP.
+RELEVE DE PAIE
+Employe: WHITLOCK, Isabelle   ID: 94849
+Frcquence: Mensuelle
+Periode: 2026-05-19 - 2026-06-17
+Date de paie: 2026-06-21
+Gains reguliers   9 775,91 $
+BRUT PERIODE      9 775,91 $
+Retenues (impot, RPC/RRQ, AE, retraite)  2 274,29 $
+PAIE NETTE               7 501,62 $
+BRUT CUMULATIF   58 655,46 $
+[scanned 2026-07-07 09:17 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | upload_3766.pdf | 2 page(s) ===
+[Papier a en-tete: Brightfield Insurance Corp. | 648 Birchwood Crescent | tel 819-555-0119]
+2026/06/25
+A qui de droit,
+La presente confirme que Isabelle Whitlock est employe(e) de Brightfield Insurance Corp. a titre de coordonnateur.
+Date d'entree: 2020/07/17. Statut: permanent a temps plein.
+L'employe(e) a termine avec succes sa periode de probation.
+Salaire annuel de base actuel: 147 806,04 $.
+Cordialement,
+/s/ Mei Dubreuil, Gestionnaire RH
+[scanned 2026-07-07 09:37 - page 1 of 2 - CONFIDENTIAL]

@@ -1,0 +1,105 @@
+FILE MF-017  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-08-28
+Applicant: Aisha Desrosiers
+Property: 835 Harbour View Road, Kingston, ON (house)
+Purchase price: $455,000   Down payment: $68,200
+Stated annual income: $91,000   Employer (stated): Cedar Ridge Municipal Services
+
+CONDITIONS TO DECIDE:
+  MF-017-C1 [income_proof] Provide proof of income supporting the stated annual income of $91,000.
+  MF-017-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-017-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-017-C4 [employment] Confirm current employment.
+
+=== DOCUMENT 1 | scan_2243.pdf | 3 page(s) ===
+CEDAR RIDGE MUNICIPAL SERVICES
+EARNINGS STATEMENT
+Employee: DESROSIERS, Aisha   ID: 43040
+Pay frequency: Semi-monthly
+Pay period: July 20, 2026 - August 3, 2026
+Pay date: August 4, 2026
+Base salary        $2,395.83
+Commission              $1,395.83
+GROSS THIS PERIOD      $3,791.66
+Deductions (tax, CPP/QPP, EI, pension)  $897.16
+NET PAY               $2,894.50
+GROSS YEAR TO DATE   $56,874.90
+[scanned 2026-08-28 09:46 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | upload_7835.pdf | 1 page(s) ===
+CARDINAL EVALUATION SERVICES
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 835 Harbour View Road, Kingston, ON   (house)
+Report date: 01-Aug-2026
+Contract purchase price: $455,000
+OPINION OF MARKET VALUE: $459,000
+Direct comparison approach. Comparables:
+  615 Birchwood Crescent   $442,000   adj +2.4%
+  682 Rue des Peupliers   $446,000   adj +4.5%
+  655 Rue des Peupliers   $449,000   adj -4.6%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+  Value is subject to completion of the roof replacement; completion certificate to be provided.
+Appraiser: S. Thornbury, AACI   Lic. 74654
+[scanned 2026-08-28 09:54 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | scan_8405.pdf | 2 page(s) ===
+[Letterhead: Cedar Ridge Municipal Services | 313 Chemin des Cedres | tel 819-555-0119]
+August 3, 2026
+To whom it may concern,
+This confirms that Aisha Desrosiers is employed by Cedar Ridge Municipal Services as Operations Lead.
+Start date: February 27, 2023. Employment status: fixed-term contract, continuously renewed with us since February 27, 2023.
+Current annual base salary: $89,846.84.
+Sincerely,
+/s/ Andre Tremblay-Roy, HR Manager
+[scanned 2026-08-28 09:33 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | upload_6909.pdf | 2 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: AISHA DESROSIERS
+Statement period: June 19, 2026 to August 17, 2026
+Opening balance: $82,070.68
+
+June 19, 2026   GROCERY STORE                               $-278.50        $81,792.18
+June 21, 2026   ONLINE PURCHASE                             $-157.59        $81,634.59
+June 24, 2026   PAYROLL DEP CEDAR RIDGE                    $2,590.00        $84,224.59
+June 28, 2026   E-TRANSFER RECEIVED REFUND                   $349.41        $84,574.00
+July 5, 2026    RENT PAYMENT                                $-120.70        $84,453.30
+July 6, 2026    RENT PAYMENT                                 $-25.66        $84,427.64
+July 7, 2026    PHARMACY                                    $-251.30        $84,176.34
+July 8, 2026    PAYROLL DEP CEDAR RIDGE                    $2,590.00        $86,766.34
+July 10, 2026   E-TRANSFER RECEIVED T. LEE                   $411.20        $87,177.54
+July 14, 2026   FUEL                                         $-73.05        $87,104.49
+July 15, 2026   FUEL                                        $-296.20        $86,808.29
+July 15, 2026   E-TRANSFER RECEIVED T. LEE                   $805.17        $87,613.46
+July 17, 2026   RESTAURANT                                  $-382.89        $87,230.57
+July 20, 2026   RESTAURANT                                  $-228.28        $87,002.29
+July 21, 2026   ONLINE PURCHASE                             $-252.63        $86,749.66
+July 22, 2026   PAYROLL DEP CEDAR RIDGE                    $2,590.00        $89,339.66
+July 22, 2026   GROCERY STORE                               $-161.70        $89,177.96
+July 26, 2026   INSURANCE PREM                              $-382.96        $88,795.00
+August 1, 2026  GROCERY STORE                               $-372.25        $88,422.75
+August 5, 2026  PAYROLL DEP CEDAR RIDGE                    $2,590.00        $91,012.75
+August 5, 2026  RENT PAYMENT                                $-434.44        $90,578.31
+August 10, 2026 TELECOM BILL                                $-296.54        $90,281.77
+August 15, 2026 UTILITY PAYMENT                             $-135.62        $90,146.15
+
+Closing balance: $90,146.15
+[scanned 2026-08-28 09:46 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | final_v2_3099.pdf | 2 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 835 Harbour View Road, Kingston, ON
+Purchase price: $455,000   Closing date: 2026-10-25
+Deposit paid: $9,100
+[scanned 2026-08-28 09:15 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | scan_2771.pdf | 3 page(s) ===
+Canoda Revcnue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: May 25, 2026
+SIN/NAS: XXX XXX 539
+Line 15000 Total income:   $90,941.63
+Line 23600 Net income:     $88,786.50
+Balance: $-952.34
+[scanned 2026-08-28 09:57 - page 1 of 3 - CONFIDENTIAL]

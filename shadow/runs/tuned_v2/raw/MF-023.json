@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-023",
+ "decisions": [
+  {
+   "condition_id": "MF-023-C1",
+   "decision": "satisfied",
+   "rule_cited": "AR-02",
+   "rationale": "Commission income: avg line 15000 of 2025 (117,224.93) and 2024 (117,171.65) = 117,198.29 vs stated 118,500; shortfall 1.10% (<=5%); paystub 2026-08-05 current."
+  },
+  {
+   "condition_id": "MF-023-C2",
+   "decision": "satisfied",
+   "rule_cited": "AR-05",
+   "rationale": "Required = 188,800 + 1.5% x 755,000 (11,325) = 200,125; closing 219,675.71; history Apr 23 to Jul 31 = 99 days; only non-payroll deposit 177.89."
+  },
+  {
+   "condition_id": "MF-023-C3",
+   "decision": "satisfied",
+   "rule_cited": "AR-08",
+   "rationale": "Rive-Nord Evaluations on panel; report 2026-05-23 is 75 days old; value 758,000 >= price 755,000."
+  },
+  {
+   "condition_id": "MF-023-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-14",
+   "rationale": "Housing = 2,914.96+259.51+115.34 = 3,289.81; GDS 33.31%; other debts 483 + 3%x11,800 (354) + 3%x11,030 (330.90) = 1,167.90; TDS 4,457.71/9,875 = 45.14%, over 44% by 1.14 pts but score 664 <720, so not_satisfied."
+  }
+ ]
+}

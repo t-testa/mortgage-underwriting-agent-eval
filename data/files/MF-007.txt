@@ -1,0 +1,142 @@
+FILE MF-007  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-07-16
+Applicant: Callum Gagnon
+Property: 730 Boulevard Fontaine, Kingston, ON (house)
+Purchase price: $530,000   Down payment: $53,000
+Stated annual income: $87,500   Employer (stated): Northgate Logistics Inc.
+
+CONDITIONS TO DECIDE:
+  MF-007-C1 [income_proof] Provide proof of income supporting the stated annual income of $87,500.
+  MF-007-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-007-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-007-C4 [employment] Confirm current employment.
+  MF-007-C5 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | upload_9798.pdf | 2 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: CALLUM GAGNON    Report date: July 4, 2026
+Credit score: 714
+Creditor                  Type               Limit         Balance         Pmt  Status
+Government Student Loan   student                -      $12,000.00     $278.00  Open
+Vehicle Loan              car                    -      $14,700.00     $300.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-07-16 09:22 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | scan_7159.pdf | 1 page(s) ===
+NORTHGATE LOGISTICS INC.
+EARNINGS STATEMENT
+Employee: GAGNON, Callum   ID: 95632
+Pay frequency: Bi-weekly
+Pay period: 2026/06/29 - 2026/07/12
+Pay date: 2026/07/15
+Regular earnings   $3,34?.##
+GROSS THIS PERIOD      $3,34?.##
+Deductions (tax, CPP/QPP, EI, pension)  $969.28
+NET PAY               $2,380.25
+GROSS YEAR TO DATE   $#6,8##.?2
+[fax quality degraded - partial transmission]
+[scanned 2026-07-16 09:25 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | final_v2_1510.pdf | 3 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $7,291.67
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $2,130.44
+Property tax (monthly): $411.60
+Heating (monthly): $182.72
+Condo fees (monthly): N/A
+Liabilities declared by applicant (monthly payment as stated):
+  Government Student Loan            $278.00
+  Vehicle Loan                       $300.00
+[scanned 2026-07-16 09:20 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | IMG_6734.pdf | 2 page(s) ===
+EVALU-RAPIDE PLUS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 730 Boulevard Fontaine, Kingston, ON   (house)
+Report date: 2026-05-02
+Contract purchase price: $530,000
+OPINION OF MARKET VALUE: $531,000
+Direct comparison approach. Comparables:
+  483 Rue Saint-Exemple   $511,000   adj -2.2%
+  449 Rue des Peupliers   $520,000   adj -2.3%
+  73 Rue des Peupliers   $534,000   adj +1.0%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on volue.
+Appraiser: M. Abdallah, AACI   Lic. 97601
+[scanned 2026-07-16 09:11 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | Doc_9354.pdf | 1 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 2026-04-10
+SIN/NAS: XXX XXX 338
+Line 15000 Total income:   $89,545.64
+Line 23600 Net income:     $83,568.12
+Balance: $515.04
+[scanned 2026-07-16 09:20 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | final_v2_2756.pdf | 1 page(s) ===
+[Letterhead: Northgate Logistics Inc. | 181 Boulevard Fontaine | tel 819-555-0181]
+12-Jul-2026
+T0 whom it may concern,
+This confirms that Callum Gagnon is employed by Northgate Logistics Inc. as Account Manager.
+Start date: 15-Apr-2026. Employment status: permanent full-time.
+The employee is currently within the standard six (6) month probationary period.
+Current annual base salary: $91,589.32.
+Sincerely,
+/s/ Mei Marchetti, HR Manager
+[scanned 2026-07-16 09:13 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | final_v2_0260.pdf | 2 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: CALLUM GAGNON
+Statement period: March 24, 2026 to July 6, 2026
+Opening balance: $46,275.10
+
+March 24, 2026  PAYROLL DEP NORTHGATE                      $2,490.38        $48,765.48
+April 7, 2026   PAYROLL DEP NORTHGATE                      $2,490.38        $51,255.86
+April 7, 2026   RESTAURANT                                  $-322.64        $50,933.22
+April 9, 2026   INSURANCE PREM                              $-498.23        $50,434.99
+April 16, 2026  GROCERY STORE                               $-354.85        $50,080.14
+April 21, 2026  PAYROLL DEP NORTHGATE                      $2,490.38        $52,570.52
+April 21, 2026  TRANSIT PASS                                 $-53.77        $52,516.75
+April 23, 2026  PHARMACY                                    $-474.85        $52,041.90
+April 24, 2026  PHARMACY                                    $-477.06        $51,564.84
+May 5, 2026     PAYROLL DEP NORTHGATE                      $2,490.38        $54,055.22
+May 7, 2026     TRANSIT PASS                                 $-28.87        $54,026.35
+May 11, 2026    ONLINE PURCHASE                             $-448.06        $53,578.29
+May 13, 2026    GROCERY STORE                               $-349.73        $53,228.56
+May 19, 2026    PAYROLL DEP NORTHGATE                      $2,490.38        $55,718.94
+May 20, 2026    TELECOM BILL                                $-268.22        $55,450.72
+May 20, 2026    INSURANCE PREM                              $-165.82        $55,284.90
+May 25, 2026    INSURANCE PREM                              $-409.48        $54,875.42
+May 25, 2026    TELECOM BILL                                $-444.97        $54,430.45
+June 2, 2026    PAYROLL DEP NORTHGATE                      $2,490.38        $56,920.83
+June 2, 2026    E-TRANSFER RECEIVED MARCUS GAGNON         $20,400.00        $77,320.83
+June 4, 2026    E-TRANSFER RECEIVED REFUND                   $607.50        $77,928.33
+June 7, 2026    FUEL                                        $-368.89        $77,559.44
+June 16, 2026   PAYROLL DEP NORTHGATE                      $2,490.38        $80,049.82
+June 19, 2026   UTILITY PAYMENT                             $-389.54        $79,660.28
+June 24, 2026   UTILITY PAYMENT                             $-391.87        $79,268.41
+June 30, 2026   PAYROLL DEP NORTHGATE                      $2,490.38        $81,758.79
+July 3, 2026    UTILITY PAYMENT                              $-58.37        $81,700.42
+July 4, 2026    FUEL                                         $-81.00        $81,619.42
+
+Closing balance: $81,619.42
+[scanned 2026-07-16 09:25 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | Doc_3526.pdf | 2 page(s) ===
+GIFT LETTER
+I, Marcus Gagnon, mother of Callum Gagnon, am giving the sum of $20,400.00 on 25-Jun-2026 towards the purchase of the property at 730 Boulevard Fontaine, Kingston, ON.
+The borrower will repay this om0unt when able.
+Signoture: /s/ Marcus Gagnon
+Donor phone: 613-555-0139
+[scanned 2026-07-16 09:43 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | scan_7802.pdf | 2 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 730 Boulevard Fontaine, Kingston, ON
+Purchase price: $530,000   Closing date: 19/08/2026
+Deposit paid: $10,600
+[scanned 2026-07-16 09:33 - page 1 of 2 - CONFIDENTIAL]

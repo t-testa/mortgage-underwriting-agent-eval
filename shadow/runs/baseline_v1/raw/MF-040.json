@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-040",
+ "decisions": [
+  {
+   "condition_id": "MF-040-C1",
+   "decision": "not_satisfied",
+   "rule_cited": "INC-02",
+   "rationale": "No NOA or T4 is on file for this salaried applicant; only a pay stub and letter were provided."
+  },
+  {
+   "condition_id": "MF-040-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Seasoned balance of about $50.8k with only small routine deposits covers the $41,000 down payment and closing costs."
+  },
+  {
+   "condition_id": "MF-040-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Valeur Reference Inc. is on the panel, report of 2026/06/03 is recent, and value $430,000 supports the $410,000 price."
+  },
+  {
+   "condition_id": "MF-040-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Recent signed letterhead letter confirms permanent full-time employment since 2016, consistent with stated income."
+  }
+ ]
+}

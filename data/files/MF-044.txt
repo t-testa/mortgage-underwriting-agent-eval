@@ -1,0 +1,93 @@
+FILE MF-044  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-09-26
+Applicant: Jordan Stanfield
+Property: 395 Chemin des Cedres, Hamilton, ON (house)
+Purchase price: $800,000   Down payment: $64,000
+Stated annual income: $128,000   Employer (stated): Brightfield Insurance Corp.
+
+CONDITIONS TO DECIDE:
+  MF-044-C1 [income_proof] Provide proof of income supporting the stated annual income of $128,000.
+  MF-044-C2 [employment] Confirm current employment.
+  MF-044-C3 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | scan_7342.pdf | 3 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: JORDAN STANFIELD    Report date: 2026/09/21
+Credit score: 724
+Creditor                  Type               Limit         Balance         Pmt  Status
+Travel Rewards Visa       card          $28,100.00      $14,360.00     $287.20  Open
+Student Line of Credit    loc           $24,000.00      $11,500.00     $115.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-09-26 09:25 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | IMG_4056.pdf | 2 page(s) ===
+BRIGHTFIELD INSURANCE CORP.
+EARNINGS STATEMENT
+Employee: STANFIELD, Jordan   ID: 58374
+Pay frequency: Bi-weekly
+Pay period: 30-Aug-2026 - 12-Sep-2026
+Pay date: 16-Sep-2026
+Base salary        $3,523.08
+Commission              $1,400.00
+GROSS THIS PERIOD      $4,923.08
+Deductions (tax, CPP/QPP, EI, pension)  $1,253.04
+NET PAY               $3,670.04
+GROSS YEAR TO DATE   $93,538.52
+[scanned 2026-09-26 09:30 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | IMG_4219.pdf | 3 page(s) ===
+DRIVER LICENCE (copy, masked)
+Name: Jordan Stanfield
+Licence no: XXXX-XXXX-6615
+[scanned 2026-09-26 09:35 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | IMG_6653.pdf | 1 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $10,666.67
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $2,756.34
+Property tax (monthly): $336.30
+Heating (monthly): $92.46
+Condo fees (monthly): N/A
+Liabilities declared by applicant (monthly payment as stated):
+  Travel Rewards Visa                $287.20
+  Student Line of Credit             $115.00
+[scanned 2026-09-26 09:48 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | scan_4659.pdf | 2 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 395 Chemin des Cedres, Hamilton, ON
+Purchase price: $800,000   Closing date: 19-Nov-2026
+Deposit paid: $16,000
+[scanned 2026-09-26 09:12 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | IMG_3303.pdf | 3 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 2026/05/06
+SIN/NAS: XXX XXX 414
+Line 15000 Total income:   $127,095.33
+Line 23600 Net income:     $122,497.24
+Balance: $-1,876.45
+[scanned 2026-09-26 09:12 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | scan_7648.pdf | 1 page(s) ===
+[Letterhead: Brightfield Insurance Corp. | 194 Birchwood Crescent | tel 819-555-0131]
+September 7, 2026
+To whom it may concern,
+This confirms that Jordan Stanfield is employed by Brightfield Insurance Corp. as Senior Analyst.
+Start date: 27/03/2019. Employment status: permanent full-time.
+Current annual base salary: $114,721.33.
+Sincerely,
+/s/ Chloc Mackenzie, HR Monager
+[scanned 2026-09-26 09:36 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | final_v2_7517.pdf | 3 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2024      Date issued: April 16, 2025
+SIN/NAS: XXX XXX 131
+Line 15000 Total income:   $127,123.32
+Line 23600 Net income:     $124,444.75
+Balance: $786.05
+[scanned 2026-09-26 09:24 - page 1 of 3 - CONFIDENTIAL]

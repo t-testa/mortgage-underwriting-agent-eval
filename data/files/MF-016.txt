@@ -1,0 +1,130 @@
+FILE MF-016  |  REVISION DES CONDITIONS DE SOUSCRIPTION
+Date de revision: 2026-07-23
+Demandeur: Simon Okafor
+Propriete: 249 Birchwood Crescent, Longueuil, QC (condo)
+Prix d achat: 465 000 $   Mise de fonds: 23 200 $
+Revenu annuel declare: 164 500 $   Employeur (declare): Lumen Retail Group
+
+CONDITIONS A DECIDER:
+  MF-016-C1 [income_proof] Fournir une preuve de revenu appuyant le revenu annuel declare de 164 500 $.
+  MF-016-C2 [down_payment_source] Confirmer la provenance et la disponibilite de la mise de fonds et des frais de cloture.
+  MF-016-C3 [appraisal] Fournir une evaluation acceptable appuyant le prix d'achat.
+  MF-016-C4 [employment] Confirmer l'emploi actuel.
+  MF-016-C5 [debt_ratio] Confirmer que les ratios ABD et ATD respectent la politique.
+
+=== DOCUMENT 1 | Doc_3242.pdf | 1 page(s) ===
+Agence du revenu du Canada / Canada Revenue Agency
+AVIS DE COTISATION
+Annee d imposition: 2025      Date d emission: 2026/05/06
+SIN/NAS: XXX XXX 917
+Line 15000 Revenu total:   167 895,25 $
+Line 23600 Revenu net:     165 972,79 $
+Solde: -1 685,15 $
+[scanned 2026-07-23 09:39 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | Doc_5537.pdf | 2 page(s) ===
+LUMEN RETAIL GROUP
+RELEVE DE PAIE
+Employe: OKAFOR, Simon   ID: 71650
+Frequence: Bimensuelle
+Periode: 2026-06-06 - 2026-06-20
+Date de paie: 2026-06-22
+Gains reguliers   6 852,95 $
+BRUT PERIODE      6 852,95 $
+Retenues (impot, RPC/RRQ, AE, retraite)  1 810,30 $
+PAIE NETTE               5 042,65 $
+BRUT CUMULATIF   82 235,40 $
+[scanned 2026-07-23 09:22 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | Doc_1854.pdf | 1 page(s) ===
+[Papier a en-tete: Lumen Retail Group | 600 Chemin des Cedres | tel 819-555-0151]
+10-Jul-2026
+A qui de droit,
+La presente confirme que Simon Okafor est employe(e) de Lumen Retail Group a titre de gestionnaire de comptes.
+Date d'entree: 23-Jul-2021. Statut: contrat a duree determinee, renouvele sans interruption depuis le 23-Jul-2021.
+Salaire annuel de base actuel: 171 764,34 $.
+Cordialement,
+/s/ Maya Castellan, Gestionnaire RH
+[scanned 2026-07-23 09:14 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | Doc_1469.pdf | 3 page(s) ===
+RELEVE DE COMPTE - CHEQUES
+Titulaire: SIMON OKAFOR
+Periode du releve: 2026/04/14 to 2026/07/20
+Solde d ouverture: 478,92 $
+
+2026/04/16      PAYROLL DEP LUMEN                         4 681,92 $        5 160,84 $
+2026/04/17      TELECOM BILL                                -75,92 $        5 084,92 $
+2026/04/27      TELECOM BILL                               -137,60 $        4 947,32 $
+2026/04/28      GROCERY STORE                              -333,73 $        4 613,59 $
+2026/04/30      PAYROLL DEP LUMEN                         4 681,92 $        9 295,51 $
+2026/05/03      FUEL                                       -264,49 $        9 031,02 $
+2026/05/03      RENT PAYMENT                               -162,29 $        8 868,73 $
+2026/05/06      UTILITY PAYMENT                             -59,03 $        8 809,70 $
+2026/05/14      PAYROLL DEP LUMEN                         4 681,92 $       13 491,62 $
+2026/05/18      PHARMACY                                   -411,01 $       13 080,61 $
+2026/05/23      E-TRANSFER RECEIVED T. LEE                  151,96 $       13 232,57 $
+2026/05/26      PHARMACY                                   -298,31 $       12 934,26 $
+2026/05/28      PAYROLL DEP LUMEN                         4 681,92 $       17 616,18 $
+2026/05/30      RESTAURANT                                  -76,69 $       17 539,49 $
+2026/06/03      FUEL                                       -221,68 $       17 317,81 $
+2026/06/06      INSURANCE PREM                             -157,68 $       17 160,13 $
+2026/06/11      PAYROLL DEP LUMEN                         4 681,92 $       21 842,05 $
+2026/06/13      PHARMACY                                   -181,06 $       21 660,99 $
+2026/06/25      PAYROLL DEP LUMEN                         4 681,92 $       26 342,91 $
+2026/06/25      INSURANCE PREM                              -97,44 $       26 245,47 $
+2026/06/26      GROCERY STORE                              -518,30 $       25 727,17 $
+2026/07/05      RESTAURANT                                 -455,78 $       25 271,39 $
+2026/07/07      RESTAURANT                                 -496,41 $       24 774,98 $
+2026/07/09      PAYROLL DEP LUMEN                         4 681,92 $       29 456,90 $
+2026/07/12      E-TRANSFER RECEIVED T. LEE                  588,34 $       30 045,24 $
+2026/07/15      PHARMACY                                   -273,79 $       29 771,45 $
+
+Solde de cloture: 29 771,45 $
+[scanned 2026-07-23 09:21 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | final_v2_5869.pdf | 3 page(s) ===
+LAKESHORE APPRAISAL GROUP
+RAPPORT D'EVALUATION RESIDENTIELLE - SOMMAIRE
+Propriete: 249 Birchwood Crescent, Longueuil, QC   (condo)
+Date du rapport: 2026/06/05
+Prix d achat au contrat: 465 000 $
+VALEUR MARCHANDE ESTIMEE: 466 000 $
+Methode de comparaison directe. Comparables:
+  276 Rue Saint-Exemple   459 000 $   adj -1.9%
+  539 Quarry Street   467 000 $   adj +4.2%
+  27 Quarry Street   473 000 $   adj +4.9%
+Commentaires:
+  Usure cosmetique mineure notee a la cuisine et au couloir; aucun impact sur la valeur.
+  L'evaluateur recommande une inspection supplementaire des fondations par un ingenieur. Valeur rapportee telle quelle.
+Evaluateur: S. Thornbury, AACI   Lic. 18884
+[scanned 2026-07-23 09:43 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | Doc_7091.pdf | 3 page(s) ===
+PROMESSE D'ACHAT - extrait (pages 1 et 7 de 14)
+Propriete: 249 Birchwood Crescent, Longueuil, QC
+Prix d achat: 465 000 $   Date de cloture: 2026/10/01
+Depot verse: 9 300 $
+[scanned 2026-07-23 09:51 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | final_v2_6382.pdf | 2 page(s) ===
+RAPPORT DE CREDIT - SOMMAIRE
+Sujet: SIMON OKAFOR    Date du rapport: 18 juillet 2026
+Cote de credit: 727
+Creancier                 Type              Limite           Solde         Pmt  Statut
+Personal Line of Credit   loc          36 000,00 $     27 200,00 $    272,00 $  Ouvert
+Retail Plus Card          card         37 100,00 $     14 230,00 $    284,60 $  Ouvert
+Demandes (12 mois): 2
+[scanned 2026-07-23 09:59 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | Doc_2957.pdf | 1 page(s) ===
+FICHE DE QUALIFICATION HYPOTHECAIRE (ebauche, ratios a confirmer)
+Revenu mensuel brut utilise: 13 708,33 $
+Type de propriete: condo
+Paiement hypothecaire de qualification (capital et interets): 3 157,54 $
+Taxes foncieres (mensuel): 464,37 $
+Chauffage (mensuel): 112,19 $
+Frais de copropriete (mensuel): 362,50 $
+Dettes dcclarees par le demandeur (paiement mensuel declare):
+  Personal Line of Credit           272,00 $
+[scanned 2026-07-23 09:48 - page 1 of 1 - CONFIDENTIAL]

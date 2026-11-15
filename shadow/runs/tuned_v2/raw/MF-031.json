@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-031",
+ "decisions": [
+  {
+   "condition_id": "MF-031-C1",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "History Apr 8-Aug 4 = 118 days (>=90). Required = 86,500 + 1.5% x 865,000 (12,975) = 99,475; closing balance 108,296.50 covers it. Only non-payroll deposit is 355.46 (small)."
+  },
+  {
+   "condition_id": "MF-031-C2",
+   "decision": "satisfied",
+   "rule_cited": "AR-08",
+   "rationale": "Report 2026-07-22 is 25 days old (<=90); Cardinal Evaluation Services is on panel. Value 857,000 vs price 865,000: shortfall 0.92% (<=2%). Cosmetic comment ignored."
+  },
+  {
+   "condition_id": "MF-031-C3",
+   "decision": "satisfied",
+   "rule_cited": "EMP-05",
+   "rationale": "Letter 2026-08-08 is 8 days old, letterhead and signed. Contract continuously renewed since 2022-06-16 = about 50 months (>=24). Letter salary 90,252.52 above stated 87,500."
+  },
+  {
+   "condition_id": "MF-031-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "Housing = 2,672.37 + 384.65 + 156.56 + 50% x 276.15 (138.08) = 3,351.66; GDS = 3,351.66 / 7,291.67 = 45.97%, above 39% by 6.97 points (AR-14 margin is 2)."
+  }
+ ]
+}

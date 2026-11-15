@@ -1,0 +1,7 @@
+{"file_id":"MF-043","decisions":[
+{"condition_id":"MF-043-C1","decision":"satisfied","rule_cited":"INC-03","rationale":"Paystub pay date 2026-06-29 is 23 days old; 9,847.77 x 12 = 118,173.24 vs stated 117,500, no shortfall. 2025 NOA 115,015.13 is a 2.1% shortfall, within 5%."},
+{"condition_id":"MF-043-C2","decision":"satisfied","rule_cited":"DP-02","rationale":"Required funds 28,000 + 1.5% x 350,000 (5,250) = 33,250; closing balance 56,060.99. History 2026-03-22 to 2026-07-12 = 112 days. Non-payroll deposits 121.26 and 165.11 are under 2,500."},
+{"condition_id":"MF-043-C3","decision":"satisfied","rule_cited":"APP-02","rationale":"Meridian Real Estate Appraisers is on panel; report 2026-06-11 is 41 days old (<=90); value 353,000 >= price 350,000; only cosmetic comments."},
+{"condition_id":"MF-043-C4","decision":"satisfied","rule_cited":"EMP-03","rationale":"Letter 2026-06-29 is 23 days old, letterhead and signed, permanent full-time, probation completed. Salary 115,898.07 vs stated 117,500 is 1.4% below, within 5%."},
+{"condition_id":"MF-043-C5","decision":"needs_review","rule_cited":"DTI-03","rationale":"Housing 2,883.06+458.12+94.68 = 3,435.86; GDS 3,435.86/9,791.67 = 35.09%. Debts: auto 249 + LOC 13,800 x 3% = 414 + student 349 = 1,012; TDS 4,447.86/9,791.67 = 45.43%, 1.43 pts over 44% with score 730 (>=720), so AR-14 needs_review."}
+]}

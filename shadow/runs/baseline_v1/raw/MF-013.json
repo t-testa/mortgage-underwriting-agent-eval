@@ -1,0 +1,23 @@
+{
+ "file_id": "MF-013",
+ "decisions": [
+  {
+   "condition_id": "MF-013-C1",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing balance of $180,012 with seasoned history and no unusual deposits covers the $160,000 down payment and leaves about $20k for closing costs."
+  },
+  {
+   "condition_id": "MF-013-C2",
+   "decision": "needs_review",
+   "rule_cited": "APP-01",
+   "rationale": "Panel appraiser value of $812,000 supports the $800,000 price, but the report is dated 20 March 2026 (76 days before review) and the policy gives no definition of recent."
+  },
+  {
+   "condition_id": "MF-013-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "DTI-02",
+   "rationale": "Credit score of 545 is below the 600 minimum, although GDS (about 30%) and TDS (about 36%) are within limits."
+  }
+ ]
+}

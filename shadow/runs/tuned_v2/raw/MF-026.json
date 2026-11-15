@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-026",
+ "decisions": [
+  {
+   "condition_id": "MF-026-C1",
+   "decision": "needs_review",
+   "rule_cited": "AR-01",
+   "rationale": "Semi-monthly 5,189.33 x 24 = 124,543.92 vs stated 142,500; shortfall 12.60% (NOA 122,407.44 gives 14.1%); over 5% up to 15% so needs_review."
+  },
+  {
+   "condition_id": "MF-026-C2",
+   "decision": "satisfied",
+   "rule_cited": "AR-05",
+   "rationale": "Required = 27,600 + 1.5% x 345,000 (5,175) = 32,775; closing 52,557.77; history May 14 to Aug 14 = 92 days; non-payroll deposits all under 2,500."
+  },
+  {
+   "condition_id": "MF-026-C3",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Letter 2026-08-20 (3 days old) on letterhead, signed, permanent full-time since 2016, probation completed, salary 144,788.54 >= stated."
+  },
+  {
+   "condition_id": "MF-026-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-14",
+   "rationale": "Housing = 4,074.44+242.01+162.93 = 4,479.38; GDS 4,479.38/11,875 = 37.72%; LOC 3% x 30,700 = 921; TDS 5,400.38/11,875 = 45.48%, 1.48 pts over 44% but score 642 <720, so not_satisfied."
+  }
+ ]
+}

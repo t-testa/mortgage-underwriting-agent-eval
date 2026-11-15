@@ -1,0 +1,139 @@
+FILE MF-027  |  REVISION DES CONDITIONS DE SOUSCRIPTION
+Date de revision: 2026-09-14
+Demandeur: Julien Kowalczyk
+Propriete: 908 Harbour View Road, Kingston, ON (house)
+Prix d achat: 805 000 $   Mise de fonds: 80 500 $
+Revenu annuel declare: 115 500 $   Employeur (declare): Brightfield Insurance Corp.
+
+CONDITIONS A DECIDER:
+  MF-027-C1 [income_proof] Fournir une preuve de revenu appuyant le revenu annuel declare de 115 500 $.
+  MF-027-C2 [down_payment_source] Confirmer la provenance et la disponibilite de la mise de fonds et des frais de cloture.
+  MF-027-C3 [employment] Confirmer l'emploi actuel.
+  MF-027-C4 [debt_ratio] Confirmer que les ratios ABD et ATD respectent la politique.
+
+=== DOCUMENT 1 | final_v2_2531.pdf | 3 page(s) ===
+FAX COVER SHEET
+To: Mortgage Ops   Pages: 3   Re: documents as requested
+[handwritten: sorry for the blurry pages!]
+[scanned 2026-09-14 09:28 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | upload_5300.pdf | 3 page(s) ===
+FICHE DE QUALIFICATION HYPOTHECAIRE (ebauche, ratios a confirmer)
+Revenu mensuel brut utilise: 9 625,00 $
+Type de propriete: house
+Paiement hypothecaire de qualification (capital et interets): 2 968,96 $
+Taxes foncieres (mensuel): 394,70 $
+Chauffage (mensuel): 123,52 $
+Frais de copropriete (mensuel): N/A
+Dettes declarees par le demandeur (paiement mensuel declare):
+  Ridgeline Auto Credit             487,00 $
+  Maple Visa Gold                   213,60 $
+  Personal Line of Credit           165,00 $
+[scanned 2026-09-14 09:27 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | upload_0880.pdf | 1 page(s) ===
+RELEVE DE COMPTE - CHEQUES
+Titulaire: JULIEN KOWALCZYK
+Periode du releve: 2026/05/18 to 2026/09/10
+Solde d ouverture: 49 378,80 $
+
+2026/05/25      PAYROLL DEP BRIGHTFIELD                   3 287,31 $       52 666,11 $
+2026/06/04      RESTAURANT                                 -308,96 $       52 357,15 $
+2026/06/08      PAYROLL DEP BRIGHTFIELD                   3 287,31 $       55 644,46 $
+2026/06/21      ONLINE PURCHASE                            -245,63 $       55 398,83 $
+2026/06/21      FUEL                                       -512,14 $       54 886,69 $
+2026/06/22      PAYROLL DEP BRIGHTFIELD                   3 287,31 $       58 174,00 $
+2026/06/25      RESTAURANT                                 -349,19 $       57 824,81 $
+2026/06/26      E-TRANSFER RECEIVED A. MORIN                331,14 $       58 155,95 $
+2026/06/28      TELECOM BILL                               -412,46 $       57 743,49 $
+2026/06/29      RENT PAYMENT                               -431,42 $       57 312,07 $
+2026/07/06      PAYROLL DEP BRIGHTFIELD                   3 287,31 $       60 599,38 $
+2026/07/07      UTILITY PAYMENT                            -422,39 $       60 176,99 $
+2026/07/13      TELECOM BILL                                -82,30 $       60 094,69 $
+2026/07/15      TELECOM BILL                               -303,86 $       59 790,83 $
+2026/07/20      PAYROLL DEP BRIGHTFIELD                   3 287,31 $       63 078,14 $
+2026/07/21      RENT PAYMENT                               -392,91 $       62 685,23 $
+2026/07/26      PHARMACY                                   -342,30 $       62 342,93 $
+2026/07/31      INSURANCE PREM                             -336,79 $       62 006,14 $
+2026/08/03      PAYROLL DEP BRIGHTFIELD                   3 287,31 $       65 293,45 $
+2026/08/10      E-TRANSFER RECEIVED PRIYA KOWALCZYK      40 000,00 $      105 293,45 $
+2026/08/14      PHARMACY                                   -292,17 $      105 001,28 $
+2026/08/15      TRANSIT PASS                               -233,48 $      104 767,80 $
+2026/08/15      FUEL                                       -300,42 $      104 467,38 $
+2026/08/17      PAYROLL DEP BRIGHTFIELD                   3 287,31 $      107 754,69 $
+2026/08/17      UTILITY PAYMENT                             -60,15 $      107 694,54 $
+2026/08/19      FUEL                                       -274,11 $      107 420,43 $
+2026/08/25      FUEL                                       -280,92 $      107 139,51 $
+2026/08/26      UTILITY PAYMENT                            -469,21 $      106 670,30 $
+2026/08/29      UTILITY PAYMENT                            -386,70 $      106 283,60 $
+2026/08/31      PAYROLL DEP BRIGHTFIELD                   3 287,31 $      109 570,91 $
+2026/09/09      TELECOM BILL                               -297,30 $      109 273,61 $
+
+Solde de cloture: 109 273,61 $
+[scanned 2026-09-14 09:12 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | Doc_0684.pdf | 1 page(s) ===
+Agence du revenu du Canada / Canada Revenue Agency
+AVIS DE COTISATION
+Annee d imposition: 2025      Date d emission: 2 mai 2026
+SIN/NAS: XXX XXX 458
+Line 15000 Revenu total:   120 560,69 $
+Line 23600 Revenu net:     112 895,25 $
+Solde: 424,02 $
+[scanned 2026-09-14 09:20 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | final_v2_1426.pdf | 2 page(s) ===
+LETTRE DE DON
+Je soussigne(e), Priya Kowalczyk, ami de la famille de Julien Kowalczyk, confirme faire un don de 40 000,00 $ le 6 aout 2026 pour l'achat de la propriete situee au 908 Harbour View Road, Kingston, ON.
+Ce don n'a pas a etre rembourse.
+Signature: /s/ Priya Kowalczyk
+Tel. du donateur: 613-555-0141
+[scanned 2026-09-14 09:43 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | IMG_1257.pdf | 3 page(s) ===
+RAPPORT DE CREDIT - SOMMAIRE
+Sujet: JULIEN KOWALCZYK    Date du rapport: 2026-09-09
+Cote de credit: 759
+Creancier                 Type              Limite           Solde         Pmt  Statut
+Ridgeline Auto Credit     car                    -     27 800,00 $    487,00 $  Ouvert
+Maple Visa Gold           card         17 100,00 $     10 680,00 $    213,60 $  Ouvert
+Personal Line of Credit   loc          29 000,00 $     16 500,00 $    165,00 $  Ouvert
+Demandes (12 mois): 2
+[scanned 2026-09-14 09:57 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | upload_4423.pdf | 1 page(s) ===
+VOID CHEQUE
+Transit 04085  Institution 001  Account ******157
+[scanned 2026-09-14 09:19 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | scan_1869.pdf | 1 page(s) ===
+PROMESSE D'ACHAT - extrait (pages 1 et 7 de 14)
+Propriete: 908 Harbour View Road, Kingston, ON
+Prix d achat: 805 000 $   Date de cloture: 20-Oct-2026
+Depot verse: 16 100 $
+[scanned 2026-09-14 09:56 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | IMG_8241.pdf | 2 page(s) ===
+BRIGHTFIELD INSURANCE CORP.
+RELEVE DE PAIE
+Employe: KOWALCZYK, Julien   ID: 43317
+Frequence: Aux deux semaines
+Periode: 10 aout 2026 - 23 aout 2026
+Date de paie: 26 aout 2026
+Gains reguliers   4 609,56 $
+BRUT PERIODE      4 609,56 $
+Retenues (impot, RPC/RRQ, AE, retraite)  1 320,72 $
+PAIE NETTE               3 288,84 $
+BRUT CUMULATIF   78 362,52 $
+[scanned 2026-09-14 09:41 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 10 | scan_9818.pdf | 3 page(s) ===
+[Papier a en-tete: Brightfield Insurance Corp. | 289 Quarry Street | tel 819-555-0192]
+4 septembre 2026
+A qui de droit,
+La presente confirme que Julien Kowalczyk cst employe(e) de Brightfield Insurance Corp. a titre de gestionnaire de comptes.
+Date d'entree: 31 decembre 2018. Statut: permanent a temps plein.
+Salaire annuel de base actuel: 112 793,28 $.
+Cordialement,
+/s/ Daniel Marchetti, Gestionnaire RH
+[scanned 2026-09-14 09:12 - page 1 of 3 - CONFIDENTIAL]

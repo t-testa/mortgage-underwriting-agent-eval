@@ -1,0 +1,127 @@
+FILE MF-004  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-06-23
+Applicant: Victor Verreault
+Property: 628 Quarry Street, Ottawa, ON (house)
+Purchase price: $780,000   Down payment: $195,000
+Stated annual income: $129,500   Employer (stated): Brightfield Insurance Corp.
+
+CONDITIONS TO DECIDE:
+  MF-004-C1 [income_proof] Provide proof of income supporting the stated annual income of $129,500.
+  MF-004-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-004-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-004-C4 [employment] Confirm current employment.
+
+=== DOCUMENT 1 | scan_3318.pdf | 2 page(s) ===
+VOID CHEQUE
+Transit 06231  Institution 008  Account ******593
+[scanned 2026-06-23 09:57 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | Doc_4235.pdf | 1 page(s) ===
+[Letterhead: Brightfield Insurance Corp. | 492 Birchwood Crescent | tel 819-555-0116]
+2026/06/20
+To whom it may concern,
+This confirms that Victor Verreault is employed by Brightfield Insurance Corp. as Senior Analyst.
+Start date: 2019/01/20. Employment status: permanent full-time.
+Current annual base salary: $125,779.87.
+Sincerely,
+/s/ Elena Mackenzie, HR Manager
+[scanned 2026-06-23 09:24 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | Doc_7068.pdf | 1 page(s) ===
+FAX COVER SHEET
+To: Mortgage Ops   Pages: 3   Re: documents as requested
+[handwritten: sorry for the blurry pages!]
+[scanned 2026-06-23 09:15 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | upload_7876.pdf | 1 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 25-Mar-2026
+SIN/NAS: XXX XXX 530
+Line 15000 Total income:   $128,437.90
+Line 23600 Net income:     $123,667.44
+Balance: $-2,061.04
+[scanned 2026-06-23 09:51 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | IMG_4585.pdf | 3 page(s) ===
+PRAIRIE OAK APPRAISALS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 628 Quarry Street, Ottawa, ON   (house)
+Report date: 2026-06-12
+Contract purchase price: $780,000
+OPINION OF MARKET VALUE: $782,000
+Direct comparison approach. Comparables:
+  278 Alder Lane   $785,000   adj -4.8%
+  137 Rue Saint-Exemple   $773,000   adj -1.0%
+  747 Rue Saint-Exemple   $813,000   adj +4.8%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: S. Thornbury, AACI   Lic. 99216
+[scanned 2026-06-23 09:44 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | upload_8603.pdf | 1 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2024      Date issued: 2025/05/25
+SIN/NAS: XXX XXX 928
+Line 15000 Total income:   $130,329.27
+Line 23600 Net income:     $123,193.74
+Balance: $-1,836.19
+[scanned 2026-06-23 09:38 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | final_v2_7520.pdf | 2 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: VICTOR VERREAULT
+Statement period: February 16, 2026 to June 12, 2026
+Opening balance: $199,866.92
+
+February 20, 2026PAYROLL DEP BRIGHTFIELD                    $3,685.77       $203,552.69
+February 23, 2026INSURANCE PREM                              $-175.50       $203,377.19
+February 27, 2026INSURANCE PREM                              $-339.92       $203,037.27
+March 6, 2026   PAYROLL DEP BRIGHTFIELD                    $3,685.77       $206,723.04
+March 9, 2026   ONLINE PURCHASE                             $-281.21       $206,441.83
+March 15, 2026  PHARMACY                                    $-250.40       $206,191.43
+March 20, 2026  PAYROLL DEP BRIGHTFIELD                    $3,685.77       $209,877.20
+March 21, 2026  TRANSIT PASS                                $-327.91       $209,549.29
+March 24, 2026  UTILITY PAYMENT                              $-55.95       $209,493.34
+March 28, 2026  TELECOM BILL                                $-427.74       $209,065.60
+March 31, 2026  INSURANCE PREM                              $-338.80       $208,726.80
+April 1, 2026   DEPOSIT                                    $3,110.00       $211,836.80
+April 3, 2026   PAYROLL DEP BRIGHTFIELD                    $3,685.77       $215,522.57
+April 17, 2026  PAYROLL DEP BRIGHTFIELD                    $3,685.77       $219,208.34
+April 18, 2026  TRANSIT PASS                                 $-80.11       $219,128.23
+April 29, 2026  RENT PAYMENT                                $-325.99       $218,802.24
+May 1, 2026     PAYROLL DEP BRIGHTFIELD                    $3,685.77       $222,488.01
+May 3, 2026     E-TRANSFER RECEIVED REFUND                   $632.97       $223,120.98
+May 15, 2026    PAYROLL DEP BRIGHTFIELD                    $3,685.77       $226,806.75
+May 19, 2026    TELECOM BILL                                $-475.18       $226,331.57
+May 23, 2026    PHARMACY                                    $-435.61       $225,895.96
+May 29, 2026    PAYROLL DEP BRIGHTFIELD                    $3,685.77       $229,581.73
+June 12, 2026   PAYROLL DEP BRIGHTFIELD                    $3,685.77       $233,267.50
+June 12, 2026   FUEL                                        $-227.35       $233,040.15
+June 12, 2026   UTILITY PAYMENT                             $-445.20       $232,594.95
+
+Closing balance: $232,594.95
+[scanned 2026-06-23 09:42 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | IMG_6510.pdf | 2 page(s) ===
+BRIGHTFIELD INSURANCE CORP.
+EARNINGS STATEMENT
+Employee: VERREAULT, Victor   ID: 73637
+Pay frequency: Bi-weekly
+Pay period: 2026/05/20 - 2026/06/02
+Pay date: 2026/06/06
+Base salary        $3,042.31
+Commission              $1,938.46
+GROSS THIS PERIOD      $4,980.77
+Deductions (tax, CPP/QPP, EI, pension)  $1,256.79
+NET PAY               $3,723.98
+GROSS YEAR TO DATE   $54,788.47
+[scanned 2026-06-23 09:57 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | scan_2967.pdf | 2 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 628 Quarry Street, Ottawa, ON
+Purchase price: $780,000   Closing date: August 18, 2026
+Deposit paid: $15,600
+[scanned 2026-06-23 09:44 - page 1 of 2 - CONFIDENTIAL]

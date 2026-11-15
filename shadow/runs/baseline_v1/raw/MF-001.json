@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-001",
+ "decisions": [
+  {
+   "condition_id": "MF-001-C1",
+   "decision": "needs_review",
+   "rule_cited": "DP-02",
+   "rationale": "Balance of $148,053.72 covers the $144,000 down payment but leaves only about $4,050 for closing costs, which are not quantified or documented, and the $14,400 deposit is not traceable; coverage is not clearly shown."
+  },
+  {
+   "condition_id": "MF-001-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Appraised value of $689,000 from an approved-panel appraiser does not support the $720,000 purchase price."
+  },
+  {
+   "condition_id": "MF-001-C3",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Recent (2026-06-01) signed letter on letterhead confirms permanent full-time employment at the stated employer; the $66,730 salary is below the stated $73,500, which affects income and ratios rather than employment status."
+  },
+  {
+   "condition_id": "MF-001-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "The credit bureau shows a $746/month Ridgeline auto loan omitted from the worksheet, which puts TDS near 50% (about 55% on documented salary), well above 44% and not marginal for DTI-03."
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+FILE MF-024  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-10-07
+Applicant: Chloe Whitlock
+Property: 578 Boulevard Fontaine, Longueuil, QC (house)
+Purchase price: $650,000   Down payment: $65,000
+Stated annual income: $99,000   Employer (stated): Aurelia Software Ltd.
+
+CONDITIONS TO DECIDE:
+  MF-024-C1 [income_proof] Provide proof of income supporting the stated annual income of $99,000.
+  MF-024-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-024-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-024-C4 [employment] Confirm current employment.
+
+=== DOCUMENT 1 | IMG_9562.pdf | 3 page(s) ===
+[Letterhead: Aurelia Software Ltd. | 720 Rue des Peupliers | tel 819-555-0145]
+2026-08-02
+To whom it may concern,
+This confirms that Chloe Whitlock is employed by Aurclia Software Ltd. as Operations Lead.
+Start date: 2019-09-06. Employment status: permanent full-time.
+Current annual base salary: $102,238.77.
+Sincerely,
+/s/ Priya Caste1lan, HR Manager
+[scanned 2026-10-07 09:28 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | upload_0863.pdf | 3 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 578 Boulevard Fontaine, Longueuil, QC
+Purchase price: $650,000   Closing date: 2026/11/16
+Deposit paid: $13,000
+[scanned 2026-10-07 09:47 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | IMG_6498.pdf | 2 page(s) ===
+AURELIA SOFTWARE LTD.
+EARNINGS STATEMENT
+Employee: WHITLOCK, Chloe   ID: 17072
+Pay frequency: Bi-wcekly
+Pay period: July 14, 2026 - July 27, 2026
+Pay date: July 31, 2026
+Regular earnings   $3,807.89
+GROSS THIS PERIOD      $3,807.89
+Deductions (tax, CPP/QPP, EI, pension)  $988.82
+NET PAY               $2,819.07
+GROSS YEAR TO DATE   $57,118.35
+[scanned 2026-10-07 09:22 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | Doc_9850.pdf | 2 page(s) ===
+EVALU-RAPIDE PLUS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 578 Boulevard Fontaine, Longueuil, QC   (house)
+Report date: 20-Sep-2026
+Contract purchase price: $650,000
+OPINION OF MARKET VALUE: $656,000
+Direct comparison approach. Comparables:
+  285 Alder Lane   $637,000   adj +3.3%
+  878 Harbour View Road   $665,000   adj +1.7%
+  865 Quarry Street   $635,000   adj -3.2%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: S. Thornbury, AACI   Lic. 64832
+[scanned 2026-10-07 09:57 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | Doc_5441.pdf | 1 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: CHLOE WHITLOCK
+Statement period: 2026/06/06 to 2026/10/01
+Opening balance: $81,570.37
+
+2026/06/07      PAYROLL DEP AURELIA                        $2,817.69        $84,388.06
+2026/06/07      ONLINE PURCHASE                             $-240.03        $84,148.03
+2026/06/09      ONLINE PURCHASE                             $-323.82        $83,824.21
+2026/06/19      TRANSIT PASS                                $-290.47        $83,533.74
+2026/06/21      PAYROLL DEP AURELIA                        $2,817.69        $86,351.43
+2026/06/26      PHARMACY                                     $-88.99        $86,262.44
+2026/06/27      GROCERY STORE                               $-264.67        $85,997.77
+2026/07/03      PHARMACY                                     $-71.63        $85,926.14
+2026/07/05      PAYROLL DEP AURELIA                        $2,817.69        $88,743.83
+2026/07/05      GROCERY STORE                                $-76.04        $88,667.79
+2026/07/13      UTILITY PAYMENT                             $-295.85        $88,371.94
+2026/07/13      RENT PAYMENT                                $-139.30        $88,232.64
+2026/07/19      PAYROLL DEP AURELIA                        $2,817.69        $91,050.33
+2026/07/20      INSURANCE PREM                              $-250.61        $90,799.72
+2026/07/20      E-TRANSFER RECEIVED A. MORIN                  $99.04        $90,898.76
+2026/07/23      ONLINE PURCHASE                             $-351.95        $90,546.81
+2026/07/27      GROCERY STORE                               $-356.64        $90,190.17
+2026/08/02      PAYROLL DEP AURELIA                        $2,817.69        $93,007.86
+2026/08/11      RESTAURANT                                  $-383.87        $92,623.99
+2026/08/11      ONLINE PURCHASE                             $-316.18        $92,307.81
+2026/08/16      PAYROLL DEP AURELIA                        $2,817.69        $95,125.50
+2026/08/26      INSURANCE PREM                              $-422.57        $94,702.93
+2026/08/26      TRANSIT PASS                                $-181.90        $94,521.03
+2026/08/30      PAYROLL DEP AURELIA                        $2,817.69        $97,338.72
+2026/09/09      FUEL                                        $-456.48        $96,882.24
+2026/09/11      TRANSIT PASS                                $-510.44        $96,371.80
+2026/09/13      PAYROLL DEP AURELIA                        $2,817.69        $99,189.49
+2026/09/23      RENT PAYMENT                                $-497.69        $98,691.80
+2026/09/27      PAYROLL DEP AURELIA                        $2,817.69       $101,509.49
+
+Closing balance: $101,509.49
+[scanned 2026-10-07 09:40 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | scan_4261.pdf | 2 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 23/05/2026
+SIN/NAS: XXX XXX 652
+Line 15000 Total income:   $98,000.13
+Line 23600 Net income:     $92,800.82
+Balance: $-1,137.89
+[scanned 2026-10-07 09:28 - page 1 of 2 - CONFIDENTIAL]

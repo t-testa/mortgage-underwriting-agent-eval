@@ -1,0 +1,7 @@
+{"file_id":"MF-018","decisions":[
+{"condition_id":"MF-018-C1","decision":"needs_review","rule_cited":"INC-05","rationale":"Pay includes commission (1,420.83 of 3,770.83), so income is variable and only one NOA (2025) is on file: needs_review (AR-02). NOA line 15000 92,781.86 exceeds stated 90,500 so no shortfall; paystub 11 days old."},
+{"condition_id":"MF-018-C2","decision":"not_satisfied","rule_cited":"DP-03","rationale":"Required funds 32,000 + 6,000 = 38,000; balance 46,575 and history 96 days pass, but the 15,250 cash deposit on May 27 is unexplained and over 5,000 (AR-06); excluding it the balance (31,325) is also below required funds."},
+{"condition_id":"MF-018-C3","decision":"satisfied","rule_cited":"APP-02","rationale":"Lakeshore Appraisal Group on panel; report 26/06/2026 is 12 days old; value 403,000 >= price 400,000; cosmetic comments only."},
+{"condition_id":"MF-018-C4","decision":"not_satisfied","rule_cited":"EMP-01","rationale":"Employment letter dated 2026/05/31 is 38 days old at review date 2026-07-08, over the 30-day limit (AR-04)."},
+{"condition_id":"MF-018-C5","decision":"satisfied","rule_cited":"DTI-01","rationale":"Income 7,541.67/mo. Housing 1,702.21 + 385.29 + 170.65 = 2,258.15, GDS 29.94%. Bureau debts: auto 340 + card 10,590 x 3% = 317.70 = 657.70; TDS = 2,915.85/7,541.67 = 38.66%. Score 745."}
+]}

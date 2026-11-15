@@ -1,0 +1,125 @@
+FILE MF-009  |  REVISION DES CONDITIONS DE SOUSCRIPTION
+Date de revision: 2026-09-06
+Demandeur: Etienne Verreault
+Propriete: 709 Quarry Street, Trois-Rivieres, QC (house)
+Prix d achat: 490 000 $   Mise de fonds: 98 000 $
+Revenu annuel declare: 100 500 $   Employeur (declare): Maplebrook Health Services
+
+CONDITIONS A DECIDER:
+  MF-009-C1 [income_proof] Fournir une preuve de revenu appuyant le revenu annuel declare de 100 500 $.
+  MF-009-C2 [down_payment_source] Confirmer la provenance et la disponibilite de la mise de fonds et des frais de cloture.
+  MF-009-C3 [appraisal] Fournir une evaluation acceptable appuyant le prix d'achat.
+  MF-009-C4 [debt_ratio] Confirmer que les ratios ABD et ATD respectent la politique.
+
+=== DOCUMENT 1 | IMG_4474.pdf | 3 page(s) ===
+MAPLEBROOK HEALTH SERVICES
+RELEVE DE PAIE
+Employe: VERREAULT, Etienne   ID: 88769
+Frequence: Aux deux semaines
+Periode: 11 aout 2026 - 24 aout 2026
+Date de paie: 25 aout 2026
+Gains reguliers   3 885,78 $
+BRUT PERIODE      3 885,78 $
+Retenues (impot, RPC/RRQ, AE, retraite)  1 147,98 $
+PAIE NETTE               2 737,80 $
+BRUT CUMULATIF   66 058,26 $
+[scanned 2026-09-06 09:26 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | IMG_1149.pdf | 3 page(s) ===
+FICHE DE QUALIFICATION HYPOTHECAIRE (ebauche, rati0s a confirmer)
+Revenu mensuel brut utilise: 8 375,00 $
+Type de pr0priete: house
+Paiement hypothecaire de qualification (capital et interets): 2 141,63 $
+Taxes foncieres (mensuel): 351,69 $
+Chauffage (mensuel): 108,93 $
+Frois de copropriete (mcnsuel): N/A
+Dettes declorees par 1e demandeur (paiement mensuel declare):
+  Student Line of Credit             78,00 $
+  Government Student Loan           208,00 $
+[scanned 2026-09-06 09:35 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | IMG_6176.pdf | 3 page(s) ===
+PROMESSE D'ACHAT - extrait (pages 1 et 7 de 14)
+Propriete: 709 Quarry Street, Trois-Rivieres, QC
+Prix d achat: 490 000 $   Date de cloture: 2026-11-06
+Depot verse: 9 800 $
+[scanned 2026-09-06 09:34 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | final_v2_1248.pdf | 2 page(s) ===
+RELEVE DE COMPTE - CHEQUES
+Titulaire: ETIENNE VERREAULT
+Periode du releve: 2026/05/05 to 2026/08/30
+Solde d ouverture: 47 065,13 $
+
+2026/05/12      PAYROLL DEP MAPLEBROOK                    2 860,38 $       49 925,51 $
+2026/05/14      GROCERY STORE                              -220,32 $       49 705,19 $
+2026/05/17      PHARMACY                                   -171,17 $       49 534,02 $
+2026/05/24      E-TRANSFER RECEIVED A. MORIN                739,56 $       50 273,58 $
+2026/05/25      PHARMACY                                   -506,72 $       49 766,86 $
+2026/05/26      PAYROLL DEP MAPLEBROOK                    2 860,38 $       52 627,24 $
+2026/05/29      TRANSIT PASS                               -442,08 $       52 185,16 $
+2026/06/08      GROCERY STORE                              -367,45 $       51 817,71 $
+2026/06/09      PAYROLL DEP MAPLEBROOK                    2 860,38 $       54 678,09 $
+2026/06/10      INSURANCE PREM                             -351,59 $       54 326,50 $
+2026/06/10      TELECOM BILL                               -491,54 $       53 834,96 $
+2026/06/18      ONLINE PURCHASE                            -500,30 $       53 334,66 $
+2026/06/21      RESTAURANT                                 -423,50 $       52 911,16 $
+2026/06/22      FUEL                                        -53,47 $       52 857,69 $
+2026/06/22      UTILITY PAYMENT                            -101,55 $       52 756,14 $
+2026/06/23      PAYROLL DEP MAPLEBROOK                    2 860,38 $       55 616,52 $
+2026/07/04      INSURANCE PREM                             -479,59 $       55 136,93 $
+2026/07/06      TELECOM BILL                               -113,82 $       55 023,11 $
+2026/07/07      PAYROLL DEP MAPLEBROOK                    2 860,38 $       57 883,49 $
+2026/07/21      PAYROLL DEP MAPLEBROOK                    2 860,38 $       60 743,87 $
+2026/07/23      E-TRANSFER RECEIVED ELENA VERREAULT      48 500,00 $      109 243,87 $
+2026/08/03      ONLINE PURCHASE                            -259,75 $      108 984,12 $
+2026/08/03      RESTAURANT                                 -504,88 $      108 479,24 $
+2026/08/04      PAYROLL DEP MAPLEBROOK                    2 860,38 $      111 339,62 $
+2026/08/18      PAYROLL DEP MAPLEBROOK                    2 860,38 $      114 200,00 $
+
+Solde de cloture: 114 200,00 $
+[scanned 2026-09-06 09:10 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | Doc_3845.pdf | 3 page(s) ===
+Agence du revenu du Canada / Canada Revenue Agency
+AVIS DE COTISATION
+Annee d imposition: 2025      Date d emission: 2026/03/10
+SIN/NAS: XXX XXX 944
+Line 15000 Revenu total:   104 029,87 $
+Line 23600 Revenu net:     102 887,21 $
+Solde: -1 437,75 $
+[scanned 2026-09-06 09:16 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | scan_3915.pdf | 2 page(s) ===
+VALEUR REFERENCE INC.
+RAPPORT D'EVALUATION RESIDENTIELLE - SOMMAIRE
+Propriete: 709 Quarry Street, Trois-Rivieres, QC   (house)
+Date du rapport: 26/08/2026
+Prix d achat au contrat: 490 000 $
+VALEUR MARCHANDE ESTIMEE: 494 000 $
+Methode de comparaison directe. Comparables:
+  788 Boulevard Fontaine   485 000 $   adj +2.7%
+  794 Chemin des Cedres   502 000 $   adj -4.6%
+  61 Birchwood Crescent   500 000 $   adj +4.3%
+Commentaires:
+  Usure cosmetique mineure notee a la cuisine et au couloir; aucun impoct sur 1a valeur.
+Evaluateur: R. Castonguay, AACI   Lic. 54212
+[scanned 2026-09-06 09:33 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | Doc_5450.pdf | 2 page(s) ===
+LETTRE DE DON
+Je soussigne(e), Elena Verreault, grand-pere de Etienne Verreault, confirme faire un don de 48 500,00 $ le 2 aout 2026 pour l'achat de la propriete situee au 709 Quarry Street, Trois-Rivieres, QC.
+Ce don n'a pas a etre rembourse.
+Signature: /s/ Elena Verrcault
+Tel. du donateur: 613-555-0135
+[scanned 2026-09-06 09:39 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | final_v2_9654.pdf | 1 page(s) ===
+RAPPORT DE CREDIT - SOMMAIRE
+Sujet: ETIENNE VERREAULT    Date du rapport: 2026/08/23
+Cote de credit: 594
+Creancier                 Type              Limite           So1de         Pmt  Statut
+Student Line of Credit    loc          11 000,00 $      7 800,00 $     78,00 $  Ouvert
+Government Student Loan   student                -      5 600,00 $    208,00 $  Ouvert
+Demandes (12 mois): 2
+[scanned 2026-09-06 09:56 - page 1 of 1 - CONFIDENTIAL]

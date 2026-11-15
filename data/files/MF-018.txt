@@ -1,0 +1,141 @@
+FILE MF-018  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-07-08
+Applicant: Raj Stanfield
+Property: 305 Birchwood Crescent, Ottawa, ON (house)
+Purchase price: $400,000   Down payment: $32,000
+Stated annual income: $90,500   Employer (stated): Tamarack Food Distributors
+
+CONDITIONS TO DECIDE:
+  MF-018-C1 [income_proof] Provide proof of income supporting the stated annual income of $90,500.
+  MF-018-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-018-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-018-C4 [employment] Confirm current employment.
+  MF-018-C5 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | final_v2_5725.pdf | 3 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $7,541.67
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $1,702.21
+Property tax (monthly): $385.29
+Heating (monthly): $170.65
+Condo fees (monthly): N/A
+Liabilities declared by applicant (monthly payment as stated):
+  Ridgeline Auto Credit              $340.00
+[scanned 2026-07-08 09:45 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | scan_9436.pdf | 3 page(s) ===
+VOID CHEQUE
+Transit 01828  Institution 006  Account ******995
+[scanned 2026-07-08 09:52 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | final_v2_0979.pdf | 2 page(s) ===
+[Letterhead: Tamarack Food Distributors | 900 Rue Saint-Exemple | tel 819-555-0176]
+2026/05/31
+To whom it may concern,
+This confirms that Raj Stanfield is employed by Tamarack Food Distributors as Technician.
+Start date: 2017/03/12. Employment status: permanent full-time.
+Current annual base salary: $88,983.96.
+Sincerely,
+/s/ Ethan Haddad, HR Managcr
+[scanned 2026-07-08 09:24 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | upload_2636.pdf | 1 page(s) ===
+LAKESHORE APPRAISAL GROUP
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 305 Birchwood Crescent, Ottawa, ON   (house)
+Report date: 26/06/2026
+Contract purchase price: $400,000
+OPINION OF MARKET VALUE: $403,000
+Direct comparison approach. Comparables:
+  742 Quarry Street   $406,000   adj -1.1%
+  914 Birchwood Crescent   $397,000   adj -3.7%
+  473 Quarry Street   $405,000   adj +4.7%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: M. Abdallah, AACI   Lic. 74423
+[scanned 2026-07-08 09:22 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | scan_0523.pdf | 3 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: RAJ STANFIELD    Report date: 2026/06/26
+Credit score: 745
+Creditor                  Type               Limit         Balance         Pmt  Status
+Ridgeline Auto Credit     car                    -       $9,200.00     $340.00  Open
+Maple Visa Gold           card          $30,700.00      $10,590.00     $211.80  Open
+Inquiries (12 mo): 2
+[scanned 2026-07-08 09:49 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | IMG_5871.pdf | 1 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: May 14, 2026
+SIN/NAS: XXX XXX 697
+Line 15000 Total income:   $92,781.86
+Line 23600 Net income:     $86,558.07
+Balance: $604.90
+[scanned 2026-07-08 09:19 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | IMG_2038.pdf | 3 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 305 Birchwood Crescent, Ottawa, ON
+Purchase price: $400,000   Closing date: 2026/08/10
+Deposit paid: $8,000
+[scanned 2026-07-08 09:30 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | final_v2_2496.pdf | 1 page(s) ===
+TAMARACK FOOD DISTRIBUTORS
+EARNINGS STATEMENT
+Employee: STANFIELD, Raj   ID: 38673
+Pay frequency: Semi-monthly
+Pay period: June 9, 2026 - June 23, 2026
+Pay date: June 27, 2026
+Base salary        $2,350.00
+Commission              $1,420.83
+GROSS THIS PERIOD      $3,770.83
+Deductions (tax, CPP/QPP, EI, pension)  $1,089.18
+NET PAY               $2,681.65
+GROSS YEAR TO DATE   $45,249.96
+[scanned 2026-07-08 09:36 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | final_v2_9418.pdf | 3 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holdcr: RAJ STANFIELD
+Statement period: March 24, 2026 to June 28, 2026
+Opening balance: $16,589.20
+
+March 24, 2026  E-TRANSFER RECEIVED REFUND                   $714.05        $17,303.25
+March 28, 2026  TELECOM BILL                                $-147.70        $17,155.55
+March 29, 2026  PAYROLL DEP TAMARACK                       $2,575.77        $19,731.32
+April 8, 2026   TRANSIT PASS                                $-371.03        $19,360.29
+April 12, 2026  PAYROLL DEP TAMARACK                       $2,575.77        $21,936.06
+April 12, 2026  INSURANCE PREM                              $-128.26        $21,807.80
+April 15, 2026  TELECOM BILL                                 $-41.01        $21,766.79
+April 26, 2026  PAYROLL DEP TAMARACK                       $2,575.77        $24,342.56
+April 28, 2026  FUEL                                        $-362.51        $23,980.05
+May 3, 2026     GROCERY STORE                               $-318.43        $23,661.62
+May 7, 2026     TRANSIT PASS                                $-360.26        $23,301.36
+May 8, 2026     FUEL                                         $-54.02        $23,247.34
+May 10, 2026    PAYROLL DEP TAMARACK                       $2,575.77        $25,823.11
+May 18, 2026    TRANSIT PASS                                $-189.35        $25,633.76
+May 21, 2026    FUEL                                         $-95.87        $25,537.89
+May 23, 2026    GROCERY STORE                               $-214.10        $25,323.79
+May 24, 2026    PAYROLL DEP TAMARACK                       $2,575.77        $27,899.56
+May 27, 2026    CASH DEPOSIT BRANCH                       $15,250.00        $43,149.56
+June 5, 2026    TELECOM BILL                                $-351.15        $42,798.41
+June 7, 2026    PAYROLL DEP TAMARACK                       $2,575.77        $45,374.18
+June 9, 2026    RESTAURANT                                  $-118.64        $45,255.54
+June 10, 2026   TELECOM BILL                                $-475.55        $44,779.99
+June 21, 2026   PAYROLL DEP TAMARACK                       $2,575.77        $47,355.76
+June 25, 2026   FUEL                                        $-319.49        $47,036.27
+June 26, 2026   PHARMACY                                    $-230.19        $46,806.08
+June 28, 2026   GROCERY STORE                               $-231.08        $46,575.00
+
+Closing balance: $46,575.00
+[scanned 2026-07-08 09:38 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 10 | Doc_4346.pdf | 3 page(s) ===
+DRIVER LICENCE (copy, masked)
+Name: Raj Stanfield
+Licence no: XXXX-XXXX-7171
+[scanned 2026-07-08 09:23 - page 1 of 3 - CONFIDENTIAL]

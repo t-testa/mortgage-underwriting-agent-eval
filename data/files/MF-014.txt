@@ -1,0 +1,126 @@
+FILE MF-014  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-09-14
+Applicant: Raj Mackenzie
+Property: 585 Birchwood Crescent, Gatineau, QC (condo)
+Purchase price: $870,000   Down payment: $217,500
+Stated annual income: $88,500   Employer (stated): Brightfield Insurance Corp.
+
+CONDITIONS TO DECIDE:
+  MF-014-C1 [income_proof] Provide proof of income supporting the stated annual income of $88,500.
+  MF-014-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-014-C3 [employment] Confirm current employment.
+  MF-014-C4 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | IMG_2970.pdf | 3 page(s) ===
+VOID CHEQUE
+Transit 02546  Institution 003  Account ******170
+[scanned 2026-09-14 09:13 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | final_v2_3257.pdf | 3 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: RAJ MACKENZIE
+Statement period: June 2, 2026 to September 10, 2026
+Opening balance: $222,296.04
+
+June 3, 2026    PHARMACY                                    $-319.56       $221,976.48
+June 4, 2026    PHARMACY                                    $-482.04       $221,494.44
+June 7, 2026    FUEL                                         $-83.45       $221,410.99
+June 9, 2026    PAYROLL DEP BRIGHTFIELD                    $2,518.85       $223,929.84
+June 9, 2026    ONLINE PURCHASE                              $-76.51       $223,853.33
+June 9, 2026    PHARMACY                                    $-289.87       $223,563.46
+June 13, 2026   TRANSIT PASS                                $-225.74       $223,337.72
+June 15, 2026   INSURANCE PREM                              $-378.20       $222,959.52
+June 16, 2026   E-TRANSFER RECEIVED REFUND                   $664.86       $223,624.38
+June 22, 2026   TRANSIT PASS                                $-230.20       $223,394.18
+June 23, 2026   PAYROLL DEP BRIGHTFIELD                    $2,518.85       $225,913.03
+June 24, 2026   E-TRANSFER RECEIVED REFUND                   $678.46       $226,591.49
+July 7, 2026    PAYROLL DEP BRIGHTFIELD                    $2,518.85       $229,110.34
+July 7, 2026    RENT PAYMENT                                $-116.59       $228,993.75
+July 9, 2026    PHARMACY                                     $-92.06       $228,901.69
+July 12, 2026   RENT PAYMENT                                $-399.01       $228,502.68
+July 18, 2026   RENT PAYMENT                                $-468.23       $228,034.45
+July 21, 2026   PAYROLL DEP BRIGHTFIELD                    $2,518.85       $230,553.30
+August 4, 2026  PAYROLL DEP BRIGHTFIELD                    $2,518.85       $233,072.15
+August 6, 2026  ONLINE PURCHASE                             $-499.13       $232,573.02
+August 11, 2026 TELECOM BILL                                $-342.36       $232,230.66
+August 18, 2026 PAYROLL DEP BRIGHTFIELD                    $2,518.85       $234,749.51
+August 19, 2026 RENT PAYMENT                                $-439.60       $234,309.91
+August 20, 2026 TELECOM BILL                                $-239.19       $234,070.72
+August 20, 2026 ONLINE PURCHASE                             $-234.00       $233,836.72
+August 25, 2026 E-TRANSFER RECEIVED T. LEE                   $351.72       $234,188.44
+September 1, 2026PAYROLL DEP BRIGHTFIELD                    $2,518.85       $236,707.29
+September 2, 2026ONLINE PURCHASE                             $-369.78       $236,337.51
+September 6, 2026ONLINE PURCHASE                             $-360.84       $235,976.67
+September 6, 2026UTILITY PAYMENT                             $-316.87       $235,659.80
+
+Closing balance: $235,659.80
+[scanned 2026-09-14 09:16 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | upload_0377.pdf | 1 page(s) ===
+BRIGHTFIELD INSURANCE CORP.
+EARNINGS STATEMENT
+Employee: MACKENZIE, Raj   ID: 99675
+Pay frequency: Bi-weekly
+Pay period: 18/08/2026 - 31/08/2026
+Pay date: September 2, 2026
+Regular earnings   $3,489.11
+GROSS THIS PERIOD      $3,489.11
+Deductions (tax, CPP/QPP, EI, pension)  $917.11
+NET PAY               $2,572.00
+GROSS YEAR TO DATE   $62,803.98
+[scanned 2026-09-14 09:45 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | upload_2625.pdf | 2 page(s) ===
+DRIVER LICENCE (copy, masked)
+Name: Raj Mackenzie
+Licence no: XXXX-XXXX-8485
+[scanned 2026-09-14 09:21 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | IMG_5597.pdf | 3 page(s) ===
+(sent from personal mail account, no letterhead)
+28-Aug-2026
+To whom it may concern,
+This confirms that Raj Mackenzie is employed by Brightfield Insurance Corp. as Coordinator.
+Start date: 22-Jun-2018. Employment status: permanent full-time.
+Current annual base salary: $93,364.29.
+Sincerely,
+/s/ Andre Kowalczyk, HR Manager
+[scanned 2026-09-14 09:16 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | scan_6431.pdf | 1 page(s) ===
+Canada Revcnue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: April 5, 2026
+SIN/NAS: XXX XXX 800
+Line 15000 Total income:   $92,511.36
+Line 23600 Net income:     $88,906.35
+Balance: $-479.59
+[scanned 2026-09-14 09:26 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | IMG_0427.pdf | 1 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 585 Birchwood Crescent, Gatineau, QC
+Purchase price: $870,000   Closing date: 2026-10-30
+Deposit paid: $17,400
+[scanned 2026-09-14 09:22 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | final_v2_6269.pdf | 2 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: RAJ MACKENZIE    Report date: September 11, 2026
+Credit score: 574
+Creditor                  Type               Limlt         Balance         Pmt  Status
+Northern MasterCard       card          $27,400.00       $9,350.00     $187.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-09-14 09:15 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | final_v2_7309.pdf | 1 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $7,375.00
+Property type: condo
+Qualifying mortgage payment (P&I, stress-tested): $1,719.33
+Property tax (monthly): $327.66
+Heating (monthly): $129.50
+Condo fees (monthly): $303.58
+Liabilities declared by applicant (monthly payment as stated):
+  Northern MasterCard                $187.00
+[scanned 2026-09-14 09:11 - page 1 of 1 - CONFIDENTIAL]

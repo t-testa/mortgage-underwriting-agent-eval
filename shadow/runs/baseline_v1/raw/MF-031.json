@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-031",
+ "decisions": [
+  {
+   "condition_id": "MF-031-C1",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Seasoned chequing balance of about $108k (April to August) with no unusual deposits covers the $86,500 down payment plus closing costs."
+  },
+  {
+   "condition_id": "MF-031-C2",
+   "decision": "needs_review",
+   "rule_cited": "APP-02",
+   "rationale": "Appraisal is from an approved panel firm but values the property at $857,000, slightly below the $865,000 price, so escalate."
+  },
+  {
+   "condition_id": "MF-031-C3",
+   "decision": "satisfied",
+   "rule_cited": "EMP-05",
+   "rationale": "Recent signed letterhead letter confirms a fixed-term contract continuously renewed since 2022, a stable multi-year history, consistent with stated income."
+  },
+  {
+   "condition_id": "MF-031-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "Using worksheet figures GDS is about 46% and TDS about 49%, well above the 39% and 44% limits and not marginal."
+  }
+ ]
+}

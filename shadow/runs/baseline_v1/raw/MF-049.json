@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-049",
+ "decisions": [
+  {
+   "condition_id": "MF-049-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "2025 NOA $79,145 and pay stub (about $77,400 annualized, YTD consistent) support the stated $77,500."
+  },
+  {
+   "condition_id": "MF-049-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing balance $67,390 with steady history and no large deposits covers the $43,000 down payment and closing costs."
+  },
+  {
+   "condition_id": "MF-049-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Summit Property Valuations (on panel), dated 2026-06-19, values at $445,000 against a $430,000 price with no conditions."
+  },
+  {
+   "condition_id": "MF-049-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "TDS about 48.3% (about 44.5% even if condo fees are half-counted) exceeds the 44% maximum, which is not marginal for a DTI-03 exception."
+  }
+ ]
+}

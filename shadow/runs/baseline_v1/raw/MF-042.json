@@ -1,0 +1,23 @@
+{
+ "file_id": "MF-042",
+ "decisions": [
+  {
+   "condition_id": "MF-042-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "Letter $86,197, NOA $87,369 and pay stub (about $85,800 annualized) all meet or exceed the stated $83,000."
+  },
+  {
+   "condition_id": "MF-042-C2",
+   "decision": "needs_review",
+   "rule_cited": "EMP-05",
+   "rationale": "Fixed-term contract renewed since Apr 2025 (about 16 months); contract income needs a stable history that the policy does not define, and the letter is not permanent full-time (EMP-03)."
+  },
+  {
+   "condition_id": "MF-042-C3",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS about 27.9% and TDS about 36.1%; credit score 759 meets DTI-02."
+  }
+ ]
+}

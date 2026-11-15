@@ -1,0 +1,133 @@
+FILE MF-022  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-06-24
+Applicant: Marcus Dubreuil
+Property: 418 Rue Saint-Exemple, Kingston, ON (house)
+Purchase price: $680,000   Down payment: $102,000
+Stated annual income: $103,500   Employer (stated): Fairwater Education Board
+
+CONDITIONS TO DECIDE:
+  MF-022-C1 [income_proof] Provide proof of income supporting the stated annual income of $103,500.
+  MF-022-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-022-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-022-C4 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | scan_5391.pdf | 2 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 418 Rue Saint-Exemple, Kingston, ON
+Purchase price: $680,000   Closing date: September 1, 2026
+Deposit paid: $13,600
+[scanned 2026-06-24 09:50 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | final_v2_7597.pdf | 3 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $8,625.00
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $2,276.25
+Property tax (monthly): $485.11
+Heating (monthly): $93.50
+Condo fees (monthly): N/A
+Liabilities declared by applicant (monthly payment as stated):
+  Government Student Loan            $170.00
+  AutoFinance Canada                  $99.00
+  Vehicle Loan                       $861.00
+[scanned 2026-06-24 09:47 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | Doc_2898.pdf | 1 page(s) ===
+FAX COVER SHEET
+To: Mortgage Ops   Pages: 3   Re: documents as requested
+[handwritten: sorry for the blurry pages!]
+[scanned 2026-06-24 09:38 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | Doc_6025.pdf | 2 page(s) ===
+VOID CHEQUE
+Transit 05120  Institution 009  Account ******784
+[scanned 2026-06-24 09:42 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | upload_8955.pdf | 1 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 2026-03-05
+SIN/NAS: XXX XXX 414
+Line 15000 Total income:   $104,076.80
+Line 23600 Net income:     $97,301.35
+Balance: $-1,971.77
+[scanned 2026-06-24 09:21 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | scan_2596.pdf | 1 page(s) ===
+FAIRWATER EDUCATION BOARD
+EARNINGS STATEMENT
+Employee: DUBREUIL, Marcus   ID: 20681
+Pay frequency: Monthly
+Pay period: 2026/04/30 - 2026/05/29
+Pay date: 2026/06/01
+Regular earnings   $8,756.44
+GROSS THIS PERIOD      $8,756.44
+Deductions (tax, CPP/QPP, EI, pension)  $2,206.96
+NET PAY               $6,549.48
+GROSS YEAR TO DATE   $43,782.20
+[scanned 2026-06-24 09:56 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | Doc_2007.pdf | 1 page(s) ===
+PRAIRIE OAK APPRAISALS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 418 Rue Saint-Exemple, Kingston, ON   (house)
+Report date: June 3, 2026
+Contract purchase price: $680,000
+OPINION OF MARKET VALUE: $681,000
+Direct comparison approach. Comparables:
+  946 Rue des Peupliers   $662,000   adj +2.7%
+  723 Harbour View Road   $662,000   adj -1.7%
+  400 Boulevard Fontaine   $662,000   adj -3.3%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+  Appraiser recommends a further foundation inspection by a qualified engineer. Value reported as-is.
+Appraiser: L. Whitfield, CRA   Lic. 71748
+[scanned 2026-06-24 09:57 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | scan_6776.pdf | 3 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: MARCUS DUBREUIL
+Statement period: 2026/03/14 to 2026/06/18
+Opening balance: $103,893.40
+
+2026/03/19      ONLINE PURCHASE                             $-310.61       $103,582.79
+2026/03/20      FUEL                                         $-83.59       $103,499.20
+2026/03/27      PAYROLL DEP FAIRWATER                      $2,945.77       $106,444.97
+2026/03/31      INSURANCE PREM                              $-397.47       $106,047.50
+2026/04/01      RENT PAYMENT                                $-153.46       $105,894.04
+2026/04/08      INSURANCE PREM                              $-296.93       $105,597.11
+2026/04/10      PAYROLL DEP FAIRWATER                      $2,945.77       $108,542.88
+2026/04/10      GROCERY STORE                               $-463.69       $108,079.19
+2026/04/10      INSURANCE PREM                              $-420.69       $107,658.50
+2026/04/14      RESTAURANT                                  $-447.19       $107,211.31
+2026/04/16      TELECOM BILL                                $-462.92       $106,748.39
+2026/04/18      FUEL                                        $-463.68       $106,284.71
+2026/04/18      E-TRANSFER RECEIVED A. MORIN                 $196.46       $106,481.17
+2026/04/20      RESTAURANT                                  $-161.71       $106,319.46
+2026/04/20      E-TRANSFER RECEIVED A. MORIN                 $347.17       $106,666.63
+2026/04/24      PAYROLL DEP FAIRWATER                      $2,945.77       $109,612.40
+2026/05/02      FUEL                                        $-167.78       $109,444.62
+2026/05/08      PAYROLL DEP FAIRWATER                      $2,945.77       $112,390.39
+2026/05/11      CASH DEPOSIT BRANCH                       $21,250.00       $133,640.39
+2026/05/22      PAYROLL DEP FAIRWATER                      $2,945.77       $136,586.16
+2026/05/24      RENT PAYMENT                                $-476.14       $136,110.02
+2026/05/26      INSURANCE PREM                              $-303.89       $135,806.13
+2026/06/03      RENT PAYMENT                                $-177.56       $135,628.57
+2026/06/04      RESTAURANT                                  $-108.61       $135,519.96
+2026/06/05      PAYROLL DEP FAIRWATER                      $2,945.77       $138,465.73
+2026/06/16      FUEL                                         $-65.72       $138,400.01
+2026/06/18      ONLINE PURCHASE                             $-265.21       $138,134.80
+
+Closing balance: $138,134.80
+[scanned 2026-06-24 09:33 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | upload_7697.pdf | 3 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: MARCUS DUBREUIL    Report date: June 21, 2026
+Credit score: 708
+Creditor                  Type               Limit         Balance         Pmt  Status
+Government Student Loan   student                -       $5,600.00     $170.00  Open
+AutoFinance Canada        car                    -       $5,400.00      $99.00  Open
+Vehicle Loan              car                    -           $0.00     $861.00  CLOSED - paid in full
+Inquiries (12 mo): 2
+[scanned 2026-06-24 09:52 - page 1 of 3 - CONFIDENTIAL]

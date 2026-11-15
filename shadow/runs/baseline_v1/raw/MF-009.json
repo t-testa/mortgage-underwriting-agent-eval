@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-009",
+ "decisions": [
+  {
+   "condition_id": "MF-009-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "Current pay statement (annualizes to about $101,000) and 2025 NOA ($104,030) support the stated $100,500."
+  },
+  {
+   "condition_id": "MF-009-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-04",
+   "rationale": "The $48,500 deposit is explained by a gift letter from the applicant's grandfather stating no repayment, and the $114,200 balance covers the $98,000 down payment and closing costs."
+  },
+  {
+   "condition_id": "MF-009-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-06",
+   "rationale": "Valeur Reference Inc. is on the panel, report dated 2026-08-26 is recent, and the $494,000 value supports the $490,000 price."
+  },
+  {
+   "condition_id": "MF-009-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "DTI-02",
+   "rationale": "Credit score of 594 is below the 600 minimum, although GDS (about 31.1%) and TDS (about 34.5%) are within limits."
+  }
+ ]
+}

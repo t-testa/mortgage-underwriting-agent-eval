@@ -1,0 +1,118 @@
+FILE MF-020  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-06-23
+Applicant: Elena Pelletier
+Property: 665 Quarry Street, Sherbrooke, QC (house)
+Purchase price: $340,000   Down payment: $34,000
+Stated annual income: $131,500   Employer (stated): Lumen Retail Group
+
+CONDITIONS TO DECIDE:
+  MF-020-C1 [income_proof] Provide proof of income supporting the stated annual income of $131,500.
+  MF-020-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-020-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-020-C4 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | Doc_0088.pdf | 3 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $10,958.33
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $3,237.85
+Property tax (monthly): $354.38
+Heating (monthly): $115.28
+Condo fees (monthly): N/A
+Liabilities declared by applicant (monthly payment as stated):
+  Student Line of Credit              $70.00
+  Ridgeline Auto Credit              $337.00
+[scanned 2026-06-23 09:43 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | scan_5719.pdf | 2 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: ELENA PELLETIER    Report date: 14/06/2026
+Credit score: 789
+Creditor                  Type               Limit         Balance         Pmt  Status
+Student Line of Credit    loc           $10,000.00       $7,000.00      $70.00  Open
+Ridgeline Auto Credit     car                    -      $19,900.00     $337.00  Open
+Home Equity Line          loc           $48,000.00      $36,700.00     $367.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-06-23 09:53 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | IMG_6020.pdf | 1 page(s) ===
+PRAIRIE OAK APPRAISALS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 665 Quarry Street, Sherbrooke, QC   (house)
+Report date: 10-May-2026
+Contract purchase price: $340,000
+OPINION OF MARKET VALUE: $343,000
+Direct comparison approach. Comparables:
+  441 Boulevard Fontaine   $348,000   adj +2.1%
+  673 Quarry Street   $345,000   adj -3.1%
+  456 Boulevard Fontaine   $354,000   adj -2.3%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+  Appraiser recommends a further foundation inspection by a qualified engineer. Value reported as-is.
+Appraiser: P. Girouard, CRA   Lic. 94030
+[scanned 2026-06-23 09:31 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | Doc_0420.pdf | 1 page(s) ===
+LUMEN RETAIL GROUP
+EARNINGS STATEMENT
+Employee: PELLETIER, Elena   ID: 63522
+Pay frequency: Semi-monthly
+Pay period: 18/05/2026 - June 1, 2026
+Pay date: June 3, 2026
+Regular earnings   $4,388.04
+GROSS THIS PERIOD      $4,388.04
+Deductions (tax, CPP/QPP, EI, pension)  $1,263.97
+NET PAY               $3,124.07
+GROSS YEAR TO DATE   $43,880.40
+[scanned 2026-06-23 09:38 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | upload_8379.pdf | 3 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: ELENA PELLETIER
+Statement period: March 6, 2026 to June 18, 2026
+Opening balance: $12,803.05
+
+March 8, 2026   FUEL                                        $-224.67        $12,578.38
+March 16, 2026  RENT PAYMENT                                $-283.45        $12,294.93
+March 17, 2026  PHARMACY                                    $-400.18        $11,894.75
+March 19, 2026  PAYROLL DEP LUMEN                          $3,742.69        $15,637.44
+March 19, 2026  RESTAURANT                                   $-69.18        $15,568.26
+March 25, 2026  TRANSIT PASS                                $-451.06        $15,117.20
+March 30, 2026  PHARMACY                                     $-29.65        $15,087.55
+April 2, 2026   PAYROLL DEP LUMEN                          $3,742.69        $18,830.24
+April 16, 2026  PAYROLL DEP LUMEN                          $3,742.69        $22,572.93
+April 17, 2026  FUEL                                        $-144.43        $22,428.50
+April 17, 2026  E-TRANSFER RECEIVED T. LEE                   $693.66        $23,122.16
+April 19, 2026  INSURANCE PREM                              $-100.83        $23,021.33
+April 22, 2026  TRANSIT PASS                                 $-26.56        $22,994.77
+April 22, 2026  ONLINE PURCHASE                             $-283.56        $22,711.21
+April 24, 2026  RENT PAYMENT                                $-189.75        $22,521.46
+April 30, 2026  PAYROLL DEP LUMEN                          $3,742.69        $26,264.15
+May 2, 2026     RENT PAYMENT                                $-383.84        $25,880.31
+May 14, 2026    PAYROLL DEP LUMEN                          $3,742.69        $29,623.00
+May 28, 2026    PAYROLL DEP LUMEN                          $3,742.69        $33,365.69
+May 29, 2026    GROCERY STORE                               $-498.73        $32,866.96
+June 7, 2026    GROCERY STORE                                $-59.46        $32,807.50
+June 11, 2026   PAYROLL DEP LUMEN                          $3,742.69        $36,550.19
+June 14, 2026   TELECOM BILL                                $-445.31        $36,104.88
+June 18, 2026   INSURANCE PREM                              $-270.57        $35,834.31
+
+Closing balance: $35,834.31
+[scanned 2026-06-23 09:53 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | upload_0267.pdf | 3 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: May 20, 2026
+SIN/NAS: XXX XXX 259
+Line 15000 Total income:   $101,532.84
+Line 23600 Net income:     $99,257.05
+Balance: $-632.40
+[scanned 2026-06-23 09:15 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | scan_5598.pdf | 2 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 665 Quarry Street, Sherbrooke, QC
+Purchase price: $340,000   Closing date: August 24, 2026
+Deposit paid: $6,800
+[scanned 2026-06-23 09:57 - page 1 of 2 - CONFIDENTIAL]

@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-030",
+ "decisions": [
+  {
+   "condition_id": "MF-030-C1",
+   "decision": "satisfied",
+   "rule_cited": "AR-01",
+   "rationale": "Biweekly 2,971.33 x 26 = 77,254.58 vs stated 80,500; shortfall 4.03% (<=5%); paystub 2026-08-25 is 7 days old; 2025 NOA on file (75,395.80)."
+  },
+  {
+   "condition_id": "MF-030-C2",
+   "decision": "satisfied",
+   "rule_cited": "AR-08",
+   "rationale": "Summit Property Valuations on panel; report 2026/08/21 is 11 days old; value 724,000 >= price 720,000."
+  },
+  {
+   "condition_id": "MF-030-C3",
+   "decision": "needs_review",
+   "rule_cited": "AR-11",
+   "rationale": "Letter 2026/08/18 (14 days old) shows continuous fixed-term contract since 2024/10/01 = 23 months to 2026-09-01, in the 12 to under 24 month band; needs_review."
+  },
+  {
+   "condition_id": "MF-030-C4",
+   "decision": "satisfied",
+   "rule_cited": "AR-13",
+   "rationale": "Housing = 1,315.37+458.57+166.93 = 1,940.87; GDS 1,940.87/6,708.33 = 28.93%; TDS (1,940.87+604)/6,708.33 = 37.94%; score 778."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-038",
+ "decisions": [
+  {
+   "condition_id": "MF-038-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "NOA 2025 ($107,721), letter ($107,520) and pay stub support the stated $109,500."
+  },
+  {
+   "condition_id": "MF-038-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "DP-03",
+   "rationale": "An unexplained $10,000 cash deposit on 3 June is undocumented, and without it funds do not comfortably cover the down payment plus closing costs."
+  },
+  {
+   "condition_id": "MF-038-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-05",
+   "rationale": "Appraisal value is subject to roof replacement completion and no completion certificate is on file, so the condition is not cleared."
+  },
+  {
+   "condition_id": "MF-038-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Recent signed letterhead letter confirms permanent full-time employment since 2017, consistent with stated income."
+  }
+ ]
+}

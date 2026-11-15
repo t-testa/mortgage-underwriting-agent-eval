@@ -1,0 +1,6 @@
+{"file_id":"MF-046","decisions":[
+{"condition_id":"MF-046-C1","decision":"not_satisfied","rule_cited":"INC-03","rationale":"Paystub 2026-06-21 is 16 days old; 9,775.91 x 12 = 117,310.92 vs stated 148,000, shortfall 20.7%. 2025 NOA 114,558.68 is a 22.6% shortfall. Over 15%, AR-01 not_satisfied."},
+{"condition_id":"MF-046-C2","decision":"satisfied","rule_cited":"APP-02","rationale":"Meridian is on panel; report 2026-05-14 is 54 days old; value 617,000 vs price 625,000 is a 1.28% shortfall (<=2%); cosmetic comments only."},
+{"condition_id":"MF-046-C3","decision":"satisfied","rule_cited":"EMP-03","rationale":"Letter 2026-06-25 is 12 days old, letterhead and signed, permanent full-time, probation completed. Salary 147,806.04 vs stated 148,000 is 0.1% below."},
+{"condition_id":"MF-046-C4","decision":"satisfied","rule_cited":"DTI-01","rationale":"Using worksheet income 12,333.33: housing 2,626.05+492.77+98.34+50% x 340.59 (170.30) = 3,387.46; GDS 27.47%. Debts: card 15,310 x 3% = 459.30 + HELOC 19,700 x 3% = 591.00; TDS 4,437.76/12,333.33 = 35.98%. (Income shortfall is dealt with under C1.)"}
+]}

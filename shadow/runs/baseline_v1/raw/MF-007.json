@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-007",
+ "decisions": [
+  {
+   "condition_id": "MF-007-C1",
+   "decision": "needs_review",
+   "rule_cited": "INC-06",
+   "rationale": "The pay statement is illegible and the applicant has only about three months with this employer (NOA reflects a prior period), so income support is not clearly established despite the $89,546 NOA."
+  },
+  {
+   "condition_id": "MF-007-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "DP-04",
+   "rationale": "The $20,400 deposit from the applicant's mother is covered by a gift letter stating the borrower will repay it, so it is a loan and not an acceptable gift."
+  },
+  {
+   "condition_id": "MF-007-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-06",
+   "rationale": "Evalu-Rapide Plus is not on the approved appraiser panel."
+  },
+  {
+   "condition_id": "MF-007-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "EMP-04",
+   "rationale": "The letter states the applicant is within a six-month probationary period (start 2026-04-15) and no exception approval is on file."
+  },
+  {
+   "condition_id": "MF-007-C5",
+   "decision": "needs_review",
+   "rule_cited": "DTI-03",
+   "rationale": "GDS is about 37.4% but TDS is about 45.3%, marginally above 44%; an exception may be considered with a 714 score, and the repayable gift would add obligations."
+  }
+ ]
+}

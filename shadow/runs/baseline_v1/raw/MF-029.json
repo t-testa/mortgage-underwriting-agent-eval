@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-029",
+ "decisions": [
+  {
+   "condition_id": "MF-029-C1",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing balance of $110,321 with about 3 months of history and only payroll and small deposits covers the $97,500 down payment and closing costs."
+  },
+  {
+   "condition_id": "MF-029-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Lakeshore Appraisal Group valued the property at $366,000, below the $390,000 purchase price."
+  },
+  {
+   "condition_id": "MF-029-C3",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "The 2026-06-10 letter on letterhead, signed by HR, confirms permanent full-time employment since 2018 with salary consistent with the application."
+  },
+  {
+   "condition_id": "MF-029-C4",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS is about 31.8% and TDS about 37.3%, under the limits, with an 816 credit score."
+  }
+ ]
+}

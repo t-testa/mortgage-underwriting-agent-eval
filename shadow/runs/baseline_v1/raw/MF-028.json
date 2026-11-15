@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-028",
+ "decisions": [
+  {
+   "condition_id": "MF-028-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-05",
+   "rationale": "The 2025 NOA shows $99,918 and the base plus commission stub annualizes to $100,500, supporting the stated income with a commission history."
+  },
+  {
+   "condition_id": "MF-028-C2",
+   "decision": "needs_review",
+   "rule_cited": "DP-03",
+   "rationale": "A $10,610 e-transfer on 2026-09-04 is explained by a vehicle bill of sale dated September 14, a date mismatch, and leaves thin margin for closing costs without it."
+  },
+  {
+   "condition_id": "MF-028-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Valeur Reference Inc. (on panel) valued the property at $734,000 against a $695,000 price in a report dated 2026-08-25."
+  },
+  {
+   "condition_id": "MF-028-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "The 2026-09-02 letter on letterhead, signed by HR, confirms permanent full-time employment since 2021 with salary consistent with the application."
+  },
+  {
+   "condition_id": "MF-028-C5",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS is about 31.7% and TDS about 38.4% using the declared and bureau-matched liabilities, under the limits, with a 735 credit score."
+  }
+ ]
+}

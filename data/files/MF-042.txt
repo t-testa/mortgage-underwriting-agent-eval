@@ -1,0 +1,82 @@
+FILE MF-042  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-08-02
+Applicant: Hannah Gagnon
+Property: 854 Birchwood Crescent, Longueuil, QC (house)
+Purchase price: $755,000   Down payment: $60,400
+Stated annual income: $83,000   Employer (stated): Aurelia Software Ltd.
+
+CONDITIONS TO DECIDE:
+  MF-042-C1 [income_proof] Provide proof of income supporting the stated annual income of $83,000.
+  MF-042-C2 [employment] Confirm current employment.
+  MF-042-C3 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | Doc_9163.pdf | 2 page(s) ===
+AURELIA SOFTWARE LTD.
+EARNINGS STATEMENT
+Employee: GAGNON, Hannah   ID: 49150
+Pay frequency: Semi-monthly
+Pay period: July 11, 2026 - 25/07/2026
+Pay date: 28/07/2026
+Regular earnings   $3,575.31
+GROSS THIS PERIOD      $3,575.31
+Deductions (tax, CPP/QPP, EI, pension)  $910.39
+NET PAY               $2,664.92
+GROSS YEAR TO DATE   $50,054.34
+[scanned 2026-08-02 09:34 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | scan_3407.pdf | 2 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 2026/04/04
+SIN/NAS: XXX XXX 510
+Line 15000 Total income:   $87,369.32
+Line 23600 Net income:     $82,264.55
+Balance: $-1,684.35
+[scanned 2026-08-02 09:40 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | upload_1789.pdf | 3 page(s) ===
+FAX COVER SHEET
+To: Mortgage Ops   Pages: 3   Re: documents as requested
+[handwritten: sorry for the blurry pages!]
+[scanned 2026-08-02 09:15 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | final_v2_6118.pdf | 1 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 854 Birchwood Crescent, Longueuil, QC
+Purchase price: $755,000   Closing date: 2026/09/26
+Deposit paid: $15,100
+[scanned 2026-08-02 09:29 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | Doc_8017.pdf | 1 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: HANNAH GAGNON    Report date: July 28, 2026
+Credit score: 759
+Creditor                  Type               Limit         Balance         Pmt  Status
+Government Student Loan   student                -       $7,100.00     $295.00  Open
+Maple Visa Gold           card          $19,600.00      $13,850.00     $277.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-08-02 09:26 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | final_v2_3515.pdf | 3 page(s) ===
+[Letterhead: Aurelia Software Ltd. | 786 Rue Saint-Exemple | tel 819-555-0193]
+16-Jul-2026
+To whom it may concern,
+This c0nflrms that Hannah Gagn0n is employed by Aurclla Softwore Ltd. as Technician.
+Start date: 02-Apr-2025. Employment status: fixed-term contract, continuously renewed with us since 02-Apr-2025.
+Current annual base salary: $86,196.90.
+Sincerely,
+/s/ Roj Bouchard, HR Manager
+[scanned 2026-08-02 09:22 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | Doc_9025.pdf | 2 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $6,916.67
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $1,540.11
+Property tax (monthly): $251.90
+Heating (monthly): $134.20
+Condo fees (monthly): N/A
+Liabilities declared by applicant (monthly payment as stated):
+  Government Student Loan            $295.00
+  Maple Visa Gold                    $277.00
+[scanned 2026-08-02 09:19 - page 1 of 2 - CONFIDENTIAL]

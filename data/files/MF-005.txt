@@ -1,0 +1,141 @@
+FILE MF-005  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-10-25
+Applicant: Mei Desrosiers
+Property: 907 Chemin des Cedres, Ottawa, ON (house)
+Purchase price: $455,000   Down payment: $36,400
+Stated annual income: $108,000   Employer (stated): Cedar Ridge Municipal Services
+
+CONDITIONS TO DECIDE:
+  MF-005-C1 [income_proof] Provide proof of income supporting the stated annual income of $108,000.
+  MF-005-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-005-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-005-C4 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | IMG_2303.pdf | 2 page(s) ===
+GIFT LETTER
+I, Priya Desrosiers, grandmother of Mei Desrosiers, am giving the sum of $11,400.00 on September 18, 2026 towards the purchase of the property at 907 Chemin des Cedres, Ottawa, ON.
+This is o gift and does not have to be repaid.
+Signature: /s/ Priya Desrosiers
+Donor phone: 613-555-0134
+[scanned 2026-10-25 09:32 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | Doc_2417.pdf | 2 page(s) ===
+DRIVER LICENCE (copy, masked)
+Name: Mei Desrosiers
+Licence no: XXXX-XXXX-6132
+[scanned 2026-10-25 09:29 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | Doc_1535.pdf | 1 page(s) ===
+CEDAR RIDGE MUNICIPAL SERVICES
+EARNINGS STATEMENT
+Employee: DESROSIERS, Mei   ID: 74459
+Pay frequency: Bi-weekly
+Pay period: 2026-09-24 - 2026-10-07
+Pay date: 2026-10-09
+Regular earnings   $4,271.90
+GROSS THIS PERIOD      $4,271.90
+Deductions (tax, CPP/QPP, EI, pension)  $1,248.64
+NET PAY               $3,023.26
+GROSS YEAR TO DATE   $85,438.00
+[scanned 2026-10-25 09:58 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | Doc_5240.pdf | 1 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $9,000.00
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $3,846.91
+Property tax (monthly): $451.65
+Heating (monthly): $125.19
+Condo fees (monthly): N/A
+Liabilities declared by applicant (monthly payment as stated):
+  Travel Rewards Visa                 $56.00
+  Student Loan (Provincial)           $97.00
+  Home Equity Line                    $25.00
+[scanned 2026-10-25 09:23 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | final_v2_1495.pdf | 2 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: MEI DESROSIERS    Report date: 17-Oct-2026
+Credit score: 715
+Creditor                  Type               Limit         Balance         Pmt  Status
+Travel Rewards Visa       card           $6,900.00       $2,800.00      $56.00  Open
+Student Loan (Provincial) student                -       $5,700.00      $97.00  Open
+Home Equity Line          loc            $5,000.00       $2,000.00      $25.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-10-25 09:14 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | final_v2_4417.pdf | 3 page(s) ===
+FAX COVER SHEET
+To: Mortgage Ops   Pages: 3   Re: documents as requested
+[handwritten: sorry for the blurry poges!]
+[scanned 2026-10-25 09:48 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | scan_7948.pdf | 3 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: MEI DESROSIERS
+Statement period: July 7, 2026 to October 13, 2026
+Opening balance: $25,253.21
+
+July 8, 2026    TRANSIT PASS                                $-240.88        $25,012.33
+July 14, 2026   PAYROLL DEP CEDAR RIDGE                    $3,073.85        $28,086.18
+July 19, 2026   TRANSIT PASS                                $-328.06        $27,758.12
+July 26, 2026   INSURANCE PREM                              $-230.42        $27,527.70
+July 28, 2026   PAYROLL DEP CEDAR RIDGE                    $3,073.85        $30,601.55
+July 29, 2026   TELECOM BILL                                $-286.02        $30,315.53
+August 11, 2026 PAYROLL DEP CEDAR RIDGE                    $3,073.85        $33,389.38
+August 12, 2026 RENT PAYMENT                                $-255.92        $33,133.46
+August 16, 2026 E-TRANSFER RECEIVED T. LEE                   $784.28        $33,917.74
+August 17, 2026 TRANSIT PASS                                $-508.74        $33,409.00
+August 21, 2026 PHARMACY                                     $-26.94        $33,382.06
+August 22, 2026 TRANSIT PASS                                $-359.92        $33,022.14
+August 25, 2026 PAYROLL DEP CEDAR RIDGE                    $3,073.85        $36,095.99
+September 3, 2026FUEL                                        $-374.69        $35,721.30
+September 6, 2026RESTAURANT                                  $-344.05        $35,377.25
+September 8, 2026PAYROLL DEP CEDAR RIDGE                    $3,073.85        $38,451.10
+September 12, 2026PHARMACY                                    $-316.95        $38,134.15
+September 15, 2026TRANSIT PASS                                $-319.56        $37,814.59
+September 15, 2026FUEL                                         $-42.70        $37,771.89
+September 22, 2026PAYROLL DEP CEDAR RIDGE                    $3,073.85        $40,845.74
+September 26, 2026E-TRANSFER RECEIVED REFUND                   $607.95        $41,453.69
+September 27, 2026E-TRANSFER RECEIVED PRIYA DESROSIERS      $11,400.00        $52,853.69
+September 29, 2026FUEL                                        $-400.03        $52,453.66
+October 1, 2026 RESTAURANT                                  $-443.47        $52,010.19
+October 6, 2026 PAYROLL DEP CEDAR RIDGE                    $3,073.85        $55,084.04
+October 9, 2026 PHARMACY                                    $-310.87        $54,773.17
+October 9, 2026 E-TRANSFER RECEIVED REFUND                   $841.35        $55,614.52
+
+Closing balance: $55,614.52
+[scanned 2026-10-25 09:25 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | IMG_5871.pdf | 3 page(s) ===
+SUMMIT PROPERTY VALUATIONS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 907 Chemin des Cedres, Ottawa, ON   (house)
+Report date: August 23, 2026
+Contract purchase price: $455,000
+OPINION OF MARKET VALUE: $457,000
+Direct comparison approach. Comparables:
+  790 Harbour View Road   $471,000   adj -1.1%
+  664 Boulevard Fontaine   $441,000   adj +2.2%
+  458 Rue des Peupliers   $450,000   adj -2.7%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: R. Castonguay, AACI   Lic. 76629
+[scanned 2026-10-25 09:27 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | final_v2_2380.pdf | 3 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 907 Chemin des Cedres, Ottawa, ON
+Purchase price: $455,000   Closing date: December 23, 2026
+Deposit paid: $9,100
+[scanned 2026-10-25 09:47 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 10 | scan_8620.pdf | 2 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: April 9, 2026
+SIN/NAS: XXX XXX 628
+Line 15000 Total income:   $108,637.96
+Line 23600 Net income:     $104,989.36
+Balance: $740.98
+[scanned 2026-10-25 09:33 - page 1 of 2 - CONFIDENTIAL]

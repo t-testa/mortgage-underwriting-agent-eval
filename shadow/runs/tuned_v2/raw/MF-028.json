@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-028",
+ "decisions": [
+  {
+   "condition_id": "MF-028-C1",
+   "decision": "needs_review",
+   "rule_cited": "AR-02",
+   "rationale": "Commission income needs two NOAs; only the 2025 NOA (99,918.38) is on file, so needs_review (shortfall vs stated 100,500 would be 0.58%; paystub 3,865.39 x 26 = 100,500)."
+  },
+  {
+   "condition_id": "MF-028-C2",
+   "decision": "satisfied",
+   "rule_cited": "AR-06",
+   "rationale": "Required = 104,200 + 10,425 = 114,625; closing 125,169.39; history Jul 1 to Oct 4 = 95 days; 10,610 e-transfer from Dubreuil explained by bill of sale for 10,610 (note bill dated Sep 14 vs deposit Sep 4); other deposit 716.29."
+  },
+  {
+   "condition_id": "MF-028-C3",
+   "decision": "satisfied",
+   "rule_cited": "AR-08",
+   "rationale": "Valeur Reference Inc. on panel; report 2026-08-25 is 46 days old; value 734,000 >= price 695,000."
+  },
+  {
+   "condition_id": "MF-028-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-04",
+   "rationale": "Employment letter dated 2026-09-02 is 38 days before review date 2026-10-10, over 30 days (no grace)."
+  },
+  {
+   "condition_id": "MF-028-C5",
+   "decision": "satisfied",
+   "rule_cited": "AR-13",
+   "rationale": "Housing = 1,879.63+484.77+119.91+0.5x347.47 = 2,658.05; GDS 2,658.05/8,375 = 31.74%; other debts 214+277+3%x6,800 (204) = 695; TDS 3,353.05/8,375 = 40.04%; score 735."
+  }
+ ]
+}

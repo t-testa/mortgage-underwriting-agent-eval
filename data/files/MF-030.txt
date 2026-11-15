@@ -1,0 +1,97 @@
+FILE MF-030  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-09-01
+Applicant: Tyler Haddad
+Property: 604 Quarry Street, Gatineau, QC (house)
+Purchase price: $720,000   Down payment: $57,600
+Stated annual income: $80,500   Employer (stated): Northgate Logistics Inc.
+
+CONDITIONS TO DECIDE:
+  MF-030-C1 [income_proof] Provide proof of income supporting the stated annual income of $80,500.
+  MF-030-C2 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-030-C3 [employment] Confirm current employment.
+  MF-030-C4 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | final_v2_2382.pdf | 2 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 2026-05-11
+SIN/NAS: XXX XXX 133
+Line 15000 Total income:   $75,395.80
+Line 23600 Net income:     $74,154.01
+Balance: $-1,458.75
+[scanned 2026-09-01 09:43 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | Doc_4105.pdf | 2 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: TYLER HADDAD    Report date: 16/08/2026
+Credit score: 778
+Creditor                  Type               Limit         Balance         Pmt  Status
+AutoFinance Canada        car                    -      $22,300.00     $604.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-09-01 09:57 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | IMG_9003.pdf | 3 page(s) ===
+SUMMIT PROPERTY VALUATIONS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 604 Quarry Street, Gatineau, QC   (house)
+Report date: 2026/08/21
+Contract purchase price: $720,000
+OPINION OF MARKET VALUE: $724,000
+Direct comparison approach. Comparables:
+  856 Birchwood Crescent   $706,000   adj +3.6%
+  182 Harbour View Road   $729,000   adj +4.5%
+  756 Quarry Street   $747,000   adj -2.8%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: D. Lefebvre, CRA   Lic. 16250
+[scanned 2026-09-01 09:47 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | IMG_5037.pdf | 2 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 604 Quarry Street, Gatineau, QC
+Purchase price: $720,000   Closing date: November 6, 2026
+Deposit paid: $14,400
+[scanned 2026-09-01 09:11 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | final_v2_9773.pdf | 1 page(s) ===
+NORTHGATE LOGISTICS INC.
+EARNINGS STATEMENT
+Employee: HADDAD, Tyler   ID: 67890
+Pay frequency: Bi-weekly
+Pay period: 08-Aug-2026 - 21-Aug-2026
+Pay date: 25-Aug-2026
+Regular earnings   $2,971.33
+GROSS THIS PERIOD      $2,971.33
+Deductions (tax, CPP/QPP, EI, pension)  $812.97
+NET PAY               $2,158.36
+GROSS YEAR TO DATE   $50,512.61
+[scanned 2026-09-01 09:24 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | IMG_6093.pdf | 3 page(s) ===
+DRIVER LICENCE (copy, masked)
+Name: Tyler Haddad
+Licence no: XXXX-XXXX-7566
+[scanned 2026-09-01 09:20 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | upload_6978.pdf | 2 page(s) ===
+[Letterhead: Northgate Logistics Inc. | 628 Harbour View Road | tel 819-555-0199]
+2026/08/18
+To whom it may concern,
+This confirms that Tyler Haddad is employed by Northgote Logistics Inc. as Senior Analyst.
+Start date: 2024/10/01. Employment status: fixed-term contract, continuously renewed with us since 2024/10/01.
+Current annual base salary: $84,377.44.
+Sincerely,
+/s/ Maya Dubreuil, HR Managcr
+[scanned 2026-09-01 09:57 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | final_v2_0408.pdf | 3 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $6,708.33
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $1,315.37
+Property tax (monthly): $458.57
+Heating (monthly): $166.93
+Condo fees (monthly): N/A
+Liabilities declared by applicant (monthly payment as stated):
+  AutoFinance Canada                 $604.00
+[scanned 2026-09-01 09:59 - page 1 of 3 - CONFIDENTIAL]

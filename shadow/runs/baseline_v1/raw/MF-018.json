@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-018",
+ "decisions": [
+  {
+   "condition_id": "MF-018-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "2025 NOA total income of $92,782, pay stub run-rate of $90,500 and letter base salary of $88,984 reasonably support the stated $90,500."
+  },
+  {
+   "condition_id": "MF-018-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "DP-03",
+   "rationale": "A $15,250 cash deposit on 27 May is unexplained, and without it the balance of about $31,325 is below the $32,000 down payment."
+  },
+  {
+   "condition_id": "MF-018-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Panel appraiser Lakeshore Appraisal Group values the property at $403,000 versus $400,000 price, report dated 26 June 2026."
+  },
+  {
+   "condition_id": "MF-018-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Letter dated 31 May 2026 on letterhead, signed by HR, confirms permanent full-time employment, consistent with application."
+  },
+  {
+   "condition_id": "MF-018-C5",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS is about 30% and TDS about 37-39% including the Maple Visa omitted from the worksheet, within 39%/44%, with credit score 745."
+  }
+ ]
+}

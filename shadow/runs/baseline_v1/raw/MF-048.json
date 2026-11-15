@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-048",
+ "decisions": [
+  {
+   "condition_id": "MF-048-C1",
+   "decision": "not_satisfied",
+   "rule_cited": "INC-02",
+   "rationale": "No NOA or T4 for the most recent tax year is on file; the pay stub and letter alone do not meet the required document for a salaried applicant."
+  },
+  {
+   "condition_id": "MF-048-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing balance $172,094 with a stable history since March covers the $148,000 down payment and closing costs; the $3,360 e-transfer is small relative to the balance."
+  },
+  {
+   "condition_id": "MF-048-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Ironbridge Valuation Ltd. (on panel), dated 2026-05-29, values at $743,000 against a $740,000 price with no conditions."
+  },
+  {
+   "condition_id": "MF-048-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Permanent full-time since 2017, probation completed, on letterhead, signed, dated 2026-06-09."
+  },
+  {
+   "condition_id": "MF-048-C5",
+   "decision": "needs_review",
+   "rule_cited": "DTI-03",
+   "rationale": "GDS about 37.4% and TDS about 44.4% with full condo fees marginally exceeds the 44% limit (about 40.7% if condo fees were half-counted); policy does not state the condo fee method, credit score 764 is strong."
+  }
+ ]
+}

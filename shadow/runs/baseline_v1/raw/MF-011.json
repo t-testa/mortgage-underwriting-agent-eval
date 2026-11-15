@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-011",
+ "decisions": [
+  {
+   "condition_id": "MF-011-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "2025 NOA total income of $105,424, pay stub run-rate and employer letter salary of $106,424 reasonably support the stated $106,500."
+  },
+  {
+   "condition_id": "MF-011-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-03",
+   "rationale": "Account shows about three months of history and a $74.8k balance excluding the $12,200 Bouchard transfer, which is explained by the vehicle bill of sale, covering the $59,600 down payment and closing costs."
+  },
+  {
+   "condition_id": "MF-011-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-06",
+   "rationale": "Appraisal was issued by Evalu-Rapide Plus, which is not on the approved appraiser panel."
+  },
+  {
+   "condition_id": "MF-011-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Recent letter on letterhead, signed by HR, confirms permanent full-time employment past probation, consistent with the application."
+  }
+ ]
+}

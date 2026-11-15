@@ -1,0 +1,150 @@
+FILE MF-032  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-07-26
+Applicant: Nadia Tremblay-Roy
+Property: 629 Quarry Street, Laval, QC (house)
+Purchase price: $745,000   Down payment: $149,000
+Stated annual income: $99,000   Employer (stated): Tamarack Food Distributors
+
+CONDITIONS TO DECIDE:
+  MF-032-C1 [income_proof] Provide proof of income supporting the stated annual income of $99,000.
+  MF-032-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-032-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-032-C4 [employment] Confirm current employment.
+  MF-032-C5 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | upload_4235.pdf | 1 page(s) ===
+Canada Revenue Agcncy / Agencc du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: April 15, 2026
+SIN/NAS: XXX XXX 635
+Line 15000 Total income:   $98,495.01
+Line 23600 Net income:     $95,782.38
+Balance: $-1,706.88
+[scanned 2026-07-26 09:54 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | scan_1533.pdf | 1 page(s) ===
+VALEUR REFERENCE INC.
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 629 Quarry Street, Laval, QC   (house)
+Report date: 27-Mar-2026
+Contract purchase price: $745,000
+OPINION OF MARKET VALUE: $750,000
+Direct comparison approach. Comparables:
+  64 Rue Saint-Exemple   $769,000   adj -1.5%
+  821 Alder Lane   $775,000   adj -3.4%
+  210 Quarry Street   $751,000   adj +2.7%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: S. Thornbury, AACI   Lic. 50032
+[scanned 2026-07-26 09:26 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | scan_9510.pdf | 3 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $8,250.00
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $2,537.67
+Property tax (monthly): $528.62
+Heating (monthly): $92.89
+Condo fees (monthly): N/A
+Liabilities declared by applicant (monthly payment os stated):
+  Student Loan (Provincial)          $208.00
+  Vehicle Loan                       $221.00
+[scanned 2026-07-26 09:53 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | scan_4824.pdf | 3 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: NADIA TREMBLAY-ROY    Report date: July 24, 2026
+Credit score: 693
+Creditor                  Type               Limit         Balance         Pmt  Status
+Student Loan (Provincial) student                -       $8,700.00     $208.00  Open
+Vehicle Loan              car                    -      $11,700.00     $221.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-07-26 09:21 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | Doc_4569.pdf | 2 page(s) ===
+VOID CHEQUE
+Transit 09142  Institution 002  Account ******549
+[scanned 2026-07-26 09:10 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | IMG_6167.pdf | 1 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: NADIA TREMBLAY-ROY
+Statement period: 27/03/2026 to 24/07/2026
+Opening balance: $123,662.27
+
+April 4, 2026   PAYROLL DEP TAMARACK                       $2,817.69       $126,479.96
+April 7, 2026   RENT PAYMENT                                 $-77.39       $126,402.57
+15/04/2026      TRANSIT PASS                                $-465.91       $125,936.66
+18/04/2026      PAYROLL DEP TAMARACK                       $2,817.69       $128,754.35
+19/04/2026      PHARMACY                                    $-486.38       $128,267.97
+29/04/2026      TELECOM BILL                                 $-30.22       $128,237.75
+May 2, 2026     PAYROLL DEP TAMARACK                       $2,817.69       $131,055.44
+May 7, 2026     ONLINE PURCHASE                             $-433.69       $130,621.75
+May 12, 2026    GROCERY STORE                               $-144.22       $130,477.53
+May 12, 2026    PHARMACY                                    $-515.98       $129,961.55
+14/05/2026      GROCERY STORE                               $-227.32       $129,734.23
+16/05/2026      PAYROLL DEP TAMARACK                       $2,817.69       $132,551.92
+25/05/2026      FUEL                                        $-146.90       $132,405.02
+30/05/2026      PAYROLL DEP TAMARACK                       $2,817.69       $135,222.71
+June 5, 2026    TRANSIT PASS                                $-332.79       $134,889.92
+June 9, 2026    INSURANCE PREM                              $-515.68       $134,374.24
+13/06/2026      PAYROLL DEP TAMARACK                       $2,817.69       $137,191.93
+16/06/2026      CASH DEPOSIT BRANCH                       $31,080.00       $168,271.93
+19/06/2026      GROCERY STORE                               $-516.92       $167,755.01
+25/06/2026      RENT PAYMENT                                $-487.32       $167,267.69
+27/06/2026      PAYROLL DEP TAMARACK                       $2,817.69       $170,085.38
+July 1, 2026    E-TRANSFER RECEIVED REFUND                   $817.13       $170,902.51
+July 11, 2026   PAYROLL DEP TAMARACK                       $2,817.69       $173,720.20
+23/07/2026      FUEL                                        $-221.20       $173,499.00
+
+Closing balance: $173,499.00
+[scanned 2026-07-26 09:52 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | scan_1954.pdf | 2 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 629 Quarry Street, Laval, QC
+Purchase price: $745,000   Closing date: September 6, 2026
+Deposit paid: $14,900
+[scanned 2026-07-26 09:55 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | Doc_6606.pdf | 3 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2024      Date issued: 2025-03-06
+SIN/NAS: XXX XXX 604
+Line 15000 Total income:   $99,928.75
+Line 23600 Net income:     $96,339.34
+Balance: $-332.87
+[scanned 2026-07-26 09:34 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | IMG_4659.pdf | 1 page(s) ===
+TAMARACK FOOD DISTRIBUTORS
+EARNINGS STATEMENT
+Employee: TREMBLAY-ROY, Nadia   ID: 98407
+Pay frequency: Bi-weekly
+Pay period: 2026/07/07 - 2026/07/20
+Pay date: 2026/07/22
+Base salary        $2,715.38
+Commission              $1,092.31
+GROSS THIS PERIOD      $3,807.69
+Deductions (tax, CPP/QPP, EI, pension)  $1,079.32
+NET PAY               $2,728.37
+GROSS YEAR TO DATE   $57,115.35
+[scanned 2026-07-26 09:23 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 10 | final_v2_6516.pdf | 2 page(s) ===
+[Letterhead: Tamarack Food Distributors | 700 Harbour View Road | tel 819-555-0137]
+2026-07-20
+To whom it may concern,
+This confirms that Nadia Tremblay-Roy is employed by Tamarack Food Distributors as Account Manager.
+Start date: 2025-02-24. Employment status: fixed-term contract, continuously renewed with us since 2025-02-24.
+Current annual base salary: $96,176.40.
+Sincerely,
+/s/ Priya Gagnon, HR Manager
+[scanned 2026-07-26 09:59 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 11 | IMG_6914.pdf | 2 page(s) ===
+FAX COVER SHEET
+To: Mortgage Ops   Pages: 3   Re: documents as requested
+[handwritten: sorry for the blurry pages!]
+[scanned 2026-07-26 09:35 - page 1 of 2 - CONFIDENTIAL]

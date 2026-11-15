@@ -1,0 +1,112 @@
+FILE MF-038  |  REVISION DES CONDITIONS DE SOUSCRIPTION
+Date de revision: 2026-07-20
+Demandeur: Mathieu Desrosiers
+Propriete: 996 Chemin des Cedres, Hamilton, ON (house)
+Prix d achat: 635 000 $   Mise de fonds: 31 800 $
+Revenu annuel declare: 109 500 $   Employeur (declare): Cedar Ridge Municipal Services
+
+CONDITIONS A DECIDER:
+  MF-038-C1 [income_proof] Fournir une preuve de revenu appuyant le revenu annuel declare de 109 500 $.
+  MF-038-C2 [down_payment_source] Confirmer la provenance et la disponibilite de la mise de fonds et des frais de cloture.
+  MF-038-C3 [appraisal] Fournir une evaluation acceptable appuyant le prix d'achat.
+  MF-038-C4 [employment] Confirmer l'emploi actuel.
+
+=== DOCUMENT 1 | upload_5022.pdf | 3 page(s) ===
+FAX COVER SHEET
+To: Mortgage Ops   Pages: 3   Re: documents as requested
+[handwritten: sorry for the blurry pages!]
+[scanned 2026-07-20 09:26 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | upload_8595.pdf | 3 page(s) ===
+Agence du revenu du Canada / Canada Revenue Agency
+AVIS DE COTISATION
+Annee d imposition: 2025      Date d emission: 2026/05/26
+SIN/NAS: XXX XXX 112
+Line 15000 Revenu total:   107 720,61 $
+Line 23600 Revenu net:     103 995,09 $
+Solde: 55,08 $
+[scanned 2026-07-20 09:22 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | IMG_8131.pdf | 3 page(s) ===
+[Papier a en-tete: Cedar Ridge Municipal Services | 302 Birchwood Crescent | tel 819-555-0166]
+2026/07/04
+A qui de droit,
+La presente confirme que Mathieu Desrosiers est employe(e) de Cedar Ridge Municipal Services a titre de chef des operations.
+Date d'entree: 2017/05/09. Statut: permanent a temps plein.
+Salaire annuel de base actuel: 107 519,68 $.
+Cordialement,
+/s/ Priya Whitlock, Gestionnaire RH
+[scanned 2026-07-20 09:40 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | scan_1541.pdf | 2 page(s) ===
+RELEVE DE COMPTE - CHEQUES
+Titulaire: MATHIEU DESROSIERS
+Periode du releve: 9 avril 2026 to 13 juillet 2026
+Solde d ouverture: 20 821,28 $
+
+14 avril 2026   TELECOM BILL                               -177,79 $       20 643,49 $
+18 avril 2026   PAYROLL DEP CEDAR RIDGE                   3 116,54 $       23 760,03 $
+19 avril 2026   TRANSIT PASS                               -123,26 $       23 636,77 $
+2 mai 2026      PAYROLL DEP CEDAR RIDGE                   3 116,54 $       26 753,31 $
+5 mai 2026      GROCERY STORE                              -496,28 $       26 257,03 $
+6 mai 2026      E-TRANSFER RECEIVED T. LEE                  104,74 $       26 361,77 $
+7 mai 2026      FUEL                                       -226,74 $       26 135,03 $
+11 mai 2026     TELECOM BILL                                -57,76 $       26 077,27 $
+13 mai 2026     RESTAURANT                                 -272,89 $       25 804,38 $
+16 mai 2026     PAYROLL DEP CEDAR RIDGE                   3 116,54 $       28 920,92 $
+23 mai 2026     UTILITY PAYMENT                            -235,85 $       28 685,07 $
+23 mai 2026     INSURANCE PREM                              -39,85 $       28 645,22 $
+30 mai 2026     PAYROLL DEP CEDAR RIDGE                   3 116,54 $       31 761,76 $
+1 juin 2026     RENT PAYMENT                               -478,48 $       31 283,28 $
+3 juin 2026     CASH DEPOSIT BRANCH                      10 000,00 $       41 283,28 $
+11 juin 2026    GROCERY STORE                              -292,02 $       40 991,26 $
+11 juin 2026    ONLINE PURCHASE                            -435,21 $       40 556,05 $
+13 juin 2026    PAYROLL DEP CEDAR RIDGE                   3 116,54 $       43 672,59 $
+16 juin 2026    FUEL                                       -497,54 $       43 175,05 $
+20 juin 2026    TELECOM BILL                               -136,73 $       43 038,32 $
+21 juin 2026    TELECOM BILL                               -380,60 $       42 657,72 $
+22 juin 2026    FUEL                                       -170,45 $       42 487,27 $
+27 juin 2026    PAYROLL DEP CEDAR RIDGE                   3 116,54 $       45 603,81 $
+1 juillet 2026  TELECOM BILL                               -395,35 $       45 208,46 $
+11 juillet 2026 PAYROLL DEP CEDAR RIDGE                   3 116,54 $       48 325,00 $
+
+Solde de cloture: 48 325,00 $
+[scanned 2026-07-20 09:46 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | upload_2975.pdf | 3 page(s) ===
+PROMESSE D'ACHAT - extrait (pages 1 et 7 de 14)
+Propriete: 996 Chemin des Cedres, Hamilton, ON
+Prix d achat: 635 000 $   Date de cloture: 2026-09-04
+Depot verse: 12 700 $
+[scanned 2026-07-20 09:15 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | scan_6352.pdf | 2 page(s) ===
+CARDINAL EVALUATION SERVICES
+RAPPORT D'EVALUATION RESIDENTIELLE - SOMMAIRE
+Propriete: 996 Chemin des Cedres, Hamilton, ON   (house)
+Date du rapport: 10 mai 2026
+Prix d achat au contrat: 635 000 $
+VALEUR MARCHANDE ESTIMEE: 639 000 $
+Methode de comparaison directe. Comparables:
+  819 Rue des Peupliers   619 000 $   adj -2.7%
+  153 Boulevard Fontaine   641 000 $   adj -4.9%
+  49 Quarry Street   642 000 $   adj -3.4%
+Commentaires:
+  Usure cosmetique mineure notee a la cuisine et au couloir; aucun impact sur la valeur.
+  La valeur est sujette a l'achevement du remplacement de la toiture; certificat d'achevement a fournir.
+Evaluateur: D. Lefebvre, CRA   Lic. 30172
+[scanned 2026-07-20 09:57 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | upload_1793.pdf | 3 page(s) ===
+CEDAR RIDGE MUNICIPAL SERVICES
+RELEVE DE PAIE
+Employe: DESROSIERS, Mathieu   ID: 12108
+Frequence: Bimensuelle
+Periode: 2026-06-30 - 2026-07-14
+Date de paie: 2026-07-18
+Gains reguliers   4 656,46 $
+BRUT PERIODE      4 656,46 $
+Retenues (impot, RPC/RRQ, AE, retraite)  1 277,69 $
+PAIE NETTE               3 378,77 $
+BRUT CUMULATIF   60 533,98 $
+[scanned 2026-07-20 09:27 - page 1 of 3 - CONFIDENTIAL]

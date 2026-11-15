@@ -1,0 +1,120 @@
+FILE MF-012  |  REVISION DES CONDITIONS DE SOUSCRIPTION
+Date de revision: 2026-06-06
+Demandeur: Genevieve Nguyen
+Propriete: 681 Boulevard Fontaine, Trois-Rivieres, QC (condo)
+Prix d achat: 865 000 $   Mise de fonds: 86 500 $
+Revenu annuel declare: 85 000 $   Employeur (declare): Cedar Ridge Municipal Services
+
+CONDITIONS A DECIDER:
+  MF-012-C1 [down_payment_source] Confirmer la provenance et la disponibilite de la mise de fonds et des frais de cloture.
+  MF-012-C2 [appraisal] Fournir une evaluation acceptable appuyant le prix d'achat.
+  MF-012-C3 [employment] Confirmer l'emploi actuel.
+  MF-012-C4 [debt_ratio] Confirmer que les ratios ABD et ATD respectent la politique.
+
+=== DOCUMENT 1 | IMG_8638.pdf | 2 page(s) ===
+PERMIS DE CONDUIRE (copie, masque)
+Nom: Genevieve Nguyen
+[scanned 2026-06-06 09:23 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | final_v2_2376.pdf | 3 page(s) ===
+PROMESSE D'ACHAT - extrait (pages 1 et 7 de 14)
+Propriete: 681 Boulevard Fontaine, Trois-Rivieres, QC
+Prix d achat: 865 000 $   Date de cloture: 1 aout 2026
+Depot verse: 17 300 $
+[scanned 2026-06-06 09:43 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | final_v2_8220.pdf | 1 page(s) ===
+RAPPORT DE CREDIT - SOMMAIRE
+Sujet: GENEVIEVE NGUYEN    Date du rapport: 27-May-2026
+Cote de credit: 716
+Creancier                 Type              Limite           Solde         Pmt  Statut
+Retail Plus Card          card         30 900,00 $     11 000,00 $    220,00 $  Ouvert
+Demandes (12 mois): 2
+[scanned 2026-06-06 09:15 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | final_v2_8683.pdf | 1 page(s) ===
+FICHE DE QUALIFICATION HYPOTHECAIRE (ebauche, ratios a confirmer)
+Revenu mensuel brut utilise: 7 083,33 $
+Type de propriete: condo
+Paiement hypothecaire de qualification (capital et interets): 1 309,86 $
+Taxes foncieres (mensuel): 555,36 $
+Chauffage (mensuel): 143,30 $
+Frais de copropriete (mensuel): 377,90 $
+Dettes declarees par le demandeur (paiement mensuel declare):
+  Retail Plus Card                  220,00 $
+[scanned 2026-06-06 09:40 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | Doc_6640.pdf | 1 page(s) ===
+VALEUR REFERENCE INC.
+RAPPORT D'EVALUATION RESIDENTIELLE - SOMMAIRE
+Propriete: 681 Boulevard Fontaine, Trois-Rivieres, QC   (condo)
+Date du rapport: 30 avril 2026
+Prix d achat au contrat: 865 000 $
+VALEUR MARCHANDE ESTIMEE: 867 000 $
+Methode de comparaison directe. Comparables:
+  741 Rue Saint-Exemple   894 000 $   adj -2.0%
+  53 Rue Saint-Exemple   896 000 $   adj -1.1%
+  462 Boulevard Fontaine   890 000 $   adj -2.1%
+Commentaires:
+  Usure cosmetique mineure notee a la cuisine et au couloir; aucun impact sur la valeur.
+Evaluateur: M. Abdallah, AACI   Lic. 59425
+[scanned 2026-06-06 09:21 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | IMG_9592.pdf | 1 page(s) ===
+[Papier a en-tete: Cedar Ridge Municipal Services | 176 Rue des Peupliers | tel 819-555-0164]
+16 mai 2026
+A qui de droit,
+La presente confirme que Genevieve Nguyen est employe(e) de Cedar Ridge Municipal Services a titre dc chef des operations.
+Date d'entree: 9 octobre 2015. Statut: permanent a temps plein.
+Salaire annuel de base actuel: 87 453,97 $.
+C0rdialement,
+/s/ Leila Tremblay-Roy, Gcstionnaire RH
+[scanned 2026-06-06 09:30 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | IMG_4960.pdf | 1 page(s) ===
+RELEVE DE COMPTE - CHEQUES
+Titulaire: GENEVIEVE NGUYEN
+Periode du releve: 5 fevrier 2026 to 1 juin 2026
+Solde d ouverture: 60 398,96 $
+
+5 fevrier 2026  PHARMACY                                   -168,65 $       60 230,31 $
+10 fevrier 2026 PAYROLL DEP CEDAR RIDGE                   2 419,23 $       62 649,54 $
+13/02/2026      GROCERY STORE                              -508,63 $       62 140,91 $
+17/02/2026      TELECOM BILL                               -205,10 $       61 935,81 $
+24/02/2026      PAYROLL DEP CEDAR RIDGE                   2 419,23 $       64 355,04 $
+28/02/2026      INSURANCE PREM                              -95,63 $       64 259,41 $
+8 mars 2026     RENT PAYMENT                               -315,09 $       63 944,32 $
+10 mars 2026    PAYROLL DEP CEDAR RIDGE                   2 419,23 $       66 363,55 $
+10 mars 2026    FUEL                                       -127,41 $       66 236,14 $
+24/03/2026      PAYROLL DEP CEDAR RIDGE                   2 419,23 $       68 655,37 $
+28/03/2026      ONLINE PURCHASE                            -446,49 $       68 208,88 $
+5 avril 2026    RESTAURANT                                  -33,47 $       68 175,41 $
+5 avril 2026    RESTAURANT                                 -150,98 $       68 024,43 $
+7 avril 2026    PAYROLL DEP CEDAR RIDGE                   2 419,23 $       70 443,66 $
+9 avril 2026    E-TRANSFER RECEIVED T. LEE                  369,04 $       70 812,70 $
+14/04/2026      INSURANCE PREM                             -169,66 $       70 643,04 $
+17/04/2026      RESTAURANT                                  -29,41 $       70 613,63 $
+21/04/2026      PAYROLL DEP CEDAR RIDGE                   2 419,23 $       73 032,86 $
+25/04/2026      GROCERY STORE                              -435,34 $       72 597,52 $
+26/04/2026      TELECOM BILL                               -439,32 $       72 158,20 $
+5 mai 2026      PAYROLL DEP CEDAR RIDGE                   2 419,23 $       74 577,43 $
+6 mai 2026      UTILITY PAYMENT                             -93,38 $       74 484,05 $
+12 mai 2026     TRANSIT PASS                               -280,33 $       74 203,72 $
+13/05/2026      E-TRANSFER RECEIVED ANDRE NGUYEN         40 600,00 $      114 803,72 $
+16/05/2026      TRANSIT PASS                                -74,09 $      114 729,63 $
+19/05/2026      PAYROLL DEP CEDAR RIDGE                   2 419,23 $      117 148,86 $
+22/05/2026      FUEL                                       -166,18 $      116 982,68 $
+23/05/2026      FUEL                                       -210,07 $      116 772,61 $
+30/05/2026      PHARMACY                                   -494,00 $      116 278,61 $
+31/05/2026      TRANSIT PASS                               -249,92 $      116 028,69 $
+
+Solde de cloture: 116 028,69 $
+[scanned 2026-06-06 09:31 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | upload_0876.pdf | 3 page(s) ===
+LETTRE DE DON
+Je soussigne(e), Andre Nguyen, grand-mere de Genevieve Nguyen, confirme faire un don de 40 600,00 $ le 25 mai 2026 pour l'achat de la propriete situee au 681 Boulevard Fontaine, Trois-Rivieres, QC.
+Ce montant sera rembourse des que possible.
+Signature: ______________
+Tel. du donateur: 613-555-0161
+[scanned 2026-06-06 09:28 - page 1 of 3 - CONFIDENTIAL]

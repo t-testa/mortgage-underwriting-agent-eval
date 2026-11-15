@@ -1,0 +1,125 @@
+FILE MF-019  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-07-01
+Applicant: Marcus Mackenzie
+Property: 806 Birchwood Crescent, Longueuil, QC (house)
+Purchase price: $715,000   Down payment: $71,500
+Stated annual income: $81,500   Employer (stated): Aurelia Software Ltd.
+
+CONDITIONS TO DECIDE:
+  MF-019-C1 [income_proof] Provide proof of income supporting the stated annual income of $81,500.
+  MF-019-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-019-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-019-C4 [employment] Confirm current employment.
+
+=== DOCUMENT 1 | upload_2097.pdf | 2 page(s) ===
+VOID CHEQUE
+Transit 09255  Institution 009  Account ******632
+[scanned 2026-07-01 09:58 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | IMG_9185.pdf | 3 page(s) ===
+LAKESHORE APPRAISAL GROUP
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 806 Birchwood Crescent, Longueuil, QC   (house)
+Report date: 2026/06/14
+Contract purchase price: $715,000
+OPINION OF MARKET VALUE: $684,000
+Direct comparison approach. Comparables:
+  139 Chemin des Cedres   $700,000   adj -2.0%
+  143 Chemin des Cedres   $673,000   adj +2.9%
+  817 Alder Lane   $663,000   adj -1.5%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: D. Lefebvre, CRA   Lic. 91496
+[scanned 2026-07-01 09:43 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | IMG_1220.pdf | 3 page(s) ===
+AURELIA SOFTWARE LTD.
+EARNINGS STATEMENT
+Employee: MACKENZIE, Marcus   ID: 74283
+Pay frequency: Bi-weekly
+Pay period: May 29, 2026 - June 11, 2026
+Pay date: June 13, 2026
+Regular earnings   $3,000.70
+GROSS THIS PERIOD      $3,000.70
+Deductions (tax, CPP/QPP, EI, pension)  $899.25
+NET PAY               $2,101.45
+GROSS YEAR TO DATE   $36,008.40
+[scanned 2026-07-01 09:18 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | IMG_0932.pdf | 3 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: MARCUS MACKENZIE
+Statement period: 23-Mar-2026 to 21-Jun-2026
+Opening balance: $75,835.62
+
+23-Mar-2026     INSURANCE PREM                              $-476.25        $75,359.37
+25-Mar-2026     PHARMACY                                    $-112.46        $75,246.91
+25-Mar-2026     E-TRANSFER RECEIVED A. MORIN                 $282.65        $75,529.56
+28-Mar-2026     TRANSIT PASS                                $-347.36        $75,182.20
+02-Apr-2026     PAYROLL DEP AURELIA                        $2,319.62        $77,501.82
+02-Apr-2026     RENT PAYMENT                                $-290.98        $77,210.84
+07-Apr-2026     RENT PAYMENT                                $-351.70        $76,859.14
+09-Apr-2026     TRANSIT PASS                                $-371.98        $76,487.16
+16-Apr-2026     PAYROLL DEP AURELIA                        $2,319.62        $78,806.78
+23-Apr-2026     GROCERY STORE                               $-332.57        $78,474.21
+30-Apr-2026     PAYROLL DEP AURELIA                        $2,319.62        $80,793.83
+01-May-2026     PHARMACY                                    $-373.75        $80,420.08
+05-May-2026     ONLINE PURCHASE                              $-93.13        $80,326.95
+11-May-2026     E-TRANSFER RECEIVED VICTOR MACKENZIE      $23,600.00       $103,926.95
+12-May-2026     TELECOM BILL                                $-349.29       $103,577.66
+12-May-2026     E-TRANSFER RECEIVED A. MORIN                 $203.24       $103,780.90
+13-May-2026     RESTAURANT                                  $-421.04       $103,359.86
+14-May-2026     PAYROLL DEP AURELIA                        $2,319.62       $105,679.48
+25-May-2026     GROCERY STORE                               $-253.75       $105,425.73
+28-May-2026     PAYROLL DEP AURELIA                        $2,319.62       $107,745.35
+29-May-2026     E-TRANSFER RECEIVED T. LEE                   $430.02       $108,175.37
+08-Jun-2026     UTILITY PAYMENT                             $-242.00       $107,933.37
+09-Jun-2026     RENT PAYMENT                                $-411.39       $107,521.98
+11-Jun-2026     PAYROLL DEP AURELIA                        $2,319.62       $109,841.60
+16-Jun-2026     RESTAURANT                                  $-497.54       $109,344.06
+
+Closing balance: $109,344.06
+[scanned 2026-07-01 09:44 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | scan_7119.pdf | 3 page(s) ===
+[Letterhead: Aurelia Software Ltd. | 241 Boulevard Fontaine | tel 819-555-0193]
+09-Jun-2026
+To whom it may concern,
+This confirms that Marcus Mackenzie is employed by Aurelia Software Ltd. as Account Manager.
+Start date: 01-May-2025. Employment status: permanent full-time.
+The employee has successfully completed the probationary period.
+Current annual base salary: $84,825.11.
+Sincerely,
+/s/ Daniel Stanfield, HR Manager
+[scanned 2026-07-01 09:40 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | Doc_5977.pdf | 2 page(s) ===
+FAX COVER SHEET
+To: Mortgage Ops   Pages: 3   Re: documents as requested
+[handwritten: sorry for the blurry pages!]
+[scanned 2026-07-01 09:25 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | IMG_5641.pdf | 3 page(s) ===
+GIFT LETTER
+I, Victor Mackenzie, father of Marcus Mackenzie, am giving the sum of $23,600.00 on June 1, 2026 towards the purchase of the property at 806 Birchwood Crescent, Longueuil, QC.
+This is a gift and does not have to be repaid.
+Signature: /s/ Victor Mackenzie
+Donor phone: 613-555-0199
+[scanned 2026-07-01 09:24 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | IMG_4716.pdf | 3 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 806 Birchwood Crescent, Longueuil, QC
+Purchase price: $715,000   Closing date: 31/07/2026
+Deposit paid: $14,300
+[scanned 2026-07-01 09:59 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | final_v2_7913.pdf | 1 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 25-Mar-2026
+SIN/NAS: XXX XXX 124
+Line 15000 Total income:   $79,738.21
+Line 23600 Net income:     $74,956.01
+Balance: $-2,129.65
+[scanned 2026-07-01 09:15 - page 1 of 1 - CONFIDENTIAL]

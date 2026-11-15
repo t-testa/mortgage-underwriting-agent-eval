@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-021",
+ "decisions": [
+  {
+   "condition_id": "MF-021-C1",
+   "decision": "needs_review",
+   "rule_cited": "INC-03",
+   "rationale": "NOA total income $148,627 is about 11% below the stated $167,000 and the pay stub YTD conflicts with the June 6, 2026 start date, so the shortfall needs escalation."
+  },
+  {
+   "condition_id": "MF-021-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing balance of $193,409 with about 3 months of history and only payroll and small transfers covers the $161,200 down payment plus closing costs."
+  },
+  {
+   "condition_id": "MF-021-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Summit Property Valuations (on panel) valued the property at $650,000 against a $645,000 price in a report dated 2026-05-26."
+  },
+  {
+   "condition_id": "MF-021-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "EMP-04",
+   "rationale": "The letter states the applicant started June 6, 2026 and is within a six-month probation, with no exception approval on file."
+  },
+  {
+   "condition_id": "MF-021-C5",
+   "decision": "not_satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "TDS is about 51.6% ($7,177 of obligations on $13,917 monthly income including the $2,450 car payment), far above the 44% maximum and not marginal for DTI-03."
+  }
+ ]
+}

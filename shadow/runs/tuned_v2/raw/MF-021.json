@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-021",
+ "decisions": [
+  {
+   "condition_id": "MF-021-C1",
+   "decision": "needs_review",
+   "rule_cited": "AR-01",
+   "rationale": "Biweekly gross 5,897.83 x 26 = 153,343.58 vs stated 167,000; shortfall 8.18% (NOA line 15000 148,626.78 is 11.0% short); over 5% up to 15% so needs_review."
+  },
+  {
+   "condition_id": "MF-021-C2",
+   "decision": "satisfied",
+   "rule_cited": "AR-05",
+   "rationale": "Required = 161,200 + 1.5% x 645,000 (9,675) = 170,875; closing balance 193,408.59 covers it; history Apr 3 to Jul 13 = 101 days; non-payroll deposits under 2,500."
+  },
+  {
+   "condition_id": "MF-021-C3",
+   "decision": "satisfied",
+   "rule_cited": "AR-08",
+   "rationale": "Summit Property Valuations is on panel; report 2026-05-26 is 58 days old (<=90); value 650,000 >= price 645,000; cosmetic comments ignored."
+  },
+  {
+   "condition_id": "MF-021-C4",
+   "decision": "needs_review",
+   "rule_cited": "AR-10",
+   "rationale": "Letter dated Jul 12 (11 days, signed, letterhead) but start June 6, 2026 with 6-month probation ends Dec 6, 2026, after review date 2026-07-23; needs_review."
+  },
+  {
+   "condition_id": "MF-021-C5",
+   "decision": "not_satisfied",
+   "rule_cited": "AR-13",
+   "rationale": "Housing = 4,038.34+404.95+145.60+0.5x275.83 = 4,726.81; GDS 4,726.81/13,916.67 = 33.97%; TDS (4,726.81+2,450)/13,916.67 = 51.57%, 7.57 pts over 44% and score 712 <720, so not marginal."
+  }
+ ]
+}

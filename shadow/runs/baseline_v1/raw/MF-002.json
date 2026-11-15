@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-002",
+ "decisions": [
+  {
+   "condition_id": "MF-002-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "Current monthly earnings statement (annualizes to about $68,500) and 2025 NOA ($69,282) support the stated $69,000."
+  },
+  {
+   "condition_id": "MF-002-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Seasoned chequing history of about four months with a $98,383 closing balance covers the $81,000 down payment plus closing costs, with no large or unusual deposits."
+  },
+  {
+   "condition_id": "MF-002-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-06",
+   "rationale": "Meridian Real Estate Appraisers is on the panel, report dated 2026-07-26 is recent, and the $816,000 value supports the $810,000 price."
+  },
+  {
+   "condition_id": "MF-002-C4",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS about 32.7% and TDS about 36.8% (condo fees counted in full) on the $5,750 monthly income are within 39%/44%, and the score of 765 exceeds 600."
+  }
+ ]
+}

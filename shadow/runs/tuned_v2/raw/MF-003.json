@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-003",
+ "decisions": [
+  {
+   "condition_id": "MF-003-C1",
+   "decision": "needs_review",
+   "rule_cited": "AR-01",
+   "rationale": "Paystub 19-Jun-2026 (21 days) gross 7,142.43 x 12 = 85,709.16 (2.60% short), but NOA 2025 line 15000 is 82,801.76 vs stated 88,000: shortfall 5,198.24/88,000 = 5.91%, over 5% up to 15%."
+  },
+  {
+   "condition_id": "MF-003-C2",
+   "decision": "satisfied",
+   "rule_cited": "AR-05",
+   "rationale": "Required = 212,500 + 1.5% x 850,000 (12,750) = 225,250; closing balance 244,132.60. History 31/03-08/07 = 99 days. Non-payroll deposits (321.09, 678.81, 834.86) are small."
+  },
+  {
+   "condition_id": "MF-003-C3",
+   "decision": "satisfied",
+   "rule_cited": "AR-12",
+   "rationale": "Letter 2026/06/29 (11 days), letterhead, signed, permanent full-time since 2020. Salary 92,565.08 is above stated 88,000."
+  },
+  {
+   "condition_id": "MF-003-C4",
+   "decision": "needs_review",
+   "rule_cited": "AR-14",
+   "rationale": "Housing 2,005.30+309.61+119.62 = 2,434.53; GDS 33.20% on 7,333.33. Debts: card 3% x 7,520 = 225.60, student 229, LOC 3% x 13,000 = 390 = 844.60; TDS = 3,279.13/7,333.33 = 44.72%, 0.72 points over 44% with score 783 (720+)."
+  }
+ ]
+}
