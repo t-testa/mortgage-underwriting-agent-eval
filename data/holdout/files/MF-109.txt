@@ -1,0 +1,129 @@
+FILE MF-109  |  REVISION DES CONDITIONS DE SOUSCRIPTION
+Date de revision: 2026-07-11
+Demandeur: Catherine Tremblay-Roy
+Propriete: 630 Alder Lane, Kingston, ON (condo)
+Prix d achat: 795 000 $   Mise de fonds: 63 600 $
+Revenu annuel declare: 82 000 $   Employeur (declare): Aurelia Software Ltd.
+
+CONDITIONS A DECIDER:
+  MF-109-C1 [income_proof] Fournir une preuve de revenu appuyant le revenu annuel declare de 82 000 $.
+  MF-109-C2 [down_payment_source] Confirmer la provenance et la disponibilite de la mise de fonds et des frais de cloture.
+  MF-109-C3 [appraisal] Fournir une evaluation acceptable appuyant le prix d'achat.
+  MF-109-C4 [debt_ratio] Confirmer que les ratios ABD et ATD respectent la politique.
+
+=== DOCUMENT 1 | scan_9826.pdf | 1 page(s) ===
+AURELIA SOFTWARE LTD.
+RELEVE DE PAIE
+Employe: TREMBLAY-ROY, Catherine   ID: 13286
+Frequencc: Bimensuelle
+Periode: 2026/06/20 - 2026/07/04
+Date de paie: 2026/07/05
+Gains reguliers   3 537,03 $
+BRUT PERIODE      3 537,03 $
+Retenues (impot, RPC/RRQ, AE, retraite)  955,85 $
+PAIE NETTE               2 581,18 $
+BRUT CUMULATIF   45 981,39 $
+[scanned 2026-07-11 09:46 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | Doc_3180.pdf | 3 page(s) ===
+PROMESSE D'ACHAT - extrait (pages 1 et 7 de 14)
+Propriete: 630 Alder Lane, Kingston, ON
+Prix d achat: 795 000 $   Date de cloture: 09-Sep-2026
+Depot verse: 15 900 $
+[scanned 2026-07-11 09:37 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | Doc_6810.pdf | 2 page(s) ===
+Agence du revenu du Canada / Canada Revenue Agency
+AVIS DE COTISATION
+Annee d imposition: 2025      Date d emission: 04-May-2026
+SIN/NAS: XXX XXX 167
+Line 15000 Revenu total:   82 984,51 $
+Line 23600 Revenu net:     80 107,24 $
+Solde: 652,92 $
+[scanned 2026-07-11 09:58 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | upload_4897.pdf | 3 page(s) ===
+MERIDIAN REAL ESTATE APPRAISERS
+RAPPORT D'EVALUATION RESIDENTIELLE - SOMMAIRE
+Propriete: 630 Alder Lane, Kingston, ON   (condo)
+Date du rapport: 26 avril 2026
+Prix d achat au contrat: 795 000 $
+VALEUR MARCHANDE ESTIMEE: 839 000 $
+Methode de comparaison directe. Comparables:
+  633 Rue Saint-Exemple   849 000 $   adj -3.1%
+  712 Chemin des Cedres   844 000 $   adj +4.6%
+  915 Harbour View Road   825 000 $   adj +4.7%
+Commentaires:
+  Usure cosmetique mineure notee a la cuisine et au couloir; aucun impact sur la valeur.
+Evaluateur: L. Whitfield, CRA   Lic. 41736
+[scanned 2026-07-11 09:29 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | upload_3743.pdf | 2 page(s) ===
+RAPPORT DE CREDIT - SOMMAIRE
+Sujet: CATHERINE TREMBLAY-ROY    Date du rapport: 28 juin 2026
+Cote de credit: 788
+Creancier                 Type              Limite           Solde         Pmt  Statut
+Government Student Loan   student                -      3 200,00 $     97,00 $  Ouvert
+Vehicle Loan              car                    -      9 100,00 $    275,00 $  Ouvert
+Demandes (12 mois): 2
+[scanned 2026-07-11 09:31 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | upload_2179.pdf | 1 page(s) ===
+VOID CHEQUE
+Transit 09774  Institution 003  Account ******424
+[scanned 2026-07-11 09:40 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | upload_7831.pdf | 1 page(s) ===
+RELEVE DE COMPTE - CHEQUES
+Titulaire: CATHERINE TREMBLAY-ROY
+Periode du releve: 24 mars 2026 to 8 juillet 2026
+Solde d ouverture: 88 418,64 $
+
+24 mars 2026    ONLINE PURCHASE                            -190,12 $       88 228,52 $
+28 mars 2026    PAYROLL DEP AURELIA                       2 333,85 $       90 562,37 $
+28 mars 2026    RESTAURANT                                 -454,11 $       90 108,26 $
+29 mars 2026    FUEL                                       -441,65 $       89 666,61 $
+4 avril 2026    GROCERY STORE                              -168,68 $       89 497,93 $
+4 avril 2026    RENT PAYMENT                               -452,52 $       89 045,41 $
+11 avril 2026   PAYROLL DEP AURELIA                       2 333,85 $       91 379,26 $
+15 avril 2026   ONLINE PURCHASE                            -228,67 $       91 150,59 $
+25 avril 2026   PAYROLL DEP AURELIA                       2 333,85 $       93 484,44 $
+1 mai 2026      FUEL                                       -434,11 $       93 050,33 $
+4 mai 2026      INSURANCE PREM                             -304,90 $       92 745,43 $
+4 mai 2026      E-TRANSFER RECEIVED T. LEE                  263,09 $       93 008,52 $
+6 mai 2026      RESTAURANT                                 -474,10 $       92 534,42 $
+8 mai 2026      TELECOM BILL                               -475,61 $       92 058,81 $
+9 mai 2026      PAYROLL DEP AURELIA                       2 333,85 $       94 392,66 $
+11 mai 2026     INSURANCE PREM                             -368,87 $       94 023,79 $
+19 mai 2026     TRANSIT PASS                               -445,39 $       93 578,40 $
+23 mai 2026     PAYROLL DEP AURELIA                       2 333,85 $       95 912,25 $
+26 mai 2026     INSURANCE PREM                             -170,91 $       95 741,34 $
+27 mai 2026     DEPOSIT                                   4 620,00 $      100 361,34 $
+5 juin 2026     UTILITY PAYMENT                            -218,07 $      100 143,27 $
+6 juin 2026     PAYROLL DEP AURELIA                       2 333,85 $      102 477,12 $
+7 juin 2026     UTILITY PAYMENT                            -434,05 $      102 043,07 $
+7 juin 2026     RENT PAYMENT                               -439,47 $      101 603,60 $
+13 juin 2026    RENT PAYMENT                               -261,19 $      101 342,41 $
+17 juin 2026    GROCERY STORE                              -488,50 $      100 853,91 $
+20 juin 2026    PAYROLL DEP AURELIA                       2 333,85 $      103 187,76 $
+20 juin 2026    TRANSIT PASS                               -338,16 $      102 849,60 $
+26 juin 2026    RESTAURANT                                 -286,67 $      102 562,93 $
+1 juillet 2026  UTILITY PAYMENT                            -257,15 $      102 305,78 $
+4 juillet 2026  PAYROLL DEP AURELIA                       2 333,85 $      104 639,63 $
+5 juillet 2026  RENT PAYMENT                               -202,88 $      104 436,75 $
+
+Solde de cloture: 104 436,75 $
+[scanned 2026-07-11 09:49 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | Doc_9905.pdf | 3 page(s) ===
+FICHE DE QUALIFICATION HYPOTHECAIRE (ebauche, ratios a confirmer)
+Revenu mensuel brut utilise: 6 833,33 $
+Type de propriete: condo
+Paiement hypothecaire de qualification (capital et interets): 1 576,22 $
+Taxes foncieres (mensuel): 355,24 $
+Chauffage (mensuel): 143,39 $
+Frais de copropriete (mensuel): 479,65 $
+Dettes declarees par le demandeur (paiement mensuel declare):
+  Government Student Loan            97,00 $
+  Vehicle Loan                      275,00 $
+[scanned 2026-07-11 09:35 - page 1 of 3 - CONFIDENTIAL]

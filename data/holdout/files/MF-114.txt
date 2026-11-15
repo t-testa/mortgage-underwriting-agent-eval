@@ -1,0 +1,145 @@
+FILE MF-114  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-08-11
+Applicant: Jordan Pelletier
+Property: 75 Birchwood Crescent, Ottawa, ON (condo)
+Purchase price: $510,000   Down payment: $127,500
+Stated annual income: $126,500   Employer (stated): Maplebrook Health Services
+
+CONDITIONS TO DECIDE:
+  MF-114-C1 [income_proof] Provide proof of income supporting the stated annual income of $126,500.
+  MF-114-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-114-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-114-C4 [employment] Confirm current employment.
+  MF-114-C5 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | Doc_3484.pdf | 2 page(s) ===
+[Letterhead: Maplebrook Health Services | 445 Quarry Street | tel 819-555-0131]
+August 2, 2026
+To whom it may concern,
+This confirms that Jordan Pelletier is employed by Maplebrook Health Services as Coordinator.
+Start date: April 12, 2026. Employment status: fixed-term contract, continuously renewed with us since April 12, 2026.
+Current annual base salary: $126,092.75.
+Sincerely,
+/s/ Callum Haddad, HR Manager
+[scanned 2026-08-11 09:13 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | scan_6289.pdf | 1 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 75 Birchwood Crescent, Ottawa, ON
+Purchase price: $510,000   Closing date: 11-Oct-2026
+Deposit paid: $10,200
+[scanned 2026-08-11 09:29 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | Doc_0172.pdf | 1 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: May 5, 2026
+SIN/NAS: XXX XXX 860
+Line 15000 Total income:   $91,684.80
+Line 23600 Net income:     $85,968.78
+Balance: $787.70
+[scanned 2026-08-11 09:57 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | final_v2_2145.pdf | 3 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: JORDAN PELLETIER
+Statement period: April 18, 2026 to August 4, 2026
+Opening balance: $71,304.44
+
+April 21, 2026  INSURANCE PREM                              $-238.17        $71,066.27
+April 25, 2026  TRANSIT PASS                                $-348.94        $70,717.33
+April 27, 2026  PAYROLL DEP MAPLEBROOK                     $3,600.38        $74,317.71
+May 6, 2026     RENT PAYMENT                                $-333.79        $73,983.92
+May 11, 2026    PAYROLL DEP MAPLEBROOK                     $3,600.38        $77,584.30
+May 12, 2026    TELECOM BILL                                $-340.46        $77,243.84
+May 16, 2026    FUEL                                        $-116.27        $77,127.57
+May 24, 2026    E-TRANSFER RECEIVED A. MORIN                 $234.82        $77,362.39
+May 25, 2026    PAYROLL DEP MAPLEBROOK                     $3,600.38        $80,962.77
+June 4, 2026    RENT PAYMENT                                $-454.65        $80,508.12
+June 6, 2026    TRANSIT PASS                                $-519.19        $79,988.93
+June 8, 2026    PAYROLL DEP MAPLEBROOK                     $3,600.38        $83,589.31
+June 11, 2026   RESTAURANT                                  $-347.61        $83,241.70
+June 12, 2026   FUEL                                        $-494.07        $82,747.63
+June 21, 2026   RESTAURANT                                   $-42.04        $82,705.59
+June 22, 2026   PAYROLL DEP MAPLEBROOK                     $3,600.38        $86,305.97
+June 22, 2026   E-TRANSFER RECEIVED VICTOR PELLETIER      $48,800.00       $135,105.97
+June 26, 2026   UTILITY PAYMENT                              $-78.11       $135,027.86
+July 6, 2026    PAYROLL DEP MAPLEBROOK                     $3,600.38       $138,628.24
+July 11, 2026   ONLINE PURCHASE                             $-498.82       $138,129.42
+July 17, 2026   FUEL                                        $-375.75       $137,753.67
+July 20, 2026   PAYROLL DEP MAPLEBROOK                     $3,600.38       $141,354.05
+July 20, 2026   GROCERY STORE                               $-184.74       $141,169.31
+July 25, 2026   RENT PAYMENT                                $-341.29       $140,828.02
+August 3, 2026  PAYROLL DEP MAPLEBROOK                     $3,600.38       $144,428.40
+
+Closing balance: $144,428.40
+[scanned 2026-08-11 09:40 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | Doc_7140.pdf | 2 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: JORDAN PELLETIER    Report date: July 29, 2026
+Credit score: 775
+Creditor                  Type               Limit         Balance         Pmt  Status
+Home Equity Line          loc           $15,000.00       $6,400.00      $64.00  Open
+Vehicle Loan              car                    -       $4,300.00     $147.00  Open
+Travel Rewards Visa       card          $25,600.00      $12,710.00     $254.20  Open
+Inquiries (12 mo): 2
+[scanned 2026-08-11 09:10 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | upload_5050.pdf | 3 page(s) ===
+VALEUR REFERENCE INC.
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 75 Birchwood Crescent, Ottawa, ON   (condo)
+Report date: 2026/06/08
+Contract purchase price: $510,000
+OPINION OF MARKET VALUE: $511,000
+Direct comparison approach. Comparables:
+  352 Chemin des Cedres   $495,000   adj +1.6%
+  663 Quarry Street   $516,000   adj +3.7%
+  520 Rue Saint-Exemple   $521,000   adj -3.6%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: D. Lefebvre, CRA   Lic. 75833
+[scanned 2026-08-11 09:20 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | final_v2_2888.pdf | 1 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $10,541.67
+Property type: condo
+Qualifying mortgage payment (P&I, stress-tested): $3,229.90
+Property tax (monthly): $299.07
+Heating (monthly): $162.01
+Condo fees (monthly): $360.90
+Liabilities declared by applicant (monthly payment as stated):
+  Home Equity Line                    $64.00
+  Vehicle Loan                       $147.00
+  Travel Rewards Visa                $254.20
+[scanned 2026-08-11 09:38 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | upload_2219.pdf | 1 page(s) ===
+GIFT LETTER
+I, Victor Pelletier, cousin of Jordan Pelletier, am giving the sum of $48,800.00 on 26/07/2026 towards the purchase of the property at 75 Birchwood Crescent, Ottawa, ON.
+This is a gift and does not have to be repaid.
+Signature: /s/ Victor Pelletier
+Donor phone: 613-555-0192
+[scanned 2026-08-11 09:48 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | upload_0419.pdf | 2 page(s) ===
+MAPLEBROOK HEALTH SERVICES
+EARNINGS STATEMENT
+Employee: PELLETIER, Jordan   ID: 26837
+Pay frequency: Semi-monthly
+Pay period: 14-Jul-2026 - 28-Jul-2026
+Pay date: 29-Jul-2026
+Regular earnings   $3,789.66
+GROSS THIS PERIOD      $3,789.66
+Deductions (tax, CPP/QPP, EI, pension)  $990.25
+NET PAY               $2,799.41
+GROSS YEAR TO DATE   $53,055.24
+[scanned 2026-08-11 09:53 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 10 | upload_9970.pdf | 1 page(s) ===
+FAX COVER SHEET
+To: Mortgage Ops   Pages: 3   Re: documents as requested
+[handwritten: sorry for the blurry pages!]
+[scanned 2026-08-11 09:54 - page 1 of 1 - CONFIDENTIAL]

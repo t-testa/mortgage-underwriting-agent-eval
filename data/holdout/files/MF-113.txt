@@ -1,0 +1,98 @@
+FILE MF-113  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-07-20
+Applicant: Leila Iyer
+Property: 646 Alder Lane, Gatineau, QC (house)
+Purchase price: $565,000   Down payment: $56,500
+Stated annual income: $137,500   Employer (stated): Cedar Ridge Municipal Services
+
+CONDITIONS TO DECIDE:
+  MF-113-C1 [income_proof] Provide proof of income supporting the stated annual income of $137,500.
+  MF-113-C2 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-113-C3 [employment] Confirm current employment.
+  MF-113-C4 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | final_v2_3317.pdf | 3 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: LEILA IYER    Report date: 2026/07/01
+Credit score: 700
+Creditor                  Type               Limit         Balance         Pmt  Status
+Government Student Loan   student                -      $20,800.00     $379.00  Open
+Student Line of Credit    loc           $14,000.00      $11,100.00     $111.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-07-20 09:18 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | Doc_3274.pdf | 1 page(s) ===
+PRAIRIE OAK APPRAISALS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 646 Alder Lane, Gatineau, QC   (house)
+Report date: April 11, 2026
+Contract purchase price: $565,000
+OPINION OF MARKET VALUE: $568,000
+Direct comparison approach. Comparables:
+  700 Harbour View Road   $548,000   adj +1.6%
+  204 Rue Saint-Exemple   $558,000   adj -2.5%
+  845 Harbour View Road   $575,000   adj -4.8%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: D. Lefebvre, CRA   Lic. 40511
+[scanned 2026-07-20 09:23 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | Doc_3604.pdf | 2 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 2026-05-04
+SIN/NAS: XXX XXX 939
+Line 15000 Total income:   $124,124.14
+Line 23600 Net income:     $115,961.62
+Balance: $421.00
+[scanned 2026-07-20 09:20 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | upload_0303.pdf | 1 page(s) ===
+CEDAR RIDGE MUNICIPAL SERVICES
+EARNINGS STATEMENT
+Employee: IYER, Leila   ID: 85686
+Pay frequency: Bi-weekly
+Pay period: June 29, 2026 - July 12, 2026
+Pay date: July 16, 2026
+Regular earnings   $4,842.95
+GROSS THIS PERIOD      $4,842.95
+Deductions (tax, CPP/QPP, EI, pension)  $1,305.52
+NET PAY               $3,537.43
+GROSS YEAR TO DATE   $67,801.30
+[scanned 2026-07-20 09:40 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | final_v2_4534.pdf | 2 page(s) ===
+VOID CHEQUE
+Transit 03362  Institution 001  Account ******940
+[scanned 2026-07-20 09:44 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | scan_7239.pdf | 3 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 646 Alder Lane, Gatineau, QC
+Purchase price: $565,000   Closing date: September 4, 2026
+Deposit paid: $11,300
+[scanned 2026-07-20 09:19 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | scan_9863.pdf | 3 page(s) ===
+[Letterhead: Cedar Ridge Municipal Services | 769 Rue des Peupliers | tel 819-555-0175]
+July 8, 2026
+To whom it may concern,
+This confirms that Leila Iyer is employed by Cedar Ridge Municipal Services as Senior Analyst.
+Start date: February 17, 2016. Employment status: permanent full-time.
+Current annual base salary: $140,211.39.
+Sincerely,
+/s/ Elena Kowalczyk, HR Manager
+[scanned 2026-07-20 09:36 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | Doc_7941.pdf | 2 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $11,458.33
+Property type: housc
+Qualifying mortgage payment (P&I, stress-tested): $3,492.59
+Property tax (monthly): $557.99
+Heating (monthly): $133.42
+Condo fees (monthly): N/A
+Liabilities declarcd by applicant (monthly payment as stated):
+  Government Student Loan            $379.00
+  Student Line of Credit             $111.00
+[scanned 2026-07-20 09:57 - page 1 of 2 - CONFIDENTIAL]

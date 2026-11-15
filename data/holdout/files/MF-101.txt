@@ -1,0 +1,135 @@
+FILE MF-101  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-10-11
+Applicant: Priya Pelletier
+Property: 606 Rue Saint-Exemple, Kingston, ON (condo)
+Purchase price: $520,000   Down payment: $26,000
+Stated annual income: $124,000   Employer (stated): Brightfield Insurance Corp.
+
+CONDITIONS TO DECIDE:
+  MF-101-C1 [income_proof] Provide proof of income supporting the stated annual income of $124,000.
+  MF-101-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-101-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-101-C4 [employment] Confirm current employment.
+  MF-101-C5 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | final_v2_6235.pdf | 1 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 606 Rue Saint-Exemple, Kingston, ON
+Purchase price: $520,000   Closing date: December 16, 2026
+Deposit paid: $10,400
+[scanned 2026-10-11 09:30 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | Doc_6930.pdf | 3 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $10,333.33
+Property type: condo
+Qualifying mortgage payment (P&I, stress-tested): $2,321.42
+Property tax (monthly): $310.62
+Heating (monthly): $135.12
+Condo fees (monthly): $397.13
+Liabilities declared by applicant (monthly payment as stated):
+  Student Loan (Provincial)          $256.00
+  AutoFinance Canada                 $319.00
+  Home Equity Line                   $177.00
+[scanned 2026-10-11 09:18 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | Doc_5050.pdf | 2 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: PRIYA PELLETIER
+Statement period: 22-Jun-2026 to 02-Oct-2026
+Opening balance: $8,978.87
+
+01-Jul-2026     PAYROLL DEP BRIGHTFIELD                    $3,529.23        $12,508.10
+01-Jul-2026     E-TRANSFER RECEIVED A. MORIN                 $488.98        $12,997.08
+02-Jul-2026     RENT PAYMENT                                $-199.90        $12,797.18
+04-Jul-2026     ONLINE PURCHASE                             $-512.47        $12,284.71
+04-Jul-2026     E-TRANSFER RECEIVED T. LEE                   $330.61        $12,615.32
+15-Jul-2026     PAYROLL DEP BRIGHTFIELD                    $3,529.23        $16,144.55
+18-Jul-2026     INSURANCE PREM                              $-434.09        $15,710.46
+22-Jul-2026     TRANSIT PASS                                $-258.68        $15,451.78
+29-Jul-2026     PAYROLL DEP BRIGHTFIELD                    $3,529.23        $18,981.01
+31-Jul-2026     RENT PAYMENT                                $-511.12        $18,469.89
+12-Aug-2026     PAYROLL DEP BRIGHTFIELD                    $3,529.23        $21,999.12
+12-Aug-2026     E-TRANSFER RECEIVED REFUND                   $678.55        $22,677.67
+13-Aug-2026     TRANSIT PASS                                $-138.34        $22,539.33
+18-Aug-2026     INSURANCE PREM                              $-272.53        $22,266.80
+26-Aug-2026     PAYROLL DEP BRIGHTFIELD                    $3,529.23        $25,796.03
+28-Aug-2026     RESTAURANT                                   $-73.79        $25,722.24
+28-Aug-2026     TRANSIT PASS                                $-304.04        $25,418.20
+04-Sep-2026     RENT PAYMENT                                $-476.42        $24,941.78
+04-Sep-2026     E-TRANSFER RECEIVED DANIEL PELLETIER      $14,200.00        $39,141.78
+09-Sep-2026     PAYROLL DEP BRIGHTFIELD                    $3,529.23        $42,671.01
+18-Sep-2026     PHARMACY                                    $-159.01        $42,512.00
+19-Sep-2026     ONLINE PURCHASE                             $-297.63        $42,214.37
+21-Sep-2026     GROCERY STORE                               $-278.38        $41,935.99
+22-Sep-2026     TRANSIT PASS                                $-345.84        $41,590.15
+23-Sep-2026     PAYROLL DEP BRIGHTFIELD                    $3,529.23        $45,119.38
+
+Closing balance: $45,119.38
+[scanned 2026-10-11 09:25 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | scan_7482.pdf | 1 page(s) ===
+BRIGHTFIELD INSURANCE CORP.
+EARNINGS STATEMENT
+Employee: PELLETIER, Priya   ID: 75008
+Pay frequency: Seml-monthly
+Pay period: 2026/09/18 - 2026/10/02
+Pay date: 2026/10/06
+Regular earnings   $5,223.07
+GROSS THIS PERIOD      $5,223.07
+Deductions (tax, CPP/QPP, EI, pension)  $1,337.09
+NET PAY               $3,885.98
+GROSS YEAR TO DATE   $99,238.33
+[scanned 2026-10-11 09:11 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | scan_7098.pdf | 3 page(s) ===
+RIVE-NORD EVALUATIONS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 606 Rue Saint-Exemple, Kingston, ON   (condo)
+Report date: September 3, 2026
+Contract purchase price: $520,000
+OPINION OF MARKET VALUE: $512,000
+Direct comparison approach. Comparables:
+  66 Chemin des Cedres   $495,000   adj -4.3%
+  805 Boulevard Fontaine   $522,000   adj -4.4%
+  148 Alder Lane   $521,000   adj +3.7%
+C0mments:
+  Minor cosmetic wear notcd in kitchen and hallway; no impact on value.
+Appraiser: L. Whitfield, CRA   Lic. 71260
+[scanned 2026-10-11 09:17 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | IMG_2463.pdf | 3 page(s) ===
+FAX COVER SHEET
+To: Mortgage Ops   Pages: 3   Re: documents as requested
+[handwritten: sorry for the blurry pages!]
+[scanned 2026-10-11 09:46 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | IMG_3565.pdf | 3 page(s) ===
+GIFT LETTER
+I, Daniel Pelletier, friend of Priya Pelletier, am giving the sum of $14,200.00 on September 9, 2026 towards the purchase of the property at 606 Rue Saint-Exemple, Kingston, ON.
+This is a gift and does not have to be repaid.
+Signature: /s/ Daniel Pelletier
+Donor phone: 613-555-0163
+[scanned 2026-10-11 09:15 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | upload_5377.pdf | 1 page(s) ===
+[Letterhead: Brightfield Insurance Corp. | 484 Chemin des Cedres | tel 819-555-0123]
+2026-09-29
+To whom it may concern,
+This confirms that Priya Pellctier is employed by Brightfleld Insurance Corp. as Operations Lead.
+Start date: 2020-04-28. Employment status: permanent full-time.
+Current annual base salary: $112,043.67.
+Sincerely,
+/s/ Elena Haddad, HR Manager
+[scanned 2026-10-11 09:57 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | IMG_3311.pdf | 1 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: PRIYA PELLETIER    Report date: September 23, 2026
+Credit score: 706
+Creditor                  Type               Limit         Balance         Pmt  Status
+Student Loan (Provincial) student                -       $7,900.00     $256.00  Open
+AutoFinance Canada        car                    -       $7,700.00     $319.00  Open
+Home Equity Line          loc           $37,000.00      $17,700.00     $177.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-10-11 09:54 - page 1 of 1 - CONFIDENTIAL]

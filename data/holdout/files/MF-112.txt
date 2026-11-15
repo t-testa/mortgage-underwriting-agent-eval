@@ -1,0 +1,123 @@
+FILE MF-112  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-06-17
+Applicant: Nadia Haddad
+Property: 142 Harbour View Road, Kingston, ON (condo)
+Purchase price: $425,000   Down payment: $106,200
+Stated annual income: $106,000   Employer (stated): Maplebrook Health Services
+
+CONDITIONS TO DECIDE:
+  MF-112-C1 [income_proof] Provide proof of income supporting the stated annual income of $106,000.
+  MF-112-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-112-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-112-C4 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | upload_6343.pdf | 3 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: NADIA HADDAD
+Statement period: 2026-02-26 to 2026-06-08
+Opening balance: $120,664.23
+
+2026-02-28      GROCERY STORE                               $-252.82       $120,411.41
+2026-03-01      PAYROLL DEP MAPLEBROOK                     $3,016.92       $123,428.33
+2026-03-03      PHARMACY                                    $-466.16       $122,962.17
+2026-03-07      FUEL                                        $-359.21       $122,602.96
+2026-03-12      E-TRANSFER RECEIVED REFUND                   $370.68       $122,973.64
+2026-03-15      PAYROLL DEP MAPLEBROOK                     $3,016.92       $125,990.56
+2026-03-18      RESTAURANT                                   $-30.64       $125,959.92
+2026-03-20      TRANSIT PASS                                $-102.94       $125,856.98
+2026-03-25      PHARMACY                                    $-164.14       $125,692.84
+2026-03-29      PAYROLL DEP MAPLEBROOK                     $3,016.92       $128,709.76
+2026-03-29      INSURANCE PREM                              $-207.18       $128,502.58
+2026-03-31      ONLINE PURCHASE                             $-142.74       $128,359.84
+2026-04-03      E-TRANSFER RECEIVED A. MORIN                 $624.45       $128,984.29
+2026-04-06      UTILITY PAYMENT                             $-196.21       $128,788.08
+2026-04-12      PAYROLL DEP MAPLEBROOK                     $3,016.92       $131,805.00
+2026-04-14      INSURANCE PREM                              $-319.42       $131,485.58
+2026-04-15      UTILITY PAYMENT                              $-53.64       $131,431.94
+2026-04-17      UTILITY PAYMENT                             $-250.87       $131,181.07
+2026-04-26      PAYROLL DEP MAPLEBROOK                     $3,016.92       $134,197.99
+2026-04-30      GROCERY STORE                               $-373.20       $133,824.79
+2026-05-05      FUEL                                        $-223.02       $133,601.77
+2026-05-10      PAYROLL DEP MAPLEBROOK                     $3,016.92       $136,618.69
+2026-05-16      PHARMACY                                    $-489.40       $136,129.29
+2026-05-24      PAYROLL DEP MAPLEBROOK                     $3,016.92       $139,146.21
+2026-05-24      UTILITY PAYMENT                             $-456.92       $138,689.29
+2026-05-30      ONLINE PURCHASE                              $-76.49       $138,612.80
+2026-06-02      TRANSIT PASS                                 $-62.60       $138,550.20
+2026-06-07      PAYROLL DEP MAPLEBROOK                     $3,016.92       $141,567.12
+2026-06-07      RENT PAYMENT                                $-191.04       $141,376.08
+
+Closing balance: $141,376.08
+[scanned 2026-06-17 09:50 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | Doc_2394.pdf | 1 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: NADIA HADDAD    Report date: 2026-06-06
+Credit score: 765
+Creditor                  Type               Limit         Balance         Pmt  Status
+Travel Rewards Visa       card           $7,800.00       $2,930.00      $58.60  Open
+Government Student Loan   student                -       $5,400.00     $138.00  Open
+Vehicle Loan              car                    -       $4,000.00     $148.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-06-17 09:34 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | final_v2_7072.pdf | 1 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 2026-04-23
+SIN/NAS: XXX XXX 364
+Line 15000 Total income:   $98,650.80
+Line 23600 Net income:     $92,085.01
+Balance: $12.96
+[scanned 2026-06-17 09:23 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | scan_4487.pdf | 2 page(s) ===
+MAPLEBROOK HEALTH SERVICES
+EARNINGS STATEMENT
+Employee: HADDAD, Nadia   ID: 96588
+Pay frequency: Bi-weekly
+Pay period: May 9, 2026 - May 22, 2026
+Pay date: May 26, 2026
+Regular earnings   $3,946.94
+GROSS THIS PERIOD      $3,946.94
+Deductions (tax, CPP/QPP, EI, pension)  $1,059.85
+NET PAY               $2,887.09
+GROSS YEAR TO DATE   $43,416.34
+[scanned 2026-06-17 09:39 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | scan_6690.pdf | 3 page(s) ===
+RIVE-NORD EVALUATIONS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 142 Harbour View Road, Kingston, ON   (condo)
+Report date: 20/02/2026
+Contract purchase price: $425,000
+OPINION OF MARKET VALUE: $426,000
+Direct comparison approach. Comparables:
+  844 Birchwood Crescent   $442,000   adj -4.7%
+  657 Quarry Street   $418,000   adj -2.5%
+  545 Rue Saint-Exemple   $426,000   adj +4.7%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: M. Abdallah, AACI   Lic. 84556
+[scanned 2026-06-17 09:44 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | upload_4619.pdf | 2 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 142 Harbour View Road, Kingston, ON
+Purchase price: $425,000   Closing date: 2026/08/17
+Deposit paid: $8,500
+[scanned 2026-06-17 09:38 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | scan_9069.pdf | 2 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $8,833.33
+Pr0perty type: condo
+Qualifying mortgage payment (P&I, stress-tested): $2,087.12
+Property tax (monthly): $472.18
+Heating (monthly): $176.80
+Condo fees (monthly): $451.95
+Liabilities declared by applicant (monthly payment as stated):
+  Travel Rewards Visa                 $58.60
+  Government Student Loan            $138.00
+  Vehicle Loan                       $148.00
+[scanned 2026-06-17 09:13 - page 1 of 2 - CONFIDENTIAL]

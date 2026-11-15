@@ -1,0 +1,129 @@
+FILE MF-117  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-10-18
+Applicant: Tyler Brannigan
+Property: 32 Boulevard Fontaine, Gatineau, QC (house)
+Purchase price: $785,000   Down payment: $196,200
+Stated annual income: $148,500   Employer (stated): Tamarack Food Distributors
+
+CONDITIONS TO DECIDE:
+  MF-117-C1 [income_proof] Provide proof of income supporting the stated annual income of $148,500.
+  MF-117-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-117-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-117-C4 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | Doc_6928.pdf | 2 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 09-May-2026
+SIN/NAS: XXX XXX 767
+Line 15000 Total income:   $154,800.77
+Line 23600 Net income:     $149,216.76
+Balance: $-1,280.48
+[scanned 2026-10-18 09:32 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | Doc_3448.pdf | 1 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: TYLER BRANNIGAN    Report date: 2026-10-10
+Credit score: 694
+Creditor                  Type               Limit         Balance         Pmt  Status
+Personal Line of Credit   loc           $44,000.00      $26,100.00     $261.00  Open
+AutoFinance Canada        car                    -      $38,300.00     $798.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-10-18 09:28 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | IMG_1005.pdf | 2 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 32 Boulevard Fontaine, Gatineau, QC
+Purchase price: $785,000   Closing date: 2026-12-10
+Deposit paid: $15,700
+[scanned 2026-10-18 09:38 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | Doc_2146.pdf | 2 page(s) ===
+IRONBRIDGE VALUATION LTD.
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 32 Boulevard Fontaine, Gatineau, QC   (house)
+Report date: 2026-08-19
+Contract purchase price: $785,000
+OPINION OF MARKET VALUE: $793,000
+Direct comparison approach. Comparables:
+  470 Harbour View Road   $791,000   adj -4.6%
+  104 Chemin des Cedres   $808,000   adj +3.9%
+  793 Quarry Street   $820,000   adj -1.0%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: L. Whitfield, CRA   Lic. 75313
+[scanned 2026-10-18 09:24 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | scan_8584.pdf | 3 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: TYLER BRANNIGAN
+Statement period: 16-Jul-2026 to 16-Oct-2026
+Opening balance: $152,393.62
+
+16-Jul-2026     TRANSIT PASS                                $-371.96       $152,021.66
+17-Jul-2026     RESTAURANT                                  $-207.56       $151,814.10
+25-Jul-2026     PAYROLL DEP TAMARACK                       $4,226.54       $156,040.64
+01-Aug-2026     GROCERY STORE                               $-461.80       $155,578.84
+05-Aug-2026     PHARMACY                                    $-297.06       $155,281.78
+05-Aug-2026     RENT PAYMENT                                $-303.58       $154,978.20
+08-Aug-2026     PAYROLL DEP TAMARACK                       $4,226.54       $159,204.74
+08-Aug-2026     TRANSIT PASS                                $-270.09       $158,934.65
+12-Aug-2026     TELECOM BILL                                $-495.49       $158,439.16
+15-Aug-2026     E-TRANSFER RECEIVED REFUND                   $785.06       $159,224.22
+16-Aug-2026     INSURANCE PREM                               $-46.44       $159,177.78
+19-Aug-2026     GROCERY STORE                               $-100.45       $159,077.33
+22-Aug-2026     PAYROLL DEP TAMARACK                       $4,226.54       $163,303.87
+29-Aug-2026     PHARMACY                                    $-486.07       $162,817.80
+30-Aug-2026     PHARMACY                                     $-56.05       $162,761.75
+05-Sep-2026     PAYROLL DEP TAMARACK                       $4,226.54       $166,988.29
+12-Sep-2026     E-TRANSFER RECEIVED T. LEE                   $640.64       $167,628.93
+16-Sep-2026     E-TRANSFER RECEIVED REFUND                   $685.76       $168,314.69
+19-Sep-2026     PAYROLL DEP TAMARACK                       $4,226.54       $172,541.23
+21-Sep-2026     RESTAURANT                                  $-261.87       $172,279.36
+22-Sep-2026     PHARMACY                                    $-367.26       $171,912.10
+23-Sep-2026     E-TRANSFER RECEIVED PRIYA BRANNIGAN       $60,000.00       $231,912.10
+24-Sep-2026     UTILITY PAYMENT                              $-64.84       $231,847.26
+02-Oct-2026     INSURANCE PREM                               $-48.47       $231,798.79
+03-Oct-2026     PAYROLL DEP TAMARACK                       $4,226.54       $236,025.33
+04-Oct-2026     GROCERY STORE                               $-314.46       $235,710.87
+04-Oct-2026     INSURANCE PREM                              $-190.39       $235,520.48
+07-Oct-2026     UTILITY PAYMENT                             $-263.20       $235,257.28
+11-Oct-2026     RESTAURANT                                  $-388.40       $234,868.88
+
+Closing balance: $234,868.88
+[scanned 2026-10-18 09:40 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | final_v2_5668.pdf | 3 page(s) ===
+TAMARACK FOOD DISTRIBUTORS
+EARNINGS STATEMENT
+Employee: BRANNIGAN, Tyler   ID: 78176
+Pay frequency: Bi-weekly
+Pay period: 30/09/2026 - 13/10/2026
+Pay date: 15/10/2026
+Regular earnings   $5,895.58
+GROSS THIS PERIOD      $5,895.58
+Deductions (tax, CPP/QPP, EI, pension)  $1,716.17
+NET PAY               $4,179.41
+GROSS YEAR TO DATE   $123,807.18
+[scanned 2026-10-18 09:58 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | upload_9151.pdf | 2 page(s) ===
+GIFT LETTER
+I, Priya Brannigan, brother of Tyler Brannigan, am giving the sum of $60,000.00 on 19-Sep-2026 towards the purchase of the property at 32 Boulevard Fontaine, Gatineau, QC.
+This is a gift and does not have to be repaid.
+Signature: /s/ Priya Brannigan
+Donor phone: 613-555-0129
+[scanned 2026-10-18 09:29 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | final_v2_7337.pdf | 1 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $12,375.00
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $4,221.89
+Property tax (monthly): $259.86
+Heating (monthly): $161.76
+Condo fees (monthly): N/A
+Liabilities declared by applicant (monthly payment as stated):
+  Personal Line of Credit            $261.00
+  AutoFinance Canada                 $798.00
+[scanned 2026-10-18 09:52 - page 1 of 1 - CONFIDENTIAL]

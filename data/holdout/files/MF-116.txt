@@ -1,0 +1,69 @@
+FILE MF-116  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-08-07
+Applicant: Ethan Larkin
+Property: 489 Birchwood Crescent, Ottawa, ON (house)
+Purchase price: $650,000   Down payment: $65,000
+Stated annual income: $89,500   Employer (stated): Northgate Logistics Inc.
+
+CONDITIONS TO DECIDE:
+  MF-116-C1 [income_proof] Provide proof of income supporting the stated annual income of $89,500.
+  MF-116-C2 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-116-C3 [employment] Confirm current employment.
+
+=== DOCUMENT 1 | upload_9237.pdf | 3 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 489 Birchwood Crescent, Ottawa, ON
+Purchase price: $650,000   Closing date: September 12, 2026
+Deposit paid: $13,000
+[scanned 2026-08-07 09:20 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | IMG_1753.pdf | 3 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 16/04/2026
+SIN/NAS: XXX XXX 507
+Line 15000 Total income:   $90,141.09
+Line 23600 Net income:     $87,501.38
+Balance: $552.58
+[scanned 2026-08-07 09:49 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | IMG_8444.pdf | 3 page(s) ===
+RIVE-NORD EVALUATIONS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 489 Birchwood Crescent, Ottawa, ON   (house)
+Report date: 2026-05-20
+Contract purchase price: $650,000
+OPINION OF MARKET VALUE: $653,000
+Direct comparison approach. Comparables:
+  699 Birchwood Crescent   $655,000   adj +3.4%
+  983 Birchwood Crescent   $628,000   adj -1.7%
+  245 Alder Lane   $637,000   adj -1.5%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: D. Lefebvre, CRA   Lic. 90403
+[scanned 2026-08-07 09:31 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | final_v2_0517.pdf | 1 page(s) ===
+[Letterhead: Northgate Logistics Inc. | 720 Harbour View Road | tel 819-555-0121]
+July 24, 2026
+To whom it may concern,
+This confirms that Ethan Larkin is employed by Northgate Logistics Inc. as Technician.
+Start date: December 7, 2023. Employment status: fixed-term contract, continuously renewed with us since December 7, 2023.
+Current annual base salary: $90,338.70.
+Sincerely,
+/s/ Sana Mackenzie, HR Manager
+[scanned 2026-08-07 09:47 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | IMG_1463.pdf | 2 page(s) ===
+NORTHGATE LOGISTICS INC.
+EARNINGS STATEMENT
+Employee: LARKIN, Ethan   ID: 83216
+Pay frequency: Semi-monthly
+Pay period: 2026-07-20 - 2026-08-03
+Pay date: 2026-08-04
+Regular earnings   $3,797.70
+GROSS THIS PERIOD      $3,797.70
+Deductions (tax, CPP/QPP, EI, pension)  $902.07
+NET PAY               $2,895.63
+GROSS YEAR TO DATE   $56,965.50
+[scanned 2026-08-07 09:55 - page 1 of 2 - CONFIDENTIAL]

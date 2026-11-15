@@ -10,6 +10,7 @@ a rule function (decide_*). The rule functions encode the policy as clarified by
 the arbitration rules (policy/ARBITRATION_RULES.md). If a generated record does
 not produce the decision its scenario intended, it is regenerated.
 """
+import argparse
 import csv
 import datetime as dt
 import json
@@ -788,16 +789,27 @@ def header(ctx, conds):
 
 
 def main():
-    rng = random.Random(SEED)
+    ap = argparse.ArgumentParser(description="Generate synthetic mortgage files and their golden set.")
+    ap.add_argument("--seed", type=int, default=SEED)
+    ap.add_argument("--start-id", type=int, default=1, help="first file number (MF-001 is 1)")
+    ap.add_argument("--n-files", type=int, default=N_FILES)
+    ap.add_argument("--out-dir", default="", help="default: data/files and golden/ (the main set). "
+                    "Holdout: --out-dir data/holdout writes data/holdout/files and data/holdout/golden_set.csv")
+    args = ap.parse_args()
+    rng = random.Random(args.seed)
     pools = {f: [t for t, _, w, _ in SCENARIOS[f] for _ in range(w)] for f in FAMILIES}
     for f in FAMILIES:
         rng.shuffle(pools[f])
     golden = []
-    outdir = ROOT / "data" / "files"
+    if args.out_dir:
+        base = ROOT / args.out_dir
+        outdir, gdir = base / "files", base
+    else:
+        outdir, gdir = ROOT / "data" / "files", ROOT / "golden"
     outdir.mkdir(parents=True, exist_ok=True)
     for old in outdir.glob("*.txt"):
         old.unlink()
-    for i in range(1, N_FILES + 1):
+    for i in range(args.start_id, args.start_id + args.n_files):
         ctx = make_ctx(rng, i)
         k = rng.choice([3, 4, 4, 4, 5, 5])
         fams = sorted(rng.sample(FAMILIES, k), key=FAMILIES.index)
@@ -829,7 +841,6 @@ def main():
             parts += [f"=== DOCUMENT {j} | {fname(rng)} | {pages} page(s) ===", text,
                       f"[scanned {ctx['review'].isoformat()} 09:{rng.randint(10, 59)} - page 1 of {pages} - CONFIDENTIAL]", ""]
         (outdir / f"{ctx['id']}.txt").write_text("\n".join(parts), encoding="utf-8")
-    gdir = ROOT / "golden"
     gdir.mkdir(exist_ok=True)
     cols = list(golden[0].keys())
     with open(gdir / "golden_set.csv", "w", newline="", encoding="utf-8") as fh:

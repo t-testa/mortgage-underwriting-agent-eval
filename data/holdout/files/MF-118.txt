@@ -1,0 +1,136 @@
+FILE MF-118  |  REVISION DES CONDITIONS DE SOUSCRIPTION
+Date de revision: 2026-07-09
+Demandeur: Mathieu Haddad
+Propriete: 799 Quarry Street, Laval, QC (house)
+Prix d achat: 490 000 $   Mise de fonds: 73 500 $
+Revenu annuel declare: 154 500 $   Employeur (declare): Brightfield Insurance Corp.
+
+CONDITIONS A DECIDER:
+  MF-118-C1 [income_proof] Fournir une preuve de revenu appuyant le revenu annuel declare de 154 500 $.
+  MF-118-C2 [down_payment_source] Confirmer la provenance et la disponibilite de la mise de fonds et des frais de cloture.
+  MF-118-C3 [appraisal] Fournir une evaluation acceptable appuyant le prix d'achat.
+  MF-118-C4 [employment] Confirmer l'emploi actuel.
+  MF-118-C5 [debt_ratio] Confirmer que les ratios ABD et ATD respectent la politique.
+
+=== DOCUMENT 1 | Doc_7658.pdf | 2 page(s) ===
+BRIGHTFIELD INSURANCE CORP.
+RELEVE DE PAIE
+Employe: HADDAD, Mathieu   ID: 47021
+Frequence: Aux deux semaines
+Periode: 19 juin 2026 - 2 juillet 2026
+Date de paie: 6 juillet 2026
+Gains reguliers   5 310,77 $
+BRUT PERIODE      5 310,77 $
+Retenues (impot, RPC/RRQ, AE, retraite)  1 462,28 $
+PAIE NETTE               3 848,49 $
+BRUT CUMULATIF   69 040,01 $
+[scanned 2026-07-09 09:54 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | upload_5231.pdf | 2 page(s) ===
+RELEVE DE COMPTE - CHEQUES
+Titulaire: MATHIEU HADDAD
+Periode du releve: 2026-03-03 to 2026-06-29
+Solde d ouverture: 46 939,70 $
+
+2026-03-05      PHARMACY                                   -258,78 $       46 680,92 $
+2026-03-06      RESTAURANT                                 -450,37 $       46 230,55 $
+2026-03-11      PAYROLL DEP BRIGHTFIELD                   4 397,31 $       50 627,86 $
+2026-03-19      GROCERY STORE                              -517,18 $       50 110,68 $
+2026-03-25      PAYROLL DEP BRIGHTFIELD                   4 397,31 $       54 507,99 $
+2026-03-31      FUEL                                       -281,77 $       54 226,22 $
+2026-04-02      TELECOM BILL                               -379,58 $       53 846,64 $
+2026-04-05      UTILITY PAYMENT                            -199,90 $       53 646,74 $
+2026-04-08      PAYROLL DEP BRIGHTFIELD                   4 397,31 $       58 044,05 $
+2026-04-10      DEPOSIT                                  13 330,00 $       71 374,05 $
+2026-04-11      E-TRANSFER RECEIVED A. MORIN                792,41 $       72 166,46 $
+2026-04-20      TELECOM BILL                               -261,48 $       71 904,98 $
+2026-04-22      PAYROLL DEP BRIGHTFIELD                   4 397,31 $       76 302,29 $
+2026-04-30      E-TRANSFER RECEIVED T. LEE                  722,41 $       77 024,70 $
+2026-05-02      FUEL                                       -480,70 $       76 544,00 $
+2026-05-06      PAYROLL DEP BRIGHTFIELD                   4 397,31 $       80 941,31 $
+2026-05-06      PHARMACY                                   -328,76 $       80 612,55 $
+2026-05-11      PHARMACY                                   -517,27 $       80 095,28 $
+2026-05-17      INSURANCE PREM                             -120,13 $       79 975,15 $
+2026-05-20      PAYROLL DEP BRIGHTFIELD                   4 397,31 $       84 372,46 $
+2026-05-31      UTILITY PAYMENT                            -280,16 $       84 092,30 $
+2026-06-03      PAYROLL DEP BRIGHTFIELD                   4 397,31 $       88 489,61 $
+2026-06-03      PHARMACY                                   -141,61 $       88 348,00 $
+2026-06-07      RENT PAYMENT                               -466,91 $       87 881,09 $
+2026-06-12      UTILITY PAYMENT                            -296,22 $       87 584,87 $
+2026-06-14      INSURANCE PREM                             -114,02 $       87 470,85 $
+2026-06-15      RESTAURANT                                  -58,60 $       87 412,25 $
+2026-06-17      PAYROLL DEP BRIGHTFIELD                   4 397,31 $       91 809,56 $
+2026-06-22      RESTAURANT                                 -254,65 $       91 554,91 $
+2026-06-25      INSURANCE PREM                             -140,10 $       91 414,81 $
+2026-06-29      INSURANCE PREM                             -185,96 $       91 228,85 $
+
+Solde de cloture: 91 228,85 $
+[scanned 2026-07-09 09:42 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | final_v2_3256.pdf | 2 page(s) ===
+[Papier a en-tete: Brightfield Insurance Corp. | 698 Birchwood Crescent | tel 819-555-0149]
+24-Jun-2026
+A qui de droit,
+La presente confirme que Mathieu Haddad est employe(e) de Brightfield Insurance Corp. a titre de analyste principal.
+Date d'entree: 05-Oct-2023. Statut: permanent a temps plein.
+L'employe(e) a termine avec succes sa periode de probation.
+Salaire annuel de base actuel: 155 633,68 $.
+Cordialement,
+/s/ Chloe Brannigan, Gestionnaire RH
+[scanned 2026-07-09 09:55 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | Doc_4005.pdf | 2 page(s) ===
+PRAIRIE OAK APPRAISALS
+RAPPORT D'EVALUATION RESIDENTIELLE - SOMMAIRE
+Propriete: 799 Quarry Street, Laval, QC   (house)
+Date du rapport: 09-Jun-2026
+Prix d achat au contrat: 490 000 $
+VALEUR MARCHANDE ESTIMEE: 491 000 $
+Methode de comparaison directe. Comparables:
+  747 Birchwood Crescent   477 000 $   adj -3.6%
+  858 Birchwood Crescent   502 000 $   adj +2.0%
+  767 Boulevard Fontaine   483 000 $   adj +1.8%
+Commentaires:
+  Usure cosmetique mineure notee a la cuisine et au couloir; aucun impact sur la valeur.
+Evaluateur: D. Lefebvre, CRA   Lic. 48487
+[scanned 2026-07-09 09:24 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | scan_3135.pdf | 2 page(s) ===
+Agence du revenu du Canada / Canada Revenue Agency
+AVIS DE COTISATION
+Annee d imposition: 2025      Date d emission: 24 mars 2026
+SIN/NAS: XXX XXX 295
+Line 15000 Revenu total:   133 766,37 $
+Line 23600 Revenu net:     125 619,10 $
+Solde: -1 264,81 $
+[scanned 2026-07-09 09:36 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | IMG_1242.pdf | 2 page(s) ===
+FICHE DE QUALIFICATION HYPOTHECAIRE (ebauche, ratios o confirmer)
+Revenu mensuel brut utilise: 12 875,00 $
+Type de propriete: house
+Paiement hypothecaire de qualification (capital et interets): 4 257,00 $
+Taxes foncieres (mensuel): 298,35 $
+Chauffage (mensuel): 115,66 $
+Frois de copropriete (mcnsuel): N/A
+Dettes declarees par le demandeur (paiement mensuel declare):
+  Vehicle Loan                      885,00 $
+  Student Line of Credit            354,00 $
+[scanned 2026-07-09 09:14 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | Doc_9255.pdf | 3 page(s) ===
+PROMESSE D'ACHAT - extrait (pages 1 et 7 de 14)
+Propriete: 799 Quarry Street, Laval, QC
+Prix d achat: 490 000 $   Date de cloture: 2026/09/03
+Depot verse: 9 800 $
+[scanned 2026-07-09 09:20 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | upload_6871.pdf | 3 page(s) ===
+RAPPORT DE CREDIT - SOMMAIRE
+Sujet: MATHIEU HADDAD    Date du rapport: 2026/06/26
+Cote de credit: 725
+Creancier                 Type              Limite           Solde         Pmt  Statut
+Vehicle Loan              car                    -     28 300,00 $    885,00 $  Ouvert
+Student Line of Credit    loc          80 000,00 $     35 400,00 $    354,00 $  Ouvert
+Demandes (12 mois): 2
+[scanned 2026-07-09 09:11 - page 1 of 3 - CONFIDENTIAL]

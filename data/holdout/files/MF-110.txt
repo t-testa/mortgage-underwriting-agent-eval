@@ -1,0 +1,135 @@
+FILE MF-110  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-07-11
+Applicant: Callum Iyer
+Property: 289 Quarry Street, Kingston, ON (condo)
+Purchase price: $615,000   Down payment: $153,800
+Stated annual income: $165,000   Employer (stated): Lumen Retail Group
+
+CONDITIONS TO DECIDE:
+  MF-110-C1 [income_proof] Provide proof of income supporting the stated annual income of $165,000.
+  MF-110-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-110-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-110-C4 [employment] Confirm current employment.
+  MF-110-C5 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | final_v2_9650.pdf | 1 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 289 Quarry Street, Kingston, ON
+Purchase price: $615,000   Closing date: August 15, 2026
+Deposit paid: $12,300
+[scanned 2026-07-11 09:44 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | upload_9880.pdf | 1 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 19/05/2026
+SIN/NAS: XXX XXX 289
+Line 15000 Total income:   $166,199.04
+Line 23600 Net income:     $158,891.78
+Balance: $-318.94
+[scanned 2026-07-11 09:42 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | final_v2_0972.pdf | 2 page(s) ===
+LUMEN RETAIL GROUP
+EARNINGS STATEMENT
+Employee: IYER, Callum   ID: 93214
+Pay frequency: Bi-weekly
+Pay period: June 6, 2026 - June 19, 2026
+Pay date: June 21, 2026
+Regular earnings   $6,395.87
+GROSS THIS PERIOD      $6,395.87
+Deductions (tax, CPP/QPP, EI, pension)  $1,697.17
+NET PAY               $4,698.70
+GROSS YEAR TO DATE   $83,146.31
+[scanned 2026-07-11 09:22 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | IMG_4424.pdf | 3 page(s) ===
+[Letterhead: Lumen Retail Group | 163 Rue Saint-Exemple | tel 819-555-0111]
+26-May-2026
+To whom it may concern,
+This confirms that Callum Iyer is employed by Lumen Retail Group as Operations Lead.
+Start date: 24-Nov-2017. Employment status: permanent full-time.
+Current annual base salary: $165,375.33.
+Sincerely,
+/s/ Victor Iyer, HR Manager
+[scanned 2026-07-11 09:50 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | scan_7594.pdf | 1 page(s) ===
+SUMMIT PROPERTY VALUATIONS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 289 Quarry Street, Kingston, ON   (condo)
+Report date: April 23, 2026
+Contract purchase price: $615,000
+OPINION OF MARKET VALUE: $636,000
+Dlrect comparison approach. Comparables:
+  759 Boulevard Fontaine   $640,000   adj +3.3%
+  764 Harbour View Road   $626,000   adj +1.1%
+  561 Rue des Peupliers   $632,000   adj -4.0%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: R. Castonguay, AACI   Lic. 68799
+[scanned 2026-07-11 09:40 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | scan_4717.pdf | 3 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: CALLUM IYER
+Statement period: March 18, 2026 to July 2, 2026
+Opening balance: $110,246.54
+
+March 21, 2026  FUEL                                        $-476.86       $109,769.68
+March 21, 2026  E-TRANSFER RECEIVED A. MORIN                 $414.69       $110,184.37
+March 22, 2026  PAYROLL DEP LUMEN                          $4,696.15       $114,880.52
+March 29, 2026  TRANSIT PASS                                $-512.17       $114,368.35
+April 2, 2026   RESTAURANT                                   $-76.17       $114,292.18
+April 5, 2026   PAYROLL DEP LUMEN                          $4,696.15       $118,988.33
+April 5, 2026   TELECOM BILL                                $-256.76       $118,731.57
+April 12, 2026  TELECOM BILL                                $-238.00       $118,493.57
+April 17, 2026  INSURANCE PREM                              $-151.20       $118,342.37
+April 19, 2026  PAYROLL DEP LUMEN                          $4,696.15       $123,038.52
+April 27, 2026  RESTAURANT                                  $-117.87       $122,920.65
+May 3, 2026     PAYROLL DEP LUMEN                          $4,696.15       $127,616.80
+May 12, 2026    UTILITY PAYMENT                              $-22.95       $127,593.85
+May 17, 2026    PAYROLL DEP LUMEN                          $4,696.15       $132,290.00
+May 22, 2026    PHARMACY                                    $-293.01       $131,996.99
+May 31, 2026    PAYROLL DEP LUMEN                          $4,696.15       $136,693.14
+June 4, 2026    UTILITY PAYMENT                             $-285.96       $136,407.18
+June 10, 2026   CASH DEPOSIT BRANCH                       $30,540.00       $166,947.18
+June 14, 2026   PAYROLL DEP LUMEN                          $4,696.15       $171,643.33
+June 16, 2026   TELECOM BILL                                 $-77.66       $171,565.67
+June 23, 2026   FUEL                                        $-374.66       $171,191.01
+June 27, 2026   E-TRANSFER RECEIVED T. LEE                   $651.62       $171,842.63
+June 28, 2026   PAYROLL DEP LUMEN                          $4,696.15       $176,538.78
+June 29, 2026   INSURANCE PREM                               $-32.89       $176,505.89
+July 2, 2026    RENT PAYMENT                                $-318.89       $176,187.00
+
+Closing balance: $176,187.00
+[scanned 2026-07-11 09:59 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | IMG_0236.pdf | 1 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: CALLUM IYER    Report date: 25/06/2026
+Credit score: 720
+Creditor                  Type               Limit         Balance         Pmt  Status
+Travel Rewards Visa       card          $32,100.00      $10,770.00     $215.40  Open
+Vehicle Loan              car                    -      $16,300.00     $363.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-07-11 09:23 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | Doc_0916.pdf | 1 page(s) ===
+FAX COVER SHEET
+To: Mortgage Ops   Pages: 3   Re: documents as requested
+[handwritten: sorry for the blurry pages!]
+[scanned 2026-07-11 09:23 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | upload_7258.pdf | 2 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $13,750.00
+Property type: condo
+Qualifying mortgage payment (P&I, stress-tested): $3,498.01
+Property tax (monthly): $301.21
+Heating (monthly): $168.06
+Condo fees (monthly): $444.53
+Liabilities declared by applicant (monthly payment as stotcd):
+  Travel Rewards Visa                $215.40
+  Vehicle Loan                       $363.00
+[scanned 2026-07-11 09:17 - page 1 of 2 - CONFIDENTIAL]

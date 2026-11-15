@@ -1,0 +1,137 @@
+FILE MF-106  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-08-22
+Applicant: Leila Haddad
+Property: 740 Rue Saint-Exemple, Gatineau, QC (house)
+Purchase price: $820,000   Down payment: $82,000
+Stated annual income: $104,500   Employer (stated): Lumen Retail Group
+
+CONDITIONS TO DECIDE:
+  MF-106-C1 [income_proof] Provide proof of income supporting the stated annual income of $104,500.
+  MF-106-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-106-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-106-C4 [employment] Confirm current employment.
+  MF-106-C5 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | IMG_3078.pdf | 1 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: LEILA HADDAD
+Statement period: April 28, 2026 to August 15, 2026
+Opening balance: $57,682.28
+
+April 28, 2026  PAYROLL DEP LUMEN                          $2,974.23        $60,656.51
+May 7, 2026     GROCERY STORE                                $-96.84        $60,559.67
+May 12, 2026    PAYROLL DEP LUMEN                          $2,974.23        $63,533.90
+May 13, 2026    RESTAURANT                                  $-335.20        $63,198.70
+May 20, 2026    ONLINE PURCHASE                              $-83.86        $63,114.84
+May 26, 2026    PAYROLL DEP LUMEN                          $2,974.23        $66,089.07
+May 27, 2026    FUEL                                        $-106.55        $65,982.52
+May 28, 2026    GROCERY STORE                               $-137.32        $65,845.20
+May 30, 2026    TELECOM BILL                                $-458.05        $65,387.15
+May 31, 2026    E-TRANSFER RECEIVED A. MORIN                 $209.20        $65,596.35
+June 2, 2026    PHARMACY                                    $-392.07        $65,204.28
+June 9, 2026    PAYROLL DEP LUMEN                          $2,974.23        $68,178.51
+June 10, 2026   GROCERY STORE                                $-74.62        $68,103.89
+June 12, 2026   RESTAURANT                                  $-365.42        $67,738.47
+June 13, 2026   E-TRANSFER RECEIVED T. LEE                   $404.09        $68,142.56
+June 15, 2026   INSURANCE PREM                              $-445.01        $67,697.55
+June 18, 2026   E-TRANSFER RECEIVED REFUND                   $899.30        $68,596.85
+June 23, 2026   PAYROLL DEP LUMEN                          $2,974.23        $71,571.08
+July 1, 2026    ONLINE PURCHASE                              $-20.82        $71,550.26
+July 2, 2026    PHARMACY                                    $-261.14        $71,289.12
+July 6, 2026    INSURANCE PREM                              $-406.94        $70,882.18
+July 6, 2026    RESTAURANT                                  $-357.63        $70,524.55
+July 7, 2026    PAYROLL DEP LUMEN                          $2,974.23        $73,498.78
+July 20, 2026   INSURANCE PREM                              $-265.13        $73,233.65
+July 21, 2026   PAYROLL DEP LUMEN                          $2,974.23        $76,207.88
+July 27, 2026   UTILITY PAYMENT                             $-365.43        $75,842.45
+July 28, 2026   PHARMACY                                    $-209.49        $75,632.96
+August 4, 2026  PAYROLL DEP LUMEN                          $2,974.23        $78,607.19
+August 10, 2026 INSURANCE PREM                              $-387.29        $78,219.90
+August 10, 2026 RESTAURANT                                   $-98.32        $78,121.58
+August 14, 2026 RENT PAYMENT                                $-205.91        $77,915.67
+
+Closing balance: $77,915.67
+[scanned 2026-08-22 09:34 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | Doc_0013.pdf | 1 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: LEILA HADDAD    Report date: 2026/08/14
+Credit score: 792
+Creditor                  Type               Limit         Balance         Pmt  Status
+Student Loan (Provincial) student                -      $15,500.00     $330.00  Open
+Maple Visa Gold           card          $20,300.00      $12,110.00     $242.20  Open
+Ridgeline Auto Credit     car                    -           $0.00     $800.00  CLOSED - paid in full
+Inquiries (12 mo): 2
+[scanned 2026-08-22 09:47 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | IMG_4671.pdf | 1 page(s) ===
+LUMEN RETAIL GROUP
+EARNINGS STATEMENT
+Employee: HADDAD, Leila   ID: 62561
+Pay frequency: Monthly
+Pay period: June 15, 2026 - July 14, 2026
+Pay date: July 16, 2026
+Regular earnings   $8,829.87
+GROSS THIS PERIOD      $8,829.87
+Deductions (tax, CPP/QPP, EI, pension)  $2,250.30
+NET PAY               $6,579.57
+GROSS YEAR TO DATE   $61,809.09
+[scanned 2026-08-22 09:12 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | upload_5536.pdf | 1 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: May 2, 2026
+SIN/NAS: XXX XXX 873
+Line 15000 Total income:   $103,930.08
+Line 23600 Net income:     $102,146.57
+Balance: $-1,255.91
+[scanned 2026-08-22 09:37 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | IMG_7941.pdf | 3 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 740 Rue Saint-Exemple, Gatineau, QC
+Purchase price: $820,000   Closing date: 2026/10/21
+Deposit paid: $16,400
+[scanned 2026-08-22 09:22 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | final_v2_1845.pdf | 3 page(s) ===
+LAKESHORE APPRAISAL GROUP
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 740 Rue Saint-Exemple, Gatineau, QC   (house)
+Report date: 04-Jun-2026
+Contract purchase price: $820,000
+OPINION OF MARKET VALUE: $822,000
+Direct comparison opproach. Comparablcs:
+  982 Harbour View Road   $810,000   adj +2.0%
+  484 Chemin des Cedres   $831,000   adj +3.0%
+  592 Boulevard Fontaine   $828,000   adj +4.5%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: R. Castonguay, AACI   Lic. 38418
+[scanned 2026-08-22 09:36 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | Doc_6323.pdf | 3 page(s) ===
+[Letterhead: Lumen Retail Group | 797 Harbour View Road | tel 819-555-0185]
+31/07/2026
+To whom it may concern,
+This confirms that Leilo Haddad is employed by Lumen Retail Group as Account Manager.
+Start date: May 7, 2018. Employment status: permanent full-time.
+Current annual base salary: $105,317.99.
+Sincerely,
+/s/ Elena Mackenzie, HR Manager
+[scanned 2026-08-22 09:54 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | upload_7657.pdf | 3 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $8,708.33
+Property type: h0use
+Qualifying mortgage payment (P&I, stress-tested): $1,998.12
+Property tax (monthly): $522.26
+Heating (monthly): $107.29
+C0ndo fees (monthly): N/A
+Liabilities declared by applicant (monthly payment as stated):
+  Student Loan (Provincial)          $330.00
+  Maple Visa Gold                    $242.20
+  Ridgeline Auto Credit              $800.00
+[scanned 2026-08-22 09:43 - page 1 of 3 - CONFIDENTIAL]

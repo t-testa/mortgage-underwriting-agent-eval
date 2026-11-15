@@ -1,0 +1,110 @@
+FILE MF-108  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-10-19
+Applicant: Nadia Desrosiers
+Property: 53 Birchwood Crescent, Sherbrooke, QC (condo)
+Purchase price: $485,000   Down payment: $72,800
+Stated annual income: $153,000   Employer (stated): Blue Heron Manufacturing
+
+CONDITIONS TO DECIDE:
+  MF-108-C1 [income_proof] Provide proof of income supporting the stated annual income of $153,000.
+  MF-108-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-108-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-108-C4 [employment] Confirm current employment.
+
+=== DOCUMENT 1 | IMG_6044.pdf | 1 page(s) ===
+EVALU-RAPIDE PLUS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 53 Birchwood Crescent, Sherbrooke, QC   (condo)
+Report date: October 9, 2026
+Contract purchase price: $485,000
+OPINION OF MARKET VALUE: $489,000
+Direct comparison approach. Comparables:
+  763 Quarry Street   $486,000   adj +3.3%
+  689 Alder Lane   $474,000   adj +3.7%
+  467 Harbour View Road   $482,000   adj -3.6%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: R. Castonguay, AACI   Lic. 28525
+[scanned 2026-10-19 09:49 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | upload_4409.pdf | 3 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: April 3, 2026
+SIN/NAS: XXX XXX 773
+Line 15000 Total income:   $151,016.87
+Line 23600 Net income:     $142,793.08
+Balance: $-1,401.13
+[scanned 2026-10-19 09:27 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | scan_5607.pdf | 3 page(s) ===
+BILL OF SALE - USED VEHICLE
+Sellcr: Nadia Desrosiers   Buyer: Sana Tremblay-Roy
+Vehicle: 2017 compact sedan, VIN ending 9707
+Sale price: $5,880.00   Date: September 21, 2026
+Paid in full by e-transfer. Sold as is.
+[scanned 2026-10-19 09:57 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | final_v2_0243.pdf | 1 page(s) ===
+Cover note from borrower: 'My employer says the HR person is on leave, will send letter soon. Paystub already sent.'
+[scanned 2026-10-19 09:52 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | Doc_7411.pdf | 3 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 53 Birchwood Crescent, Sherbrooke, QC
+Purchase price: $485,000   Closing date: 2026/12/07
+Deposit paid: $9,700
+[scanned 2026-10-19 09:27 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | IMG_8914.pdf | 1 page(s) ===
+BLUE HERON MANUFACTURING
+EARNINGS STATEMENT
+Employee: DESROSIERS, Nadia   ID: 73568
+Pay frequency: Bi-weekly
+Pay period: 21/09/2026 - October 4, 2026
+Pay date: October 8, 2026
+Regular earnings   $5,698.67
+GROSS THIS PERIOD      $5,698.67
+Deductions (tax, CPP/QPP, EI, pension)  $1,450.47
+NET PAY               $4,248.20
+GROSS YEAR TO DATE   $113,973.40
+[scanned 2026-10-19 09:13 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | final_v2_6700.pdf | 1 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: NADIA DESROSIERS
+Statement period: 2026-06-25 to 2026-10-07
+Opening balance: $76,433.41
+
+2026-07-02      TRANSIT PASS                                $-385.13        $76,048.28
+2026-07-03      INSURANCE PREM                              $-325.39        $75,722.89
+2026-07-08      PAYROLL DEP BLUE HERON                     $4,354.62        $80,077.51
+2026-07-10      FUEL                                        $-278.40        $79,799.11
+2026-07-12      TELECOM BILL                                $-183.44        $79,615.67
+2026-07-18      RESTAURANT                                   $-29.92        $79,585.75
+2026-07-22      PAYROLL DEP BLUE HERON                     $4,354.62        $83,940.37
+2026-07-27      TELECOM BILL                                $-467.38        $83,472.99
+2026-07-31      PHARMACY                                     $-53.67        $83,419.32
+2026-08-05      PAYROLL DEP BLUE HERON                     $4,354.62        $87,773.94
+2026-08-05      PHARMACY                                    $-448.00        $87,325.94
+2026-08-07      FUEL                                        $-195.60        $87,130.34
+2026-08-08      ONLINE PURCHASE                             $-239.54        $86,890.80
+2026-08-08      E-TRANSFER RECEIVED REFUND                   $616.72        $87,507.52
+2026-08-10      FUEL                                        $-197.99        $87,309.53
+2026-08-15      E-TRANSFER RECEIVED TREMBLAY-ROY           $5,880.00        $93,189.53
+2026-08-19      PAYROLL DEP BLUE HERON                     $4,354.62        $97,544.15
+2026-08-20      RENT PAYMENT                                $-294.55        $97,249.60
+2026-08-20      TRANSIT PASS                                $-106.23        $97,143.37
+2026-08-23      RESTAURANT                                  $-240.85        $96,902.52
+2026-08-26      RENT PAYMENT                                $-234.76        $96,667.76
+2026-08-28      TELECOM BILL                                $-178.93        $96,488.83
+2026-09-02      PAYROLL DEP BLUE HERON                     $4,354.62       $100,843.45
+2026-09-13      INSURANCE PREM                              $-430.02       $100,413.43
+2026-09-16      PAYROLL DEP BLUE HERON                     $4,354.62       $104,768.05
+2026-09-19      TELECOM BILL                                 $-31.91       $104,736.14
+2026-09-22      PHARMACY                                    $-434.31       $104,301.83
+2026-09-30      PAYROLL DEP BLUE HERON                     $4,354.62       $108,656.45
+2026-10-01      UTILITY PAYMENT                              $-35.37       $108,621.08
+
+Closing balance: $108,621.08
+[scanned 2026-10-19 09:43 - page 1 of 1 - CONFIDENTIAL]

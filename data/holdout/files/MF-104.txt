@@ -1,0 +1,102 @@
+FILE MF-104  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-06-17
+Applicant: Mei Dubreuil
+Property: 665 Boulevard Fontaine, Hamilton, ON (house)
+Purchase price: $620,000   Down payment: $62,000
+Stated annual income: $139,000   Employer (stated): Brightfield Insurance Corp.
+
+CONDITIONS TO DECIDE:
+  MF-104-C1 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-104-C2 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-104-C3 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | final_v2_1993.pdf | 3 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: MEI DUBREUIL    Report date: June 15, 2026
+Credit score: 761
+Crcditor                  Type               Limit         Balance         Pmt  Status
+Retail Plus Card          card         $199,400.00      $68,070.00   $1,361.40  Open
+Inquiries (12 mo): 2
+[scanned 2026-06-17 09:44 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | Doc_9897.pdf | 1 page(s) ===
+DRIVER LICENCE (copy, masked)
+Name: Mei Dubreuil
+Licence no: XXXX-XXXX-1572
+[scanned 2026-06-17 09:53 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | upload_2109.pdf | 2 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $11,583.33
+Property type: house
+Qualifying mortgage payment (P&I, stress-tested): $3,415.61
+Property tax (monthly): $526.55
+Heating (monthly): $171.18
+Condo fees (monthly): N/A
+Liabilities declared by applicant (monthly payment as stated):
+  Retail Plus Card                 $1,361.40
+[scanned 2026-06-17 09:49 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | final_v2_6947.pdf | 1 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 665 Boulevard Fontaine, Hamilton, ON
+Purchase price: $620,000   Closing date: 29/07/2026
+Deposit paid: $12,400
+[scanned 2026-06-17 09:54 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | scan_6200.pdf | 3 page(s) ===
+MERIDIAN REAL ESTATE APPRAISERS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 665 Boulevard Fontaine, Hamilton, ON   (house)
+Report date: 2026/05/07
+Contract purchase price: $620,000
+OPINION OF MARKET VALUE: $621,000
+Direct comparison approach. Comparables:
+  664 Rue Saint-Exemple   $625,000   adj +3.5%
+  299 Boulevard Fontaine   $630,000   adj -3.4%
+  736 Rue des Peupliers   $635,000   adj +2.0%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: P. Girouard, CRA   Lic. 83443
+[scanned 2026-06-17 09:44 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | Doc_7950.pdf | 1 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: MEI DUBREUIL
+Statement period: 18/02/2026 to June 7, 2026
+Opening balance: $73,983.45
+
+18/02/2026      PAYROLL DEP BRIGHTFIELD                    $3,956.15        $77,939.60
+18/02/2026      PHARMACY                                    $-421.45        $77,518.15
+March 4, 2026   PAYROLL DEP BRIGHTFIELD                    $3,956.15        $81,474.30
+March 4, 2026   RESTAURANT                                  $-191.51        $81,282.79
+March 7, 2026   INSURANCE PREM                              $-350.79        $80,932.00
+March 7, 2026   GROCERY STORE                               $-400.69        $80,531.31
+March 12, 2026  INSURANCE PREM                              $-326.82        $80,204.49
+15/03/2026      INSURANCE PREM                              $-244.78        $79,959.71
+18/03/2026      PAYROLL DEP BRIGHTFIELD                    $3,956.15        $83,915.86
+25/03/2026      GROCERY STORE                               $-468.23        $83,447.63
+28/03/2026      UTILITY PAYMENT                             $-234.57        $83,213.06
+29/03/2026      PHARMACY                                    $-263.54        $82,949.52
+31/03/2026      UTILITY PAYMENT                             $-499.48        $82,450.04
+April 1, 2026   PAYROLL DEP BRIGHTFIELD                    $3,956.15        $86,406.19
+April 4, 2026   TELECOM BILL                                $-312.21        $86,093.98
+15/04/2026      PAYROLL DEP BRIGHTFIELD                    $3,956.15        $90,050.13
+18/04/2026      E-TRANSFER RECEIVED REFUND                   $277.43        $90,327.56
+23/04/2026      FUEL                                        $-368.13        $89,959.43
+29/04/2026      PAYROLL DEP BRIGHTFIELD                    $3,956.15        $93,915.58
+May 7, 2026     PHARMACY                                    $-171.21        $93,744.37
+May 12, 2026    E-TRANSFER RECEIVED T. LEE                   $755.12        $94,499.49
+13/05/2026      PAYROLL DEP BRIGHTFIELD                    $3,956.15        $98,455.64
+14/05/2026      RENT PAYMENT                                 $-83.97        $98,371.67
+24/05/2026      TELECOM BILL                                $-492.69        $97,878.98
+27/05/2026      PAYROLL DEP BRIGHTFIELD                    $3,956.15       $101,835.13
+29/05/2026      GROCERY STORE                               $-464.07       $101,371.06
+29/05/2026      E-TRANSFER RECEIVED T. LEE                   $405.94       $101,777.00
+31/05/2026      INSURANCE PREM                               $-47.04       $101,729.96
+31/05/2026      TRANSIT PASS                                 $-67.58       $101,662.38
+June 3, 2026    ONLINE PURCHASE                             $-446.69       $101,215.69
+June 5, 2026    TRANSIT PASS                                 $-81.18       $101,134.51
+
+Closing balance: $101,134.51
+[scanned 2026-06-17 09:55 - page 1 of 1 - CONFIDENTIAL]

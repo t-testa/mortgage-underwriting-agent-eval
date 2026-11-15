@@ -1,0 +1,149 @@
+FILE MF-102  |  REVISION DES CONDITIONS DE SOUSCRIPTION
+Date de revision: 2026-10-21
+Demandeur: Catherine Tremblay-Roy
+Propriete: 96 Rue Saint-Exemple, Sherbrooke, QC (house)
+Prix d achat: 575 000 $   Mise de fonds: 57 500 $
+Revenu annuel declare: 97 500 $   Employeur (declare): Lumen Retail Group
+
+CONDITIONS A DECIDER:
+  MF-102-C1 [income_proof] Fournir une preuve de revenu appuyant le revenu annuel declare de 97 500 $.
+  MF-102-C2 [down_payment_source] Confirmer la provenance et la disponibilite de la mise de fonds et des frais de cloture.
+  MF-102-C3 [appraisal] Fournir une evaluation acceptable appuyant le prix d'achat.
+  MF-102-C4 [employment] Confirmer l'emploi actuel.
+  MF-102-C5 [debt_ratio] Confirmer que les ratios ABD et ATD respectent la politique.
+
+=== DOCUMENT 1 | Doc_2587.pdf | 2 page(s) ===
+FACTURE DE VENTE - VEHICULE USAGE
+Vendeur: Catherine Tremblay-Roy   Acheteur: Daniel Stanfield
+Vehicule: 2017 compact sedan, VIN ending 4328
+Prix de vente: 10 870,00 $   Date: 2026-08-23
+Paye au complet par virement. Vendu tel quel.
+[scanned 2026-10-21 09:53 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | IMG_1016.pdf | 1 page(s) ===
+CARDINAL EVALUATION SERVICES
+RAPPORT D'EVALUATION RESIDENTIELLE - SOMMAIRE
+Propriete: 96 Rue Saint-Exemple, Sherbrooke, QC   (house)
+Date du rapport: 2026/10/03
+Prix d achat au contrat: 575 000 $
+VALEUR MARCHANDE ESTIMEE: 578 000 $
+Methode de comparaison directe. Comparables:
+  459 Rue Saint-Exemple   596 000 $   adj +3.7%
+  500 Quarry Street   593 000 $   adj +4.7%
+  890 Quarry Street   563 000 $   adj +1.6%
+Commentaires:
+  Usure cosmetique mineure notee a la cuisine et au couloir; aucun impact sur la valeur.
+Evaluateur: S. Thornbury, AACI   Lic. 27816
+[scanned 2026-10-21 09:40 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | upload_5485.pdf | 3 page(s) ===
+RAPPORT DE CREDIT - SOMMAIRE
+Sujet: CATHERINE TREMBLAY-ROY    Date du rapport: 12 octobre 2026
+Cote de credit: 751
+Creancier                 Type              Limite           Solde         Pmt  Statut
+Maple Visa Gold           card          9 700,00 $      3 700,00 $     74,00 $  Ouvert
+Home Equity Line          loc          11 000,00 $      4 500,00 $     45,00 $  Ouvert
+AutoFinance Canada        car                    -     11 700,00 $    198,00 $  Ouvert
+Demandes (12 mois): 2
+[scanned 2026-10-21 09:27 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | final_v2_0316.pdf | 2 page(s) ===
+Agence du revenu du Canada / Canada Revenue Agency
+AVIS DE COTISATION
+Annee d imposition: 2025      Date d emission: 2026-03-23
+SIN/NAS: XXX XXX 740
+Line 15000 Revenu total:   100 310,80 $
+Line 23600 Revenu net:     98 272,64 $
+Solde: -610,44 $
+[scanned 2026-10-21 09:47 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | scan_4825.pdf | 3 page(s) ===
+[Papier a en-tete: Lumen Retail Group | 176 Quarry Street | tel 819-555-0114]
+17 octobre 2026
+A qui de droit,
+La prcsente confirme que Catherine Tremblay-Roy est employe(e) de Lumen Retail Group a titre dc technicien.
+Date d'entree: 1 novembre 2018. Statut: permanent a temps plein.
+Salaire annuel de base actuel: 97 620,22 $.
+Cordialement,
+/s/ Sana Dubreuil, Gestionnaire RH
+[scanned 2026-10-21 09:31 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | IMG_1625.pdf | 1 page(s) ===
+PROMESSE D'ACHAT - extrait (pages 1 et 7 de 14)
+Propriete: 96 Rue Saint-Exemple, Sherbrooke, QC
+Prix d achat: 575 000 $   Date de cloture: 22 novembre 2026
+Depot verse: 11 500 $
+[scanned 2026-10-21 09:51 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | Doc_2599.pdf | 2 page(s) ===
+FAX COVER SHEET
+To: Mortgage Ops   Pages: 3   Re: documents as requested
+[handwritten: sorry for the blurry pages!]
+[scanned 2026-10-21 09:27 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | Doc_9120.pdf | 1 page(s) ===
+LUMEN RETAIL GROUP
+RELEVE DE PAIE
+Employe: TREMBLAY-ROY, Catherine   ID: 95791
+Frcquence: Mensuelle
+Periode: 04-Sep-2026 - 03-Oct-2026
+Date de paie: 04-Oct-2026
+Gains reguliers   8 115,98 $
+BRUT PERIODE      8 115,98 $
+Retenues (impot, RPC/RRQ, AE, retraite)  2 172,91 $
+PAIE NETTE               5 943,07 $
+BRUT CUMULATIF   81 159,80 $
+[scanned 2026-10-21 09:43 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 9 | upload_0651.pdf | 3 page(s) ===
+FICHE DE QUALIFICATION HYPOTHECAIRE (ebauche, ratios a confirmer)
+Revenu mensuel brut utilise: 8 125,00 $
+Type de propriete: house
+Paiement hypothecaire de qualification (capital et interets): 2 111,95 $
+Taxes foncieres (mensuel): 373,06 $
+Chauffage (mensuel): 90,00 $
+Frais de copropriete (mensuel): N/A
+Dettes declarees par le demandeur (paiement mensuel declare):
+  Maple Visa Gold                    74,00 $
+  Home Equity Line                   45,00 $
+  AutoFinance Canada                198,00 $
+[scanned 2026-10-21 09:52 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 10 | scan_5128.pdf | 1 page(s) ===
+RELEVE DE COMPTE - CHEQUES
+Titulaire: CATHERINE TREMBLAY-ROY
+Periode du releve: 30-Jun-2026 to 15-Oct-2026
+Solde d ouverture: 67 272,18 $
+
+30-Jun-2026     ONLINE PURCHASE                            -350,23 $       66 921,95 $
+05-Jul-2026     RENT PAYMENT                               -360,00 $       66 561,95 $
+10-Jul-2026     PAYROLL DEP LUMEN                         2 775,00 $       69 336,95 $
+15-Jul-2026     TELECOM BILL                               -415,93 $       68 921,02 $
+17-Jul-2026     PHARMACY                                   -510,00 $       68 411,02 $
+21-Jul-2026     TRANSIT PASS                               -490,79 $       67 920,23 $
+23-Jul-2026     E-TRANSFER RECEIVED REFUND                  777,27 $       68 697,50 $
+24-Jul-2026     PAYROLL DEP LUMEN                         2 775,00 $       71 472,50 $
+28-Jul-2026     FUEL                                       -369,02 $       71 103,48 $
+30-Jul-2026     UTILITY PAYMENT                             -34,79 $       71 068,69 $
+07-Aug-2026     PAYROLL DEP LUMEN                         2 775,00 $       73 843,69 $
+14-Aug-2026     RENT PAYMENT                               -283,98 $       73 559,71 $
+21-Aug-2026     PAYROLL DEP LUMEN                         2 775,00 $       76 334,71 $
+23-Aug-2026     E-TRANSFER RECEIVED STANFIELD            10 870,00 $       87 204,71 $
+26-Aug-2026     RENT PAYMENT                               -485,29 $       86 719,42 $
+04-Sep-2026     PAYROLL DEP LUMEN                         2 775,00 $       89 494,42 $
+07-Sep-2026     GROCERY STORE                              -310,95 $       89 183,47 $
+16-Sep-2026     TELECOM BILL                               -226,71 $       88 956,76 $
+18-Sep-2026     PAYROLL DEP LUMEN                         2 775,00 $       91 731,76 $
+18-Sep-2026     RESTAURANT                                 -380,45 $       91 351,31 $
+20-Sep-2026     PHARMACY                                   -410,76 $       90 940,55 $
+22-Sep-2026     INSURANCE PREM                              -18,09 $       90 922,46 $
+22-Sep-2026     ONLINE PURCHASE                             -60,50 $       90 861,96 $
+27-Sep-2026     INSURANCE PREM                             -339,19 $       90 522,77 $
+27-Sep-2026     TELECOM BILL                               -331,62 $       90 191,15 $
+01-Oct-2026     GROCERY STORE                              -348,19 $       89 842,96 $
+02-Oct-2026     PAYROLL DEP LUMEN                         2 775,00 $       92 617,96 $
+08-Oct-2026     TELECOM BILL                               -151,80 $       92 466,16 $
+09-Oct-2026     RENT PAYMENT                               -165,23 $       92 300,93 $
+
+Solde de cloture: 92 300,93 $
+[scanned 2026-10-21 09:17 - page 1 of 1 - CONFIDENTIAL]

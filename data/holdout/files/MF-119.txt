@@ -1,0 +1,123 @@
+FILE MF-119  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-06-06
+Applicant: Andre Gagnon
+Property: 110 Birchwood Crescent, Ottawa, ON (condo)
+Purchase price: $665,000   Down payment: $66,500
+Stated annual income: $138,000   Employer (stated): Fairwater Education Board
+
+CONDITIONS TO DECIDE:
+  MF-119-C1 [income_proof] Provide proof of income supporting the stated annual income of $138,000.
+  MF-119-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-119-C3 [employment] Confirm current employment.
+  MF-119-C4 [debt_ratio] Confirm that GDS and TDS are within policy.
+
+=== DOCUMENT 1 | upload_9561.pdf | 3 page(s) ===
+FAIRWATER EDUCATION BOARD
+EARNINGS STATEMENT
+Employee: GAGNON, Andre   ID: 89608
+Pay frequency: Bi-weekly
+Pay period: May 3, 2026 - May 16, 2026
+Pay date: May 18, 2026
+Base salary        $3,626.92
+Commission              $1,680.77
+GROSS THIS PERIOD      $5,307.69
+Deductions (tax, CPP/QPP, EI, pension)  $1,521.03
+NET PAY               $3,786.66
+GROSS YEAR TO DATE   $53,076.90
+[scanned 2026-06-06 09:11 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | final_v2_7344.pdf | 3 page(s) ===
+MORTGAGE QUALIFICATION WORKSHEET (draft, ratios to be confirmed)
+Gross monthly income used: $11,500.00
+Property type: condo
+Qualifying mortgage payment (P&I, stress-tested): $2,382.49
+Property tax (monthly): $517.04
+Heating (monthly): $103.12
+Condo fees (monthly): $342.28
+Liabilities declared by applicant (monthly payment as stated):
+  Ridgeline Auto Credit              $615.00
+  Student Loan (Provincial)          $555.00
+  Home Equity Line                    $81.00
+[scanned 2026-06-06 09:28 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | final_v2_6527.pdf | 2 page(s) ===
+VOID CHEQUE
+Transit 04615  Institution 002  Account ******223
+[scanned 2026-06-06 09:10 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | final_v2_1454.pdf | 2 page(s) ===
+CREDIT BUREAU REPORT - SUMMARY
+Subject: ANDRE GAGNON    Report date: June 1, 2026
+Credit score: 811
+Creditor                  Type               Limit         Balance         Pmt  Status
+Ridgeline Auto Credit     car                    -      $26,400.00     $615.00  Open
+Student Loan (Provincial) student                -      $32,200.00     $555.00  Open
+Home Equity Line          loc           $15,000.00       $8,100.00      $81.00  Open
+Inquiries (12 mo): 2
+[scanned 2026-06-06 09:18 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | Doc_4499.pdf | 2 page(s) ===
+(sent from personal mail account, no letterhead)
+May 26, 2026
+To whom it may concern,
+This confirms that Andre Gagnon is employed by Fairwater Education Board as Account Manager.
+Start date: June 18, 2016. Employment status: permanent full-time.
+Current annual base salary: $135,985.19.
+Sincerely,
+/s/ Priya Kowalczyk, HR Manager
+[scanned 2026-06-06 09:42 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | scan_8207.pdf | 1 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 110 Birchwood Crescent, Ottawa, ON
+Purchase price: $665,000   Closing date: 31/07/2026
+Deposit paid: $13,300
+[scanned 2026-06-06 09:19 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 7 | scan_0528.pdf | 1 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: 2026-03-09
+SIN/NAS: XXX XXX 138
+Line 15000 Total income:   $138,319.94
+Line 23600 Net income:     $134,656.12
+Balance: $-2,239.20
+[scanned 2026-06-06 09:34 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 8 | IMG_5854.pdf | 1 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: ANDRE GAGNON
+Statement period: April 4, 2026 to June 2, 2026
+Opening balance: $90,515.24
+
+April 6, 2026   E-TRANSFER RECEIVED A. MORIN                 $662.05        $91,177.29
+April 10, 2026  ONLINE PURCHASE                             $-482.45        $90,694.84
+April 12, 2026  PHARMACY                                    $-357.81        $90,337.03
+April 16, 2026  PAYROLL DEP FAIRWATER                      $3,927.69        $94,264.72
+April 19, 2026  RENT PAYMENT                                $-254.44        $94,010.28
+April 20, 2026  GROCERY STORE                               $-490.01        $93,520.27
+April 24, 2026  FUEL                                        $-293.64        $93,226.63
+April 28, 2026  TELECOM BILL                                $-462.68        $92,763.95
+April 29, 2026  E-TRANSFER RECEIVED REFUND                   $432.53        $93,196.48
+April 30, 2026  PAYROLL DEP FAIRWATER                      $3,927.69        $97,124.17
+April 30, 2026  ONLINE PURCHASE                             $-327.44        $96,796.73
+May 3, 2026     FUEL                                        $-483.42        $96,313.31
+May 4, 2026     TELECOM BILL                                $-313.11        $96,000.20
+May 4, 2026     PHARMACY                                    $-151.33        $95,848.87
+May 6, 2026     GROCERY STORE                               $-231.47        $95,617.40
+May 10, 2026    E-TRANSFER RECEIVED T. LEE                   $609.64        $96,227.04
+May 13, 2026    RESTAURANT                                  $-212.80        $96,014.24
+May 13, 2026    RESTAURANT                                  $-240.56        $95,773.68
+May 13, 2026    TELECOM BILL                                $-139.57        $95,634.11
+May 14, 2026    PAYROLL DEP FAIRWATER                      $3,927.69        $99,561.80
+May 17, 2026    UTILITY PAYMENT                             $-391.21        $99,170.59
+May 20, 2026    FUEL                                        $-217.62        $98,952.97
+May 23, 2026    TELECOM BILL                                 $-40.50        $98,912.47
+May 24, 2026    RENT PAYMENT                                $-115.31        $98,797.16
+May 28, 2026    PAYROLL DEP FAIRWATER                      $3,927.69       $102,724.85
+June 1, 2026    ONLINE PURCHASE                             $-158.03       $102,566.82
+June 2, 2026    RENT PAYMENT                                $-237.47       $102,329.35
+June 2, 2026    UTILITY PAYMENT                             $-109.01       $102,220.34
+
+Closing balance: $102,220.34
+[scanned 2026-06-06 09:28 - page 1 of 1 - CONFIDENTIAL]

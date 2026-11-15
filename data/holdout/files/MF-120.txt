@@ -1,0 +1,108 @@
+FILE MF-120  |  UNDERWRITING CONDITIONS REVIEW
+Review date: 2026-07-09
+Applicant: Tyler Stanfield
+Property: 173 Quarry Street, Ottawa, ON (house)
+Purchase price: $610,000   Down payment: $122,000
+Stated annual income: $74,000   Employer (stated): Maplebrook Health Services
+
+CONDITIONS TO DECIDE:
+  MF-120-C1 [income_proof] Provide proof of income supporting the stated annual income of $74,000.
+  MF-120-C2 [down_payment_source] Confirm the source and availability of the down payment and closing costs.
+  MF-120-C3 [appraisal] Provide an acceptable appraisal supporting the purchase price.
+  MF-120-C4 [employment] Confirm current employment.
+
+=== DOCUMENT 1 | final_v2_6306.pdf | 1 page(s) ===
+MERIDIAN REAL ESTATE APPRAISERS
+RESIDENTIAL APPRAISAL REPORT - SUMMARY
+Subject: 173 Quarry Street, Ottawa, ON   (house)
+Report date: 13-Jun-2026
+Contract purchase price: $610,000
+OPINION OF MARKET VALUE: $563,000
+Dlrect comparison approach. Comparables:
+  28 Quarry Street   $558,000   adj -2.8%
+  324 Alder Lane   $560,000   adj -2.2%
+  287 Chemin des Cedres   $561,000   adj -2.0%
+Comments:
+  Minor cosmetic wear noted in kitchen and hallway; no impact on value.
+Appraiser: L. Whitfield, CRA   Lic. 29064
+[scanned 2026-07-09 09:29 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 2 | final_v2_5050.pdf | 3 page(s) ===
+AGREEMENT OF PURCHASE AND SALE - excerpt (pages 1 and 7 of 14)
+Property: 173 Quarry Street, Ottawa, ON
+Purchase price: $610,000   Closing date: August 12, 2026
+Deposit paid: $12,200
+[scanned 2026-07-09 09:15 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 3 | final_v2_7692.pdf | 3 page(s) ===
+Canada Revenue Agency / Agence du revenu du Canada
+NOTICE OF ASSESSMENT
+Tax year: 2025      Date issued: March 16, 2026
+SIN/NAS: XXX XXX 568
+Line 15000 Total income:   $74,836.12
+Line 23600 Net income:     $70,709.97
+Balance: $-1,297.17
+[scanned 2026-07-09 09:23 - page 1 of 3 - CONFIDENTIAL]
+
+=== DOCUMENT 4 | IMG_8078.pdf | 2 page(s) ===
+[Letterhead: Maplebrook Health Services | 819 Boulevard Fontaine | tel 819-555-0125]
+June 17, 2026
+To whom it may c0ncern,
+This confirms that Tyler Stanfield is employed by Maplebrook Health Scrvices as Technician.
+Start date: April 15, 2015. Employment status: permanent full-time.
+The employee has successfully completed the probationary perlod.
+Current annual base salary: $76,708.21.
+Sincerely,
+/s/ Victor Dubreuil, HR Manager
+[scanned 2026-07-09 09:42 - page 1 of 2 - CONFIDENTIAL]
+
+=== DOCUMENT 5 | Doc_9895.pdf | 1 page(s) ===
+MAPLEBROOK HEALTH SERVICES
+EARNINGS STATEMENT
+Employee: STANFIELD, Tyler   ID: 12279
+Pay frequency: Monthly
+Pay period: May 29, 2026 - June 27, 2026
+Pay date: June 30, 2026
+Regular earnings   $6,296.19
+GROSS THIS PERIOD      $6,296.19
+Deductions (tax, CPP/QPP, EI, pension)  $1,655.74
+NET PAY               $4,640.45
+GROSS YEAR TO DATE   $37,777.14
+[scanned 2026-07-09 09:31 - page 1 of 1 - CONFIDENTIAL]
+
+=== DOCUMENT 6 | upload_3000.pdf | 2 page(s) ===
+ACCOUNT STATEMENT - CHEQUING
+Account holder: TYLER STANFIELD
+Statement period: 2026/03/27 to 2026/07/05
+Opening balance: $134,458.10
+
+2026/04/05      UTILITY PAYMENT                             $-102.94       $134,355.16
+2026/04/06      PAYROLL DEP MAPLEBROOK                     $2,106.15       $136,461.31
+2026/04/06      E-TRANSFER RECEIVED A. MORIN                 $317.38       $136,778.69
+2026/04/11      INSURANCE PREM                              $-304.68       $136,474.01
+2026/04/16      ONLINE PURCHASE                              $-27.54       $136,446.47
+2026/04/16      INSURANCE PREM                              $-483.65       $135,962.82
+2026/04/19      RESTAURANT                                  $-511.33       $135,451.49
+2026/04/20      PAYROLL DEP MAPLEBROOK                     $2,106.15       $137,557.64
+2026/04/28      TRANSIT PASS                                $-253.70       $137,303.94
+2026/05/04      PAYROLL DEP MAPLEBROOK                     $2,106.15       $139,410.09
+2026/05/07      E-TRANSFER RECEIVED J. ROY                 $4,540.00       $143,950.09
+2026/05/08      RESTAURANT                                  $-184.53       $143,765.56
+2026/05/13      E-TRANSFER RECEIVED REFUND                   $650.64       $144,416.20
+2026/05/18      PAYROLL DEP MAPLEBROOK                     $2,106.15       $146,522.35
+2026/05/23      TELECOM BILL                                 $-61.94       $146,460.41
+2026/05/29      GROCERY STORE                                $-24.43       $146,435.98
+2026/06/01      PAYROLL DEP MAPLEBROOK                     $2,106.15       $148,542.13
+2026/06/02      UTILITY PAYMENT                             $-188.28       $148,353.85
+2026/06/03      FUEL                                        $-432.80       $147,921.05
+2026/06/03      UTILITY PAYMENT                             $-407.46       $147,513.59
+2026/06/05      TELECOM BILL                                $-200.26       $147,313.33
+2026/06/14      INSURANCE PREM                              $-511.72       $146,801.61
+2026/06/15      PAYROLL DEP MAPLEBROOK                     $2,106.15       $148,907.76
+2026/06/16      TELECOM BILL                                $-120.17       $148,787.59
+2026/06/27      ONLINE PURCHASE                             $-390.41       $148,397.18
+2026/06/29      PAYROLL DEP MAPLEBROOK                     $2,106.15       $150,503.33
+2026/07/05      E-TRANSFER RECEIVED REFUND                   $511.13       $151,014.46
+
+Closing balance: $151,014.46
+[scanned 2026-07-09 09:48 - page 1 of 2 - CONFIDENTIAL]
