@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-120",
+ "decisions": [
+  {
+   "condition_id": "MF-120-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "2025 NOA shows $74,836 and the monthly stub annualizes to about $75,554, supporting the stated $74,000."
+  },
+  {
+   "condition_id": "MF-120-C2",
+   "decision": "needs_review",
+   "rule_cited": "DP-03",
+   "rationale": "Balance of $151,014 with a 3-month history covers the $122,000 down payment, but an unexplained $4,540 e-transfer from J. Roy on 2026/05/07 is not documented."
+  },
+  {
+   "condition_id": "MF-120-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Meridian Real Estate Appraisers (on the panel) valued the property at $563,000, well below the $610,000 purchase price."
+  },
+  {
+   "condition_id": "MF-120-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Signed letter on letterhead dated 2026-06-17 confirms permanent full-time employment past probation with salary consistent with the application."
+  }
+ ]
+}

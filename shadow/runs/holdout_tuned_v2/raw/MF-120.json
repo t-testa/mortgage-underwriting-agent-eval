@@ -1,0 +1,6 @@
+{"file_id": "MF-120", "decisions": [
+{"condition_id": "MF-120-C1", "decision": "satisfied", "rule_cited": "INC-03", "rationale": "2025 NOA line 15000 is $74,836.12, above stated $74,000 so no shortfall (AR-01); paystub (period end 27-Jun, 12 days before review) monthly $6,296.19 x 12 = $75,554, YTD $37,777.14 = 6 months."},
+{"condition_id": "MF-120-C2", "decision": "needs_review", "rule_cited": "DP-03", "rationale": "Statement 2026/03/27 to 07/05 spans 100 days and closing balance $151,014.46 exceeds required $122,000 + 1.5% x 610,000 (9,150) = $131,150, but the 2026/05/07 e-transfer from J. Roy of $4,540 is unexplained, in the $2,500 to $5,000 band (AR-06)."},
+{"condition_id": "MF-120-C3", "decision": "not_satisfied", "rule_cited": "APP-02", "rationale": "Appraisal 13-Jun-2026 is 26 days old and Meridian is on the panel, but value $563,000 vs price $610,000 gives shortfall 47,000/610,000 = 7.70%, over 5% (AR-08)."},
+{"condition_id": "MF-120-C4", "decision": "satisfied", "rule_cited": "EMP-03", "rationale": "Letter dated June 17, 2026 is 22 days old (<=30), on letterhead and signed, permanent full-time since 2015, probation completed; salary $76,708.21 exceeds stated $74,000 so consistent (AR-12)."}
+]}

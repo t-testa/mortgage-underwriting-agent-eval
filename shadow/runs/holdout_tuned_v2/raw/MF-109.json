@@ -1,0 +1,6 @@
+{"file_id": "MF-109", "decisions": [
+{"condition_id": "MF-109-C1", "decision": "satisfied", "rule_cited": "INC-03", "rationale": "Semi-monthly stub (pay date 2026-07-05, 6 days old) gross 3,537.03 x 24 = 84,888.72; NOA 2025 line 15000 = 82,984.51; both at or above stated 82,000, so no shortfall (AR-01)."},
+{"condition_id": "MF-109-C2", "decision": "needs_review", "rule_cited": "DP-03", "rationale": "Required funds = 63,600 + 1.5% x 795,000 (11,925) = 75,525; closing balance 104,436.75 covers it and history spans 24 Mar-8 Jul (106 days, over 90). However the 27 May deposit of 4,620.00 is non-payroll with no explanation document: 2,500 to 5,000 band, needs_review (AR-06)."},
+{"condition_id": "MF-109-C3", "decision": "satisfied", "rule_cited": "APP-02", "rationale": "Meridian Real Estate Appraisers is on the panel; report 26 Apr 2026 is 76 days old (90 or fewer); value 839,000 is at or above price 795,000; only cosmetic comments, ignored (AR-09)."},
+{"condition_id": "MF-109-C4", "decision": "satisfied", "rule_cited": "DTI-01", "rationale": "Housing = 1,576.22 + 355.24 + 143.39 + 50% x 479.65 (239.83) = 2,314.68; GDS = 2,314.68 / 6,833.33 = 33.87% (max 39%). Debts per bureau: student 97 + car 275 = 372; TDS = 2,686.68 / 6,833.33 = 39.32% (max 44%). Score 788 is at least 600."}
+]}

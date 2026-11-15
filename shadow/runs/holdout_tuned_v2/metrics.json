@@ -1,0 +1,63 @@
+{
+  "run": "holdout_tuned_v2",
+  "golden": "data/holdout/golden_set.csv",
+  "files": 20,
+  "conditions": 87,
+  "correct": 86,
+  "accuracy": 0.9885057471264368,
+  "auto_decided": 71,
+  "auto_wrong": 0,
+  "agent_needs_review": 16,
+  "no_answer": 0,
+  "false_approvals": 0,
+  "skipped_escalations": 0,
+  "queue_by_reason": {
+    "agent_error": 1
+  },
+  "queue_by_severity": {
+    "P4 low (over-escalation, extra human touch)": 1
+  },
+  "by_family": {
+    "income_proof": {
+      "n": 19,
+      "ok": 18,
+      "auto": 14,
+      "auto_wrong": 0,
+      "review": 5
+    },
+    "down_payment_source": {
+      "n": 17,
+      "ok": 17,
+      "auto": 13,
+      "auto_wrong": 0,
+      "review": 4
+    },
+    "appraisal": {
+      "n": 19,
+      "ok": 19,
+      "auto": 18,
+      "auto_wrong": 0,
+      "review": 1
+    },
+    "employment": {
+      "n": 15,
+      "ok": 15,
+      "auto": 11,
+      "auto_wrong": 0,
+      "review": 4
+    },
+    "debt_ratio": {
+      "n": 17,
+      "ok": 17,
+      "auto": 15,
+      "auto_wrong": 0,
+      "review": 2
+    }
+  },
+  "confusion": {
+    "not_satisfied|not_satisfied": 22,
+    "needs_review|needs_review": 15,
+    "satisfied|satisfied": 49,
+    "satisfied|needs_review": 1
+  }
+}

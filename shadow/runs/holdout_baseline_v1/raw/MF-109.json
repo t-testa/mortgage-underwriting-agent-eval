@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-109",
+ "decisions": [
+  {
+   "condition_id": "MF-109-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "2025 NOA total income $82,984 and semi-monthly pay stub (~$84,889 annualized, YTD consistent) support the stated $82,000."
+  },
+  {
+   "condition_id": "MF-109-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing balance of $104,437 with 3.5 months of history covers the $63,600 down payment plus closing costs; the single $4,620 deposit is immaterial since funds suffice without it."
+  },
+  {
+   "condition_id": "MF-109-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-06",
+   "rationale": "Meridian Real Estate Appraisers is on the panel, report dated 2026-04-26 is recent, value $839,000 supports the $795,000 price, and only cosmetic comments with no value impact."
+  },
+  {
+   "condition_id": "MF-109-C4",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS is about 33.9-37.4% and TDS about 39.3-42.8% (50% vs 100% condo fees), both within 39%/44%, with credit score 788 (DTI-02)."
+  }
+ ]
+}

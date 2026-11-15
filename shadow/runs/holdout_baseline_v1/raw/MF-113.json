@@ -1,0 +1,6 @@
+{"file_id":"MF-113","decisions":[
+{"condition_id":"MF-113-C1","decision":"needs_review","rule_cited":"INC-03","rationale":"The NOA ($124,124) and paystub (about $125,900 annualized) are roughly 8-10% below the stated $137,500, and the employer letter's $140,211 salary does not match the paystub, so the shortfall needs escalation."},
+{"condition_id":"MF-113-C2","decision":"satisfied","rule_cited":"APP-02","rationale":"Prairie Oak Appraisals is on the approved panel, the April 2026 report values the property at $568,000 against a $565,000 price, and no appraisal conditions are noted."},
+{"condition_id":"MF-113-C3","decision":"satisfied","rule_cited":"EMP-03","rationale":"A July 8, 2026 letter on letterhead, signed by the HR Manager, confirms permanent full-time employment at the stated employer, and the paystub corroborates it."},
+{"condition_id":"MF-113-C4","decision":"needs_review","rule_cited":"DTI-01","rationale":"The draft worksheet gives GDS of about 36.5% and TDS of about 40.8% on stated income, but on documented income of about $125,000 TDS rises to about 44.9%, above the 44% limit."}
+]}

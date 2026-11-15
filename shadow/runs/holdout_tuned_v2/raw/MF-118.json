@@ -1,0 +1,7 @@
+{"file_id": "MF-118", "decisions": [
+{"condition_id": "MF-118-C1", "decision": "needs_review", "rule_cited": "INC-03", "rationale": "2025 NOA line 15000 is $133,766.37 vs stated $154,500: shortfall = 20,733.63/154,500 = 13.42% (over 5% up to 15%, AR-01). Paystub (3 days old) annualized 5,310.77 x 26 = $138,080 gives 10.6%, same band."},
+{"condition_id": "MF-118-C2", "decision": "not_satisfied", "rule_cited": "DP-03", "rationale": "Statement spans 118 days and closing balance $91,228.85 exceeds required $73,500 + 1.5% x 490,000 (7,350) = $80,850, but the 2026-04-10 non-payroll DEPOSIT of $13,330 is unexplained and over $5,000 (AR-06)."},
+{"condition_id": "MF-118-C3", "decision": "satisfied", "rule_cited": "APP-02", "rationale": "Appraisal dated 09-Jun-2026 is 30 days old (<=90); value $491,000 >= price $490,000; Prairie Oak Appraisals is on the panel; cosmetic comments only."},
+{"condition_id": "MF-118-C4", "decision": "satisfied", "rule_cited": "EMP-03", "rationale": "Letter dated 24-Jun-2026 is 15 days old (<=30), on letterhead and signed, permanent full-time since Oct 2023, probation completed; salary $155,633.68 is above stated $154,500 so consistent (AR-12)."},
+{"condition_id": "MF-118-C5", "decision": "not_satisfied", "rule_cited": "DTI-01", "rationale": "Housing = 4,257.00 + 298.35 + 115.66 = $4,671.01; GDS = 4,671.01/12,875 = 36.28% (ok). Other debts: vehicle loan 885 + student LOC 3% x 35,400 = 1,062 = 1,947; TDS = 6,618.01/12,875 = 51.40%, over 44% by 7.4 points; AR-14 does not apply."}
+]}

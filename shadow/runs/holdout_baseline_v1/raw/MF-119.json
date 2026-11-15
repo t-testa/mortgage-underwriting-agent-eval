@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-119",
+ "decisions": [
+  {
+   "condition_id": "MF-119-C1",
+   "decision": "needs_review",
+   "rule_cited": "INC-05",
+   "rationale": "The NOA total of $138,320 supports the stated income, but about a third of current pay is commission with only year-to-date history on file, and the letter's $135,985 base conflicts with the stub's base pay."
+  },
+  {
+   "condition_id": "MF-119-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing balance of $102,220 with a 2-month history and no large or unusual deposits covers the $66,500 down payment and closing costs."
+  },
+  {
+   "condition_id": "MF-119-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "EMP-02",
+   "rationale": "The employment letter was sent from a personal mail account with no company letterhead."
+  },
+  {
+   "condition_id": "MF-119-C4",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "Using the $11,500 monthly income supported by the NOA, GDS is about 29.1% and TDS about 40.0%, within limits, with an 811 credit score."
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-118",
+ "decisions": [
+  {
+   "condition_id": "MF-118-C1",
+   "decision": "needs_review",
+   "rule_cited": "INC-03",
+   "rationale": "2025 NOA shows $133,766 and the pay stub annualizes to about $138,000 versus the stated $154,500, a material shortfall requiring escalation."
+  },
+  {
+   "condition_id": "MF-118-C2",
+   "decision": "needs_review",
+   "rule_cited": "DP-03",
+   "rationale": "Balance of $91,229 covers the $73,500 down payment, but an unexplained $13,330 deposit on 2026-04-10 is not documented."
+  },
+  {
+   "condition_id": "MF-118-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Prairie Oak Appraisals (on the approved panel) valued the property at $491,000 on 2026-06-09, supporting the $490,000 price, with no conditions."
+  },
+  {
+   "condition_id": "MF-118-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Signed letter on letterhead dated 2026-06-24 confirms permanent full-time employment past probation with base salary consistent with the application."
+  },
+  {
+   "condition_id": "MF-118-C5",
+   "decision": "needs_review",
+   "rule_cited": "DTI-03",
+   "rationale": "GDS is about 36.3% but TDS is about 45.9% (above 44%) with a 725 credit score, so a possible marginal exception must be escalated."
+  }
+ ]
+}

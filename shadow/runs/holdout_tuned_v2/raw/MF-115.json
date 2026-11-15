@@ -1,0 +1,7 @@
+{"file_id":"MF-115","decisions":[
+{"condition_id":"MF-115-C1","decision":"satisfied","rule_cited":"INC-03/AR-01","rationale":"Paystub (pay date 2026-06-09, 10 days old) semi-monthly 2,896.12 x 24 = 69,506.88 exceeds stated 67,500, so no shortfall; NOA 2025 line 15000 68,321.02 also exceeds stated."},
+{"condition_id":"MF-115-C2","decision":"satisfied","rule_cited":"DP-01/DP-02/DP-03/AR-05","rationale":"Required funds 52,800 + 1.5% x 660,000 (9,900) = 62,700; closing balance 90,521.55 covers it. History 2026-02-17 to 2026-06-13 = 116 days >= 90. Non-payroll deposits are 642.23, 852.56, 121.80, all under 2,500."},
+{"condition_id":"MF-115-C3","decision":"needs_review","rule_cited":"APP-05/AR-09","rationale":"Report 2026-04-01 is 79 days old, panel appraiser Cardinal, value 661,000 >= price 660,000, but the appraiser recommends further foundation inspection with value as-is, which AR-09 sends to needs_review."},
+{"condition_id":"MF-115-C4","decision":"needs_review","rule_cited":"EMP-06/AR-12","rationale":"Letter 2026-05-29 is 21 days old, signed, letterhead, permanent full-time, but salary 57,990.07 is (67,500-57,990.07)/67,500 = 14.1% below stated income, over the 5% threshold."},
+{"condition_id":"MF-115-C5","decision":"satisfied","rule_cited":"DTI-01/AR-13","rationale":"Using worksheet gross monthly income 5,625.00: housing 1,272.18+291.80+144.96 = 1,708.94, GDS 30.4%. Student loan 439; vehicle loan is closed at 0 balance so excluded; TDS = 2,147.94/5,625.00 = 38.2%. Within limits; score 747."}
+]}

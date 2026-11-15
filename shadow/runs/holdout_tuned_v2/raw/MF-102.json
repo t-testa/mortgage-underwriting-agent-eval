@@ -1,0 +1,7 @@
+{"file_id": "MF-102", "decisions": [
+{"condition_id": "MF-102-C1", "decision": "satisfied", "rule_cited": "AR-01", "rationale": "Paystub pay date 2026-10-04 (17 days old): monthly 8,115.98 x 12 = 97,391.76 vs stated 97,500, shortfall 0.11%; 2025 NOA on file (line 15000 100,310.80, higher than stated)."},
+{"condition_id": "MF-102-C2", "decision": "satisfied", "rule_cited": "AR-05", "rationale": "History 30-Jun to 15-Oct = 107 days (>=90); required funds 57,500 + 8,625 = 66,125 vs closing balance 92,300.93. The 10,870 non-payroll deposit (2026-08-23) is explained by the bill of sale matching Stanfield; other non-payroll deposit 777.27 is under 2,500."},
+{"condition_id": "MF-102-C3", "decision": "satisfied", "rule_cited": "AR-08", "rationale": "Report 2026-10-03 is 18 days old (<=90); Cardinal Evaluation Services is on panel; value 578,000 >= price 575,000; cosmetic comments only."},
+{"condition_id": "MF-102-C4", "decision": "satisfied", "rule_cited": "AR-12", "rationale": "Letter dated 2026-10-17 (4 days old), on letterhead, signed, permanent full-time since 2018; salary 97,620.22 is above stated 97,500, no shortfall."},
+{"condition_id": "MF-102-C5", "decision": "satisfied", "rule_cited": "AR-13", "rationale": "Housing 2,111.95+373.06+90.00 = 2,575.01; GDS = 2,575.01/8,125 = 31.69%. Other debts: Visa 3% x 3,700 = 111 + HELOC 3% x 4,500 = 135 + auto 198 = 444; TDS = 3,019.01/8,125 = 37.16%. Within limits; score 751."}
+]}

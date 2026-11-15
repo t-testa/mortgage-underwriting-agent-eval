@@ -22,6 +22,7 @@ FAMS = ["income_proof", "down_payment_source", "appraisal", "employment", "debt_
 
 def compute(m, A):
     n = m["conditions"]
+    files = m.get("files", A["files_measured"])
     mins = A["manual_minutes_per_condition"]
     base_touch = n * (1 + A["manual_rework_rate"])
     base_min = sum(m["by_family"][f]["n"] * mins[f] for f in FAMS) * (1 + A["manual_rework_rate"] * A["rework_minutes_multiplier"])
@@ -35,32 +36,34 @@ def compute(m, A):
     auto_share = m["auto_decided"] / n
     wait_base = A["queue_wait_hours_per_human_touch"]
     wait_fut = (1 - auto_share) * wait_base + auto_share * A["agent_decision_wait_hours"]
-    scale = A["scale_to_files"] / A["files_measured"]
+    scale = A["scale_to_files"] / files
     return dict(
         n=n, auto=auto_share, safe=(m["auto_decided"] - m["auto_wrong"]) / n, diverge=1 - m["accuracy"],
         base_touch=base_touch, fut_touch=fut_touch, touch_saved=base_touch - fut_touch,
         touch_saved_pct=(base_touch - fut_touch) / base_touch,
         base_hours=base_min / 60, fut_hours=fut_min / 60, hours_saved=(base_min - fut_min) / 60,
         hours_saved_scaled=(base_min - fut_min) / 60 * scale,
-        wait_base=wait_base, wait_fut=wait_fut, wait_saved_pct=(wait_base - wait_fut) / wait_base,
+        files=files, accuracy=m["accuracy"], wait_base=wait_base, wait_fut=wait_fut, wait_saved_pct=(wait_base - wait_fut) / wait_base,
         rework_base=A["manual_rework_rate"], rework_agent=m["auto_wrong"] / n,
         false_approvals=m["false_approvals"], scale=scale)
 
 
 def main():
-    runs = sys.argv[1:] or ["baseline_v1", "tuned_v2"]
+    runs = sys.argv[1:] or ["baseline_v1", "tuned_v2", "holdout_baseline_v1", "holdout_tuned_v2"]
     A = json.loads((ROOT / "config_log" / "value_assumptions.json").read_text(encoding="utf-8"))
     M = {r: json.loads((ROOT / "shadow" / "runs" / r / "metrics.json").read_text(encoding="utf-8")) for r in runs}
     V = {r: compute(M[r], A) for r in runs}
     pct = lambda x: f"{x * 100:.1f}%"
     out = ["# Value baseline report", "",
-           "**Read this first.** Agent results are measured against the golden set on 50 synthetic files. "
+           "**Read this first.** Agent results are measured against the golden set. Columns baseline_v1 and tuned_v2 use the 50 tuning files; "
+           "holdout_* columns use 20 unseen files (MF-101 to MF-120) and a separate, hash-locked golden set. "
            "Manual-process numbers (minutes per condition, rework rate, queue wait) are ILLUSTRATIVE assumptions in "
            "`config_log/value_assumptions.json`, not measurements. In a real engagement they come from the client's "
            "signed process blueprint and every result is compared to that baseline.", "",
            "## Headline metrics", "",
            "| Metric | " + " | ".join(runs) + " |", "|---|" + "---|" * len(runs)]
-    rows = [("Conditions scored", lambda v: str(v["n"])),
+    rows = [("Files / conditions scored", lambda v: f"{v['files']} / {v['n']}"),
+            ("Accuracy vs golden", lambda v: pct(v["accuracy"])),
             ("Automation rate (agent decides itself)", lambda v: pct(v["auto"])),
             ("Safe automation rate (decides itself and is right)", lambda v: pct(v["safe"])),
             ("Divergence rate vs golden", lambda v: pct(v["diverge"])),
@@ -74,10 +77,10 @@ def main():
     out += ["", "## Estimated interventions, effort, cycle time and rework (assumption-driven)", "",
             "| Metric | " + " | ".join(runs) + " |", "|---|" + "---|" * len(runs)]
     rows2 = [
-        ("Human touches, manual process (50 files)", lambda v: f"{v['base_touch']:.0f}"),
-        ("Human touches, with agent (50 files)", lambda v: f"{v['fut_touch']:.0f}"),
+        ("Human touches, manual process (this run's files)", lambda v: f"{v['base_touch']:.0f}"),
+        ("Human touches, with agent (this run's files)", lambda v: f"{v['fut_touch']:.0f}"),
         ("Touches avoided", lambda v: f"{v['touch_saved']:.0f} ({pct(v['touch_saved_pct'])})"),
-        ("Handling hours saved (50 files)", lambda v: f"{v['hours_saved']:.1f} h"),
+        ("Handling hours saved (this run's files)", lambda v: f"{v['hours_saved']:.1f} h"),
         (f"Handling hours saved, scaled to {int(A['scale_to_files'])} files", lambda v: f"{v['hours_saved_scaled']:.0f} h"),
         ("Avg queue wait per condition, manual", lambda v: f"{v['wait_base']:.1f} h"),
         ("Avg queue wait per condition, with agent", lambda v: f"{v['wait_fut']:.2f} h ({pct(v['wait_saved_pct'])} lower)"),

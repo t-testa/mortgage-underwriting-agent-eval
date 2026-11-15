@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-105",
+ "decisions": [
+  {
+   "condition_id": "MF-105-C1",
+   "decision": "needs_review",
+   "rule_cited": "INC-03",
+   "rationale": "Earnings and NOA figures roughly support $163,000 (paystub annualizes to $163,000 incl. $56,400 commission), but the two NOAs carry different SINs (993 vs 586) and the paystub base (~$106,600) conflicts with the letter base ($142,176), so escalate."
+  },
+  {
+   "condition_id": "MF-105-C2",
+   "decision": "satisfied",
+   "rule_cited": "APP-06",
+   "rationale": "Prairie Oak Appraisals is on the panel, report dated May 22, 2026 is recent, and the $451,000 value supports the $450,000 price with no conditions."
+  },
+  {
+   "condition_id": "MF-105-C3",
+   "decision": "needs_review",
+   "rule_cited": "EMP-06",
+   "rationale": "Letter is signed, on letterhead, permanent full-time and recent, but its $142,176 base salary is inconsistent with the paystub base of $4,441.67 semi-monthly (~$106,600), so it does not clearly match the file."
+  },
+  {
+   "condition_id": "MF-105-C4",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS is about 27.1% and TDS about 37.2% on $13,583.33 monthly income (still under 44% with a 3% card assumption), and the credit score of 716 meets DTI-02."
+  }
+ ]
+}

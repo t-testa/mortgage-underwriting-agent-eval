@@ -1,0 +1,6 @@
+{"file_id": "MF-105", "decisions": [
+{"condition_id": "MF-105-C1", "decision": "satisfied", "rule_cited": "INC-05/AR-02", "rationale": "Paystub has commission (variable), so average line 15000 of two NOAs: (167,333.46+162,262.84)/2 = 164,798.15, above stated 163,000, no shortfall. Paystub dated 2026-08-02 is 5 days old; semi-monthly 6,791.67 x 24 = 163,000.08."},
+{"condition_id": "MF-105-C2", "decision": "satisfied", "rule_cited": "APP-02", "rationale": "Prairie Oak Appraisals is on panel; report 2026-05-22 is 77 days old (<=90); value 451,000 >= price 450,000; cosmetic comment ignored."},
+{"condition_id": "MF-105-C3", "decision": "needs_review", "rule_cited": "EMP-06/AR-12", "rationale": "Letter dated 2026-07-12 (26 days), letterhead, signed, permanent full-time, start 2025-02-07. But letter base salary 142,176.12 vs stated 163,000 is (163,000-142,176.12)/163,000 = 12.8% below, more than 5%."},
+{"condition_id": "MF-105-C4", "decision": "satisfied", "rule_cited": "DTI-01/AR-13", "rationale": "Housing = 3,187.05+338.69+148.54 = 3,674.28; income 13,583.33; GDS 27.05%. Debts: card 3% x 12,390 = 371.70 + car 1,127.00; TDS = 5,172.98/13,583.33 = 38.08%. Both within 39/44; score 716 >= 600."}
+]}

@@ -1,0 +1,7 @@
+{"file_id": "MF-106", "decisions": [
+{"condition_id": "MF-106-C1", "decision": "not_satisfied", "rule_cited": "INC-01/AR-04", "rationale": "Only paystub has pay date 2026-07-16 (period end 07-14), 37 days (39 from period end) before review date 2026-08-22, over the 30-day limit. Income itself supports stated (8,829.87 x 12 = 105,958.44; NOA 103,930.08 is a 0.5% shortfall)."},
+{"condition_id": "MF-106-C2", "decision": "not_satisfied", "rule_cited": "DP-02/AR-05", "rationale": "Required funds = 82,000 + 1.5% x 820,000 (12,300) = 94,300; closing balance 77,915.67 is below. History spans 109 days (seasoning ok)."},
+{"condition_id": "MF-106-C3", "decision": "satisfied", "rule_cited": "APP-02", "rationale": "Lakeshore Appraisal Group on panel; report 2026-06-04 is 79 days old (<=90); value 822,000 >= price 820,000; cosmetic comment ignored."},
+{"condition_id": "MF-106-C4", "decision": "satisfied", "rule_cited": "EMP-03", "rationale": "Letter dated 2026-07-31 is 22 days old, letterhead, signed, permanent full-time since 2018; salary 105,317.99 is above stated 104,500 (OCR typo in name ignored)."},
+{"condition_id": "MF-106-C5", "decision": "satisfied", "rule_cited": "DTI-01/AR-13", "rationale": "Housing = 1,998.12+522.26+107.29 = 2,627.67; income 8,708.33; GDS 30.18%. Debts: student 330 + card 3% x 12,110 = 363.30 (closed auto excluded); TDS = 3,320.97/8,708.33 = 38.13%. Score 792."}
+]}

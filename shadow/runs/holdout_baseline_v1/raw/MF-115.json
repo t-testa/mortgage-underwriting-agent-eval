@@ -1,0 +1,7 @@
+{"file_id":"MF-115","decisions":[
+{"condition_id":"MF-115-C1","decision":"needs_review","rule_cited":"INC-03","rationale":"The NOA ($68,321) and paystub (about $69,500 annualized) support the stated $67,500, but the employer letter states a base salary of only $57,990, a conflict that needs escalation."},
+{"condition_id":"MF-115-C2","decision":"satisfied","rule_cited":"DP-02","rationale":"The chequing statement shows about $79,000 to $90,500 in seasoned funds with no unusual deposits, covering the $52,800 down payment and closing costs."},
+{"condition_id":"MF-115-C3","decision":"needs_review","rule_cited":"APP-05","rationale":"Cardinal Evaluation Services is on the panel and the $661,000 value supports the price, but the appraiser recommends a foundation inspection and there is no evidence it was cleared."},
+{"condition_id":"MF-115-C4","decision":"needs_review","rule_cited":"EMP-06","rationale":"The May 29, 2026 letter confirms permanent full-time employment, but its $57,990 salary is inconsistent with the stated income and the paystub."},
+{"condition_id":"MF-115-C5","decision":"needs_review","rule_cited":"DTI-01","rationale":"The worksheet wrongly includes a paid-off vehicle loan; corrected ratios on stated income are about GDS 30% and TDS 38%, but on the letter's $57,990 salary TDS is about 44.5%, above the limit."}
+]}

@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-110",
+ "decisions": [
+  {
+   "condition_id": "MF-110-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "NOA $166,199, pay stub (~$166,292 annualized, YTD consistent) and employment letter $165,375 all support the stated $165,000."
+  },
+  {
+   "condition_id": "MF-110-C2",
+   "decision": "not_satisfied",
+   "rule_cited": "DP-03",
+   "rationale": "A $30,540 cash deposit on June 10 is unexplained; without it the balance (~$145,647) is below the $153,800 down payment plus closing costs."
+  },
+  {
+   "condition_id": "MF-110-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-06",
+   "rationale": "Summit Property Valuations is on the panel, report dated 2026-04-23 is recent, value $636,000 supports the $615,000 price, only cosmetic comments."
+  },
+  {
+   "condition_id": "MF-110-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Letter on letterhead, signed by HR Manager, dated 2026-05-26, permanent full-time since 2017, consistent with application and pay stub."
+  },
+  {
+   "condition_id": "MF-110-C5",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS is about 30.5-32.1% and TDS about 34.7-36.3% (50% vs 100% condo fees), within limits, with credit score 720 (DTI-02)."
+  }
+ ]
+}

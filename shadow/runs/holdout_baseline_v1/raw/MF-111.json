@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-111",
+ "decisions": [
+  {
+   "condition_id": "MF-111-C1",
+   "decision": "needs_review",
+   "rule_cited": "INC-03",
+   "rationale": "Documented income falls short of the stated $119,500: 2025 NOA total income $106,671 and pay stub ~$108,429 annualized (about 10% shortfall), and stub YTD and bank payroll deposits conflict with the April 28 start date, so escalate."
+  },
+  {
+   "condition_id": "MF-111-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing balance of $102,605 with 3 months of history and no large or unusual deposits covers the $73,500 down payment plus closing costs."
+  },
+  {
+   "condition_id": "MF-111-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-06",
+   "rationale": "Lakeshore Appraisal Group is on the panel, report dated 2026-05-10 is recent, value $741,000 supports the $735,000 price, only cosmetic comments."
+  },
+  {
+   "condition_id": "MF-111-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "EMP-04",
+   "rationale": "The employment letter states the applicant started 2026-04-28 and is within a six-month probationary period, and no exception approval is on file."
+  },
+  {
+   "condition_id": "MF-111-C5",
+   "decision": "needs_review",
+   "rule_cited": "DTI-03",
+   "rationale": "TDS is about 44.03% on the stated figures (higher with standard card-payment methodology, and income is overstated vs documents), marginally above 44%, so an exception decision is needed given a 758 credit score."
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+{"file_id": "MF-103", "decisions": [
+{"condition_id": "MF-103-C1", "decision": "needs_review", "rule_cited": "INC-03", "rationale": "Documented income ranges from about $147,500 (NOA and annualized pay stub) to $152,821 (letter) against the stated $154,000, a shortfall of up to about 4% whose materiality policy does not define."},
+{"condition_id": "MF-103-C2", "decision": "needs_review", "rule_cited": "DP-02", "rationale": "The $78,464 seasoned balance exceeds the $73,500 down payment with no unexplained deposits, but the remaining margin may not cover closing costs and the closing cost amount is not on file."},
+{"condition_id": "MF-103-C3", "decision": "not_satisfied", "rule_cited": "APP-02", "rationale": "The appraiser is on the panel, but the $460,000 value is about 6% below the $490,000 purchase price."},
+{"condition_id": "MF-103-C4", "decision": "needs_review", "rule_cited": "EMP-02", "rationale": "The letter is recent, on letterhead, and shows permanent full-time employment past probation, but it is signed by an HR manager sharing the applicant's surname (Nadia Marchetti), which needs verification of independence."},
+{"condition_id": "MF-103-C5", "decision": "not_satisfied", "rule_cited": "DTI-01", "rationale": "TDS is about 47.6% (GDS about 35.4%), above the 44% maximum, and the overage is not marginal enough to treat as a DTI-03 exception without escalation."}
+]}

@@ -1,0 +1,35 @@
+{
+ "file_id": "MF-106",
+ "decisions": [
+  {
+   "condition_id": "MF-106-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "2025 NOA ($103,930), paystub (~$105,958 annualized, YTD consistent) and letter ($105,318) all support the stated $104,500."
+  },
+  {
+   "condition_id": "MF-106-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing balance of $77,916 plus $16,400 deposit already paid covers the $82,000 down payment with room for closing costs, history shown since April, and no unusual deposits."
+  },
+  {
+   "condition_id": "MF-106-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-06",
+   "rationale": "Lakeshore Appraisal Group is on the panel, report of June 4, 2026 is recent, and the $822,000 value supports the $820,000 price with no conditions."
+  },
+  {
+   "condition_id": "MF-106-C4",
+   "decision": "satisfied",
+   "rule_cited": "EMP-03",
+   "rationale": "Recent signed letter on letterhead confirms permanent full-time employment since 2018 with base salary consistent with the application (name typo treated as scan noise)."
+  },
+  {
+   "condition_id": "MF-106-C5",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS is about 30.2% and TDS about 36.7% excluding the closed, paid-in-full auto loan per the bureau (about 38% even with 3% card assumption), and credit score of 792 meets DTI-02."
+  }
+ ]
+}

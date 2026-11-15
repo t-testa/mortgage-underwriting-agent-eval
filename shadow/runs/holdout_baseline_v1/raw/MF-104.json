@@ -1,0 +1,5 @@
+{"file_id": "MF-104", "decisions": [
+{"condition_id": "MF-104-C1", "decision": "satisfied", "rule_cited": "DP-02", "rationale": "The chequing account shows about $101,000 with over three months of history, only payroll and small transfers as deposits, covering the $62,000 down payment and closing costs."},
+{"condition_id": "MF-104-C2", "decision": "satisfied", "rule_cited": "APP-02", "rationale": "Meridian Real Estate Appraisers is on the panel, the report (2026-05-07) is about six weeks old, and the $621,000 value supports the $620,000 price with no conditions."},
+{"condition_id": "MF-104-C3", "decision": "not_satisfied", "rule_cited": "DTI-01", "rationale": "TDS is about 47.3% (GDS about 35.5%), above the 44% maximum, driven by the $1,361.40 card payment."}
+]}

@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-108",
+ "decisions": [
+  {
+   "condition_id": "MF-108-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "2025 NOA ($151,017) and paystub (~$148,165 annualized, YTD consistent) are within about 3% of the stated $153,000, which is not a material shortfall."
+  },
+  {
+   "condition_id": "MF-108-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Balance of $108,621 with history since June covers the $72,800 down payment and closing costs even without the $5,880 e-transfer, which is explained by a bill of sale (its date of Sept 21 postdates the Aug 15 deposit)."
+  },
+  {
+   "condition_id": "MF-108-C3",
+   "decision": "not_satisfied",
+   "rule_cited": "APP-06",
+   "rationale": "Evalu-Rapide Plus is not on the approved appraiser panel, so the appraisal is not acceptable despite supporting value."
+  },
+  {
+   "condition_id": "MF-108-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "EMP-07",
+   "rationale": "No employment letter is on file (borrower note says it is pending), and a paystub does not replace the required letter."
+  }
+ ]
+}

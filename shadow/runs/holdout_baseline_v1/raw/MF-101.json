@@ -1,0 +1,7 @@
+{"file_id": "MF-101", "decisions": [
+{"condition_id": "MF-101-C1", "decision": "not_satisfied", "rule_cited": "INC-02", "rationale": "No NOA or T4 is on file for a salaried applicant, and the employment letter base salary of $112,043.67 is about 10% below the stated $124,000 (INC-03)."},
+{"condition_id": "MF-101-C2", "decision": "not_satisfied", "rule_cited": "DP-04", "rationale": "The $14,200 deposit is supported only by a gift letter from a friend, which is not close family, and without it the remaining seasoned funds barely cover the $26,000 down payment plus closing costs."},
+{"condition_id": "MF-101-C3", "decision": "not_satisfied", "rule_cited": "APP-02", "rationale": "The appraiser (Rive-Nord Evaluations) is on the panel and the report is recent, but the $512,000 value is below the $520,000 purchase price."},
+{"condition_id": "MF-101-C4", "decision": "satisfied", "rule_cited": "EMP-03", "rationale": "A recent (2026-09-29) signed letter on company letterhead confirms permanent full-time employment since 2020 with the stated employer."},
+{"condition_id": "MF-101-C5", "decision": "satisfied", "rule_cited": "DTI-01", "rationale": "GDS is about 30.6% and TDS about 37.9% (about 33.9% and 41.9% even on the letter salary), liabilities match the bureau, and credit score 706 meets DTI-02."}
+]}

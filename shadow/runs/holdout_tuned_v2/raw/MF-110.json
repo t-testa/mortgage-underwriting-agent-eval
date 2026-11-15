@@ -1,0 +1,7 @@
+{"file_id": "MF-110", "decisions": [
+{"condition_id": "MF-110-C1", "decision": "satisfied", "rule_cited": "INC-03", "rationale": "Bi-weekly stub (pay date 2026-06-21, 20 days old) gross 6,395.87 x 26 = 166,292.62; NOA 2025 line 15000 = 166,199.04; both exceed stated 165,000, so no shortfall (AR-01)."},
+{"condition_id": "MF-110-C2", "decision": "not_satisfied", "rule_cited": "DP-03", "rationale": "Required funds = 153,800 + 1.5% x 615,000 (9,225) = 163,025; closing balance 176,187.00 and 106-day history are fine, but the 10 June 2026 cash deposit of 30,540.00 has no explanation document and is over 5,000 (AR-06)."},
+{"condition_id": "MF-110-C3", "decision": "satisfied", "rule_cited": "APP-02", "rationale": "Summit Property Valuations is on the panel; report 23 Apr 2026 is 79 days old (90 or fewer); value 636,000 is at or above price 615,000; cosmetic comments ignored."},
+{"condition_id": "MF-110-C4", "decision": "not_satisfied", "rule_cited": "EMP-01", "rationale": "Employment letter dated 26-May-2026 is 46 days before the review date 2026-07-11, over the 30-day limit with no grace (AR-04). Letterhead, signature, permanent full-time status and salary 165,375.33 are otherwise fine."},
+{"condition_id": "MF-110-C5", "decision": "satisfied", "rule_cited": "DTI-01", "rationale": "Housing = 3,498.01 + 301.21 + 168.06 + 50% x 444.53 (222.27) = 4,189.55; GDS = 4,189.55 / 13,750 = 30.47%. Debts: card 3% x 10,770 = 323.10 + car 363.00 = 686.10; TDS = 4,875.65 / 13,750 = 35.46%. Score 720 is at least 600."}
+]}

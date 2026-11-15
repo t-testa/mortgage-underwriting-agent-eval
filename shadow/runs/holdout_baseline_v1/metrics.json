@@ -1,0 +1,73 @@
+{
+  "run": "holdout_baseline_v1",
+  "golden": "data/holdout/golden_set.csv",
+  "files": 20,
+  "conditions": 87,
+  "correct": 60,
+  "accuracy": 0.6896551724137931,
+  "auto_decided": 62,
+  "auto_wrong": 12,
+  "agent_needs_review": 25,
+  "no_answer": 0,
+  "false_approvals": 6,
+  "skipped_escalations": 2,
+  "queue_by_reason": {
+    "policy_ambiguity": 22,
+    "agent_error": 5
+  },
+  "queue_by_severity": {
+    "P1 critical (false approval)": 6,
+    "P2 high (skipped a required escalation)": 2,
+    "P3 medium (decided a policy call)": 3,
+    "P3 medium (false decline, causes rework)": 1,
+    "P4 low (over-escalation, extra human touch)": 15
+  },
+  "by_family": {
+    "income_proof": {
+      "n": 19,
+      "ok": 13,
+      "auto": 10,
+      "auto_wrong": 1,
+      "review": 9
+    },
+    "down_payment_source": {
+      "n": 17,
+      "ok": 10,
+      "auto": 13,
+      "auto_wrong": 5,
+      "review": 4
+    },
+    "appraisal": {
+      "n": 19,
+      "ok": 16,
+      "auto": 17,
+      "auto_wrong": 2,
+      "review": 2
+    },
+    "employment": {
+      "n": 15,
+      "ok": 10,
+      "auto": 11,
+      "auto_wrong": 3,
+      "review": 4
+    },
+    "debt_ratio": {
+      "n": 17,
+      "ok": 11,
+      "auto": 11,
+      "auto_wrong": 1,
+      "review": 6
+    }
+  },
+  "confusion": {
+    "not_satisfied|not_satisfied": 9,
+    "needs_review|not_satisfied": 3,
+    "satisfied|not_satisfied": 1,
+    "needs_review|satisfied": 2,
+    "satisfied|satisfied": 41,
+    "satisfied|needs_review": 8,
+    "not_satisfied|needs_review": 7,
+    "needs_review|needs_review": 10,
+    "not_satisfied|satisfied": 6
+  }
+}

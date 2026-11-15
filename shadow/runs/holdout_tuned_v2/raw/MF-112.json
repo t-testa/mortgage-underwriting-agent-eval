@@ -1,0 +1,6 @@
+{"file_id": "MF-112", "decisions": [
+{"condition_id": "MF-112-C1", "decision": "needs_review", "rule_cited": "INC-03", "rationale": "NOA 2025 line 15000 = 98,650.80 vs stated 106,000: shortfall 6.93% (over 5% up to 15%, AR-01). Bi-weekly stub (26 May, 22 days old) gross 3,946.94 x 26 = 102,620.44 is a 3.19% shortfall, but the NOA shortfall falls in the escalation band, so needs_review by precedence (AR-15)."},
+{"condition_id": "MF-112-C2", "decision": "satisfied", "rule_cited": "DP-02", "rationale": "Required funds = 106,200 + 1.5% x 425,000 (6,375) = 112,575; closing balance 141,376.08 covers it; history 26 Feb-8 Jun 2026 is 102 days (at least 90); non-payroll deposits are small e-transfers (370.68, 624.45), under 2,500."},
+{"condition_id": "MF-112-C3", "decision": "not_satisfied", "rule_cited": "APP-01", "rationale": "Rive-Nord Evaluations is on the panel and value 426,000 covers price 425,000, but the report dated 20/02/2026 is 117 days before the review date 2026-06-17, over the 90-day limit with no grace (AR-04)."},
+{"condition_id": "MF-112-C4", "decision": "satisfied", "rule_cited": "DTI-01", "rationale": "Housing = 2,087.12 + 472.18 + 176.80 + 50% x 451.95 (225.98) = 2,962.08; GDS = 2,962.08 / 8,833.33 = 33.53%. Debts: card 3% x 2,930 = 87.90 + student 138 + car 148 = 373.90; TDS = 3,335.98 / 8,833.33 = 37.77%. Score 765 is at least 600."}
+]}

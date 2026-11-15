@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-112",
+ "decisions": [
+  {
+   "condition_id": "MF-112-C1",
+   "decision": "needs_review",
+   "rule_cited": "INC-03",
+   "rationale": "2025 NOA total income $98,651 and pay stub ~$102,620 annualized are below the stated $106,000 (about 3-7% shortfall), so materiality needs escalation."
+  },
+  {
+   "condition_id": "MF-112-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing balance of $141,376 with over 3 months of history and no large or unusual deposits covers the $106,200 down payment plus closing costs."
+  },
+  {
+   "condition_id": "MF-112-C3",
+   "decision": "needs_review",
+   "rule_cited": "APP-01",
+   "rationale": "Appraisal from approved panel firm Rive-Nord Evaluations supports value ($426,000 vs $425,000), but it is dated 2026-02-20, about 4 months before review, and policy does not define recent."
+  },
+  {
+   "condition_id": "MF-112-C4",
+   "decision": "satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "GDS is about 33.5-36.1% and TDS about 37.4-40.0% (50% vs 100% condo fees), within limits, with credit score 765 (DTI-02)."
+  }
+ ]
+}

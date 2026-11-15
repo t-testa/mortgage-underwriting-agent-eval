@@ -43,8 +43,10 @@ def main():
     ap.add_argument("--run", required=True)
     ap.add_argument("--raw-dir", required=True)
     ap.add_argument("--ar-in-policy", choices=["yes", "no"], required=True)
+    ap.add_argument("--golden", default="golden/golden_set.csv",
+                    help="golden set to score against (holdout: data/holdout/golden_set.csv)")
     a = ap.parse_args()
-    gold = list(csv.DictReader(open(ROOT / "golden" / "golden_set.csv", encoding="utf-8")))
+    gold = list(csv.DictReader(open(ROOT / a.golden, encoding="utf-8")))
     agent = {}
     for p in sorted(Path(a.raw_dir).glob("MF-*.json")):
         obj = json.loads(p.read_text(encoding="utf-8"))
@@ -96,7 +98,7 @@ def main():
         fam[r["family"]]["review"] += r["agent"] == "needs_review"
     conf = Counter((r["golden"], r["agent"]) for r in rows)
     metrics = dict(
-        run=a.run, conditions=n, correct=sum(r["match"] == "Y" for r in rows),
+        run=a.run, golden=a.golden, files=len({r["condition_id"].rsplit("-C", 1)[0] for r in rows}), conditions=n, correct=sum(r["match"] == "Y" for r in rows),
         accuracy=sum(r["match"] == "Y" for r in rows) / n,
         auto_decided=sum(r["agent"] in ("satisfied", "not_satisfied") for r in rows),
         auto_wrong=sum(r["agent"] in ("satisfied", "not_satisfied") and r["match"] == "N" for r in rows),

@@ -1,0 +1,7 @@
+{"file_id":"MF-114","decisions":[
+{"condition_id":"MF-114-C1","decision":"needs_review","rule_cited":"INC-03","rationale":"The 2025 NOA shows $91,685 and the paystub annualizes to about $91,000 versus the stated $126,500, a material shortfall, even though the employer letter states $126,093."},
+{"condition_id":"MF-114-C2","decision":"needs_review","rule_cited":"DP-04","rationale":"The $48,800 gift is from a cousin, which is not clearly close family, and the letter is dated 26/07/2026 while the funds arrived June 22, 2026."},
+{"condition_id":"MF-114-C3","decision":"satisfied","rule_cited":"APP-02","rationale":"Valeur Reference Inc. is on the approved panel, the June 2026 report values the property at $511,000 against a $510,000 price, and no conditions are noted."},
+{"condition_id":"MF-114-C4","decision":"needs_review","rule_cited":"EMP-05","rationale":"Employment is a fixed-term contract with only about four months of history since April 2026, which does not clearly show the stable history required, and the NOA income predates this employer."},
+{"condition_id":"MF-114-C5","decision":"needs_review","rule_cited":"DTI-01","rationale":"Ratios are within limits on stated income (GDS about 36.7%, TDS about 41%) with a 775 score, but documented income is only about $91,000, which would put the ratios well above the limits."}
+]}

@@ -1,0 +1,7 @@
+{"file_id": "MF-101", "decisions": [
+{"condition_id": "MF-101-C1", "decision": "not_satisfied", "rule_cited": "INC-02", "rationale": "Paystub (pay date 2026-10-06, 5 days old) semi-monthly 5,223.07 x 24 = 125,353.68 supports stated 124,000, but no NOA or T4 for the most recent tax year is on file; a required document is missing."},
+{"condition_id": "MF-101-C2", "decision": "needs_review", "rule_cited": "AR-07", "rationale": "History 22-Jun to 02-Oct = 102 days (>=90); required funds 26,000 + 7,800 = 33,800 vs closing balance 45,119.38 (ok). The 14,200 deposit is explained by a signed non-repayable gift letter, but the donor Daniel Pelletier is a friend, not immediate family, so escalate."},
+{"condition_id": "MF-101-C3", "decision": "satisfied", "rule_cited": "AR-08", "rationale": "Report 2026-09-03 is 38 days old (<=90); Rive-Nord Evaluations is on panel; shortfall (520,000-512,000)/520,000 = 1.54% (<=2%); only cosmetic comments."},
+{"condition_id": "MF-101-C4", "decision": "needs_review", "rule_cited": "AR-12", "rationale": "Letter dated 2026-09-29 (12 days old), on letterhead, signed, permanent full-time, but salary 112,043.67 is 9.64% below stated 124,000 ((124,000-112,043.67)/124,000), more than 5%."},
+{"condition_id": "MF-101-C5", "decision": "satisfied", "rule_cited": "AR-13", "rationale": "Housing 2,321.42+310.62+135.12+50% of 397.13 (198.57) = 2,965.73; GDS = 2,965.73/10,333.33 = 28.70%. Other debts: student 256 + auto 319 + HELOC 3% x 17,700 = 531 = 1,106; TDS = 4,071.73/10,333.33 = 39.40%. Both within 39%/44%; score 706 >= 600."}
+]}

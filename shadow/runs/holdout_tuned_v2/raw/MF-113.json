@@ -1,0 +1,6 @@
+{"file_id":"MF-113","decisions":[
+{"condition_id":"MF-113-C1","decision":"needs_review","rule_cited":"INC-03/AR-01","rationale":"Paystub (pay date 2026-07-16, 4 days old) bi-weekly 4,842.95 x 26 = 125,916.70; shortfall vs stated 137,500 = 11,583.30/137,500 = 8.4%, between 5% and 15%. NOA 2025 line 15000 124,124.14 gives 9.7%, same band."},
+{"condition_id":"MF-113-C2","decision":"not_satisfied","rule_cited":"APP-01/AR-04","rationale":"Appraisal dated 2026-04-11 is 100 days before review date 2026-07-20, over the 90-day limit (no grace). Panel appraiser and value 568,000 >= price 565,000 are fine."},
+{"condition_id":"MF-113-C3","decision":"satisfied","rule_cited":"EMP-03","rationale":"Letter dated 2026-07-08 is 12 days old, on letterhead, signed by HR Manager, permanent full-time since 2016; salary 140,211.39 is above stated 137,500."},
+{"condition_id":"MF-113-C4","decision":"satisfied","rule_cited":"DTI-01/AR-13","rationale":"Using worksheet gross monthly income 11,458.33: housing 3,492.59+557.99+133.42 = 4,184.00, GDS 36.5%. Other debts: student loan 379 + LOC 3% x 11,100 = 333 = 712; TDS = 4,896.00/11,458.33 = 42.7%. Both within 39%/44%; credit score 700 >= 600."}
+]}

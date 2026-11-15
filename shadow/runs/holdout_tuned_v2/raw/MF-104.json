@@ -1,0 +1,5 @@
+{"file_id": "MF-104", "decisions": [
+{"condition_id": "MF-104-C1", "decision": "satisfied", "rule_cited": "AR-05", "rationale": "History 18-Feb to 7-Jun-2026 = 109 days (>=90); required funds 62,000 + 1.5% x 620,000 (9,300) = 71,300 vs closing balance 101,134.51; no non-payroll deposit over 2,500."},
+{"condition_id": "MF-104-C2", "decision": "satisfied", "rule_cited": "AR-08", "rationale": "Report 2026/05/07 is 41 days old (<=90); Meridian Real Estate Appraisers is on panel; value 621,000 >= price 620,000; cosmetic comments only."},
+{"condition_id": "MF-104-C3", "decision": "not_satisfied", "rule_cited": "AR-14", "rationale": "Housing 3,415.61+526.55+171.18 = 4,113.34; GDS = 4,113.34/11,583.33 = 35.51% (ok). Credit card at 3% x 68,070 = 2,042.10 (not the stated 1,361.40 payment); TDS = 6,155.44/11,583.33 = 53.14%, 9.14 points over 44%, beyond the 2-point margin despite score 761."}
+]}

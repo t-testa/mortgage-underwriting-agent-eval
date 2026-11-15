@@ -10,10 +10,11 @@ Status as of the final commit of this repo.
 |---|---|---|---|---|---|---|
 | R1 | Policy wording is vague, so humans and agent apply different thresholds | High | High | Calibration exercise, arbitration rules, policy v1.1 | Delivery manager | Same, plus policy owner sign-off |
 | R2 | Agent approves a condition that should fail (false approval) | Medium | High | Report false approvals separately; keep human review on any non-trivial family until the rate is near zero | Delivery manager + UW Expert | Hard gate before leaving shadow mode |
-| R3 | Tuning on the same 50 files overstates real-world accuracy (overfitting) | High | Medium | Disclosed in README; golden set never changed; next step is a fresh holdout set | Delivery manager | Reserve a holdout slice before labeling starts |
+| R3 | Tuning on the same 50 files overstates real-world accuracy (overfitting) | Reduced | Medium | Holdout of 20 unseen files run once on frozen configs: 98.9% vs 99.5% on tuning files, so little overfitting. Remaining caveat: same generator, small set | Delivery manager | Reserve a holdout slice before labeling starts |
 | R4 | Golden set encodes one reading of the policy, not the lender's real appetite | Medium | High | UW Expert signs off the 7 threshold rules (AR-01, 02, 06, 07, 08, 11, 14) | UW Expert | Named expert approval with dates |
 | R5 | Real documents are messier than synthetic ones | High | Medium | Start production labeling on real files early; track new document patterns in the playbook | Delivery manager | Live client data dependency (D1) |
 | R6 | Value numbers rest on assumptions, not measurements | High | Medium | Labelled illustrative; sensitivity via one JSON file | Delivery manager | Replace with signed baseline from process blueprint |
+| R8 | A rule gap that no one noticed: policy v1.1 does not say which document defines "documented income" for salaried applicants (paystub or NOA). Found by the holdout (MF-112-C1) and again on the tuning set (MF-003-C1). The same agent behaviour caused both misses | Medium | Medium (extra escalations; on real data it could also let a mismatch through) | Draft AR-17 (paystub defines documented income, NOA only needs to be present), have the UW Expert confirm, ship as config v3, test on a fresh holdout. Not applied now because the config is frozen | Delivery manager + UW Expert | Add to the arbitration backlog and close within SLA |
 | R7 | Cost of assumed minutes drives the business case more than agent accuracy does | Medium | Medium | Show touches and accuracy separately from hours | Delivery manager | Same |
 
 ## Assumptions
@@ -33,6 +34,7 @@ Status as of the final commit of this repo.
 |---|---|---|---|
 | I1 | Baseline policy text left 55 of 65 divergences as policy ambiguity rather than model error | Closed | Arbitration rules written and added to the agent config (see `config_log/CONFIG_LOG.md`) |
 | I2 | Reason tags are assigned by script from golden metadata, which is coarse (an ambiguity-tagged condition may still contain a real agent mistake) | Open | A human reviewer would confirm tags in production; noted in limitations |
+| I4 | Holdout (20 files, 87 conditions) is small; one condition moves accuracy 1.1 points | Open | Report as a range of plausible values on real data, not a point estimate; grow the holdout when real files arrive |
 | I3 | Single tuning round bundles several changes, so the effect of each cannot be separated | Open | Documented; the playbook recommends one change per round on real work |
 
 ## Dependencies

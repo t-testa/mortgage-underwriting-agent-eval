@@ -1,0 +1,5 @@
+{"file_id":"MF-116","decisions":[
+{"condition_id":"MF-116-C1","decision":"satisfied","rule_cited":"INC-03/AR-01","rationale":"Paystub (pay date 2026-08-04, 3 days old) semi-monthly 3,797.70 x 24 = 91,144.80 exceeds stated 89,500; NOA 2025 line 15000 90,141.09 also exceeds stated. No shortfall."},
+{"condition_id":"MF-116-C2","decision":"satisfied","rule_cited":"APP-01/APP-02/APP-06","rationale":"Report 2026-05-20 is 79 days before 2026-08-07 (<= 90); Rive-Nord Evaluations is on panel; value 653,000 >= price 650,000; cosmetic comments only."},
+{"condition_id":"MF-116-C3","decision":"satisfied","rule_cited":"EMP-05/AR-11","rationale":"Letter 2026-07-24 is 14 days old, signed, on letterhead. Continuous contract since 2023-12-07 is about 31 months (>= 24). Salary 90,338.70 is above stated 89,500."}
+]}

@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-107",
+ "decisions": [
+  {
+   "condition_id": "MF-107-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "2025 NOA ($93,678) and paystub (~$95,939 annualized, YTD consistent) support the stated $92,500."
+  },
+  {
+   "condition_id": "MF-107-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-02",
+   "rationale": "Chequing balance of $37,380 plus $13,100 deposit paid covers the $32,800 down payment and closing costs, with 3.5 months of history and no unusual deposits."
+  },
+  {
+   "condition_id": "MF-107-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-06",
+   "rationale": "Lakeshore Appraisal Group is on the panel, report dated 2026/05/21 is recent, and the $658,000 value supports the $655,000 price."
+  },
+  {
+   "condition_id": "MF-107-C4",
+   "decision": "not_satisfied",
+   "rule_cited": "DTI-01",
+   "rationale": "TDS is about 49.2% (46.6% even with only 50% of condo fees) against the 44% maximum, which is not marginal so DTI-03 does not apply despite credit score 777; GDS is about 38.8%."
+  }
+ ]
+}

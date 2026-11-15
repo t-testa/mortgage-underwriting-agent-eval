@@ -1,0 +1,29 @@
+{
+ "file_id": "MF-117",
+ "decisions": [
+  {
+   "condition_id": "MF-117-C1",
+   "decision": "satisfied",
+   "rule_cited": "INC-03",
+   "rationale": "2025 NOA shows $154,800 total income and the current pay stub annualizes to about $153,000, both supporting the stated $148,500."
+  },
+  {
+   "condition_id": "MF-117-C2",
+   "decision": "satisfied",
+   "rule_cited": "DP-04",
+   "rationale": "Chequing balance of $234,869 with a 3-month history covers the $196,200 down payment plus closing costs, and the $60,000 deposit is explained by a signed gift letter from a sibling stating no repayment."
+  },
+  {
+   "condition_id": "MF-117-C3",
+   "decision": "satisfied",
+   "rule_cited": "APP-02",
+   "rationale": "Ironbridge Valuation Ltd. (on the approved panel) appraised at $793,000 on 2026-08-19, supporting the $785,000 price, with no adverse conditions."
+  },
+  {
+   "condition_id": "MF-117-C4",
+   "decision": "needs_review",
+   "rule_cited": "DTI-03",
+   "rationale": "GDS is about 37.5% but TDS is about 46.1% (above the 44% limit) with a 694 credit score, so a possible marginal-exception case must be escalated."
+  }
+ ]
+}
